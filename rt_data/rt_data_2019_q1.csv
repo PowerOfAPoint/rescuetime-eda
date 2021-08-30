@@ -1,0 +1,1797 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2019-01-04T11:00:00,181,1,google.com,Search,1
+2019-01-04T11:00:00,164,1,loginwindow,Computer,1
+2019-01-04T11:00:00,124,1,Mail,Email,1
+2019-01-04T11:00:00,110,1,ifttt.com,Internet Utilities,1
+2019-01-04T11:00:00,38,1,about:newtab,Browsers,0
+2019-01-04T11:00:00,31,1,quora.com,General News & Opinion,-2
+2019-01-04T11:00:00,14,1,postmates.com,General Shopping,-2
+2019-01-04T11:00:00,13,1,memory cleaner,General Utilities,1
+2019-01-04T11:00:00,13,1,drive.google.com,General Business,2
+2019-01-04T11:00:00,9,1,microsoft word,Writing,2
+2019-01-04T11:00:00,9,1,costco.com,General Shopping,-2
+2019-01-04T11:00:00,8,1,Blank Web Browser,Internet Utilities,1
+2019-01-04T11:00:00,7,1,Finder,Computer,1
+2019-01-04T11:00:00,5,1,acrobat pro dc,General Utilities,1
+2019-01-04T11:00:00,2,1,account.meethue.com,Uncategorized,0
+2019-01-04T11:00:00,2,1,creative cloud,General Design & Composition,2
+2019-01-04T11:00:00,2,1,auth.meethue.com,Uncategorized,0
+2019-01-04T11:00:00,2,1,usernotificationcenter,General Utilities,1
+2019-01-05T18:00:00,995,1,Google Spreadsheets,General Business,2
+2019-01-05T18:00:00,324,1,support.google.com,General News & Opinion,2
+2019-01-05T18:00:00,222,1,about:newtab,Browsers,0
+2019-01-05T18:00:00,198,1,deviantart.com,General Entertainment,-2
+2019-01-05T18:00:00,160,1,messages,Instant Message,-1
+2019-01-05T18:00:00,91,1,benlcollins.com,Uncategorized,0
+2019-01-05T18:00:00,40,1,google.com,Search,1
+2019-01-05T18:00:00,15,1,developers.google.com,General Software Development,2
+2019-01-05T18:00:00,5,1,Blank Web Browser,Internet Utilities,1
+2019-01-05T18:00:00,4,1,costco.com,General Shopping,-2
+2019-01-05T19:00:00,517,1,Google Spreadsheets,General Business,2
+2019-01-05T19:00:00,248,1,deviantart.com,General Entertainment,-2
+2019-01-05T19:00:00,166,1,developers.google.com,General Software Development,2
+2019-01-05T19:00:00,148,1,messages,Instant Message,-1
+2019-01-05T19:00:00,128,1,ifttt.com,Internet Utilities,1
+2019-01-05T19:00:00,56,1,drive.google.com,General Business,2
+2019-01-05T19:00:00,40,1,Notes,Writing,2
+2019-01-05T19:00:00,33,1,google.com,Search,1
+2019-01-05T19:00:00,21,1,about:newtab,Browsers,0
+2019-01-05T19:00:00,19,1,Blank Web Browser,Internet Utilities,1
+2019-01-05T19:00:00,19,1,loginwindow,Computer,1
+2019-01-05T19:00:00,9,1,support.google.com,General News & Opinion,2
+2019-01-05T19:00:00,6,1,webapps.stackexchange.com,Engineering & Technology,2
+2019-01-05T19:00:00,5,1,script.google.com,Editing & IDEs,2
+2019-01-06T15:00:00,346,1,developers.google.com,General Software Development,2
+2019-01-06T15:00:00,110,1,Google Spreadsheets,General Business,2
+2019-01-06T15:00:00,25,1,script.google.com,Editing & IDEs,2
+2019-01-06T15:00:00,7,1,Blank Web Browser,Internet Utilities,1
+2019-01-06T15:00:00,6,1,google.com,Search,1
+2019-01-06T15:00:00,5,1,about:newtab,Browsers,0
+2019-01-06T15:00:00,3,1,support.google.com,General News & Opinion,2
+2019-01-06T15:00:00,3,1,drive.google.com,General Business,2
+2019-01-06T15:00:00,2,1,auth.berkeley.edu,General Reference & Learning,2
+2019-01-07T13:00:00,1075,1,developers.google.com,General Software Development,2
+2019-01-07T13:00:00,691,1,Google Forms,General Business,2
+2019-01-07T13:00:00,650,1,script.google.com,Editing & IDEs,2
+2019-01-07T13:00:00,436,1,Google Spreadsheets,General Business,2
+2019-01-07T13:00:00,141,1,Blank Web Browser,Internet Utilities,1
+2019-01-07T13:00:00,100,1,google.com,Search,1
+2019-01-07T13:00:00,87,1,stackoverflow.com,General Software Development,2
+2019-01-07T13:00:00,79,1,productforums.google.com,General Software Development,2
+2019-01-07T13:00:00,56,1,about:newtab,Browsers,0
+2019-01-07T13:00:00,38,1,accounts.google.com,General Communication & Scheduling,2
+2019-01-07T13:00:00,35,1,drive.google.com,General Business,2
+2019-01-07T13:00:00,21,1,issuetracker.google.com,Search,1
+2019-01-07T13:00:00,2,1,support.google.com,General News & Opinion,2
+2019-01-07T13:00:00,1,1,loginwindow,Computer,1
+2019-01-07T14:00:00,1754,1,script.google.com,Editing & IDEs,2
+2019-01-07T14:00:00,791,1,developers.google.com,General Software Development,2
+2019-01-07T14:00:00,254,1,accounts.google.com,General Communication & Scheduling,2
+2019-01-07T14:00:00,144,1,w3schools.com,Engineering & Technology,2
+2019-01-07T14:00:00,127,1,Mail,Email,1
+2019-01-07T14:00:00,124,1,Google Spreadsheets,General Business,2
+2019-01-07T14:00:00,97,1,Blank Web Browser,Internet Utilities,1
+2019-01-07T14:00:00,93,1,Google Forms,General Business,2
+2019-01-07T14:00:00,87,1,google.com,Search,1
+2019-01-07T14:00:00,67,1,googleappscripting.com,Uncategorized,0
+2019-01-07T14:00:00,18,1,drive.google.com,General Business,2
+2019-01-07T14:00:00,15,1,about:newtab,Browsers,0
+2019-01-07T14:00:00,11,1,productforums.google.com,General Software Development,2
+2019-01-07T14:00:00,10,1,2ality.com,Engineering & Technology,2
+2019-01-07T14:00:00,4,1,stackoverflow.com,General Software Development,2
+2019-01-07T14:00:00,3,1,messages,Instant Message,-1
+2019-01-07T15:00:00,919,1,script.google.com,Editing & IDEs,2
+2019-01-07T15:00:00,529,1,developers.google.com,General Software Development,2
+2019-01-07T15:00:00,288,1,Google Spreadsheets,General Business,2
+2019-01-07T15:00:00,141,1,google.com,Search,1
+2019-01-07T15:00:00,112,1,deviantart.com,General Entertainment,-2
+2019-01-07T15:00:00,52,1,about:newtab,Browsers,0
+2019-01-07T15:00:00,32,1,stackoverflow.com,General Software Development,2
+2019-01-07T15:00:00,26,1,Google Forms,General Business,2
+2019-01-07T15:00:00,25,1,w3schools.com,Engineering & Technology,2
+2019-01-07T15:00:00,16,1,davidcaylor.com,Uncategorized,0
+2019-01-07T15:00:00,10,1,productforums.google.com,General Software Development,2
+2019-01-07T15:00:00,8,1,googlescriptreference.com,Uncategorized,0
+2019-01-07T15:00:00,3,1,Blank Web Browser,Internet Utilities,1
+2019-01-07T17:00:00,67,1,w3schools.com,Engineering & Technology,2
+2019-01-07T17:00:00,5,1,cdn2.freedom.to,Internet Utilities,1
+2019-01-07T17:00:00,3,1,RescueTime,Intelligence,2
+2019-01-07T18:00:00,2055,1,script.google.com,Editing & IDEs,2
+2019-01-07T18:00:00,311,1,Google Forms,General Business,2
+2019-01-07T18:00:00,227,1,Google Spreadsheets,General Business,2
+2019-01-07T18:00:00,181,1,google.com,Search,1
+2019-01-07T18:00:00,168,1,developers.google.com,General Software Development,2
+2019-01-07T18:00:00,112,1,stackoverflow.com,General Software Development,2
+2019-01-07T18:00:00,111,1,w3schools.com,Engineering & Technology,2
+2019-01-07T18:00:00,93,1,support.google.com,General News & Opinion,2
+2019-01-07T18:00:00,48,1,loginwindow,Computer,1
+2019-01-07T18:00:00,31,1,spotify,Music,-1
+2019-01-07T18:00:00,18,1,about:newtab,Browsers,0
+2019-01-07T18:00:00,16,1,webapps.stackexchange.com,Engineering & Technology,2
+2019-01-07T18:00:00,11,1,Blank Web Browser,Internet Utilities,1
+2019-01-07T23:00:00,1107,1,script.google.com,Editing & IDEs,2
+2019-01-07T23:00:00,315,1,Google Spreadsheets,General Business,2
+2019-01-07T23:00:00,287,1,dragonflycave.com,Games,-2
+2019-01-07T23:00:00,283,1,w3schools.com,Engineering & Technology,2
+2019-01-07T23:00:00,223,1,google.com,Search,1
+2019-01-07T23:00:00,159,1,pokemongo.gamepress.gg,Games,-2
+2019-01-07T23:00:00,130,1,developers.google.com,General Software Development,2
+2019-01-07T23:00:00,52,1,tvtropes.org,General News & Opinion,-2
+2019-01-07T23:00:00,35,1,console.cloud.google.com,Systems Operations,2
+2019-01-07T23:00:00,34,1,Google Forms,General Business,2
+2019-01-07T23:00:00,32,1,support.google.com,General News & Opinion,2
+2019-01-07T23:00:00,30,1,thesilphroad.com,Games,-2
+2019-01-07T23:00:00,28,1,eclipse,Editing & IDEs,2
+2019-01-07T23:00:00,20,1,loginwindow,Computer,1
+2019-01-07T23:00:00,16,1,timeanddate.com,Intelligence,2
+2019-01-07T23:00:00,15,1,RescueTime,Intelligence,2
+2019-01-07T23:00:00,13,1,about:newtab,Browsers,0
+2019-01-07T23:00:00,11,1,cdn2.freedom.to,Internet Utilities,1
+2019-01-07T23:00:00,3,1,Blank Web Browser,Internet Utilities,1
+2019-01-07T23:00:00,2,1,stackoverflow.com,General Software Development,2
+2019-01-08T12:00:00,499,1,script.google.com,Editing & IDEs,2
+2019-01-08T12:00:00,149,1,dragonflycave.com,Games,-2
+2019-01-08T12:00:00,103,1,Google Spreadsheets,General Business,2
+2019-01-08T12:00:00,84,1,lycanroc.net,Uncategorized,0
+2019-01-08T12:00:00,69,1,w3schools.com,Engineering & Technology,2
+2019-01-08T12:00:00,58,1,alteredorigin.net,Uncategorized,0
+2019-01-08T12:00:00,54,1,developers.google.com,General Software Development,2
+2019-01-08T12:00:00,49,1,google.com,Search,1
+2019-01-08T12:00:00,17,1,Google Forms,General Business,2
+2019-01-08T12:00:00,9,1,about:newtab,Browsers,0
+2019-01-08T12:00:00,9,1,timeanddate.com,Intelligence,2
+2019-01-08T12:00:00,2,1,mycaliforniapermit.com,General Reference & Learning,2
+2019-01-08T12:00:00,1,1,Blank Web Browser,Internet Utilities,1
+2019-01-08T13:00:00,2046,1,script.google.com,Editing & IDEs,2
+2019-01-08T13:00:00,844,1,developers.google.com,General Software Development,2
+2019-01-08T13:00:00,162,1,Google Spreadsheets,General Business,2
+2019-01-08T13:00:00,148,1,getpocket.com,General News & Opinion,1
+2019-01-08T13:00:00,74,1,Google Forms,General Business,2
+2019-01-08T13:00:00,68,1,markmanson.net,General News & Opinion,-2
+2019-01-08T13:00:00,57,1,google.com,Search,1
+2019-01-08T13:00:00,48,1,loginwindow,Computer,1
+2019-01-08T13:00:00,21,1,about:newtab,Browsers,0
+2019-01-08T13:00:00,4,1,w3schools.com,Engineering & Technology,2
+2019-01-08T13:00:00,1,1,stackoverflow.com,General Software Development,2
+2019-01-08T13:00:00,1,1,Blank Web Browser,Internet Utilities,1
+2019-01-08T13:00:00,1,1,timeanddate.com,Intelligence,2
+2019-01-08T14:00:00,809,1,spotify,Music,-1
+2019-01-08T14:00:00,127,1,script.google.com,Editing & IDEs,2
+2019-01-08T14:00:00,120,1,deviantart.com,General Entertainment,-2
+2019-01-08T14:00:00,20,1,loginwindow,Computer,1
+2019-01-08T14:00:00,7,1,RescueTime,Intelligence,2
+2019-01-08T14:00:00,6,1,Blank Web Browser,Internet Utilities,1
+2019-01-08T14:00:00,1,1,about:newtab,Browsers,0
+2019-01-08T22:00:00,687,1,spotify,Music,-1
+2019-01-08T22:00:00,1,1,script.google.com,Editing & IDEs,2
+2019-01-08T23:00:00,1122,1,microsoft word,Writing,2
+2019-01-08T23:00:00,1033,1,cites.org,Legal & Gov't,2
+2019-01-08T23:00:00,321,1,google.com,Search,1
+2019-01-08T23:00:00,283,1,Mail,Email,1
+2019-01-08T23:00:00,229,1,script.google.com,Editing & IDEs,2
+2019-01-08T23:00:00,224,1,Blank Web Browser,Internet Utilities,1
+2019-01-08T23:00:00,96,1,developers.google.com,General Software Development,2
+2019-01-08T23:00:00,61,1,MS Excel,General Business,2
+2019-01-08T23:00:00,51,1,eclipse,Editing & IDEs,2
+2019-01-08T23:00:00,46,1,messages,Instant Message,-1
+2019-01-08T23:00:00,39,1,about:newtab,Browsers,0
+2019-01-08T23:00:00,21,1,jmperezperez.com,Internet Utilities,1
+2019-01-08T23:00:00,20,1,Google Spreadsheets,General Business,2
+2019-01-08T23:00:00,15,1,Notes,Writing,2
+2019-01-08T23:00:00,6,1,spotify,Music,-1
+2019-01-08T23:00:00,3,1,Google Forms,General Business,2
+2019-01-08T23:00:00,2,1,mobiledeviceupdater,General Utilities,1
+2019-01-08T23:00:00,2,1,cdn2.freedom.to,Internet Utilities,1
+2019-01-08T23:00:00,2,1,tomato-timer.com,General Communication & Scheduling,2
+2019-01-08T23:00:00,2,1,outsideonline.com,Sports,-2
+2019-01-09T00:00:00,3170,1,en.wikipedia.org,General Reference & Learning,2
+2019-01-09T00:00:00,121,1,tryinteract.com,General Business,2
+2019-01-09T00:00:00,107,1,microsoft word,Writing,2
+2019-01-09T00:00:00,72,1,google.com,Search,1
+2019-01-09T00:00:00,52,1,uhs.berkeley.edu,General Reference & Learning,2
+2019-01-09T00:00:00,51,1,about:newtab,Browsers,0
+2019-01-09T00:00:00,8,1,acrobat pro dc,General Utilities,1
+2019-01-09T00:00:00,6,1,developers.google.com,General Software Development,2
+2019-01-09T00:00:00,3,1,script.google.com,Editing & IDEs,2
+2019-01-09T00:00:00,2,1,sa.berkeley.edu,General Reference & Learning,2
+2019-01-09T00:00:00,2,1,self-publishingschool.com,General Reference & Learning,2
+2019-01-09T00:00:00,1,1,Blank Web Browser,Internet Utilities,1
+2019-01-09T01:00:00,910,1,en.wikipedia.org,General Reference & Learning,2
+2019-01-09T01:00:00,226,1,nymag.com,General News & Opinion,-2
+2019-01-09T01:00:00,45,1,microsoft word,Writing,2
+2019-01-09T01:00:00,20,1,loginwindow,Computer,1
+2019-01-09T01:00:00,12,1,cdn2.freedom.to,Internet Utilities,1
+2019-01-09T01:00:00,11,1,about:newtab,Browsers,0
+2019-01-09T01:00:00,2,1,Blank Web Browser,Internet Utilities,1
+2019-01-09T11:00:00,257,1,decal.berkeley.edu,General Reference & Learning,2
+2019-01-09T11:00:00,193,1,classes.berkeley.edu,General Reference & Learning,2
+2019-01-09T11:00:00,149,1,bcsweb.is.berkeley.edu,General Reference & Learning,2
+2019-01-09T11:00:00,123,1,google.com,Search,1
+2019-01-09T11:00:00,117,1,berkeleytime.com,General Reference & Learning,2
+2019-01-09T11:00:00,43,1,about:newtab,Browsers,0
+2019-01-09T11:00:00,37,1,calcentral.berkeley.edu,General Reference & Learning,2
+2019-01-09T11:00:00,11,1,developers.google.com,General Software Development,2
+2019-01-09T11:00:00,7,1,script.google.com,Editing & IDEs,2
+2019-01-09T11:00:00,7,1,accounts.google.com,General Communication & Scheduling,2
+2019-01-09T11:00:00,6,1,cs61a.org,General Reference & Learning,2
+2019-01-09T11:00:00,3,1,Blank Web Browser,Internet Utilities,1
+2019-01-09T11:00:00,2,1,en.wikipedia.org,General Reference & Learning,2
+2019-01-09T11:00:00,2,1,Google Spreadsheets,General Business,2
+2019-01-09T11:00:00,1,1,auth.berkeley.edu,General Reference & Learning,2
+2019-01-09T11:00:00,1,1,shib.berkeley.edu,General Reference & Learning,2
+2019-01-09T11:00:00,1,1,microsoft word,Writing,2
+2019-01-09T12:00:00,220,1,acrobat pro dc,General Utilities,1
+2019-01-09T12:00:00,127,1,decal.berkeley.edu,General Reference & Learning,2
+2019-01-09T12:00:00,69,1,imt-decal.org,Uncategorized,0
+2019-01-09T12:00:00,17,1,Google Forms,General Business,2
+2019-01-09T12:00:00,7,1,innovativedesign.club,Uncategorized,0
+2019-01-09T12:00:00,2,1,Blank Web Browser,Internet Utilities,1
+2019-01-09T12:00:00,1,1,microsoft word,Writing,2
+2019-01-09T12:00:00,1,1,bcsweb.is.berkeley.edu,General Reference & Learning,2
+2019-01-11T11:00:00,20,1,decal.berkeley.edu,General Reference & Learning,2
+2019-01-12T18:00:00,361,1,decal.berkeley.edu,General Reference & Learning,2
+2019-01-12T18:00:00,66,1,acrobat pro dc,General Utilities,1
+2019-01-12T18:00:00,56,1,en.wikipedia.org,General Reference & Learning,2
+2019-01-12T18:00:00,27,1,microsoft word,Writing,2
+2019-01-12T18:00:00,5,1,imt-decal.org,Uncategorized,0
+2019-01-12T18:00:00,3,1,about:newtab,Browsers,0
+2019-01-12T18:00:00,1,1,classes.berkeley.edu,General Reference & Learning,2
+2019-01-12T18:00:00,1,1,berkeleytime.com,General Reference & Learning,2
+2019-01-12T18:00:00,1,1,bcsweb.is.berkeley.edu,General Reference & Learning,2
+2019-01-12T19:00:00,333,1,Google Forms,General Business,2
+2019-01-12T19:00:00,201,1,decal.berkeley.edu,General Reference & Learning,2
+2019-01-12T19:00:00,81,1,loginwindow,Computer,1
+2019-01-12T19:00:00,33,1,invest.berkeley.edu,General Reference & Learning,2
+2019-01-12T19:00:00,2,1,Blank Web Browser,Internet Utilities,1
+2019-01-16T19:00:00,5,1,Google Forms,General Business,2
+2019-01-17T14:00:00,118,1,en.wikipedia.org,General Reference & Learning,2
+2019-01-17T14:00:00,5,1,Google Forms,General Business,2
+2019-01-17T14:00:00,5,1,about:newtab,Browsers,0
+2019-01-17T14:00:00,2,1,invest.berkeley.edu,General Reference & Learning,2
+2019-01-17T15:00:00,837,1,decal.berkeley.edu,General Reference & Learning,2
+2019-01-17T15:00:00,806,1,Google Forms,General Business,2
+2019-01-17T15:00:00,744,1,en.wikipedia.org,General Reference & Learning,2
+2019-01-17T15:00:00,177,1,thecut.com,General News & Opinion,-2
+2019-01-17T15:00:00,164,1,acrobat pro dc,General Utilities,1
+2019-01-17T15:00:00,154,1,imt-decal.org,Uncategorized,0
+2019-01-17T15:00:00,141,1,wdd.io,Uncategorized,0
+2019-01-17T15:00:00,109,1,slc.berkeley.edu,General Reference & Learning,2
+2019-01-17T15:00:00,76,1,berkeleytime.com,General Reference & Learning,2
+2019-01-17T15:00:00,75,1,ls.berkeley.edu,General Reference & Learning,2
+2019-01-17T15:00:00,55,1,google.com,Search,1
+2019-01-17T15:00:00,45,1,script.google.com,Editing & IDEs,2
+2019-01-17T15:00:00,44,1,book.imt-decal.org,Uncategorized,0
+2019-01-17T15:00:00,43,1,emilyzhong.me,Uncategorized,0
+2019-01-17T15:00:00,37,1,Google Spreadsheets,General Business,2
+2019-01-17T15:00:00,28,1,about:newtab,Browsers,0
+2019-01-17T15:00:00,16,1,beanactuary.org,Employment,2
+2019-01-17T15:00:00,13,1,developers.google.com,General Software Development,2
+2019-01-17T15:00:00,10,1,books.google.com,Search,1
+2019-01-17T15:00:00,7,1,sankey.ws,Uncategorized,0
+2019-01-17T15:00:00,6,1,Blank Web Browser,Internet Utilities,1
+2019-01-17T15:00:00,6,1,fss.berkeley.edu,General Reference & Learning,2
+2019-01-17T15:00:00,4,1,accounts.google.com,General Communication & Scheduling,2
+2019-01-17T15:00:00,1,1,mvwgs.org,Uncategorized,0
+2019-01-17T16:00:00,2768,1,Google Forms,General Business,2
+2019-01-17T16:00:00,371,1,spotify,Music,-1
+2019-01-17T16:00:00,172,1,wdd.io,Uncategorized,0
+2019-01-17T16:00:00,167,1,blogs.scientificamerican.com,Science & Technology,-2
+2019-01-17T16:00:00,40,1,explainxkcd.com,Comedy,-2
+2019-01-17T16:00:00,29,1,acrobat pro dc,General Utilities,1
+2019-01-17T16:00:00,18,1,google.com,Search,1
+2019-01-17T16:00:00,15,1,about:newtab,Browsers,0
+2019-01-17T16:00:00,10,1,en.wikipedia.org,General Reference & Learning,2
+2019-01-17T16:00:00,3,1,thecut.com,General News & Opinion,-2
+2019-01-17T16:00:00,2,1,microsoft word,Writing,2
+2019-01-17T16:00:00,1,1,decal.berkeley.edu,General Reference & Learning,2
+2019-01-17T16:00:00,1,1,berkeleytime.com,General Reference & Learning,2
+2019-01-17T17:00:00,142,1,explainxkcd.com,Comedy,-2
+2019-01-17T17:00:00,105,1,Blank Web Browser,Internet Utilities,1
+2019-01-17T17:00:00,102,1,Google Forms,General Business,2
+2019-01-17T17:00:00,100,1,loginwindow,Computer,1
+2019-01-17T17:00:00,24,1,dangermouse.net,Comedy,-2
+2019-01-17T17:00:00,17,1,wdd.io,Uncategorized,0
+2019-01-17T17:00:00,12,1,about:newtab,Browsers,0
+2019-01-17T17:00:00,3,1,decal.berkeley.edu,General Reference & Learning,2
+2019-01-17T17:00:00,1,1,cdn2.freedom.to,Internet Utilities,1
+2019-01-17T21:00:00,1213,1,theringer.com,General News & Opinion,-2
+2019-01-17T21:00:00,683,1,tradevalue.theringer.com,General News & Opinion,-2
+2019-01-17T21:00:00,71,1,developers.google.com,General Software Development,2
+2019-01-17T21:00:00,71,1,google.com,Search,1
+2019-01-17T21:00:00,50,1,about:newtab,Browsers,0
+2019-01-17T21:00:00,36,1,baseballprospectus.com,General Entertainment,-2
+2019-01-17T21:00:00,28,1,musescore,Audio Editing,2
+2019-01-17T21:00:00,14,1,script.google.com,Editing & IDEs,2
+2019-01-17T21:00:00,9,1,tools.wmflabs.org,Uncategorized,0
+2019-01-17T21:00:00,6,1,RescueTime,Intelligence,2
+2019-01-17T21:00:00,5,1,decal.berkeley.edu,General Reference & Learning,2
+2019-01-17T21:00:00,5,1,Google Spreadsheets,General Business,2
+2019-01-17T22:00:00,93,1,about:newtab,Browsers,0
+2019-01-17T22:00:00,29,1,theringer.com,General News & Opinion,-2
+2019-01-17T22:00:00,22,1,drive.google.com,General Business,2
+2019-01-17T22:00:00,4,1,Google Spreadsheets,General Business,2
+2019-01-17T22:00:00,2,1,developers.google.com,General Software Development,2
+2019-01-17T22:00:00,1,1,Blank Web Browser,Internet Utilities,1
+2019-01-18T10:00:00,3309,1,spotify,Music,-1
+2019-01-18T10:00:00,15,1,musescore,Audio Editing,2
+2019-01-18T10:00:00,12,1,drive.google.com,General Business,2
+2019-01-18T10:00:00,7,1,developers.google.com,General Software Development,2
+2019-01-18T10:00:00,3,1,about:newtab,Browsers,0
+2019-01-18T11:00:00,3232,1,spotify,Music,-1
+2019-01-18T11:00:00,44,1,Google Documents,Writing,2
+2019-01-18T11:00:00,20,1,drive.google.com,General Business,2
+2019-01-18T11:00:00,20,1,loginwindow,Computer,1
+2019-01-18T11:00:00,1,1,Blank Web Browser,Internet Utilities,1
+2019-01-18T14:00:00,1199,1,spotify,Music,-1
+2019-01-18T14:00:00,2,1,RescueTime,Intelligence,2
+2019-01-18T15:00:00,2003,1,Google Documents,Writing,2
+2019-01-18T15:00:00,1286,1,spotify,Music,-1
+2019-01-18T15:00:00,203,1,python-textbok.readthedocs.io,Uncategorized,0
+2019-01-18T15:00:00,92,1,colab.research.google.com,Search,1
+2019-01-18T15:00:00,11,1,drive.google.com,General Business,2
+2019-01-18T15:00:00,2,1,Blank Web Browser,Internet Utilities,1
+2019-01-18T16:00:00,3426,1,Google Documents,Writing,2
+2019-01-18T16:00:00,117,1,python-textbok.readthedocs.io,Uncategorized,0
+2019-01-18T16:00:00,42,1,colab.research.google.com,Search,1
+2019-01-18T16:00:00,8,1,drive.google.com,General Business,2
+2019-01-18T16:00:00,4,1,developers.google.com,General Software Development,2
+2019-01-18T16:00:00,3,1,Blank Web Browser,Internet Utilities,1
+2019-01-18T17:00:00,580,1,python-textbok.readthedocs.io,Uncategorized,0
+2019-01-18T17:00:00,479,1,Google Documents,Writing,2
+2019-01-18T17:00:00,137,1,colab.research.google.com,Search,1
+2019-01-18T17:00:00,64,1,loginwindow,Computer,1
+2019-01-18T17:00:00,8,1,script.google.com,Editing & IDEs,2
+2019-01-18T17:00:00,1,1,Google Spreadsheets,General Business,2
+2019-01-18T18:00:00,47,1,loginwindow,Computer,1
+2019-01-18T21:00:00,137,1,colab.research.google.com,Search,1
+2019-01-18T21:00:00,26,1,Google Documents,Writing,2
+2019-01-18T21:00:00,3,1,spotify,Music,-1
+2019-01-18T21:00:00,3,1,RescueTime,Intelligence,2
+2019-01-18T21:00:00,1,1,python-textbok.readthedocs.io,Uncategorized,0
+2019-01-18T22:00:00,235,1,google.com,Search,1
+2019-01-18T22:00:00,177,1,haveibeenpwned.com,Uncategorized,0
+2019-01-18T22:00:00,78,1,gizmodo.com,Science & Technology,-2
+2019-01-18T22:00:00,59,1,Blank Web Browser,Internet Utilities,1
+2019-01-18T22:00:00,45,1,colab.research.google.com,Search,1
+2019-01-18T22:00:00,24,1,about:newtab,Browsers,0
+2019-01-18T22:00:00,19,1,loginwindow,Computer,1
+2019-01-18T22:00:00,17,1,Google Documents,Writing,2
+2019-01-18T22:00:00,5,1,app store,General Shopping,-2
+2019-01-18T22:00:00,3,1,python-textbok.readthedocs.io,Uncategorized,0
+2019-01-18T22:00:00,3,1,Google Spreadsheets,General Business,2
+2019-01-18T22:00:00,2,1,auth.berkeley.edu,General Reference & Learning,2
+2019-01-20T12:00:00,75,1,deviantart.com,General Entertainment,-2
+2019-01-20T12:00:00,74,1,loginwindow,Computer,1
+2019-01-20T12:00:00,18,1,about:newtab,Browsers,0
+2019-01-20T12:00:00,1,1,haveibeenpwned.com,Uncategorized,0
+2019-01-21T14:00:00,21,1,loginwindow,Computer,1
+2019-01-21T16:00:00,691,1,python-textbok.readthedocs.io,Uncategorized,0
+2019-01-21T16:00:00,155,1,about:newtab,Browsers,0
+2019-01-21T16:00:00,128,1,Blank Web Browser,Internet Utilities,1
+2019-01-21T16:00:00,59,1,loginwindow,Computer,1
+2019-01-21T16:00:00,54,1,tplinkwifi.net,General Utilities,1
+2019-01-21T16:00:00,1,1,deviantart.com,General Entertainment,-2
+2019-01-21T16:00:00,1,1,haveibeenpwned.com,Uncategorized,0
+2019-01-21T17:00:00,1434,1,bcourses.berkeley.edu,General Reference & Learning,2
+2019-01-21T17:00:00,383,1,checkout.textbooktech.com,Uncategorized,0
+2019-01-21T17:00:00,378,1,piazza.com,General Reference & Learning,2
+2019-01-21T17:00:00,196,1,calstudentstore.berkeley.edu,General Reference & Learning,2
+2019-01-21T17:00:00,103,1,drive.google.com,General Business,2
+2019-01-21T17:00:00,93,1,bkstr.com,General Shopping,-2
+2019-01-21T17:00:00,87,1,about:newtab,Browsers,0
+2019-01-21T17:00:00,82,1,Notes,Writing,2
+2019-01-21T17:00:00,68,1,data8.org,Uncategorized,2
+2019-01-21T17:00:00,65,1,Mail,Email,1
+2019-01-21T17:00:00,43,1,calcentral.berkeley.edu,General Reference & Learning,2
+2019-01-21T17:00:00,31,1,microsoft word,Writing,2
+2019-01-21T17:00:00,27,1,google.com,Search,1
+2019-01-21T17:00:00,21,1,loginwindow,Computer,1
+2019-01-21T17:00:00,20,1,Blank Web Browser,Internet Utilities,1
+2019-01-21T17:00:00,17,1,usernotificationcenter,General Utilities,1
+2019-01-21T17:00:00,15,1,chemistry.berkeley.edu,General Reference & Learning,2
+2019-01-21T17:00:00,12,1,auth.berkeley.edu,General Reference & Learning,2
+2019-01-21T17:00:00,10,1,keyboardsetupassistant,General Utilities,1
+2019-01-21T17:00:00,8,1,Preview,General Reference & Learning,2
+2019-01-21T17:00:00,4,1,python-textbok.readthedocs.io,Uncategorized,0
+2019-01-21T17:00:00,1,1,RescueTime,Intelligence,2
+2019-01-21T18:00:00,490,1,spotify,Music,-1
+2019-01-21T18:00:00,200,1,loginwindow,Computer,1
+2019-01-21T18:00:00,133,1,python-textbok.readthedocs.io,Uncategorized,0
+2019-01-21T18:00:00,69,1,checkout.textbooktech.com,Uncategorized,0
+2019-01-21T18:00:00,61,1,idc.berkeley.edu,General Reference & Learning,2
+2019-01-21T18:00:00,38,1,jmperezperez.com,Internet Utilities,1
+2019-01-21T18:00:00,12,1,microsoft word,Writing,2
+2019-01-21T18:00:00,9,1,about:newtab,Browsers,0
+2019-01-21T18:00:00,6,1,google.com,Search,1
+2019-01-21T18:00:00,3,1,technology.berkeley.edu,General Reference & Learning,2
+2019-01-21T18:00:00,3,1,Blank Web Browser,Internet Utilities,1
+2019-01-21T18:00:00,3,1,ark42.com,Uncategorized,0
+2019-01-21T18:00:00,2,1,bcourses.berkeley.edu,General Reference & Learning,2
+2019-01-21T18:00:00,1,1,data8.org,Uncategorized,2
+2019-01-21T19:00:00,232,1,bcourses.berkeley.edu,General Reference & Learning,2
+2019-01-21T19:00:00,221,1,xfinity.com,General Entertainment,-2
+2019-01-21T19:00:00,95,1,Notes,Writing,2
+2019-01-21T19:00:00,93,1,iam.saplinglearning.com,General Reference & Learning,2
+2019-01-21T19:00:00,86,1,saplinglearning.com,General Reference & Learning,2
+2019-01-21T19:00:00,38,1,google.com,Search,1
+2019-01-21T19:00:00,19,1,loginwindow,Computer,1
+2019-01-21T19:00:00,11,1,Mail,Email,1
+2019-01-21T19:00:00,8,1,forums.xfinity.com,General Entertainment,-2
+2019-01-21T19:00:00,7,1,macmillanlearning.com,Uncategorized,0
+2019-01-21T19:00:00,7,1,about:newtab,Browsers,0
+2019-01-21T19:00:00,7,1,wordcounter.net,Writing,2
+2019-01-21T19:00:00,5,1,Blank Web Browser,Internet Utilities,1
+2019-01-21T19:00:00,3,1,iam.macmillanlearning.com,Uncategorized,0
+2019-01-21T19:00:00,3,1,RescueTime,Intelligence,2
+2019-01-21T19:00:00,3,1,microsoft word,Writing,2
+2019-01-21T20:00:00,462,1,about:newtab,Browsers,0
+2019-01-21T20:00:00,203,1,google.com/calendar,Calendars,2
+2019-01-21T20:00:00,132,1,deviantart.com,General Entertainment,-2
+2019-01-21T20:00:00,75,1,loginwindow,Computer,1
+2019-01-21T20:00:00,34,1,bcourses.berkeley.edu,General Reference & Learning,2
+2019-01-21T20:00:00,30,1,berkeleytime.com,General Reference & Learning,2
+2019-01-21T20:00:00,9,1,RescueTime,Intelligence,2
+2019-01-21T20:00:00,3,1,Blank Web Browser,Internet Utilities,1
+2019-01-21T20:00:00,1,1,google.com,Search,1
+2019-01-21T20:00:00,1,1,auth.berkeley.edu,General Reference & Learning,2
+2019-01-22T08:00:00,109,1,Mail,Email,1
+2019-01-22T08:00:00,91,1,berkeleytime.com,General Reference & Learning,2
+2019-01-22T08:00:00,81,1,google.com/calendar,Calendars,2
+2019-01-22T08:00:00,61,1,screen shot,Uncategorized,0
+2019-01-22T08:00:00,31,1,System Preferences,Computer,1
+2019-01-22T08:00:00,30,1,loginwindow,Computer,1
+2019-01-22T09:00:00,376,1,Notes,Writing,2
+2019-01-22T09:00:00,370,1,Mail,Email,1
+2019-01-22T09:00:00,156,1,deviantart.com,General Entertainment,-2
+2019-01-22T09:00:00,154,1,piazza.com,General Reference & Learning,2
+2019-01-22T09:00:00,141,1,loginwindow,Computer,1
+2019-01-22T09:00:00,109,1,bcourses.berkeley.edu,General Reference & Learning,2
+2019-01-22T09:00:00,38,1,Blank Web Browser,Internet Utilities,1
+2019-01-22T09:00:00,9,1,about:newtab,Browsers,0
+2019-01-22T09:00:00,4,1,calstudentstore.berkeley.edu,General Reference & Learning,2
+2019-01-22T09:00:00,3,1,berkeleytime.com,General Reference & Learning,2
+2019-01-22T09:00:00,3,1,google.com/calendar,Calendars,2
+2019-01-22T09:00:00,1,1,checkout.textbooktech.com,Uncategorized,0
+2019-01-22T10:00:00,845,1,amazon.com,General Shopping,-2
+2019-01-22T10:00:00,272,1,Blank Web Browser,Internet Utilities,1
+2019-01-22T10:00:00,217,1,Finder,Computer,1
+2019-01-22T10:00:00,154,1,python-textbok.readthedocs.io,Uncategorized,0
+2019-01-22T10:00:00,135,1,about:newtab,Browsers,0
+2019-01-22T10:00:00,134,1,deviantart.com,General Entertainment,-2
+2019-01-22T10:00:00,131,1,app store,General Shopping,-2
+2019-01-22T10:00:00,122,1,rescuetime.com,Computer,1
+2019-01-22T10:00:00,92,1,piazza.com,General Reference & Learning,2
+2019-01-22T10:00:00,90,1,microsoft powerpoint,Presentation,2
+2019-01-22T10:00:00,79,1,todoist,Project Management,2
+2019-01-22T10:00:00,79,1,bcourses.berkeley.edu,General Reference & Learning,2
+2019-01-22T10:00:00,70,1,loginwindow,Computer,1
+2019-01-22T10:00:00,55,1,Mail,Email,1
+2019-01-22T10:00:00,40,1,accounts.firefox.com,General Utilities,1
+2019-01-22T10:00:00,30,1,theatlantic.com,General News & Opinion,-2
+2019-01-22T10:00:00,22,1,lycanroc.net,Uncategorized,0
+2019-01-22T10:00:00,18,1,Notes,Writing,2
+2019-01-22T10:00:00,5,1,checkout.textbooktech.com,Uncategorized,0
+2019-01-22T10:00:00,2,1,usernotificationcenter,General Utilities,1
+2019-01-22T10:00:00,2,1,firefox software update,General Utilities,1
+2019-01-22T11:00:00,114,1,alteredorigin.net,Uncategorized,0
+2019-01-22T11:00:00,83,1,loginwindow,Computer,1
+2019-01-22T11:00:00,8,1,rescuetime.com,Computer,1
+2019-01-22T11:00:00,7,1,Blank Web Browser,Internet Utilities,1
+2019-01-22T11:00:00,7,1,deviantart.com,General Entertainment,-2
+2019-01-22T11:00:00,6,1,about:newtab,Browsers,0
+2019-01-22T11:00:00,3,1,memory cleaner,General Utilities,1
+2019-01-22T15:00:00,84,1,loginwindow,Computer,1
+2019-01-22T15:00:00,57,1,Mail,Email,1
+2019-01-22T15:00:00,4,1,rescuetime.com,Computer,1
+2019-01-22T15:00:00,1,1,RescueTime,Intelligence,2
+2019-01-22T15:00:00,1,1,about:newtab,Browsers,0
+2019-01-23T19:00:00,141,1,xfinity.com,General Entertainment,-2
+2019-01-23T19:00:00,39,1,Blank Web Browser,Internet Utilities,1
+2019-01-23T19:00:00,23,1,shib.berkeley.edu,General Reference & Learning,2
+2019-01-23T19:00:00,22,1,xfinityoncampus.com,Video,-2
+2019-01-23T19:00:00,19,1,RescueTime,Intelligence,2
+2019-01-23T19:00:00,17,1,about:addons,Browsers,0
+2019-01-23T19:00:00,14,1,System Preferences,Computer,1
+2019-01-23T19:00:00,14,1,support.mozilla.org,Browsers,0
+2019-01-23T19:00:00,9,1,get.adobe.com,General News & Opinion,-2
+2019-01-23T19:00:00,9,1,todoist,Project Management,2
+2019-01-23T19:00:00,8,1,adobe flash player install manager,General Utilities,1
+2019-01-23T19:00:00,7,1,Mail,Email,1
+2019-01-23T19:00:00,6,1,tv.xfinity.com,Video,-2
+2019-01-23T19:00:00,5,1,helpx.adobe.com,General Software Development,2
+2019-01-23T19:00:00,4,1,about:newtab,Browsers,0
+2019-01-23T19:00:00,4,1,Finder,Computer,1
+2019-01-23T19:00:00,3,1,diskimagemounter,General Utilities,1
+2019-01-23T19:00:00,3,1,SecurityAgent,Systems Operations,2
+2019-01-23T19:00:00,2,1,coreservicesuiagent,General Utilities,1
+2019-01-23T19:00:00,2,1,firefoxcp plugin content (shockwave flash),General Utilities,1
+2019-01-23T19:00:00,1,1,Notes,Writing,2
+2019-01-23T20:00:00,47,1,loginwindow,Computer,1
+2019-01-23T20:00:00,11,1,xfinity.com,General Entertainment,-2
+2019-01-23T20:00:00,7,1,RescueTime,Intelligence,2
+2019-01-23T21:00:00,114,1,berkeleytime.com,General Reference & Learning,2
+2019-01-23T21:00:00,21,1,loginwindow,Computer,1
+2019-01-23T21:00:00,11,1,about:newtab,Browsers,0
+2019-01-23T21:00:00,1,1,xfinity.com,General Entertainment,-2
+2019-01-23T22:00:00,349,1,spotify,Music,-1
+2019-01-23T22:00:00,271,1,drive.google.com,General Business,2
+2019-01-23T22:00:00,101,1,Blank Web Browser,Internet Utilities,1
+2019-01-23T22:00:00,54,1,about:newtab,Browsers,0
+2019-01-23T22:00:00,39,1,Google Drive - Google Apps,General Business,2
+2019-01-23T22:00:00,25,1,berkeleytime.com,General Reference & Learning,2
+2019-01-23T22:00:00,21,1,RescueTime,Intelligence,2
+2019-01-23T22:00:00,6,1,todoist,Project Management,2
+2019-01-23T22:00:00,3,1,tplinkwifi.net,General Utilities,1
+2019-01-23T22:00:00,2,1,loginwindow,Computer,1
+2019-01-23T23:00:00,115,1,piazza.com,General Reference & Learning,2
+2019-01-23T23:00:00,37,1,loginwindow,Computer,1
+2019-01-23T23:00:00,26,1,about:newtab,Browsers,0
+2019-01-23T23:00:00,14,1,cdn2.freedom.to,Internet Utilities,1
+2019-01-23T23:00:00,10,1,spotify,Music,-1
+2019-01-23T23:00:00,8,1,berkeleytime.com,General Reference & Learning,2
+2019-01-23T23:00:00,7,1,RescueTime,Intelligence,2
+2019-01-23T23:00:00,4,1,drive.google.com,General Business,2
+2019-01-23T23:00:00,2,1,xfinity.com,General Entertainment,-2
+2019-01-23T23:00:00,2,1,xfinityoncampus.com,Video,-2
+2019-01-23T23:00:00,1,1,Blank Web Browser,Internet Utilities,1
+2019-01-24T10:00:00,1621,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-01-24T10:00:00,164,1,Notes,Writing,2
+2019-01-24T10:00:00,78,1,piazza.com,General Reference & Learning,2
+2019-01-24T10:00:00,64,1,Mail,Email,1
+2019-01-24T10:00:00,62,1,loginwindow,Computer,1
+2019-01-24T10:00:00,42,1,about:newtab,Browsers,0
+2019-01-24T10:00:00,30,1,gradescope.com,General Reference & Learning,2
+2019-01-24T10:00:00,23,1,data8.org,Uncategorized,2
+2019-01-24T10:00:00,17,1,Blank Web Browser,Internet Utilities,1
+2019-01-24T10:00:00,12,1,okpy.org,General Software Development,2
+2019-01-24T10:00:00,6,1,accounts.google.com,General Communication & Scheduling,2
+2019-01-24T10:00:00,3,1,berkeleytime.com,General Reference & Learning,2
+2019-01-24T10:00:00,1,1,microsoft powerpoint,Presentation,2
+2019-01-24T10:00:00,1,1,spotify,Music,-1
+2019-01-24T11:00:00,148,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-01-24T11:00:00,36,1,data8.org,Uncategorized,2
+2019-01-24T11:00:00,36,1,piazza.com,General Reference & Learning,2
+2019-01-24T11:00:00,20,1,loginwindow,Computer,1
+2019-01-25T10:00:00,42,1,loginwindow,Computer,1
+2019-01-25T10:00:00,29,1,about:newtab,Browsers,0
+2019-01-25T10:00:00,16,1,systemuiserver,General Utilities,1
+2019-01-25T10:00:00,13,1,Blank Web Browser,Internet Utilities,1
+2019-01-25T10:00:00,11,1,RescueTime,Intelligence,2
+2019-01-25T10:00:00,9,1,data8.org,Uncategorized,2
+2019-01-25T10:00:00,6,1,creative cloud,General Design & Composition,2
+2019-01-25T10:00:00,6,1,piazza.com,General Reference & Learning,2
+2019-01-25T21:00:00,162,1,Blank Web Browser,Internet Utilities,1
+2019-01-25T21:00:00,141,1,spotify,Music,-1
+2019-01-25T21:00:00,136,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-01-25T21:00:00,132,1,System Preferences,Computer,1
+2019-01-25T21:00:00,121,1,piazza.com,General Reference & Learning,2
+2019-01-25T21:00:00,110,1,google.com,Search,1
+2019-01-25T21:00:00,105,1,data8.org,Uncategorized,2
+2019-01-25T21:00:00,75,1,about:newtab,Browsers,0
+2019-01-25T21:00:00,66,1,audio midi setup,General Utilities,1
+2019-01-25T21:00:00,61,1,tplinkwifi.net,General Utilities,1
+2019-01-25T21:00:00,29,1,jmperezperez.com,Internet Utilities,1
+2019-01-25T21:00:00,26,1,speedtest.net,Internet Utilities,1
+2019-01-25T21:00:00,25,1,Finder,Computer,1
+2019-01-25T21:00:00,17,1,creative cloud,General Design & Composition,2
+2019-01-25T21:00:00,16,1,Mail,Email,1
+2019-01-25T21:00:00,13,1,technology.berkeley.edu,General Reference & Learning,2
+2019-01-25T21:00:00,8,1,berkeleytime.com,General Reference & Learning,2
+2019-01-25T21:00:00,6,1,loginwindow,Computer,1
+2019-01-25T21:00:00,3,1,studenttech.berkeley.edu,General Reference & Learning,2
+2019-01-25T21:00:00,2,1,calendar,Calendars,2
+2019-01-26T01:00:00,490,1,Mail,Email,1
+2019-01-26T01:00:00,315,1,google.com,Search,1
+2019-01-26T01:00:00,165,1,Blank Web Browser,Internet Utilities,1
+2019-01-26T01:00:00,140,1,about:newtab,Browsers,0
+2019-01-26T01:00:00,78,1,loginwindow,Computer,1
+2019-01-26T01:00:00,67,1,ark42.com,Uncategorized,0
+2019-01-26T01:00:00,50,1,MS Excel,General Business,2
+2019-01-26T01:00:00,30,1,thesilphroad.com,Games,-2
+2019-01-26T01:00:00,21,1,github.com,General Software Development,2
+2019-01-26T01:00:00,19,1,RescueTime,Intelligence,2
+2019-01-26T01:00:00,13,1,System Preferences,Computer,1
+2019-01-26T01:00:00,11,1,reddup.co,Uncategorized,0
+2019-01-26T01:00:00,9,1,spotify,Music,-1
+2019-01-26T01:00:00,8,1,usernotificationcenter,General Utilities,1
+2019-01-26T01:00:00,7,1,wdd.io,Uncategorized,0
+2019-01-26T01:00:00,6,1,dragonflycave.com,Games,-2
+2019-01-26T01:00:00,6,1,drive.google.com,General Business,2
+2019-01-26T01:00:00,4,1,calendar,Calendars,2
+2019-01-26T01:00:00,3,1,Google Forms - Google Apps,General Business,2
+2019-01-26T01:00:00,2,1,btu.bose.com,Electronics,-2
+2019-01-26T01:00:00,2,1,pokewreck.com,Uncategorized,0
+2019-01-26T01:00:00,1,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-01-26T01:00:00,1,1,pokemon-evolve-query.herokuapp.com,Uncategorized,0
+2019-01-26T10:00:00,176,1,about:newtab,Browsers,0
+2019-01-26T10:00:00,54,1,Mail,Email,1
+2019-01-26T10:00:00,2,1,ark42.com,Uncategorized,0
+2019-01-26T10:00:00,1,1,google.com,Search,1
+2019-01-26T10:00:00,1,1,loginwindow,Computer,1
+2019-01-26T12:00:00,47,1,bcourses.berkeley.edu,General Reference & Learning,2
+2019-01-26T12:00:00,19,1,loginwindow,Computer,1
+2019-01-26T12:00:00,11,1,auth.berkeley.edu,General Reference & Learning,2
+2019-01-26T12:00:00,10,1,about:newtab,Browsers,0
+2019-01-26T12:00:00,6,1,Mail,Email,1
+2019-01-26T12:00:00,2,1,RescueTime,Intelligence,2
+2019-01-26T13:00:00,585,1,notability,Writing,2
+2019-01-26T13:00:00,78,1,loginwindow,Computer,1
+2019-01-26T13:00:00,68,1,bcourses.berkeley.edu,General Reference & Learning,2
+2019-01-26T13:00:00,58,1,app store,General Shopping,-2
+2019-01-26T13:00:00,26,1,about:newtab,Browsers,0
+2019-01-26T13:00:00,2,1,coreautha,Uncategorized,0
+2019-01-27T14:00:00,394,1,apartments.com,Home & Garden,2
+2019-01-27T14:00:00,122,1,berkeleytime.com,General Reference & Learning,2
+2019-01-27T14:00:00,97,1,photos,Photos,-2
+2019-01-27T14:00:00,76,1,Blank Web Browser,Internet Utilities,1
+2019-01-27T14:00:00,65,1,google.com,Search,1
+2019-01-27T14:00:00,36,1,Mail,Email,1
+2019-01-27T14:00:00,35,1,about:newtab,Browsers,0
+2019-01-27T14:00:00,19,1,loginwindow,Computer,1
+2019-01-27T14:00:00,10,1,acrobat pro dc,General Utilities,1
+2019-01-27T14:00:00,7,1,innovativedesign.club,Uncategorized,0
+2019-01-27T14:00:00,6,1,decal.berkeley.edu,General Reference & Learning,2
+2019-01-27T14:00:00,4,1,bcourses.berkeley.edu,General Reference & Learning,2
+2019-01-27T14:00:00,3,1,RescueTime,Intelligence,2
+2019-01-27T14:00:00,2,1,calendar,Calendars,2
+2019-01-27T14:00:00,2,1,Finder,Computer,1
+2019-01-27T15:00:00,645,1,apartments.com,Home & Garden,2
+2019-01-27T15:00:00,641,1,google.com,Search,1
+2019-01-27T15:00:00,624,1,decal.berkeley.edu,General Reference & Learning,2
+2019-01-27T15:00:00,357,1,zillow.com,Home & Garden,2
+2019-01-27T15:00:00,240,1,bsc.coop,General Business,2
+2019-01-27T15:00:00,157,1,Google Forms,General Business,2
+2019-01-27T15:00:00,156,1,hillsidevillageberkeley.com,Uncategorized,0
+2019-01-27T15:00:00,117,1,dailycal.org,General News & Opinion,-2
+2019-01-27T15:00:00,115,1,youtube.com,Video,-2
+2019-01-27T15:00:00,91,1,yelp.com,Search,1
+2019-01-27T15:00:00,79,1,apartmentratings.com,General News & Opinion,-2
+2019-01-27T15:00:00,69,1,saplinglearning.com,General Reference & Learning,2
+2019-01-27T15:00:00,59,1,Blank Web Browser,Internet Utilities,1
+2019-01-27T15:00:00,56,1,berkeleycentral.com,Uncategorized,0
+2019-01-27T15:00:00,42,1,about:newtab,Browsers,0
+2019-01-27T15:00:00,41,1,accounts.google.com,General Communication & Scheduling,2
+2019-01-27T15:00:00,34,1,bsc.rms-inc.com,Uncategorized,0
+2019-01-27T15:00:00,30,1,Mail,Email,1
+2019-01-27T15:00:00,14,1,bcourses.berkeley.edu,General Reference & Learning,2
+2019-01-27T15:00:00,8,1,auth.berkeley.edu,General Reference & Learning,2
+2019-01-27T15:00:00,8,1,firefoxcp plugin content (shockwave flash),General Utilities,1
+2019-01-27T15:00:00,6,1,Google Forms - Google Apps,General Business,2
+2019-01-27T15:00:00,5,1,Notes,Writing,2
+2019-01-27T15:00:00,2,1,berkeleytime.com,General Reference & Learning,2
+2019-01-27T16:00:00,1826,1,saplinglearning.com,General Reference & Learning,2
+2019-01-27T16:00:00,97,1,loginwindow,Computer,1
+2019-01-27T16:00:00,36,1,macmillan.force.com,Uncategorized,0
+2019-01-27T16:00:00,21,1,google.com,Search,1
+2019-01-27T16:00:00,15,1,youtube.com,Video,-2
+2019-01-27T16:00:00,14,1,firefoxcp plugin content (shockwave flash),General Utilities,1
+2019-01-27T16:00:00,9,1,about:newtab,Browsers,0
+2019-01-27T16:00:00,6,1,Blank Web Browser,Internet Utilities,1
+2019-01-27T16:00:00,5,1,Mail,Email,1
+2019-02-01T21:00:00,2313,1,quora.com,General News & Opinion,-2
+2019-02-01T21:00:00,111,1,acrobat pro dc,General Utilities,1
+2019-02-01T21:00:00,105,1,freedom.chargebeeportal.com,Uncategorized,0
+2019-02-01T21:00:00,96,1,rescuetime.com,Computer,1
+2019-02-01T21:00:00,48,1,freedom.to,Internet Utilities,1
+2019-02-01T21:00:00,40,1,Firefox,Browsers,0
+2019-02-01T21:00:00,27,1,amlina.quora.com,General News & Opinion,-2
+2019-02-01T21:00:00,9,1,RescueTime,Intelligence,2
+2019-02-01T21:00:00,9,1,en.wikipedia.org,General Reference & Learning,2
+2019-02-01T21:00:00,9,1,google.com,Search,1
+2019-02-01T21:00:00,6,1,Blank Web Browser,Internet Utilities,1
+2019-02-01T21:00:00,5,1,about:newtab,Browsers,0
+2019-02-01T21:00:00,2,1,support.freedom.to,Internet Utilities,1
+2019-02-01T21:00:00,1,1,math.berkeley.edu,General Reference & Learning,2
+2019-02-01T22:00:00,2589,1,acrobat pro dc,General Utilities,1
+2019-02-01T22:00:00,357,1,quora.com,General News & Opinion,-2
+2019-02-01T22:00:00,246,1,google.com,Search,1
+2019-02-01T22:00:00,229,1,jwilson.coe.uga.edu,General Reference & Learning,2
+2019-02-01T22:00:00,60,1,desmos.com,Science & Math,2
+2019-02-01T22:00:00,50,1,Blank Web Browser,Internet Utilities,1
+2019-02-01T22:00:00,32,1,wolframalpha.com,Search,1
+2019-02-01T22:00:00,18,1,arxiv.org,Search,1
+2019-02-01T22:00:00,8,1,about:newtab,Browsers,0
+2019-02-01T22:00:00,6,1,tanyakhovanova.com,Uncategorized,0
+2019-02-01T22:00:00,2,1,cdn2.freedom.to,Internet Utilities,1
+2019-02-01T22:00:00,1,1,mathworld.wolfram.com,Search,1
+2019-02-01T23:00:00,3324,1,quora.com,General News & Opinion,-2
+2019-02-01T23:00:00,80,1,oeis.org,General Reference & Learning,2
+2019-02-01T23:00:00,21,1,loginwindow,Computer,1
+2019-02-01T23:00:00,17,1,freedom.to,Internet Utilities,1
+2019-02-01T23:00:00,10,1,Blank Web Browser,Internet Utilities,1
+2019-02-02T00:00:00,3523,1,quora.com,General News & Opinion,-2
+2019-02-02T00:00:00,52,1,smbc-comics.com,Comedy,-2
+2019-02-02T00:00:00,14,1,freedom.to,Internet Utilities,1
+2019-02-02T00:00:00,7,1,Blank Web Browser,Internet Utilities,1
+2019-02-02T00:00:00,2,1,rescuetime.com,Computer,1
+2019-02-02T00:00:00,1,1,cdn2.freedom.to,Internet Utilities,1
+2019-02-02T01:00:00,3586,1,quora.com,General News & Opinion,-2
+2019-02-02T01:00:00,8,1,en.wikipedia.org,General Reference & Learning,2
+2019-02-02T01:00:00,4,1,Blank Web Browser,Internet Utilities,1
+2019-02-02T01:00:00,1,1,toptal.com,Engineering & Technology,2
+2019-02-02T02:00:00,3311,1,quora.com,General News & Opinion,-2
+2019-02-02T02:00:00,99,1,en.wikipedia.org,General Reference & Learning,2
+2019-02-02T02:00:00,82,1,Blank Web Browser,Internet Utilities,1
+2019-02-02T02:00:00,77,1,affinemess.quora.com,General News & Opinion,-2
+2019-02-02T02:00:00,14,1,jp.quora.com,General News & Opinion,-2
+2019-02-02T02:00:00,10,1,hhgproject.org,Uncategorized,0
+2019-02-02T02:00:00,6,1,sports.vice.com,Sports,-2
+2019-02-02T03:00:00,3598,1,quora.com,General News & Opinion,-2
+2019-02-02T03:00:00,2,1,Blank Web Browser,Internet Utilities,1
+2019-02-02T04:00:00,1814,1,quora.com,General News & Opinion,-2
+2019-02-02T04:00:00,20,1,loginwindow,Computer,1
+2019-02-02T04:00:00,17,1,Blank Web Browser,Internet Utilities,1
+2019-02-02T15:00:00,8,1,quora.com,General News & Opinion,-2
+2019-02-02T15:00:00,1,1,registrar.berkeley.edu,Administration,2
+2019-02-02T16:00:00,3224,1,web.mit.edu,General Reference & Learning,2
+2019-02-02T16:00:00,106,1,google.com,Search,1
+2019-02-02T16:00:00,73,1,Notes,Writing,2
+2019-02-02T16:00:00,64,1,systemuiserver,General Utilities,1
+2019-02-02T16:00:00,24,1,youtube.com,Video,-2
+2019-02-02T16:00:00,22,1,tomato-timer.com,General Communication & Scheduling,2
+2019-02-02T16:00:00,21,1,foggyb.livejournal.com,General News & Opinion,-2
+2019-02-02T16:00:00,18,1,gameshelf.jmac.org,Uncategorized,0
+2019-02-02T16:00:00,14,1,acrobat pro dc,General Utilities,1
+2019-02-02T16:00:00,14,1,geoguessr.com,Games,-2
+2019-02-02T16:00:00,6,1,Blank Web Browser,Internet Utilities,1
+2019-02-02T16:00:00,4,1,about:newtab,Browsers,0
+2019-02-02T16:00:00,2,1,data8.org,Uncategorized,2
+2019-02-02T16:00:00,1,1,math.berkeley.edu,General Reference & Learning,2
+2019-02-02T16:00:00,1,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-02-02T16:00:00,1,1,registrar.berkeley.edu,Administration,2
+2019-02-02T17:00:00,2241,1,web.mit.edu,General Reference & Learning,2
+2019-02-02T17:00:00,596,1,acrobat pro dc,General Utilities,1
+2019-02-02T17:00:00,571,1,puzzle.berkeley.edu,General Reference & Learning,2
+2019-02-02T17:00:00,135,1,google.com,Search,1
+2019-02-02T17:00:00,21,1,about:newtab,Browsers,0
+2019-02-02T17:00:00,20,1,en.wikipedia.org,General Reference & Learning,2
+2019-02-02T17:00:00,12,1,Blank Web Browser,Internet Utilities,1
+2019-02-02T18:00:00,1406,1,acrobat pro dc,General Utilities,1
+2019-02-02T18:00:00,334,1,puzzle.berkeley.edu,General Reference & Learning,2
+2019-02-02T18:00:00,196,1,TextEdit,Writing,2
+2019-02-02T18:00:00,161,1,google.com,Search,1
+2019-02-02T18:00:00,141,1,en.wikipedia.org,General Reference & Learning,2
+2019-02-02T18:00:00,130,1,youtube.com,Video,-2
+2019-02-02T18:00:00,103,1,deviantart.com,General Entertainment,-2
+2019-02-02T18:00:00,54,1,loginwindow,Computer,1
+2019-02-02T18:00:00,44,1,about:newtab,Browsers,0
+2019-02-02T18:00:00,18,1,biblehub.com,General Reference & Learning,2
+2019-02-02T18:00:00,7,1,google chrome,Browsers,0
+2019-02-02T18:00:00,6,1,Blank Web Browser,Internet Utilities,1
+2019-02-02T18:00:00,4,1,eclipse,Editing & IDEs,2
+2019-02-02T18:00:00,3,1,goodreads.com,General Social Networking,-2
+2019-02-02T18:00:00,1,1,spotify,Music,-1
+2019-02-03T12:00:00,50,1,loginwindow,Computer,1
+2019-02-03T16:00:00,87,1,loginwindow,Computer,1
+2019-02-03T16:00:00,35,1,deviantart.com,General Entertainment,-2
+2019-02-03T16:00:00,30,1,RescueTime,Intelligence,2
+2019-02-03T20:00:00,250,1,deviantart.com,General Entertainment,-2
+2019-02-03T20:00:00,63,1,Mail,Email,1
+2019-02-03T20:00:00,40,1,piazza.com,General Reference & Learning,2
+2019-02-03T20:00:00,38,1,en.wikipedia.org,General Reference & Learning,2
+2019-02-03T20:00:00,27,1,RescueTime,Intelligence,2
+2019-02-03T20:00:00,23,1,data8.org,Uncategorized,2
+2019-02-03T20:00:00,19,1,loginwindow,Computer,1
+2019-02-03T20:00:00,14,1,about:newtab,Browsers,0
+2019-02-03T20:00:00,6,1,mezzacotta.net,Comedy,-2
+2019-02-03T20:00:00,6,1,acrobat pro dc,General Utilities,1
+2019-02-03T20:00:00,5,1,google.com,Search,1
+2019-02-03T20:00:00,3,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-02-03T21:00:00,1358,1,mezzacotta.net,Comedy,-2
+2019-02-03T21:00:00,1008,1,acrobat pro dc,General Utilities,1
+2019-02-03T21:00:00,998,1,tvtropes.org,General News & Opinion,-2
+2019-02-03T21:00:00,62,1,en.wikipedia.org,General Reference & Learning,2
+2019-02-03T21:00:00,40,1,google.com,Search,1
+2019-02-03T21:00:00,30,1,sharetv.com,Uncategorized,0
+2019-02-03T21:00:00,21,1,loginwindow,Computer,1
+2019-02-03T21:00:00,13,1,Blank Web Browser,Internet Utilities,1
+2019-02-03T21:00:00,11,1,about:newtab,Browsers,0
+2019-02-03T21:00:00,10,1,piazza.com,General Reference & Learning,2
+2019-02-03T21:00:00,1,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-02-03T22:00:00,1739,1,tvtropes.org,General News & Opinion,-2
+2019-02-03T22:00:00,99,1,loginwindow,Computer,1
+2019-02-04T12:00:00,966,1,tvtropes.org,General News & Opinion,-2
+2019-02-04T12:00:00,39,1,noisey.vice.com,Music,-2
+2019-02-04T12:00:00,26,1,loginwindow,Computer,1
+2019-02-04T12:00:00,4,1,en.wikipedia.org,General Reference & Learning,2
+2019-02-04T13:00:00,1263,1,youtube.com,Video,-2
+2019-02-04T13:00:00,640,1,tvtropes.org,General News & Opinion,-2
+2019-02-04T13:00:00,62,1,loginwindow,Computer,1
+2019-02-04T13:00:00,16,1,Mail,Email,1
+2019-02-04T13:00:00,3,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-02-04T13:00:00,3,1,about:newtab,Browsers,0
+2019-02-04T14:00:00,3497,1,youtube.com,Video,-2
+2019-02-04T14:00:00,99,1,Mail,Email,1
+2019-02-04T14:00:00,4,1,accounts.google.com,General Communication & Scheduling,2
+2019-02-04T15:00:00,3600,1,youtube.com,Video,-2
+2019-02-04T16:00:00,3471,1,youtube.com,Video,-2
+2019-02-04T16:00:00,115,1,loginwindow,Computer,1
+2019-02-04T16:00:00,8,1,about:newtab,Browsers,0
+2019-02-04T17:00:00,3181,1,youtube.com,Video,-2
+2019-02-04T17:00:00,101,1,speedtest.net,Internet Utilities,1
+2019-02-04T17:00:00,98,1,speedtest,Internet Utilities,1
+2019-02-04T17:00:00,79,1,systemuiserver,General Utilities,1
+2019-02-04T17:00:00,38,1,wireless diagnostics,Internet Utilities,1
+2019-02-04T17:00:00,31,1,System Preferences,Computer,1
+2019-02-04T17:00:00,23,1,app store,General Shopping,-2
+2019-02-04T17:00:00,19,1,about:newtab,Browsers,0
+2019-02-04T17:00:00,5,1,itunes.apple.com,General Shopping,-2
+2019-02-04T17:00:00,3,1,iTunes,Music,0
+2019-02-04T17:00:00,2,1,coreautha,Uncategorized,0
+2019-02-04T17:00:00,2,1,Blank Web Browser,Internet Utilities,1
+2019-02-04T18:00:00,665,1,youtube.com,Video,-2
+2019-02-04T18:00:00,116,1,loginwindow,Computer,1
+2019-02-04T18:00:00,5,1,speedtest.net,Internet Utilities,1
+2019-02-04T18:00:00,2,1,creative cloud,General Design & Composition,2
+2019-02-05T20:00:00,426,1,youtube.com,Video,-2
+2019-02-05T20:00:00,49,1,loginwindow,Computer,1
+2019-02-05T20:00:00,3,1,about:newtab,Browsers,0
+2019-02-05T20:00:00,2,1,Blank Web Browser,Internet Utilities,1
+2019-02-05T21:00:00,644,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-02-05T21:00:00,475,1,Mail,Email,1
+2019-02-05T21:00:00,391,1,inferentialthinking.com,Uncategorized,0
+2019-02-05T21:00:00,361,1,rescuetime.com,Computer,1
+2019-02-05T21:00:00,298,1,youtube.com,Video,-2
+2019-02-05T21:00:00,296,1,spotify,Music,-1
+2019-02-05T21:00:00,265,1,data8.org,Uncategorized,2
+2019-02-05T21:00:00,155,1,ifttt.com,Internet Utilities,1
+2019-02-05T21:00:00,152,1,Notes,Writing,2
+2019-02-05T21:00:00,133,1,acrobat pro dc,General Utilities,1
+2019-02-05T21:00:00,57,1,docs.scipy.org,Engineering & Technology,2
+2019-02-05T21:00:00,51,1,TextEdit,Writing,2
+2019-02-05T21:00:00,50,1,about:newtab,Browsers,0
+2019-02-05T21:00:00,41,1,speedtest,Internet Utilities,1
+2019-02-05T21:00:00,35,1,systemuiserver,General Utilities,1
+2019-02-05T21:00:00,31,1,bcsweb.is.berkeley.edu,General Reference & Learning,2
+2019-02-05T21:00:00,24,1,todoist.com,Intelligence,2
+2019-02-05T21:00:00,21,1,Blank Web Browser,Internet Utilities,1
+2019-02-05T21:00:00,21,1,calcentral.berkeley.edu,General Reference & Learning,2
+2019-02-05T21:00:00,19,1,wired.com,Science & Technology,-2
+2019-02-05T21:00:00,15,1,freedom.to,Internet Utilities,1
+2019-02-05T21:00:00,8,1,mybinder.org,General Software Development,2
+2019-02-05T21:00:00,8,1,auth.berkeley.edu,General Reference & Learning,2
+2019-02-05T21:00:00,5,1,tomato-timer.com,General Communication & Scheduling,2
+2019-02-05T21:00:00,4,1,accounts.google.com,General Communication & Scheduling,2
+2019-02-05T21:00:00,3,1,todoist,Project Management,2
+2019-02-05T21:00:00,3,1,wireless diagnostics,Internet Utilities,1
+2019-02-05T21:00:00,1,1,speedtest.net,Internet Utilities,1
+2019-02-05T21:00:00,1,1,okpy.org,General Software Development,2
+2019-02-05T21:00:00,1,1,cdn2.freedom.to,Internet Utilities,1
+2019-02-05T22:00:00,2115,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-02-05T22:00:00,730,1,inferentialthinking.com,Uncategorized,0
+2019-02-05T22:00:00,333,1,data8.org,Uncategorized,2
+2019-02-05T22:00:00,183,1,docs.scipy.org,Engineering & Technology,2
+2019-02-05T22:00:00,141,1,Google Presentations,Presentation,2
+2019-02-05T22:00:00,56,1,okpy.org,General Software Development,2
+2019-02-05T22:00:00,19,1,spotify,Music,-1
+2019-02-05T22:00:00,9,1,census.gov,Legal & Gov't,2
+2019-02-05T22:00:00,6,1,shib.berkeley.edu,General Reference & Learning,2
+2019-02-05T22:00:00,3,1,cdn2.freedom.to,Internet Utilities,1
+2019-02-05T22:00:00,2,1,auth.berkeley.edu,General Reference & Learning,2
+2019-02-05T22:00:00,1,1,Blank Web Browser,Internet Utilities,1
+2019-02-05T22:00:00,1,1,google.com,Search,1
+2019-02-05T23:00:00,1176,1,inferentialthinking.com,Uncategorized,0
+2019-02-05T23:00:00,942,1,todoist,Project Management,2
+2019-02-05T23:00:00,234,1,about:newtab,Browsers,0
+2019-02-05T23:00:00,198,1,tplinkwifi.net,General Utilities,1
+2019-02-05T23:00:00,182,1,calendar,Calendars,2
+2019-02-05T23:00:00,155,1,spotify,Music,-1
+2019-02-05T23:00:00,152,1,systemstatus.berkeley.edu,General Reference & Learning,2
+2019-02-05T23:00:00,127,1,java updater,General Utilities,1
+2019-02-05T23:00:00,111,1,freedomplatform,Computer,1
+2019-02-05T23:00:00,37,1,macmillanlearning.com,Uncategorized,0
+2019-02-05T23:00:00,34,1,loginwindow,Computer,1
+2019-02-05T23:00:00,32,1,SecurityAgent,Systems Operations,2
+2019-02-05T23:00:00,26,1,Blank Web Browser,Internet Utilities,1
+2019-02-05T23:00:00,23,1,musa.berkeley.edu,General Reference & Learning,2
+2019-02-05T23:00:00,20,1,gradescope.com,General Reference & Learning,2
+2019-02-05T23:00:00,20,1,okpy.org,General Software Development,2
+2019-02-05T23:00:00,15,1,freedom.to,Internet Utilities,1
+2019-02-05T23:00:00,13,1,google.com,Search,1
+2019-02-05T23:00:00,13,1,update.lib.berkeley.edu,General Reference & Learning,2
+2019-02-05T23:00:00,10,1,bcourses.berkeley.edu,General Reference & Learning,2
+2019-02-05T23:00:00,5,1,macjreinstaller,General Utilities,1
+2019-02-05T23:00:00,3,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-02-05T23:00:00,2,1,Mail,Email,1
+2019-02-05T23:00:00,2,1,data8.org,Uncategorized,2
+2019-02-06T00:00:00,1652,1,todoist,Project Management,2
+2019-02-06T00:00:00,449,1,www2.le.ac.uk,Business & Finance,2
+2019-02-06T00:00:00,363,1,parenting.stackexchange.com,Engineering & Technology,2
+2019-02-06T00:00:00,285,1,wakingup.com,Health & Medicine,2
+2019-02-06T00:00:00,143,1,samharris.org,Science & Technology,-2
+2019-02-06T00:00:00,139,1,google.com,Search,1
+2019-02-06T00:00:00,127,1,calcentral.berkeley.edu,General Reference & Learning,2
+2019-02-06T00:00:00,61,1,chat.stackexchange.com,Instant Message,0
+2019-02-06T00:00:00,60,1,get.todoist.help,General Communication & Scheduling,2
+2019-02-06T00:00:00,51,1,calstudentstore.berkeley.edu,General Reference & Learning,2
+2019-02-06T00:00:00,41,1,bcourses.berkeley.edu,General Reference & Learning,2
+2019-02-06T00:00:00,41,1,app.wakingup.com,Health & Medicine,2
+2019-02-06T00:00:00,40,1,saplinglearning.com,General Reference & Learning,2
+2019-02-06T00:00:00,28,1,freedomplatform,Computer,1
+2019-02-06T00:00:00,26,1,data8.org,Uncategorized,2
+2019-02-06T00:00:00,18,1,btu.bose.com,Electronics,-2
+2019-02-06T00:00:00,16,1,Blank Web Browser,Internet Utilities,1
+2019-02-06T00:00:00,15,1,creative cloud,General Design & Composition,2
+2019-02-06T00:00:00,11,1,about:newtab,Browsers,0
+2019-02-06T00:00:00,10,1,freedom.to,Internet Utilities,1
+2019-02-06T00:00:00,6,1,acrobat pro dc,General Utilities,1
+2019-02-06T00:00:00,5,1,firefoxcp plugin content (shockwave flash),General Utilities,1
+2019-02-06T00:00:00,4,1,macmillanlearning.com,Uncategorized,0
+2019-02-06T00:00:00,2,1,macjreinstaller,General Utilities,1
+2019-02-06T00:00:00,1,1,bcsweb.is.berkeley.edu,General Reference & Learning,2
+2019-02-06T00:00:00,1,1,decal.berkeley.edu,General Reference & Learning,2
+2019-02-06T00:00:00,1,1,gradescope.com,General Reference & Learning,2
+2019-02-06T01:00:00,1688,1,web.mit.edu,General Reference & Learning,2
+2019-02-06T01:00:00,440,1,microsoft word,Writing,2
+2019-02-06T01:00:00,422,1,google.com,Search,1
+2019-02-06T01:00:00,150,1,Blank Web Browser,Internet Utilities,1
+2019-02-06T01:00:00,86,1,Finder,Computer,1
+2019-02-06T01:00:00,77,1,en.wikipedia.org,General Reference & Learning,2
+2019-02-06T01:00:00,74,1,todoist,Project Management,2
+2019-02-06T01:00:00,55,1,microsoft powerpoint,Presentation,2
+2019-02-06T01:00:00,50,1,bcourses.berkeley.edu,General Reference & Learning,2
+2019-02-06T01:00:00,41,1,acrobat pro dc,General Utilities,1
+2019-02-06T01:00:00,16,1,smhttp-ssl-39255.nexcesscdn.net,Uncategorized,0
+2019-02-06T01:00:00,11,1,freedom.to,Internet Utilities,1
+2019-02-06T01:00:00,8,1,tastingtable.com,General Shopping,-2
+2019-02-06T01:00:00,8,1,chefs-resources.com,Uncategorized,0
+2019-02-06T01:00:00,5,1,about:newtab,Browsers,0
+2019-02-06T01:00:00,5,1,Preview,General Reference & Learning,2
+2019-02-06T01:00:00,3,1,RescueTime,Intelligence,2
+2019-02-06T01:00:00,3,1,macmillanlearning.com,Uncategorized,0
+2019-02-06T01:00:00,3,1,foggyb.livejournal.com,General News & Opinion,-2
+2019-02-06T01:00:00,2,1,gentlemansgazette.com,Uncategorized,0
+2019-02-06T01:00:00,2,1,calstudentstore.berkeley.edu,General Reference & Learning,2
+2019-02-06T01:00:00,1,1,bcsweb.is.berkeley.edu,General Reference & Learning,2
+2019-02-06T01:00:00,1,1,tomato-timer.com,General Communication & Scheduling,2
+2019-02-06T02:00:00,2361,1,web.mit.edu,General Reference & Learning,2
+2019-02-06T02:00:00,102,1,foggyb.livejournal.com,General News & Opinion,-2
+2019-02-06T02:00:00,41,1,microsoft powerpoint,Presentation,2
+2019-02-06T02:00:00,33,1,wiki.logic-masters.de,Uncategorized,0
+2019-02-06T02:00:00,20,1,about:newtab,Browsers,0
+2019-02-06T02:00:00,20,1,loginwindow,Computer,1
+2019-02-06T02:00:00,4,1,acrobat pro dc,General Utilities,1
+2019-02-06T09:00:00,52,1,loginwindow,Computer,1
+2019-02-06T15:00:00,679,1,web.mit.edu,General Reference & Learning,2
+2019-02-06T15:00:00,187,1,english.stackexchange.com,General Reference & Learning,2
+2019-02-06T15:00:00,180,1,puzzling.stackexchange.com,General Entertainment,-2
+2019-02-06T15:00:00,10,1,acrobat pro dc,General Utilities,1
+2019-02-06T15:00:00,6,1,foggyb.livejournal.com,General News & Opinion,-2
+2019-02-06T15:00:00,4,1,about:newtab,Browsers,0
+2019-02-06T15:00:00,2,1,RescueTime,Intelligence,2
+2019-02-06T15:00:00,1,1,Blank Web Browser,Internet Utilities,1
+2019-02-06T16:00:00,907,1,worldbuilding.stackexchange.com,General Entertainment,-2
+2019-02-06T16:00:00,465,1,math.stackexchange.com,General Reference & Learning,2
+2019-02-06T16:00:00,219,1,english.stackexchange.com,General Reference & Learning,2
+2019-02-06T16:00:00,143,1,puzzling.stackexchange.com,General Entertainment,-2
+2019-02-06T16:00:00,121,1,rpg.stackexchange.com,Engineering & Technology,2
+2019-02-06T16:00:00,105,1,money.stackexchange.com,Business,-2
+2019-02-06T16:00:00,63,1,scifi.stackexchange.com,General Entertainment,-2
+2019-02-06T16:00:00,61,1,security.stackexchange.com,Engineering & Technology,2
+2019-02-06T16:00:00,58,1,piazza.com,General Reference & Learning,2
+2019-02-06T16:00:00,58,1,graphicdesign.stackexchange.com,Graphic Design,2
+2019-02-06T16:00:00,43,1,tex.stackexchange.com,Engineering & Technology,2
+2019-02-06T16:00:00,32,1,retrocomputing.stackexchange.com,Engineering & Technology,2
+2019-02-06T16:00:00,31,1,aviation.stackexchange.com,Engineering & Technology,2
+2019-02-06T16:00:00,28,1,academia.stackexchange.com,General Reference & Learning,2
+2019-02-06T16:00:00,22,1,physics.stackexchange.com,Engineering & Technology,2
+2019-02-06T16:00:00,21,1,mathoverflow.net,General Reference & Learning,2
+2019-02-06T16:00:00,19,1,loginwindow,Computer,1
+2019-02-06T16:00:00,13,1,workplace.stackexchange.com,Employment,2
+2019-02-06T16:00:00,6,1,bicycles.stackexchange.com,General Reference & Learning,2
+2019-02-06T16:00:00,4,1,space.stackexchange.com,Engineering & Technology,2
+2019-02-06T17:00:00,2765,1,youtube.com,Video,-2
+2019-02-06T17:00:00,289,1,scifi.stackexchange.com,General Entertainment,-2
+2019-02-06T17:00:00,246,1,workplace.stackexchange.com,Employment,2
+2019-02-06T17:00:00,137,1,philosophy.stackexchange.com,General Reference & Learning,2
+2019-02-06T17:00:00,101,1,writing.stackexchange.com,Engineering & Technology,2
+2019-02-06T17:00:00,28,1,psychology.stackexchange.com,Engineering & Technology,2
+2019-02-06T17:00:00,28,1,math.stackexchange.com,General Reference & Learning,2
+2019-02-06T17:00:00,3,1,politics.stackexchange.com,Engineering & Technology,2
+2019-02-06T17:00:00,1,1,piazza.com,General Reference & Learning,2
+2019-02-06T17:00:00,1,1,about:newtab,Browsers,0
+2019-02-06T18:00:00,2001,1,michaelbach.de,General Reference & Learning,2
+2019-02-06T18:00:00,1553,1,youtube.com,Video,-2
+2019-02-06T18:00:00,37,1,Blank Web Browser,Internet Utilities,1
+2019-02-06T18:00:00,6,1,naute.com,Uncategorized,0
+2019-02-06T19:00:00,3386,1,youtube.com,Video,-2
+2019-02-06T19:00:00,213,1,michaelbach.de,General Reference & Learning,2
+2019-02-06T20:00:00,3599,1,youtube.com,Video,-2
+2019-02-06T20:00:00,1,1,Blank Web Browser,Internet Utilities,1
+2019-02-06T21:00:00,194,1,youtube.com,Video,-2
+2019-02-06T21:00:00,163,1,about:newtab,Browsers,0
+2019-02-06T21:00:00,39,1,Blank Web Browser,Internet Utilities,1
+2019-02-06T21:00:00,16,1,loginwindow,Computer,1
+2019-02-06T21:00:00,9,1,piazza.com,General Reference & Learning,2
+2019-02-06T21:00:00,6,1,freedom.to,Internet Utilities,1
+2019-02-06T21:00:00,5,1,datadetox.myshadow.org,Uncategorized,0
+2019-02-06T21:00:00,5,1,freedomplatform,Computer,1
+2019-02-06T21:00:00,1,1,blog.mozilla.org,Science & Technology,-2
+2019-02-06T21:00:00,1,1,google.com,Search,1
+2019-02-06T21:00:00,1,1,RescueTime,Intelligence,2
+2019-02-06T22:00:00,1032,1,rescuetime.com,Computer,1
+2019-02-06T22:00:00,777,1,ifttt.com,Internet Utilities,1
+2019-02-06T22:00:00,411,1,drive.google.com,General Business,2
+2019-02-06T22:00:00,323,1,Google Documents,Writing,2
+2019-02-06T22:00:00,200,1,Blank Web Browser,Internet Utilities,1
+2019-02-06T22:00:00,115,1,google.com,Search,1
+2019-02-06T22:00:00,94,1,psychologytoday.com,General News & Opinion,-2
+2019-02-06T22:00:00,84,1,uhs.berkeley.edu,General Reference & Learning,2
+2019-02-06T22:00:00,82,1,about:newtab,Browsers,0
+2019-02-06T22:00:00,60,1,beeminder.com,General Reference & Learning,2
+2019-02-06T22:00:00,59,1,chrome.google.com,General Shopping,-1
+2019-02-06T22:00:00,59,1,todoist,Project Management,2
+2019-02-06T22:00:00,57,1,acrobat pro dc,General Utilities,1
+2019-02-06T22:00:00,49,1,help.beeminder.com,General Reference & Learning,2
+2019-02-06T22:00:00,40,1,quora.com,General News & Opinion,-2
+2019-02-06T22:00:00,32,1,help.rescuetime.com,General Reference & Learning,2
+2019-02-06T22:00:00,26,1,developers.google.com,General Software Development,2
+2019-02-06T22:00:00,26,1,microsoft word,Writing,2
+2019-02-06T22:00:00,14,1,freedom.to,Internet Utilities,1
+2019-02-06T22:00:00,11,1,en.wikipedia.org,General Reference & Learning,2
+2019-02-06T22:00:00,6,1,script.google.com,Editing & IDEs,2
+2019-02-06T22:00:00,5,1,streamable.com,Video,-2
+2019-02-06T22:00:00,3,1,anthem.com,General Business,2
+2019-02-06T22:00:00,1,1,wdd.io,Uncategorized,0
+2019-02-06T23:00:00,1621,1,script.google.com,Editing & IDEs,2
+2019-02-06T23:00:00,627,1,developers.google.com,General Software Development,2
+2019-02-06T23:00:00,521,1,drive.google.com,General Business,2
+2019-02-06T23:00:00,256,1,w3schools.com,Engineering & Technology,2
+2019-02-06T23:00:00,227,1,google.com,Search,1
+2019-02-06T23:00:00,81,1,stackoverflow.com,General Software Development,2
+2019-02-06T23:00:00,60,1,Google Documents,Writing,2
+2019-02-06T23:00:00,41,1,accounts.google.com,General Communication & Scheduling,2
+2019-02-06T23:00:00,37,1,ctrlq.org,General Software Development,2
+2019-02-06T23:00:00,34,1,Blank Web Browser,Internet Utilities,1
+2019-02-06T23:00:00,31,1,about:newtab,Browsers,0
+2019-02-06T23:00:00,27,1,rescuetime.com,Computer,1
+2019-02-06T23:00:00,12,1,uhs.berkeley.edu,General Reference & Learning,2
+2019-02-06T23:00:00,12,1,ifttt.com,Internet Utilities,1
+2019-02-06T23:00:00,7,1,developer.mozilla.org,Engineering & Technology,2
+2019-02-06T23:00:00,2,1,help.beeminder.com,General Reference & Learning,2
+2019-02-07T00:00:00,1627,1,drive.google.com,General Business,2
+2019-02-07T00:00:00,971,1,script.google.com,Editing & IDEs,2
+2019-02-07T00:00:00,604,1,Google Documents,Writing,2
+2019-02-07T00:00:00,96,1,google.com,Search,1
+2019-02-07T00:00:00,80,1,Blank Web Browser,Internet Utilities,1
+2019-02-07T00:00:00,65,1,developer.mozilla.org,Engineering & Technology,2
+2019-02-07T00:00:00,50,1,w3schools.com,Engineering & Technology,2
+2019-02-07T00:00:00,30,1,about:newtab,Browsers,0
+2019-02-07T00:00:00,27,1,eloquentjavascript.net,Engineering & Technology,2
+2019-02-07T00:00:00,12,1,collectionsjs.com,Uncategorized,0
+2019-02-07T00:00:00,11,1,developers.google.com,General Software Development,2
+2019-02-07T00:00:00,8,1,ctrlq.org,General Software Development,2
+2019-02-07T00:00:00,5,1,rescuetime.com,Computer,1
+2019-02-07T00:00:00,3,1,i.redd.it,General News & Opinion,-2
+2019-02-07T00:00:00,2,1,imgur.com,Photos,-2
+2019-02-07T00:00:00,2,1,uhs.berkeley.edu,General Reference & Learning,2
+2019-02-07T01:00:00,1334,1,Google Documents,Writing,2
+2019-02-07T01:00:00,496,1,drive.google.com,General Business,2
+2019-02-07T01:00:00,346,1,script.google.com,Editing & IDEs,2
+2019-02-07T01:00:00,325,1,Blank Web Browser,Internet Utilities,1
+2019-02-07T01:00:00,302,1,streamable.com,Video,-2
+2019-02-07T01:00:00,255,1,ifttt.com,Internet Utilities,1
+2019-02-07T01:00:00,196,1,developers.google.com,General Software Development,2
+2019-02-07T01:00:00,140,1,google.com,Search,1
+2019-02-07T01:00:00,55,1,rescuetime.com,Computer,1
+2019-02-07T01:00:00,30,1,about:newtab,Browsers,0
+2019-02-07T01:00:00,22,1,webapps.stackexchange.com,Engineering & Technology,2
+2019-02-07T01:00:00,21,1,uhs.berkeley.edu,General Reference & Learning,2
+2019-02-07T01:00:00,17,1,accounts.google.com,General Communication & Scheduling,2
+2019-02-07T01:00:00,16,1,platform.ifttt.com,Internet Utilities,1
+2019-02-07T01:00:00,12,1,mrvautin.com,Uncategorized,0
+2019-02-07T01:00:00,8,1,w3schools.com,Engineering & Technology,2
+2019-02-07T01:00:00,8,1,imgur.com,Photos,-2
+2019-02-07T01:00:00,4,1,i.redd.it,General News & Opinion,-2
+2019-02-07T01:00:00,4,1,ctrlq.org,General Software Development,2
+2019-02-07T01:00:00,3,1,fanfiction.net,General Entertainment,-2
+2019-02-07T01:00:00,3,1,i.imgur.com,General Entertainment,-2
+2019-02-07T02:00:00,635,1,Google Documents,Writing,2
+2019-02-07T02:00:00,290,1,Blank Web Browser,Internet Utilities,1
+2019-02-07T02:00:00,78,1,loginwindow,Computer,1
+2019-02-07T02:00:00,53,1,i.redd.it,General News & Opinion,-2
+2019-02-07T02:00:00,48,1,drive.google.com,General Business,2
+2019-02-07T02:00:00,12,1,rescuetime.com,Computer,1
+2019-02-07T02:00:00,9,1,imgur.com,Photos,-2
+2019-02-07T02:00:00,6,1,uhs.berkeley.edu,General Reference & Learning,2
+2019-02-07T02:00:00,3,1,i.imgur.com,General Entertainment,-2
+2019-02-07T12:00:00,315,1,uhs-var-calweb.berkeley.edu,General Reference & Learning,2
+2019-02-07T12:00:00,138,1,Google Documents,Writing,2
+2019-02-07T12:00:00,106,1,rescuetime.com,Computer,1
+2019-02-07T12:00:00,88,1,acrobat pro dc,General Utilities,1
+2019-02-07T12:00:00,48,1,uhs.berkeley.edu,General Reference & Learning,2
+2019-02-07T12:00:00,34,1,google.com,Search,1
+2019-02-07T12:00:00,28,1,about:newtab,Browsers,0
+2019-02-07T12:00:00,16,1,Blank Web Browser,Internet Utilities,1
+2019-02-07T12:00:00,10,1,reddit.com,General News & Opinion,-2
+2019-02-07T12:00:00,9,1,drive.google.com,General Business,2
+2019-02-07T12:00:00,8,1,Notes,Writing,2
+2019-02-07T12:00:00,4,1,freedom.to,Internet Utilities,1
+2019-02-07T13:00:00,744,1,karenrosemft.securepatientarea.com,Uncategorized,0
+2019-02-07T13:00:00,320,1,uhs-var-calweb.berkeley.edu,General Reference & Learning,2
+2019-02-07T13:00:00,239,1,RescueTime,Intelligence,2
+2019-02-07T13:00:00,149,1,Mail,Email,1
+2019-02-07T13:00:00,145,1,rose-counseling.com,Uncategorized,0
+2019-02-07T13:00:00,94,1,google.com,Search,1
+2019-02-07T13:00:00,88,1,Blank Web Browser,Internet Utilities,1
+2019-02-07T13:00:00,81,1,loginwindow,Computer,1
+2019-02-07T13:00:00,17,1,microsoft word,Writing,2
+2019-02-07T13:00:00,11,1,youtube.com,Video,-2
+2019-02-07T13:00:00,7,1,about:newtab,Browsers,0
+2019-02-07T14:00:00,62,1,youtube.com,Video,-2
+2019-02-07T14:00:00,5,1,google.com,Search,1
+2019-02-07T14:00:00,3,1,rescuetime.com,Computer,1
+2019-02-07T14:00:00,3,1,rose-counseling.com,Uncategorized,0
+2019-02-07T14:00:00,3,1,Blank Web Browser,Internet Utilities,1
+2019-02-07T14:00:00,3,1,RescueTime,Intelligence,2
+2019-02-07T14:00:00,1,1,karenrosemft.securepatientarea.com,Uncategorized,0
+2019-02-07T14:00:00,1,1,uhs.berkeley.edu,General Reference & Learning,2
+2019-02-07T14:00:00,1,1,uhs-var-calweb.berkeley.edu,General Reference & Learning,2
+2019-02-07T15:00:00,3580,1,youtube.com,Video,-2
+2019-02-07T15:00:00,2,1,Blank Web Browser,Internet Utilities,1
+2019-02-07T16:00:00,3600,1,youtube.com,Video,-2
+2019-02-07T17:00:00,3600,1,youtube.com,Video,-2
+2019-02-07T18:00:00,1189,1,youtube.com,Video,-2
+2019-02-07T18:00:00,267,1,Mail,Email,1
+2019-02-07T18:00:00,245,1,washingtonpost.com,General News & Opinion,-2
+2019-02-07T18:00:00,233,1,karenrosemft.securepatientarea.com,Uncategorized,0
+2019-02-07T18:00:00,212,1,uhs-var-calweb.berkeley.edu,General Reference & Learning,2
+2019-02-07T18:00:00,41,1,loginwindow,Computer,1
+2019-02-07T18:00:00,38,1,about:newtab,Browsers,0
+2019-02-07T18:00:00,33,1,freedomplatform,Computer,1
+2019-02-07T18:00:00,23,1,acrobat pro dc,General Utilities,1
+2019-02-07T18:00:00,9,1,Blank Web Browser,Internet Utilities,1
+2019-02-07T18:00:00,4,1,memory cleaner,General Utilities,1
+2019-02-07T18:00:00,4,1,todoist,Project Management,2
+2019-02-07T18:00:00,3,1,freedom.to,Internet Utilities,1
+2019-02-07T18:00:00,2,1,rose-counseling.com,Uncategorized,0
+2019-02-07T21:00:00,411,1,about:newtab,Browsers,0
+2019-02-07T21:00:00,329,1,freedom.to,Internet Utilities,1
+2019-02-07T21:00:00,289,1,rescuetime.com,Computer,1
+2019-02-07T21:00:00,251,1,Google Documents,Writing,2
+2019-02-07T21:00:00,238,1,Blank Web Browser,Internet Utilities,1
+2019-02-07T21:00:00,223,1,streamable.com,Video,-2
+2019-02-07T21:00:00,183,1,RescueTime,Intelligence,2
+2019-02-07T21:00:00,64,1,google.com,Search,1
+2019-02-07T21:00:00,63,1,Firefox,Browsers,0
+2019-02-07T21:00:00,63,1,drive.google.com,General Business,2
+2019-02-07T21:00:00,33,1,systemuiserver,General Utilities,1
+2019-02-07T21:00:00,31,1,ifttt.com,Internet Utilities,1
+2019-02-07T21:00:00,21,1,loginwindow,Computer,1
+2019-02-07T21:00:00,11,1,about:preferences?entrypoint=menupanel#sync,General Utilities,1
+2019-02-07T21:00:00,10,1,System Preferences,Computer,1
+2019-02-07T21:00:00,9,1,gfycat.com,General Entertainment,-2
+2019-02-07T21:00:00,8,1,esquire.com,General News & Opinion,-2
+2019-02-07T21:00:00,4,1,karenrosemft.securepatientarea.com,Uncategorized,0
+2019-02-07T21:00:00,3,1,rose-counseling.com,Uncategorized,0
+2019-02-07T21:00:00,3,1,creative cloud,General Design & Composition,2
+2019-02-07T21:00:00,2,1,blog.rescuetime.com,Intelligence,2
+2019-02-07T21:00:00,2,1,cdn2.freedom.to,Internet Utilities,1
+2019-02-07T21:00:00,1,1,Mail,Email,1
+2019-02-07T21:00:00,1,1,Notes,Writing,2
+2019-02-07T22:00:00,103,1,rescuetime.com,Computer,1
+2019-02-07T22:00:00,80,1,loginwindow,Computer,1
+2019-02-07T22:00:00,69,1,todoist,Project Management,2
+2019-02-07T22:00:00,42,1,calendar,Calendars,2
+2019-02-07T22:00:00,34,1,Finder,Computer,1
+2019-02-07T22:00:00,10,1,microsoft word,Writing,2
+2019-02-07T22:00:00,10,1,rose-counseling.com,Uncategorized,0
+2019-02-07T22:00:00,2,1,drive.google.com,General Business,2
+2019-02-07T22:00:00,1,1,System Preferences,Computer,1
+2019-02-07T22:00:00,1,1,Google Documents,Writing,2
+2019-02-08T11:00:00,109,1,freedom.to,Internet Utilities,1
+2019-02-08T11:00:00,20,1,loginwindow,Computer,1
+2019-02-08T11:00:00,17,1,rescuetime.com,Computer,1
+2019-02-08T11:00:00,14,1,rose-counseling.com,Uncategorized,0
+2019-02-08T11:00:00,4,1,google.com,Search,1
+2019-02-08T11:00:00,4,1,about:newtab,Browsers,0
+2019-02-08T11:00:00,1,1,Finder,Computer,1
+2019-02-08T11:00:00,1,1,cdn2.freedom.to,Internet Utilities,1
+2019-02-08T14:00:00,24,1,youtube.com,Video,-2
+2019-02-08T14:00:00,3,1,Blank Web Browser,Internet Utilities,1
+2019-02-08T14:00:00,3,1,freedom.to,Internet Utilities,1
+2019-02-08T14:00:00,2,1,RescueTime,Intelligence,2
+2019-02-08T15:00:00,486,1,youtube.com,Video,-2
+2019-02-08T15:00:00,158,1,loginwindow,Computer,1
+2019-02-08T15:00:00,19,1,freedom.to,Internet Utilities,1
+2019-02-08T15:00:00,9,1,about:newtab,Browsers,0
+2019-02-08T15:00:00,2,1,rescuetime.com,Computer,1
+2019-02-08T15:00:00,1,1,rose-counseling.com,Uncategorized,0
+2019-02-08T16:00:00,2523,1,Study (offline),General Reference & Learning,2
+2019-02-08T17:00:00,3600,1,Study (offline),General Reference & Learning,2
+2019-02-08T18:00:00,953,1,Study (offline),General Reference & Learning,2
+2019-02-08T18:00:00,115,1,gradescope.com,General Reference & Learning,2
+2019-02-08T18:00:00,81,1,acrobat pro dc,General Utilities,1
+2019-02-08T18:00:00,39,1,loginwindow,Computer,1
+2019-02-08T18:00:00,26,1,google.com,Search,1
+2019-02-08T18:00:00,21,1,RescueTime,Intelligence,2
+2019-02-08T18:00:00,11,1,about:newtab,Browsers,0
+2019-02-08T18:00:00,3,1,Finder,Computer,1
+2019-02-08T18:00:00,1,1,Blank Web Browser,Internet Utilities,1
+2019-02-08T20:00:00,184,1,google.com,Search,1
+2019-02-08T20:00:00,91,1,longreads.com,General News & Opinion,-2
+2019-02-08T20:00:00,56,1,RescueTime,Intelligence,2
+2019-02-08T20:00:00,40,1,loginwindow,Computer,1
+2019-02-08T20:00:00,19,1,Mail,Email,1
+2019-02-08T20:00:00,10,1,freedom.to,Internet Utilities,1
+2019-02-08T20:00:00,8,1,about:newtab,Browsers,0
+2019-02-08T20:00:00,1,1,calendar,Calendars,2
+2019-02-12T21:00:00,1534,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-02-12T21:00:00,459,1,piazza.com,General Reference & Learning,2
+2019-02-12T21:00:00,151,1,inferentialthinking.com,Uncategorized,0
+2019-02-12T21:00:00,120,1,about:newtab,Browsers,0
+2019-02-12T21:00:00,84,1,google.com,Search,1
+2019-02-12T21:00:00,73,1,longreads.com,General News & Opinion,-2
+2019-02-12T21:00:00,69,1,gradescope.com,General Reference & Learning,2
+2019-02-12T21:00:00,23,1,data8.org,Uncategorized,2
+2019-02-12T21:00:00,22,1,Blank Web Browser,Internet Utilities,1
+2019-02-12T21:00:00,20,1,loginwindow,Computer,1
+2019-02-12T21:00:00,4,1,Mail,Email,1
+2019-02-12T21:00:00,3,1,accounts.google.com,General Communication & Scheduling,2
+2019-02-12T21:00:00,2,1,freedom.to,Internet Utilities,1
+2019-02-12T21:00:00,2,1,rose-counseling.com,Uncategorized,0
+2019-02-12T21:00:00,2,1,calendar,Calendars,2
+2019-02-12T21:00:00,1,1,uhs-var-calweb.berkeley.edu,General Reference & Learning,2
+2019-02-12T22:00:00,158,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-02-12T22:00:00,76,1,loginwindow,Computer,1
+2019-02-12T22:00:00,16,1,google.com,Search,1
+2019-02-12T22:00:00,9,1,System Preferences,Computer,1
+2019-02-12T22:00:00,3,1,inferentialthinking.com,Uncategorized,0
+2019-02-12T22:00:00,1,1,piazza.com,General Reference & Learning,2
+2019-02-12T22:00:00,1,1,data8.org,Uncategorized,2
+2019-02-12T22:00:00,1,1,gradescope.com,General Reference & Learning,2
+2019-02-12T23:00:00,1327,1,Google Spreadsheets,General Business,2
+2019-02-12T23:00:00,1017,1,script.google.com,Editing & IDEs,2
+2019-02-12T23:00:00,568,1,pokemongo.gamepress.gg,Games,-2
+2019-02-12T23:00:00,186,1,developers.google.com,General Software Development,2
+2019-02-12T23:00:00,41,1,support.google.com,General News & Opinion,2
+2019-02-12T23:00:00,38,1,about:newtab,Browsers,0
+2019-02-12T23:00:00,26,1,drive.google.com,General Business,2
+2019-02-12T23:00:00,21,1,google.com,Search,1
+2019-02-12T23:00:00,8,1,data8.org,Uncategorized,2
+2019-02-12T23:00:00,8,1,gradescope.com,General Reference & Learning,2
+2019-02-12T23:00:00,7,1,inferentialthinking.com,Uncategorized,0
+2019-02-12T23:00:00,6,1,Blank Web Browser,Internet Utilities,1
+2019-02-12T23:00:00,5,1,imgur.com,Photos,-2
+2019-02-12T23:00:00,4,1,RescueTime,Intelligence,2
+2019-02-12T23:00:00,3,1,uhs.berkeley.edu,General Reference & Learning,2
+2019-02-12T23:00:00,2,1,piazza.com,General Reference & Learning,2
+2019-02-13T00:00:00,1811,1,script.google.com,Editing & IDEs,2
+2019-02-13T00:00:00,1266,1,Google Spreadsheets,General Business,2
+2019-02-13T00:00:00,152,1,developers.google.com,General Software Development,2
+2019-02-13T00:00:00,142,1,pokemongo.gamepress.gg,Games,-2
+2019-02-13T00:00:00,134,1,google.com,Search,1
+2019-02-13T00:00:00,32,1,pokemongohub.net,Games,-2
+2019-02-13T00:00:00,30,1,about:newtab,Browsers,0
+2019-02-13T00:00:00,23,1,groups.google.com,General Communication & Scheduling,2
+2019-02-13T00:00:00,6,1,Blank Web Browser,Internet Utilities,1
+2019-02-13T00:00:00,2,1,data8.org,Uncategorized,2
+2019-02-13T00:00:00,1,1,support.google.com,General News & Opinion,2
+2019-02-13T01:00:00,2108,1,Google Spreadsheets,General Business,2
+2019-02-13T01:00:00,802,1,script.google.com,Editing & IDEs,2
+2019-02-13T01:00:00,205,1,developers.google.com,General Software Development,2
+2019-02-13T01:00:00,138,1,google.com,Search,1
+2019-02-13T01:00:00,109,1,productforums.google.com,General Software Development,2
+2019-02-13T01:00:00,71,1,pokemongo.gamepress.gg,Games,-2
+2019-02-13T01:00:00,44,1,Blank Web Browser,Internet Utilities,1
+2019-02-13T01:00:00,44,1,developer.mozilla.org,Engineering & Technology,2
+2019-02-13T01:00:00,43,1,support.google.com,General News & Opinion,2
+2019-02-13T01:00:00,23,1,about:newtab,Browsers,0
+2019-02-13T01:00:00,4,1,wolframalpha.com,Search,1
+2019-02-13T01:00:00,3,1,stackoverflow.com,General Software Development,2
+2019-02-13T01:00:00,2,1,drive.google.com,General Business,2
+2019-02-13T01:00:00,1,1,benlcollins.com,Uncategorized,0
+2019-02-13T02:00:00,2412,1,Google Spreadsheets,General Business,2
+2019-02-13T02:00:00,131,1,ark42.com,Uncategorized,0
+2019-02-13T02:00:00,108,1,script.google.com,Editing & IDEs,2
+2019-02-13T02:00:00,35,1,wolframalpha.com,Search,1
+2019-02-13T02:00:00,25,1,google.com,Search,1
+2019-02-13T02:00:00,20,1,pokemongo.gamepress.gg,Games,-2
+2019-02-13T02:00:00,20,1,pokewreck.com,Uncategorized,0
+2019-02-13T02:00:00,17,1,pokemon-evolve-query.herokuapp.com,Uncategorized,0
+2019-02-13T02:00:00,16,1,Blank Web Browser,Internet Utilities,1
+2019-02-13T02:00:00,12,1,about:newtab,Browsers,0
+2019-02-13T02:00:00,4,1,adripofjavascript.com,General Reference & Learning,2
+2019-02-13T02:00:00,3,1,cdn2.freedom.to,Internet Utilities,1
+2019-02-13T02:00:00,2,1,github.com,General Software Development,2
+2019-02-13T02:00:00,1,1,developers.google.com,General Software Development,2
+2019-02-13T02:00:00,1,1,drive.google.com,General Business,2
+2019-02-13T18:00:00,259,1,xfinity.com,General Entertainment,-2
+2019-02-13T18:00:00,162,1,RescueTime,Intelligence,2
+2019-02-13T18:00:00,22,1,Google Spreadsheets,General Business,2
+2019-02-13T18:00:00,19,1,Blank Web Browser,Internet Utilities,1
+2019-02-13T18:00:00,7,1,about:newtab,Browsers,0
+2019-02-13T18:00:00,6,1,shib.berkeley.edu,General Reference & Learning,2
+2019-02-13T18:00:00,3,1,firefoxcp plugin content (shockwave flash),General Utilities,1
+2019-02-13T18:00:00,2,1,gradescope.com,General Reference & Learning,2
+2019-02-13T18:00:00,2,1,wolframalpha.com,Search,1
+2019-02-13T18:00:00,2,1,google.com,Search,1
+2019-02-13T18:00:00,2,1,piazza.com,General Reference & Learning,2
+2019-02-13T18:00:00,1,1,xfinityoncampus.com,Video,-2
+2019-02-13T18:00:00,1,1,about:addons,Browsers,0
+2019-02-13T18:00:00,1,1,drive.google.com,General Business,2
+2019-02-13T18:00:00,1,1,auth.berkeley.edu,General Reference & Learning,2
+2019-02-13T19:00:00,815,1,overleaf.com,Writing,2
+2019-02-13T19:00:00,231,1,acrobat pro dc,General Utilities,1
+2019-02-13T19:00:00,208,1,RescueTime,Intelligence,2
+2019-02-13T19:00:00,82,1,shib.berkeley.edu,General Reference & Learning,2
+2019-02-13T19:00:00,57,1,google.com,Search,1
+2019-02-13T19:00:00,32,1,quora.com,General News & Opinion,-2
+2019-02-13T19:00:00,26,1,Blank Web Browser,Internet Utilities,1
+2019-02-13T19:00:00,25,1,imt-decal.org,Uncategorized,0
+2019-02-13T19:00:00,19,1,about:newtab,Browsers,0
+2019-02-13T19:00:00,17,1,latex-tutorial.com,General Reference & Learning,2
+2019-02-13T19:00:00,13,1,texpad.com,Uncategorized,0
+2019-02-13T19:00:00,10,1,software.berkeley.edu,General Reference & Learning,2
+2019-02-13T19:00:00,7,1,orcid.org,Professional Networking,2
+2019-02-13T19:00:00,7,1,app store,General Shopping,-2
+2019-02-13T19:00:00,4,1,services10.ieee.org,General News & Opinion,-2
+2019-02-13T19:00:00,3,1,xfinity.com,General Entertainment,-2
+2019-02-13T19:00:00,3,1,drive.google.com,General Business,2
+2019-02-13T19:00:00,2,1,data8.org,Uncategorized,2
+2019-02-13T19:00:00,1,1,iTunes,Music,0
+2019-02-13T20:00:00,223,1,overleaf.com,Writing,2
+2019-02-13T20:00:00,131,1,Mail,Email,1
+2019-02-13T20:00:00,109,1,drive.google.com,General Business,2
+2019-02-13T20:00:00,108,1,Blank Web Browser,Internet Utilities,1
+2019-02-13T20:00:00,63,1,acrobat pro dc,General Utilities,1
+2019-02-13T20:00:00,30,1,data8.org,Uncategorized,2
+2019-02-13T20:00:00,19,1,loginwindow,Computer,1
+2019-02-13T20:00:00,17,1,Google Documents,Writing,2
+2019-02-13T20:00:00,3,1,Google Spreadsheets,General Business,2
+2019-02-13T21:00:00,1417,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-02-13T21:00:00,84,1,loginwindow,Computer,1
+2019-02-13T21:00:00,10,1,RescueTime,Intelligence,2
+2019-02-13T21:00:00,4,1,data8.org,Uncategorized,2
+2019-02-13T21:00:00,2,1,overleaf.com,Writing,2
+2019-02-13T21:00:00,2,1,latex-tutorial.com,General Reference & Learning,2
+2019-02-13T21:00:00,2,1,imt-decal.org,Uncategorized,0
+2019-02-13T21:00:00,2,1,about:newtab,Browsers,0
+2019-02-14T10:00:00,1479,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-02-14T10:00:00,529,1,about:newtab,Browsers,0
+2019-02-14T10:00:00,103,1,inferentialthinking.com,Uncategorized,0
+2019-02-14T10:00:00,95,1,notability,Writing,2
+2019-02-14T10:00:00,79,1,Mail,Email,1
+2019-02-14T10:00:00,26,1,imt-decal.org,Uncategorized,0
+2019-02-14T10:00:00,20,1,loginwindow,Computer,1
+2019-02-14T10:00:00,17,1,data8.org,Uncategorized,2
+2019-02-14T10:00:00,16,1,freedom.to,Internet Utilities,1
+2019-02-14T10:00:00,7,1,accounts.google.com,General Communication & Scheduling,2
+2019-02-14T10:00:00,7,1,cdn2.freedom.to,Internet Utilities,1
+2019-02-14T10:00:00,5,1,adobe flash player install manager,General Utilities,1
+2019-02-14T10:00:00,3,1,okpy.org,General Software Development,2
+2019-02-14T10:00:00,2,1,RescueTime,Intelligence,2
+2019-02-14T11:00:00,440,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-02-14T11:00:00,20,1,loginwindow,Computer,1
+2019-02-14T20:00:00,105,1,loginwindow,Computer,1
+2019-02-14T20:00:00,58,1,notability,Writing,2
+2019-02-14T20:00:00,43,1,about:newtab,Browsers,0
+2019-02-14T20:00:00,24,1,storeuid,General Utilities,1
+2019-02-14T20:00:00,18,1,overleaf.com,Writing,2
+2019-02-14T20:00:00,3,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-02-14T20:00:00,2,1,okpy.org,General Software Development,2
+2019-02-14T20:00:00,2,1,inferentialthinking.com,Uncategorized,0
+2019-02-14T22:00:00,28,1,overleaf.com,Writing,2
+2019-02-14T22:00:00,20,1,loginwindow,Computer,1
+2019-02-14T22:00:00,1,1,notability,Writing,2
+2019-02-15T18:00:00,611,1,overleaf.com,Writing,2
+2019-02-15T18:00:00,38,1,acrobat pro dc,General Utilities,1
+2019-02-15T18:00:00,30,1,emerson.emory.edu,General Reference & Learning,2
+2019-02-15T18:00:00,29,1,speedtest,Internet Utilities,1
+2019-02-15T18:00:00,28,1,google.com,Search,1
+2019-02-15T18:00:00,21,1,ctan.org,Search,1
+2019-02-15T18:00:00,19,1,about:newtab,Browsers,0
+2019-02-15T18:00:00,10,1,Finder,Computer,1
+2019-02-15T18:00:00,6,1,Blank Web Browser,Internet Utilities,1
+2019-02-15T18:00:00,2,1,firefox software update,General Utilities,1
+2019-02-15T19:00:00,2937,1,overleaf.com,Writing,2
+2019-02-15T19:00:00,304,1,acrobat pro dc,General Utilities,1
+2019-02-15T19:00:00,102,1,ctan.org,Search,1
+2019-02-15T19:00:00,90,1,google.com,Search,1
+2019-02-15T19:00:00,42,1,about:newtab,Browsers,0
+2019-02-15T19:00:00,33,1,tex.stackexchange.com,Engineering & Technology,2
+2019-02-15T19:00:00,28,1,en.wikibooks.org,Engineering & Technology,2
+2019-02-15T19:00:00,24,1,web.ift.uib.no,Search,1
+2019-02-15T19:00:00,14,1,Mail,Email,1
+2019-02-15T19:00:00,11,1,imt-decal.org,Uncategorized,0
+2019-02-15T19:00:00,10,1,Blank Web Browser,Internet Utilities,1
+2019-02-15T20:00:00,2500,1,overleaf.com,Writing,2
+2019-02-15T20:00:00,396,1,portal.housing.berkeley.edu,General Reference & Learning,2
+2019-02-15T20:00:00,281,1,google.com,Search,1
+2019-02-15T20:00:00,124,1,tex.stackexchange.com,Engineering & Technology,2
+2019-02-15T20:00:00,102,1,acrobat pro dc,General Utilities,1
+2019-02-15T20:00:00,57,1,about:newtab,Browsers,0
+2019-02-15T20:00:00,41,1,Mail,Email,1
+2019-02-15T20:00:00,25,1,mylatexnotes.wordpress.com,General News & Opinion,-2
+2019-02-15T20:00:00,20,1,web.ift.uib.no,Search,1
+2019-02-15T20:00:00,12,1,artofproblemsolving.com,Engineering & Technology,2
+2019-02-15T20:00:00,10,1,texfaq.org,Uncategorized,0
+2019-02-15T20:00:00,10,1,Blank Web Browser,Internet Utilities,1
+2019-02-15T20:00:00,9,1,imt-decal.org,Uncategorized,0
+2019-02-15T20:00:00,4,1,auth.berkeley.edu,General Reference & Learning,2
+2019-02-15T20:00:00,3,1,ctan.org,Search,1
+2019-02-15T20:00:00,1,1,stackoverflow.com,General Software Development,2
+2019-02-15T21:00:00,2875,1,overleaf.com,Writing,2
+2019-02-15T21:00:00,549,1,acrobat pro dc,General Utilities,1
+2019-02-15T21:00:00,97,1,tex.stackexchange.com,Engineering & Technology,2
+2019-02-15T21:00:00,41,1,google.com,Search,1
+2019-02-15T21:00:00,18,1,artofproblemsolving.com,Engineering & Technology,2
+2019-02-15T21:00:00,10,1,about:newtab,Browsers,0
+2019-02-15T21:00:00,5,1,texfaq.org,Uncategorized,0
+2019-02-15T21:00:00,4,1,imt-decal.org,Uncategorized,0
+2019-02-15T22:00:00,2137,1,overleaf.com,Writing,2
+2019-02-15T22:00:00,253,1,acrobat pro dc,General Utilities,1
+2019-02-15T22:00:00,154,1,gradescope.com,General Reference & Learning,2
+2019-02-15T22:00:00,125,1,loginwindow,Computer,1
+2019-02-15T22:00:00,107,1,washingtonpost.com,General News & Opinion,-2
+2019-02-15T22:00:00,79,1,ucpd.berkeley.edu,General Reference & Learning,2
+2019-02-15T22:00:00,67,1,artofproblemsolving.com,Engineering & Technology,2
+2019-02-15T22:00:00,60,1,freedom.to,Internet Utilities,1
+2019-02-15T22:00:00,45,1,google.com,Search,1
+2019-02-15T22:00:00,34,1,about:newtab,Browsers,0
+2019-02-15T22:00:00,26,1,en.wikipedia.org,General Reference & Learning,2
+2019-02-15T22:00:00,8,1,Blank Web Browser,Internet Utilities,1
+2019-02-15T22:00:00,3,1,stackoverflow.com,General Software Development,2
+2019-02-15T22:00:00,3,1,imt-decal.org,Uncategorized,0
+2019-02-16T09:00:00,59,1,Blank Web Browser,Internet Utilities,1
+2019-02-16T09:00:00,49,1,acrobat pro dc,General Utilities,1
+2019-02-16T09:00:00,20,1,gradescope.com,General Reference & Learning,2
+2019-02-16T09:00:00,19,1,stackoverflow.com,General Software Development,2
+2019-02-16T09:00:00,11,1,drive.google.com,General Business,2
+2019-02-16T09:00:00,7,1,imt-decal.org,Uncategorized,0
+2019-02-16T09:00:00,6,1,about:newtab,Browsers,0
+2019-02-16T09:00:00,4,1,overleaf.com,Writing,2
+2019-02-16T09:00:00,2,1,RescueTime,Intelligence,2
+2019-02-16T09:00:00,1,1,freedom.to,Internet Utilities,1
+2019-02-16T09:00:00,1,1,artofproblemsolving.com,Engineering & Technology,2
+2019-02-16T10:00:00,203,1,RescueTime,Intelligence,2
+2019-02-16T10:00:00,131,1,loginwindow,Computer,1
+2019-02-16T10:00:00,59,1,Google Spreadsheets,General Business,2
+2019-02-16T10:00:00,11,1,about:newtab,Browsers,0
+2019-02-16T14:00:00,2292,1,Google Spreadsheets,General Business,2
+2019-02-16T14:00:00,584,1,Blank Web Browser,Internet Utilities,1
+2019-02-16T14:00:00,262,1,pokemongo.gamepress.gg,Games,-2
+2019-02-16T14:00:00,60,1,drive.google.com,General Business,2
+2019-02-16T14:00:00,31,1,loginwindow,Computer,1
+2019-02-16T14:00:00,7,1,google.com,Search,1
+2019-02-16T14:00:00,7,1,about:newtab,Browsers,0
+2019-02-16T14:00:00,6,1,RescueTime,Intelligence,2
+2019-02-16T15:00:00,1029,1,youtube.com,Video,-2
+2019-02-16T15:00:00,82,1,loginwindow,Computer,1
+2019-02-16T15:00:00,6,1,Google Spreadsheets,General Business,2
+2019-02-16T15:00:00,5,1,Blank Web Browser,Internet Utilities,1
+2019-02-16T15:00:00,4,1,google.com,Search,1
+2019-02-16T15:00:00,1,1,screensaverengine,General Utilities,1
+2019-02-16T15:00:00,1,1,RescueTime,Intelligence,2
+2019-02-16T16:00:00,3587,1,youtube.com,Video,-2
+2019-02-16T16:00:00,13,1,loginwindow,Computer,1
+2019-02-16T17:00:00,7,1,loginwindow,Computer,1
+2019-02-16T20:00:00,198,1,youtube.com,Video,-2
+2019-02-16T21:00:00,2834,1,youtube.com,Video,-2
+2019-02-16T21:00:00,290,1,about:newtab,Browsers,0
+2019-02-16T21:00:00,180,1,notability,Writing,2
+2019-02-16T21:00:00,99,1,drive.google.com,General Business,2
+2019-02-16T21:00:00,92,1,Google Documents,Writing,2
+2019-02-16T21:00:00,51,1,Blank Web Browser,Internet Utilities,1
+2019-02-16T21:00:00,22,1,calendar,Calendars,2
+2019-02-16T21:00:00,17,1,pokemongo.gamepress.gg,Games,-2
+2019-02-16T21:00:00,4,1,rescuetime.com,Computer,1
+2019-02-16T21:00:00,3,1,Google Spreadsheets,General Business,2
+2019-02-16T21:00:00,3,1,RescueTime,Intelligence,2
+2019-02-16T21:00:00,3,1,streamable.com,Video,-2
+2019-02-16T22:00:00,489,1,deviantart.com,General Entertainment,-2
+2019-02-16T22:00:00,425,1,amazon.com,General Shopping,-2
+2019-02-16T22:00:00,150,1,Google Documents,Writing,2
+2019-02-16T22:00:00,83,1,Blank Web Browser,Internet Utilities,1
+2019-02-16T22:00:00,40,1,about:newtab,Browsers,0
+2019-02-16T22:00:00,36,1,drive.google.com,General Business,2
+2019-02-16T22:00:00,19,1,loginwindow,Computer,1
+2019-02-16T22:00:00,15,1,math.berkeley.edu,General Reference & Learning,2
+2019-02-17T21:00:00,1,1,messages,Instant Message,-1
+2019-02-17T21:00:00,1,1,deviantart.com,General Entertainment,-2
+2019-02-18T13:00:00,179,1,loginwindow,Computer,1
+2019-02-18T14:00:00,1897,1,youtube.com,Video,-2
+2019-02-18T14:00:00,291,1,loginwindow,Computer,1
+2019-02-18T14:00:00,271,1,Google Documents,Writing,2
+2019-02-18T14:00:00,178,1,Blank Web Browser,Internet Utilities,1
+2019-02-18T14:00:00,81,1,streamable.com,Video,-2
+2019-02-18T14:00:00,70,1,drive.google.com,General Business,2
+2019-02-18T14:00:00,21,1,i.redd.it,General News & Opinion,-2
+2019-02-18T14:00:00,18,1,messages,Instant Message,-1
+2019-02-18T14:00:00,10,1,math.berkeley.edu,General Reference & Learning,2
+2019-02-18T14:00:00,2,1,RescueTime,Intelligence,2
+2019-02-18T15:00:00,179,1,youtube.com,Video,-2
+2019-02-18T15:00:00,76,1,loginwindow,Computer,1
+2019-02-18T15:00:00,3,1,tomato-timer.com,General Communication & Scheduling,2
+2019-02-18T15:00:00,2,1,Google Documents,Writing,2
+2019-02-18T15:00:00,1,1,drive.google.com,General Business,2
+2019-02-18T15:00:00,1,1,imt-decal.org,Uncategorized,0
+2019-02-18T16:00:00,605,1,saplinglearning.com,General Reference & Learning,2
+2019-02-18T16:00:00,503,1,jmperezperez.com,Internet Utilities,1
+2019-02-18T16:00:00,328,1,RescueTime,Intelligence,2
+2019-02-18T16:00:00,111,1,Blank Web Browser,Internet Utilities,1
+2019-02-18T16:00:00,75,1,loginwindow,Computer,1
+2019-02-18T16:00:00,19,1,firefoxcp plugin content (shockwave flash),General Utilities,1
+2019-02-18T16:00:00,17,1,System Preferences,Computer,1
+2019-02-18T16:00:00,9,1,tomato-timer.com,General Communication & Scheduling,2
+2019-02-18T16:00:00,4,1,macmillanlearning.com,Uncategorized,0
+2019-02-18T16:00:00,2,1,messages,Instant Message,-1
+2019-02-18T17:00:00,1425,1,saplinglearning.com,General Reference & Learning,2
+2019-02-18T17:00:00,1199,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-02-18T17:00:00,364,1,piazza.com,General Reference & Learning,2
+2019-02-18T17:00:00,183,1,Blank Web Browser,Internet Utilities,1
+2019-02-18T17:00:00,129,1,messages,Instant Message,-1
+2019-02-18T17:00:00,68,1,gapminder.org,General News & Opinion,-2
+2019-02-18T17:00:00,58,1,about:newtab,Browsers,0
+2019-02-18T17:00:00,50,1,data8.org,Uncategorized,2
+2019-02-18T17:00:00,41,1,en.wikipedia.org,General Reference & Learning,2
+2019-02-18T17:00:00,31,1,github.com,General Software Development,2
+2019-02-18T17:00:00,21,1,gradescope.com,General Reference & Learning,2
+2019-02-18T17:00:00,13,1,google.com,Search,1
+2019-02-18T17:00:00,10,1,inferentialthinking.com,Uncategorized,0
+2019-02-18T17:00:00,5,1,notability,Writing,2
+2019-02-18T17:00:00,2,1,firefoxcp plugin content (shockwave flash),General Utilities,1
+2019-02-18T17:00:00,1,1,macmillanlearning.com,Uncategorized,0
+2019-02-18T18:00:00,468,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-02-18T18:00:00,307,1,inferentialthinking.com,Uncategorized,0
+2019-02-18T18:00:00,97,1,loginwindow,Computer,1
+2019-02-18T18:00:00,25,1,en.wikipedia.org,General Reference & Learning,2
+2019-02-18T18:00:00,14,1,data8.org,Uncategorized,2
+2019-02-18T18:00:00,2,1,gapminder.org,General News & Opinion,-2
+2019-02-18T20:00:00,249,1,Blank Web Browser,Internet Utilities,1
+2019-02-18T20:00:00,25,1,drive.google.com,General Business,2
+2019-02-18T20:00:00,3,1,inferentialthinking.com,Uncategorized,0
+2019-02-18T20:00:00,3,1,RescueTime,Intelligence,2
+2019-02-18T21:00:00,1816,1,Google Spreadsheets,General Business,2
+2019-02-18T21:00:00,1371,1,pokebattler.com,Games,-2
+2019-02-18T21:00:00,247,1,pokemongo.gamepress.gg,Games,-2
+2019-02-18T21:00:00,75,1,google.com,Search,1
+2019-02-18T21:00:00,32,1,Blank Web Browser,Internet Utilities,1
+2019-02-18T21:00:00,27,1,about:newtab,Browsers,0
+2019-02-18T21:00:00,26,1,forbes.com,General News & Opinion,-2
+2019-02-18T21:00:00,2,1,wolframalpha.com,Search,1
+2019-02-18T21:00:00,1,1,drive.google.com,General Business,2
+2019-02-18T22:00:00,269,1,loginwindow,Computer,1
+2019-02-18T22:00:00,259,1,pokebattler.com,Games,-2
+2019-02-18T22:00:00,125,1,Google Spreadsheets,General Business,2
+2019-02-18T22:00:00,4,1,wolframalpha.com,Search,1
+2019-02-18T22:00:00,1,1,RescueTime,Intelligence,2
+2019-02-19T12:00:00,5,1,loginwindow,Computer,1
+2019-02-19T13:00:00,635,1,pokemongo.gamepress.gg,Games,-2
+2019-02-19T13:00:00,476,1,Google Spreadsheets,General Business,2
+2019-02-19T13:00:00,289,1,notability,Writing,2
+2019-02-19T13:00:00,73,1,microsoft powerpoint,Presentation,2
+2019-02-19T13:00:00,45,1,pokebattler.com,Games,-2
+2019-02-19T13:00:00,34,1,bcourses.berkeley.edu,General Reference & Learning,2
+2019-02-19T13:00:00,30,1,about:newtab,Browsers,0
+2019-02-19T13:00:00,24,1,deviantart.com,General Entertainment,-2
+2019-02-19T13:00:00,16,1,Finder,Computer,1
+2019-02-19T13:00:00,10,1,RescueTime,Intelligence,2
+2019-02-19T13:00:00,9,1,auth.berkeley.edu,General Reference & Learning,2
+2019-02-19T13:00:00,6,1,messages,Instant Message,-1
+2019-02-19T13:00:00,6,1,Blank Web Browser,Internet Utilities,1
+2019-02-19T13:00:00,5,1,todoist,Project Management,2
+2019-02-19T13:00:00,5,1,en.wikipedia.org,General Reference & Learning,2
+2019-02-19T13:00:00,5,1,drive.google.com,General Business,2
+2019-02-19T13:00:00,4,1,acrobat pro dc,General Utilities,1
+2019-02-19T13:00:00,3,1,gapminder.org,General News & Opinion,-2
+2019-02-19T13:00:00,2,1,loginwindow,Computer,1
+2019-02-19T13:00:00,1,1,data8.org,Uncategorized,2
+2019-02-19T13:00:00,1,1,inferentialthinking.com,Uncategorized,0
+2019-02-20T15:00:00,206,1,microsoft word,Writing,2
+2019-02-20T15:00:00,182,1,RescueTime,Intelligence,2
+2019-02-20T15:00:00,57,1,pokemongo.gamepress.gg,Games,-2
+2019-02-20T15:00:00,52,1,freedomplatform,Computer,1
+2019-02-20T15:00:00,33,1,bcourses.berkeley.edu,General Reference & Learning,2
+2019-02-20T15:00:00,30,1,todoist,Project Management,2
+2019-02-20T15:00:00,19,1,Google Spreadsheets,General Business,2
+2019-02-20T15:00:00,10,1,microsoft powerpoint,Presentation,2
+2019-02-20T15:00:00,4,1,autoupdate,General Utilities,1
+2019-02-20T15:00:00,2,1,loginwindow,Computer,1
+2019-02-20T15:00:00,2,1,Blank Web Browser,Internet Utilities,1
+2019-02-20T15:00:00,2,1,cdn2.freedom.to,Internet Utilities,1
+2019-02-20T15:00:00,1,1,notability,Writing,2
+2019-02-20T15:00:00,1,1,acrobat pro dc,General Utilities,1
+2019-02-20T15:00:00,1,1,messages,Instant Message,-1
+2019-02-20T16:00:00,121,1,loginwindow,Computer,1
+2019-02-20T16:00:00,67,1,RescueTime,Intelligence,2
+2019-02-20T16:00:00,53,1,acrobat pro dc,General Utilities,1
+2019-02-20T16:00:00,11,1,Finder,Computer,1
+2019-02-20T16:00:00,2,1,microsoft word,Writing,2
+2019-02-20T16:00:00,1,1,usernotificationcenter,General Utilities,1
+2019-02-20T20:00:00,778,1,Google Spreadsheets,General Business,2
+2019-02-20T20:00:00,386,1,data8.org,Uncategorized,2
+2019-02-20T20:00:00,294,1,RescueTime,Intelligence,2
+2019-02-20T20:00:00,196,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-02-20T20:00:00,21,1,Blank Web Browser,Internet Utilities,1
+2019-02-20T20:00:00,17,1,google.com,Search,1
+2019-02-20T20:00:00,10,1,bcourses.berkeley.edu,General Reference & Learning,2
+2019-02-20T20:00:00,8,1,drive.google.com,General Business,2
+2019-02-20T20:00:00,8,1,auth.berkeley.edu,General Reference & Learning,2
+2019-02-20T20:00:00,7,1,Google Presentations,Presentation,2
+2019-02-20T20:00:00,6,1,about:newtab,Browsers,0
+2019-02-20T20:00:00,1,1,shib.berkeley.edu,General Reference & Learning,2
+2019-02-20T20:00:00,1,1,okpy.org,General Software Development,2
+2019-02-20T21:00:00,3265,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-02-20T21:00:00,191,1,data8.org,Uncategorized,2
+2019-02-20T21:00:00,31,1,Google Presentations,Presentation,2
+2019-02-20T21:00:00,30,1,google.com,Search,1
+2019-02-20T21:00:00,8,1,messages,Instant Message,-1
+2019-02-20T21:00:00,5,1,Google Spreadsheets,General Business,2
+2019-02-20T21:00:00,2,1,about:newtab,Browsers,0
+2019-02-20T21:00:00,1,1,about:addons,Browsers,0
+2019-02-20T22:00:00,239,1,Google Spreadsheets,General Business,2
+2019-02-20T22:00:00,2,1,RescueTime,Intelligence,2
+2019-02-21T10:00:00,2370,1,notability,Writing,2
+2019-02-21T10:00:00,208,1,data8.org,Uncategorized,2
+2019-02-21T10:00:00,54,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-02-21T10:00:00,42,1,Google Presentations,Presentation,2
+2019-02-21T10:00:00,42,1,okpy.org,General Software Development,2
+2019-02-21T10:00:00,13,1,messages,Instant Message,-1
+2019-02-21T10:00:00,5,1,google.com,Search,1
+2019-02-21T10:00:00,3,1,RescueTime,Intelligence,2
+2019-02-21T10:00:00,3,1,loginwindow,Computer,1
+2019-02-21T10:00:00,2,1,about:newtab,Browsers,0
+2019-02-21T10:00:00,2,1,drive.google.com,General Business,2
+2019-02-21T10:00:00,1,1,usernotificationcenter,General Utilities,1
+2019-02-21T11:00:00,2122,1,datahub.berkeley.edu,General Reference & Learning,2
+2019-02-21T11:00:00,257,1,okpy.org,General Software Development,2
+2019-02-21T11:00:00,134,1,calendar,Calendars,2
+2019-02-21T11:00:00,83,1,loginwindow,Computer,1
+2019-02-21T11:00:00,10,1,adobe flash player install manager,General Utilities,1
+2019-02-21T11:00:00,5,1,data8.org,Uncategorized,2
+2019-02-21T11:00:00,2,1,Google Presentations,Presentation,2
+2019-02-21T12:00:00,472,1,overleaf.com,Writing,2
+2019-02-21T12:00:00,16,1,acrobat pro dc,General Utilities,1
+2019-02-21T12:00:00,15,1,about:newtab,Browsers,0
+2019-02-21T12:00:00,10,1,shib.berkeley.edu,General Reference & Learning,2
+2019-02-21T12:00:00,7,1,orcid.org,Professional Networking,2
+2019-02-21T12:00:00,6,1,Finder,Computer,1
+2019-02-21T12:00:00,4,1,notability,Writing,2
+2019-02-21T12:00:00,4,1,loginwindow,Computer,1
+2019-02-21T12:00:00,4,1,okpy.org,General Software Development,2
+2019-02-21T12:00:00,2,1,google.com,Search,1
+2019-02-21T12:00:00,1,1,messages,Instant Message,-1
+2019-02-21T12:00:00,1,1,auth.berkeley.edu,General Reference & Learning,2
+2019-02-21T12:00:00,1,1,Mail,Email,1
+2019-02-21T13:00:00,1581,1,overleaf.com,Writing,2
+2019-02-21T13:00:00,421,1,youtube.com,Video,-2
+2019-02-21T13:00:00,99,1,google.com,Search,1
+2019-02-21T13:00:00,55,1,systemuiserver,General Utilities,1
+2019-02-21T13:00:00,40,1,loginwindow,Computer,1
+2019-02-21T13:00:00,26,1,about:newtab,Browsers,0
+2019-02-21T13:00:00,23,1,adobe flash player install manager,General Utilities,1
+2019-02-21T13:00:00,14,1,get3.adobe.com,Internet Utilities,1
+2019-02-21T13:00:00,6,1,diskimagemounter,General Utilities,1
+2019-02-21T13:00:00,6,1,Finder,Computer,1
+2019-02-21T13:00:00,5,1,SecurityAgent,Systems Operations,2
+2019-02-21T13:00:00,3,1,wireless diagnostics,Internet Utilities,1
+2019-02-21T13:00:00,3,1,okpy.org,General Software Development,2
+2019-02-21T20:00:00,1378,1,overleaf.com,Writing,2
+2019-02-21T20:00:00,294,1,RescueTime,Intelligence,2
+2019-02-21T20:00:00,17,1,acrobat pro dc,General Utilities,1
+2019-02-21T20:00:00,6,1,Finder,Computer,1
+2019-02-21T20:00:00,5,1,messages,Instant Message,-1
+2019-02-21T20:00:00,2,1,youtube.com,Video,-2
+2019-02-21T20:00:00,1,1,screensaverengine,General Utilities,1
+2019-02-21T21:00:00,1902,1,overleaf.com,Writing,2
+2019-02-21T21:00:00,147,1,messages,Instant Message,-1
+2019-02-21T21:00:00,32,1,google.com,Search,1
+2019-02-21T21:00:00,20,1,RescueTime,Intelligence,2
+2019-02-21T21:00:00,2,1,about:newtab,Browsers,0
+2019-02-21T21:00:00,1,1,acrobat pro dc,General Utilities,1
+2019-02-21T22:00:00,34,1,loginwindow,Computer,1
+2019-02-21T22:00:00,4,1,tex.stackexchange.com,Engineering & Technology,2
+2019-02-21T22:00:00,2,1,RescueTime,Intelligence,2
+2019-02-21T22:00:00,1,1,overleaf.com,Writing,2
+2019-02-22T00:00:00,194,1,Google Spreadsheets,General Business,2
+2019-02-22T00:00:00,9,1,drive.google.com,General Business,2
+2019-02-22T00:00:00,4,1,RescueTime,Intelligence,2
+2019-02-22T00:00:00,2,1,tex.stackexchange.com,Engineering & Technology,2
+2019-02-22T00:00:00,1,1,Blank Web Browser,Internet Utilities,1
+2019-02-22T01:00:00,154,1,cdn2.freedom.to,Internet Utilities,1
+2019-02-22T01:00:00,97,1,loginwindow,Computer,1
+2019-02-22T01:00:00,43,1,RescueTime,Intelligence,2
+2019-02-22T01:00:00,2,1,Blank Web Browser,Internet Utilities,1
+2019-02-22T01:00:00,1,1,Google Spreadsheets,General Business,2
+2019-02-22T12:00:00,977,1,overleaf.com,Writing,2
+2019-02-22T12:00:00,689,1,messages,Instant Message,-1
+2019-02-22T12:00:00,244,1,RescueTime,Intelligence,2
+2019-02-22T12:00:00,186,1,Google Spreadsheets,General Business,2
+2019-02-22T12:00:00,175,1,about:newtab,Browsers,0
+2019-02-22T12:00:00,37,1,google.com,Search,1
+2019-02-22T12:00:00,23,1,tableau.com,Intelligence,2
+2019-02-22T12:00:00,5,1,Blank Web Browser,Internet Utilities,1
+2019-02-22T12:00:00,2,1,okpy.org,General Software Development,2
+2019-02-22T12:00:00,2,1,data8.org,Uncategorized,2
+2019-02-22T12:00:00,1,1,drive.google.com,General Business,2
+2019-02-22T13:00:00,546,1,overleaf.com,Writing,2
+2019-02-22T13:00:00,516,1,rpg.stackexchange.com,Engineering & Technology,2
+2019-02-22T13:00:00,371,1,puzzling.stackexchange.com,General Entertainment,-2
+2019-02-22T13:00:00,194,1,google.com,Search,1
+2019-02-22T13:00:00,78,1,math.stackexchange.com,General Reference & Learning,2
+2019-02-22T13:00:00,69,1,stackoverflow.com,General Software Development,2
+2019-02-22T13:00:00,58,1,cseducators.stackexchange.com,Engineering & Technology,2
+2019-02-22T13:00:00,57,1,tex.stackexchange.com,Engineering & Technology,2
+2019-02-22T13:00:00,41,1,english.stackexchange.com,General Reference & Learning,2
+2019-02-22T13:00:00,37,1,politics.stackexchange.com,Engineering & Technology,2
+2019-02-22T13:00:00,35,1,loginwindow,Computer,1
+2019-02-22T13:00:00,30,1,about:newtab,Browsers,0
+2019-02-22T13:00:00,17,1,worldbuilding.stackexchange.com,General Entertainment,-2
+2019-02-22T13:00:00,15,1,Blank Web Browser,Internet Utilities,1
+2019-02-22T13:00:00,8,1,texfaq.org,Uncategorized,0
+2019-02-22T13:00:00,2,1,data8.org,Uncategorized,2
+2019-02-22T13:00:00,1,1,latex.org,Uncategorized,0
+2019-02-22T13:00:00,1,1,Google Spreadsheets,General Business,2
+2019-02-22T13:00:00,1,1,en.wikipedia.org,General Reference & Learning,2
+2019-02-22T17:00:00,118,1,puzzling.stackexchange.com,General Entertainment,-2
+2019-02-22T17:00:00,5,1,RescueTime,Intelligence,2
+2019-02-22T17:00:00,2,1,Blank Web Browser,Internet Utilities,1
+2019-02-22T17:00:00,1,1,en.wikipedia.org,General Reference & Learning,2
+2019-02-22T17:00:00,1,1,screensaverengine,General Utilities,1
+2019-02-23T21:00:00,3,1,about:newtab,Browsers,0
+2019-02-23T22:00:00,115,1,about:newtab,Browsers,0
+2019-02-23T22:00:00,2,1,loginwindow,Computer,1
+2019-02-23T23:00:00,705,1,berkeley.mywconline.com,Uncategorized,0
+2019-02-23T23:00:00,166,1,calendar,Calendars,2
+2019-02-23T23:00:00,114,1,loginwindow,Computer,1
+2019-02-23T23:00:00,69,1,data8.org,Uncategorized,2
+2019-02-23T23:00:00,34,1,about:newtab,Browsers,0
+2019-02-23T23:00:00,26,1,slc.berkeley.edu,General Reference & Learning,2
+2019-02-23T23:00:00,21,1,google.com,Search,1
+2019-02-23T23:00:00,3,1,texfaq.org,Uncategorized,0
+2019-02-23T23:00:00,3,1,acrobat pro dc,General Utilities,1
+2019-02-23T23:00:00,2,1,pokemongo.gamepress.gg,Games,-2
+2019-02-23T23:00:00,1,1,drive.google.com,General Business,2
+2019-02-23T23:00:00,1,1,RescueTime,Intelligence,2
+2019-02-23T23:00:00,1,1,Google Spreadsheets,General Business,2
+2019-02-23T23:00:00,1,1,tex.stackexchange.com,Engineering & Technology,2
+2019-02-23T23:00:00,1,1,en.wikipedia.org,General Reference & Learning,2
+2019-02-24T12:00:00,332,1,loginwindow,Computer,1
+2019-02-24T16:00:00,3144,1,youtube.com,Video,-2
+2019-02-24T16:00:00,139,1,xfinity.com,General Entertainment,-2
+2019-02-24T16:00:00,43,1,overleaf.com,Writing,2
+2019-02-24T16:00:00,21,1,berkeley.mywconline.com,Uncategorized,0
+2019-02-24T16:00:00,20,1,messages,Instant Message,-1
+2019-02-24T16:00:00,13,1,Blank Web Browser,Internet Utilities,1
+2019-02-24T16:00:00,13,1,xfinityoncampus.com,Video,-2
+2019-02-24T16:00:00,7,1,auth.berkeley.edu,General Reference & Learning,2
+2019-02-24T16:00:00,5,1,shib.berkeley.edu,General Reference & Learning,2
+2019-02-24T16:00:00,5,1,about:newtab,Browsers,0
+2019-02-24T16:00:00,4,1,loginwindow,Computer,1
+2019-02-24T16:00:00,2,1,firefoxcp plugin content (shockwave flash),General Utilities,1
+2019-02-24T16:00:00,1,1,texfaq.org,Uncategorized,0
+2019-02-24T16:00:00,1,1,RescueTime,Intelligence,2
+2019-02-24T17:00:00,3600,1,youtube.com,Video,-2
+2019-02-24T18:00:00,749,1,youtube.com,Video,-2
+2019-02-24T18:00:00,114,1,loginwindow,Computer,1
+2019-02-24T18:00:00,1,1,rescuetime.com,Computer,1
+2019-02-24T19:00:00,39,1,about:newtab,Browsers,0
+2019-02-24T19:00:00,3,1,acrobat pro dc,General Utilities,1
+2019-02-24T19:00:00,3,1,RescueTime,Intelligence,2
+2019-02-24T19:00:00,2,1,calendar,Calendars,2
+2019-02-24T19:00:00,2,1,berkeley.mywconline.com,Uncategorized,0
+2019-02-24T19:00:00,1,1,rescuetime.com,Computer,1
+2019-02-24T21:00:00,860,1,saplinglearning.com,General Reference & Learning,2
+2019-02-24T21:00:00,255,1,bcourses.berkeley.edu,General Reference & Learning,2
+2019-02-24T21:00:00,196,1,calendar,Calendars,2
+2019-02-24T21:00:00,115,1,google.com,Search,1
+2019-02-24T21:00:00,90,1,overleaf.com,Writing,2
+2019-02-24T21:00:00,89,1,messages,Instant Message,-1
+2019-02-24T21:00:00,46,1,macmillanlearning.com,Uncategorized,0
+2019-02-24T21:00:00,23,1,en.wikipedia.org,General Reference & Learning,2
+2019-02-24T21:00:00,15,1,about:newtab,Browsers,0
+2019-02-24T21:00:00,13,1,Blank Web Browser,Internet Utilities,1
+2019-02-24T21:00:00,12,1,acrobat pro dc,General Utilities,1
+2019-02-24T21:00:00,6,1,firefoxcp plugin content (shockwave flash),General Utilities,1
+2019-02-24T21:00:00,3,1,RescueTime,Intelligence,2
+2019-02-24T21:00:00,2,1,rescuetime.com,Computer,1
+2019-02-24T21:00:00,2,1,auth.berkeley.edu,General Reference & Learning,2
+2019-02-24T21:00:00,1,1,berkeley.mywconline.com,Uncategorized,0
+2019-02-24T21:00:00,1,1,get.adobe.com,General News & Opinion,-2
+2019-02-24T21:00:00,1,1,loginwindow,Computer,1
+2019-02-24T22:00:00,127,1,Blank Web Browser,Internet Utilities,1
+2019-02-24T22:00:00,27,1,bcourses.berkeley.edu,General Reference & Learning,2
+2019-02-24T22:00:00,3,1,about:newtab,Browsers,0
+2019-02-24T22:00:00,3,1,RescueTime,Intelligence,2
+2019-02-24T22:00:00,1,1,saplinglearning.com,General Reference & Learning,2
