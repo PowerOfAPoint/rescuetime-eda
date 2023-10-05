@@ -1,0 +1,1982 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2023-07-01T00:00:00,282,1,safari-resource:,Browsers,0
+2023-07-01T00:00:00,200,1,Safari,Browsers,0
+2023-07-01T00:00:00,191,1,Firefox,Browsers,0
+2023-07-01T00:00:00,114,1,tplinkwifi.net,General Utilities,1
+2023-07-01T00:00:00,96,1,ccclib.bibliocommons.com,General Reference & Learning,2
+2023-07-01T00:00:00,34,1,system settings,Computer,1
+2023-07-01T00:00:00,6,1,Google Documents,Writing,2
+2023-07-11T11:00:00,387,1,poe.com,General Software Development,2
+2023-07-11T11:00:00,9,1,chat.openai.com,General Reference & Learning,2
+2023-07-11T11:00:00,6,1,help.openai.com,General Reference & Learning,2
+2023-07-11T11:00:00,6,1,Safari,Browsers,0
+2023-07-11T11:00:00,4,1,medium.com,General News & Opinion,-2
+2023-07-11T12:00:00,2029,1,poe.com,General Software Development,2
+2023-07-11T14:00:00,253,1,pycharm,Editing & IDEs,2
+2023-07-11T14:00:00,93,1,dataquest.io,Engineering & Technology,2
+2023-07-11T14:00:00,70,1,installer,General Utilities,1
+2023-07-11T14:00:00,66,1,qbreader.org,General Reference & Learning,2
+2023-07-11T14:00:00,50,1,python.org,General Software Development,2
+2023-07-11T14:00:00,37,1,platform.openai.com,General Reference & Learning,2
+2023-07-11T14:00:00,18,1,Finder,Computer,1
+2023-07-11T14:00:00,18,1,poe.com,General Software Development,2
+2023-07-11T14:00:00,16,1,peps.python.org,General Software Development,2
+2023-07-11T14:00:00,16,1,Terminal,Systems Operations,2
+2023-07-11T14:00:00,16,1,system settings,Computer,1
+2023-07-11T14:00:00,11,1,expressvpn,Internet Utilities,1
+2023-07-11T14:00:00,7,1,Safari,Browsers,0
+2023-07-11T14:00:00,6,1,openai.com,General Reference & Learning,2
+2023-07-11T14:00:00,6,1,google.com,Search,1
+2023-07-11T14:00:00,2,1,SecurityAgent,Systems Operations,2
+2023-07-11T14:00:00,2,1,chat.openai.com,General Reference & Learning,2
+2023-07-11T14:00:00,2,1,help.openai.com,General Reference & Learning,2
+2023-07-11T14:00:00,2,1,arxiv.org,Search,1
+2023-07-11T14:00:00,2,1,techcrunch.com,Science & Technology,-2
+2023-07-11T15:00:00,1259,1,pycharm,Editing & IDEs,2
+2023-07-11T15:00:00,803,1,platform.openai.com,General Reference & Learning,2
+2023-07-11T15:00:00,617,1,flask.palletsprojects.com,Uncategorized,0
+2023-07-11T15:00:00,188,1,Terminal,Systems Operations,2
+2023-07-11T15:00:00,135,1,Finder,Computer,1
+2023-07-11T15:00:00,117,1,openai.com,General Reference & Learning,2
+2023-07-11T15:00:00,109,1,127.0.0.1:5000,General Software Development,2
+2023-07-11T15:00:00,77,1,cleaner one,Uncategorized,0
+2023-07-11T15:00:00,72,1,google.com,Search,1
+2023-07-11T15:00:00,39,1,system settings,Computer,1
+2023-07-11T15:00:00,27,1,users,General Software Development,2
+2023-07-11T15:00:00,25,1,Safari,Browsers,0
+2023-07-11T15:00:00,24,1,help.openai.com,General Reference & Learning,2
+2023-07-11T15:00:00,14,1,dataquest.io,Engineering & Technology,2
+2023-07-11T15:00:00,13,1,chat.openai.com,General Reference & Learning,2
+2023-07-11T15:00:00,12,1,atlassian.com,Search,1
+2023-07-11T15:00:00,10,1,TextEdit,Writing,2
+2023-07-11T15:00:00,10,1,mygreatlearning.com,Uncategorized,0
+2023-07-11T15:00:00,7,1,Firefox,Browsers,0
+2023-07-11T15:00:00,6,1,qbreader.org,General Reference & Learning,2
+2023-07-11T15:00:00,4,1,b7c42ad5-d43f-cc47-b6fc-a1bc1aa42ad3,Uncategorized,0
+2023-07-11T15:00:00,3,1,localhost:5000,General Software Development,2
+2023-07-11T15:00:00,3,1,python.org,General Software Development,2
+2023-07-11T15:00:00,2,1,medium.com,General News & Opinion,-2
+2023-07-11T15:00:00,2,1,anthropic.com,Uncategorized,0
+2023-07-11T15:00:00,2,1,platform.stability.ai,Uncategorized,0
+2023-07-11T15:00:00,2,1,pomofocus.io,Uncategorized,0
+2023-07-11T15:00:00,1,1,stable-diffusion-art.com,Uncategorized,0
+2023-07-11T15:00:00,1,1,labs.openai.com,General Reference & Learning,2
+2023-07-11T16:00:00,2877,1,pycharm,Editing & IDEs,2
+2023-07-11T16:00:00,483,1,flask.palletsprojects.com,Uncategorized,0
+2023-07-11T16:00:00,61,1,jetbrains.com,Search,1
+2023-07-11T16:00:00,35,1,jinja.palletsprojects.com,Uncategorized,0
+2023-07-11T16:00:00,25,1,127.0.0.1:5000,General Software Development,2
+2023-07-11T16:00:00,24,1,users,General Software Development,2
+2023-07-11T16:00:00,17,1,Safari,Browsers,0
+2023-07-11T16:00:00,14,1,Visual Studio Code,Editing & IDEs,2
+2023-07-11T16:00:00,11,1,google.com,Search,1
+2023-07-11T16:00:00,1,1,geeksforgeeks.org,Operations,2
+2023-07-11T17:00:00,761,1,pycharm,Editing & IDEs,2
+2023-07-11T17:00:00,333,1,127.0.0.1:5000,General Software Development,2
+2023-07-11T17:00:00,107,1,flask.palletsprojects.com,Uncategorized,0
+2023-07-11T17:00:00,17,1,sites.miis.edu,General Reference & Learning,2
+2023-07-11T17:00:00,10,1,Safari,Browsers,0
+2023-07-11T17:00:00,8,1,lastpass,General Utilities,1
+2023-07-11T17:00:00,6,1,google.com,Search,1
+2023-07-11T17:00:00,1,1,jinja.palletsprojects.com,Uncategorized,0
+2023-07-11T17:00:00,1,1,users,General Software Development,2
+2023-07-13T12:00:00,1427,1,pycharm,Editing & IDEs,2
+2023-07-13T12:00:00,80,1,jinja.palletsprojects.com,Uncategorized,0
+2023-07-13T12:00:00,61,1,flask.palletsprojects.com,Uncategorized,0
+2023-07-13T12:00:00,34,1,lastpass,General Utilities,1
+2023-07-13T12:00:00,17,1,127.0.0.1:5000,General Software Development,2
+2023-07-13T12:00:00,11,1,RescueTime,Intelligence,2
+2023-07-13T12:00:00,7,1,google.com,Search,1
+2023-07-13T12:00:00,6,1,cleaner one,Uncategorized,0
+2023-07-13T12:00:00,4,1,users,General Software Development,2
+2023-07-13T12:00:00,4,1,Safari,Browsers,0
+2023-07-13T12:00:00,3,1,safari-resource:,Browsers,0
+2023-07-13T13:00:00,2671,1,pycharm,Editing & IDEs,2
+2023-07-13T13:00:00,456,1,flask.palletsprojects.com,Uncategorized,0
+2023-07-13T13:00:00,279,1,127.0.0.1:5000,General Software Development,2
+2023-07-13T13:00:00,63,1,lipsum.com,Presentation,2
+2023-07-13T13:00:00,50,1,w3schools.com,Engineering & Technology,2
+2023-07-13T13:00:00,18,1,random.org,Editing & IDEs,2
+2023-07-13T13:00:00,15,1,google.com,Search,1
+2023-07-13T13:00:00,14,1,Safari,Browsers,0
+2023-07-13T13:00:00,12,1,lastpass,General Utilities,1
+2023-07-13T13:00:00,9,1,jinja.palletsprojects.com,Uncategorized,0
+2023-07-13T13:00:00,8,1,gutenberg.org,General Reference & Learning,2
+2023-07-13T13:00:00,1,1,users,General Software Development,2
+2023-07-13T14:00:00,2513,1,pycharm,Editing & IDEs,2
+2023-07-13T14:00:00,861,1,flask.palletsprojects.com,Uncategorized,0
+2023-07-13T14:00:00,65,1,jetbrains.com,Search,1
+2023-07-13T14:00:00,49,1,127.0.0.1:5000,General Software Development,2
+2023-07-13T14:00:00,31,1,atlassian.com,Search,1
+2023-07-13T14:00:00,24,1,google.com,Search,1
+2023-07-13T14:00:00,15,1,Safari,Browsers,0
+2023-07-13T14:00:00,12,1,techonthenet.com,General News & Opinion,-2
+2023-07-13T14:00:00,12,1,sqlite.org,General Software Development,2
+2023-07-13T14:00:00,5,1,users,General Software Development,2
+2023-07-13T14:00:00,2,1,jinja.palletsprojects.com,Uncategorized,0
+2023-07-13T15:00:00,342,1,pycharm,Editing & IDEs,2
+2023-07-13T15:00:00,337,1,flask.palletsprojects.com,Uncategorized,0
+2023-07-13T15:00:00,257,1,jinja.palletsprojects.com,Uncategorized,0
+2023-07-13T15:00:00,121,1,arxiv.org,Search,1
+2023-07-13T15:00:00,109,1,asciinema.org,Uncategorized,0
+2023-07-13T15:00:00,90,1,platform.openai.com,General Reference & Learning,2
+2023-07-13T15:00:00,32,1,Github,General Software Development,2
+2023-07-13T15:00:00,6,1,poe.com,General Software Development,2
+2023-07-13T15:00:00,5,1,medium.com,General News & Opinion,-2
+2023-07-13T15:00:00,5,1,Finder,Computer,1
+2023-07-13T15:00:00,3,1,users,General Software Development,2
+2023-07-13T15:00:00,2,1,jetbrains.com,Search,1
+2023-07-13T15:00:00,2,1,techonthenet.com,General News & Opinion,-2
+2023-07-13T15:00:00,2,1,google.com,Search,1
+2023-07-13T15:00:00,2,1,Safari,Browsers,0
+2023-07-13T18:00:00,232,1,Mail,Email,1
+2023-07-13T18:00:00,4,1,platform.openai.com,General Reference & Learning,2
+2023-07-13T19:00:00,254,1,Mail,Email,1
+2023-07-13T19:00:00,197,1,stable-diffusion-art.com,Uncategorized,0
+2023-07-13T19:00:00,181,1,Github,General Software Development,2
+2023-07-13T19:00:00,137,1,musings.yasyf.com,Uncategorized,0
+2023-07-13T19:00:00,47,1,qbreader.org,General Reference & Learning,2
+2023-07-13T19:00:00,42,1,adblock pro,Uncategorized,0
+2023-07-13T19:00:00,39,1,app store,General Shopping,-2
+2023-07-13T19:00:00,30,1,platform.openai.com,General Reference & Learning,2
+2023-07-13T19:00:00,22,1,google.com,Search,1
+2023-07-13T19:00:00,14,1,Safari,Browsers,0
+2023-07-13T19:00:00,7,1,pytorch.org,Uncategorized,0
+2023-07-13T19:00:00,5,1,dataquest.io,Engineering & Technology,2
+2023-07-13T19:00:00,4,1,openai.com,General Reference & Learning,2
+2023-07-13T19:00:00,4,1,medium.com,General News & Opinion,-2
+2023-07-13T19:00:00,4,1,python.org,General Software Development,2
+2023-07-13T19:00:00,1,1,poe.com,General Software Development,2
+2023-07-13T19:00:00,1,1,arxiv.org,Search,1
+2023-07-13T19:00:00,1,1,help.openai.com,General Reference & Learning,2
+2023-07-13T23:00:00,60,1,Safari,Browsers,0
+2023-07-13T23:00:00,54,1,auth.berkeley.edu,General Reference & Learning,2
+2023-07-13T23:00:00,41,1,freedomplatform,Computer,1
+2023-07-13T23:00:00,27,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-07-13T23:00:00,24,1,lastpass,General Utilities,1
+2023-07-13T23:00:00,12,1,Finder,Computer,1
+2023-07-13T23:00:00,12,1,adblock pro,Uncategorized,0
+2023-07-13T23:00:00,11,1,expressvpn,Internet Utilities,1
+2023-07-13T23:00:00,7,1,Activity Monitor,General Utilities,1
+2023-07-13T23:00:00,5,1,Mail,Email,1
+2023-07-13T23:00:00,4,1,system settings,Computer,1
+2023-07-13T23:00:00,3,1,RescueTime,Intelligence,2
+2023-07-13T23:00:00,1,1,google.com,Search,1
+2023-07-14T13:00:00,913,1,applicantservices.com,Uncategorized,0
+2023-07-14T13:00:00,535,1,na3.docusign.net,General Business,2
+2023-07-14T13:00:00,464,1,Mail,Email,1
+2023-07-14T13:00:00,158,1,qbreader.org,General Reference & Learning,2
+2023-07-14T13:00:00,152,1,Safari,Browsers,0
+2023-07-14T13:00:00,54,1,support.apple.com,Search,1
+2023-07-14T13:00:00,49,1,calendar,Calendars,2
+2023-07-14T13:00:00,44,1,cisecurity.org,Search,1
+2023-07-14T13:00:00,28,1,google.com,Search,1
+2023-07-14T13:00:00,17,1,Activity Monitor,General Utilities,1
+2023-07-14T13:00:00,13,1,postsign.docusign.com,General Communication & Scheduling,2
+2023-07-14T13:00:00,10,1,Blank Web Browser,Browsers,0
+2023-07-14T13:00:00,9,1,Firefox,Browsers,0
+2023-07-14T13:00:00,4,1,about:home,Search,1
+2023-07-14T13:00:00,4,1,pomofocus.io,Uncategorized,0
+2023-07-14T13:00:00,3,1,system settings,Computer,1
+2023-07-14T13:00:00,2,1,lastpass,General Utilities,1
+2023-07-14T13:00:00,2,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-07-14T14:00:00,870,1,hsquizbowl.org,General Social Networking,-2
+2023-07-14T14:00:00,517,1,naqt.com,General Reference & Learning,2
+2023-07-14T14:00:00,488,1,qbreader.org,General Reference & Learning,2
+2023-07-14T14:00:00,296,1,ocf.berkeley.edu,General Reference & Learning,2
+2023-07-14T14:00:00,112,1,discord,General Entertainment,-2
+2023-07-14T14:00:00,89,1,Google Forms,General Business,2
+2023-07-14T14:00:00,30,1,socalquizbowl.org,Uncategorized,0
+2023-07-14T14:00:00,17,1,en.wikipedia.org,General Reference & Learning,2
+2023-07-14T14:00:00,16,1,auth.berkeley.edu,General Reference & Learning,2
+2023-07-14T14:00:00,15,1,grogerranks.com,Uncategorized,0
+2023-07-14T14:00:00,11,1,Safari,Browsers,0
+2023-07-14T14:00:00,8,1,google.com,Search,1
+2023-07-14T14:00:00,4,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-07-14T14:00:00,3,1,rescuetime.com,Computer,1
+2023-07-14T14:00:00,2,1,shib.berkeley.edu,General Reference & Learning,2
+2023-07-14T14:00:00,2,1,espn.com,Sports,-2
+2023-07-14T14:00:00,1,1,Google Spreadsheets,General Business,2
+2023-07-14T15:00:00,639,1,hsquizbowl.org,General Social Networking,-2
+2023-07-14T15:00:00,369,1,Mail,Email,1
+2023-07-14T15:00:00,82,1,Safari,Browsers,0
+2023-07-14T15:00:00,5,1,discord,General Entertainment,-2
+2023-07-14T15:00:00,2,1,naqt.com,General Reference & Learning,2
+2023-07-15T13:00:00,689,1,Github,General Software Development,2
+2023-07-15T13:00:00,143,1,platform.openai.com,General Reference & Learning,2
+2023-07-15T13:00:00,44,1,expressvpn.com,General Utilities,1
+2023-07-15T13:00:00,34,1,Safari,Browsers,0
+2023-07-15T13:00:00,26,1,Mail,Email,1
+2023-07-15T13:00:00,19,1,installer,General Utilities,1
+2023-07-15T13:00:00,14,1,google.com,Search,1
+2023-07-15T13:00:00,8,1,usernotificationcenter,General Utilities,1
+2023-07-15T13:00:00,8,1,coreservicesuiagent,General Utilities,1
+2023-07-15T13:00:00,5,1,pycharm,Editing & IDEs,2
+2023-07-15T13:00:00,2,1,SecurityAgent,Systems Operations,2
+2023-07-15T13:00:00,2,1,expressvpn,Internet Utilities,1
+2023-07-15T13:00:00,1,1,calendar,Calendars,2
+2023-07-15T14:00:00,718,1,Github,General Software Development,2
+2023-07-15T14:00:00,164,1,Safari,Browsers,0
+2023-07-15T14:00:00,85,1,platform.openai.com,General Reference & Learning,2
+2023-07-15T14:00:00,25,1,Terminal,Systems Operations,2
+2023-07-15T14:00:00,9,1,google.com,Search,1
+2023-07-15T14:00:00,4,1,installer,General Utilities,1
+2023-07-15T14:00:00,3,1,expressvpn,Internet Utilities,1
+2023-07-15T17:00:00,103,1,Terminal,Systems Operations,2
+2023-07-15T17:00:00,61,1,Github,General Software Development,2
+2023-07-15T17:00:00,41,1,system settings,Computer,1
+2023-07-15T17:00:00,33,1,flask.palletsprojects.com,Uncategorized,0
+2023-07-15T17:00:00,30,1,git-scm.com,General Software Development,2
+2023-07-15T17:00:00,30,1,Safari,Browsers,0
+2023-07-15T17:00:00,17,1,google.com,Search,1
+2023-07-15T17:00:00,14,1,platform.openai.com,General Reference & Learning,2
+2023-07-15T17:00:00,13,1,users,General Software Development,2
+2023-07-15T17:00:00,6,1,techonthenet.com,General News & Opinion,-2
+2023-07-15T17:00:00,3,1,RescueTime,Intelligence,2
+2023-07-15T17:00:00,3,1,llmtokencounter.com,Uncategorized,0
+2023-07-15T17:00:00,2,1,musings.yasyf.com,Uncategorized,0
+2023-07-15T17:00:00,2,1,dataquest.io,Engineering & Technology,2
+2023-07-15T17:00:00,2,1,python.org,General Software Development,2
+2023-07-15T17:00:00,1,1,help.openai.com,General Reference & Learning,2
+2023-07-15T17:00:00,1,1,jinja.palletsprojects.com,Uncategorized,0
+2023-07-15T17:00:00,1,1,arxiv.org,Search,1
+2023-07-15T19:00:00,1111,1,discord,General Entertainment,-2
+2023-07-15T19:00:00,319,1,pycharm,Editing & IDEs,2
+2023-07-15T19:00:00,233,1,Google Documents,Writing,2
+2023-07-15T19:00:00,112,1,Mail,Email,1
+2023-07-15T19:00:00,102,1,platform.openai.com,General Reference & Learning,2
+2023-07-15T19:00:00,53,1,Google Spreadsheets,General Business,2
+2023-07-15T19:00:00,34,1,Finder,Computer,1
+2023-07-15T19:00:00,30,1,drive.google.com,General Business,2
+2023-07-15T19:00:00,30,1,espn.com,Sports,-2
+2023-07-15T19:00:00,23,1,Safari,Browsers,0
+2023-07-15T19:00:00,6,1,RescueTime,Intelligence,2
+2023-07-15T19:00:00,5,1,google.com,Search,1
+2023-07-15T19:00:00,4,1,hsquizbowl.org,General Social Networking,-2
+2023-07-15T19:00:00,3,1,openai.com,General Reference & Learning,2
+2023-07-15T19:00:00,3,1,git-scm.com,General Software Development,2
+2023-07-15T19:00:00,3,1,users,General Software Development,2
+2023-07-15T19:00:00,2,1,Github,General Software Development,2
+2023-07-15T20:00:00,1230,1,discord,General Entertainment,-2
+2023-07-15T20:00:00,748,1,Google Documents,Writing,2
+2023-07-15T20:00:00,332,1,Google Spreadsheets,General Business,2
+2023-07-15T20:00:00,193,1,pycharm,Editing & IDEs,2
+2023-07-15T20:00:00,165,1,localhost:8888,General Software Development,2
+2023-07-15T20:00:00,121,1,system settings,Computer,1
+2023-07-15T20:00:00,83,1,platform.openai.com,General Reference & Learning,2
+2023-07-15T20:00:00,75,1,en.wikipedia.org,General Reference & Learning,2
+2023-07-15T20:00:00,59,1,google.com,Search,1
+2023-07-15T20:00:00,44,1,Mail,Email,1
+2023-07-15T20:00:00,41,1,Safari,Browsers,0
+2023-07-15T20:00:00,20,1,scrapy.org,General Software Development,2
+2023-07-15T20:00:00,15,1,Github,General Software Development,2
+2023-07-15T20:00:00,10,1,app.codecov.io,Quality Assurance,2
+2023-07-15T20:00:00,9,1,universal control,Computer,1
+2023-07-15T20:00:00,8,1,127.0.0.1:8888,General News & Opinion,-2
+2023-07-15T20:00:00,6,1,drive.google.com,General Business,2
+2023-07-15T20:00:00,6,1,openai.com,General Reference & Learning,2
+2023-07-15T20:00:00,2,1,git-scm.com,General Software Development,2
+2023-07-15T20:00:00,2,1,users,General Software Development,2
+2023-07-15T20:00:00,2,1,hsquizbowl.org,General Social Networking,-2
+2023-07-15T20:00:00,2,1,musings.yasyf.com,Uncategorized,0
+2023-07-15T20:00:00,2,1,espn.com,Sports,-2
+2023-07-15T20:00:00,1,1,qbreader.org,General Reference & Learning,2
+2023-07-15T20:00:00,1,1,docs.jupyter.org,General Software Development,2
+2023-07-16T08:00:00,621,1,Zoom,Meetings,2
+2023-07-16T08:00:00,360,1,discord,General Entertainment,-2
+2023-07-16T08:00:00,108,1,Google Spreadsheets,General Business,2
+2023-07-16T08:00:00,13,1,Safari,Browsers,0
+2023-07-16T08:00:00,9,1,pycharm,Editing & IDEs,2
+2023-07-16T08:00:00,6,1,us06web.zoom.us,Meetings,2
+2023-07-16T08:00:00,5,1,localhost:8888,General Software Development,2
+2023-07-16T08:00:00,4,1,google.com,Search,1
+2023-07-16T08:00:00,1,1,buzzin.live,Uncategorized,0
+2023-07-16T09:00:00,3596,1,Zoom,Meetings,2
+2023-07-16T10:00:00,3593,1,Zoom,Meetings,2
+2023-07-16T11:00:00,3124,1,Zoom,Meetings,2
+2023-07-16T12:00:00,2755,1,Zoom,Meetings,2
+2023-07-16T13:00:00,944,1,discord,General Entertainment,-2
+2023-07-16T13:00:00,32,1,Mail,Email,1
+2023-07-16T13:00:00,14,1,Zoom,Meetings,2
+2023-07-16T13:00:00,6,1,Finder,Computer,1
+2023-07-16T17:00:00,319,1,Finder,Computer,1
+2023-07-16T17:00:00,16,1,discord,General Entertainment,-2
+2023-07-16T17:00:00,4,1,Safari,Browsers,0
+2023-07-16T17:00:00,2,1,RescueTime,Intelligence,2
+2023-07-16T17:00:00,1,1,Google Spreadsheets,General Business,2
+2023-07-17T09:00:00,222,1,linkedin.com,Professional Networking,2
+2023-07-17T09:00:00,145,1,Github,General Software Development,2
+2023-07-17T09:00:00,103,1,Google Documents,Writing,2
+2023-07-17T09:00:00,67,1,Safari,Browsers,0
+2023-07-17T09:00:00,63,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-07-17T09:00:00,48,1,drive.google.com,General Business,2
+2023-07-17T09:00:00,34,1,Mail,Email,1
+2023-07-17T09:00:00,29,1,hsquizbowl.org,General Social Networking,-2
+2023-07-17T09:00:00,21,1,Notes,Writing,2
+2023-07-17T09:00:00,14,1,discord,General Entertainment,-2
+2023-07-17T09:00:00,10,1,app.joinhandshake.com,Uncategorized,0
+2023-07-17T09:00:00,7,1,Finder,Computer,1
+2023-07-17T09:00:00,3,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-07-17T09:00:00,3,1,lastpass,General Utilities,1
+2023-07-17T09:00:00,2,1,auth.berkeley.edu,General Reference & Learning,2
+2023-07-17T09:00:00,1,1,joinhandshake.com,Uncategorized,0
+2023-07-17T10:00:00,1393,1,linkedin.com,Professional Networking,2
+2023-07-17T10:00:00,1237,1,Github,General Software Development,2
+2023-07-17T10:00:00,538,1,Google Documents,Writing,2
+2023-07-17T10:00:00,174,1,bcourses.berkeley.edu,General Reference & Learning,2
+2023-07-17T10:00:00,133,1,script.google.com,Editing & IDEs,2
+2023-07-17T10:00:00,30,1,Safari,Browsers,0
+2023-07-17T10:00:00,27,1,Visual Studio Code,Editing & IDEs,2
+2023-07-17T10:00:00,19,1,drive.google.com,General Business,2
+2023-07-17T10:00:00,17,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-07-17T10:00:00,15,1,indeed.com,Employment,2
+2023-07-17T10:00:00,1,1,joinhandshake.com,Uncategorized,0
+2023-07-17T10:00:00,1,1,accounts.google.com,General Communication & Scheduling,2
+2023-07-17T11:00:00,793,1,profile.indeed.com,Employment,2
+2023-07-17T11:00:00,425,1,indeed.com,Employment,2
+2023-07-17T11:00:00,172,1,Google Documents,Writing,2
+2023-07-17T11:00:00,81,1,script.google.com,Editing & IDEs,2
+2023-07-17T11:00:00,68,1,drive.google.com,General Business,2
+2023-07-17T11:00:00,47,1,jobs.apple.com,Employment,2
+2023-07-17T11:00:00,40,1,php.net,Engineering & Technology,2
+2023-07-17T11:00:00,8,1,google.com,Search,1
+2023-07-17T11:00:00,8,1,secure.indeed.com,Employment,2
+2023-07-17T11:00:00,7,1,linkedin.com,Professional Networking,2
+2023-07-17T11:00:00,7,1,Safari,Browsers,0
+2023-07-17T11:00:00,6,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-07-17T11:00:00,5,1,accounts.google.com,General Communication & Scheduling,2
+2023-07-17T12:00:00,383,1,Google Documents,Writing,2
+2023-07-17T12:00:00,44,1,linkedin.com,Professional Networking,2
+2023-07-17T13:00:00,1307,1,Google Documents,Writing,2
+2023-07-17T13:00:00,398,1,Github,General Software Development,2
+2023-07-17T13:00:00,115,1,careers.uw.edu,General Reference & Learning,2
+2023-07-17T13:00:00,28,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-07-17T13:00:00,25,1,Safari,Browsers,0
+2023-07-17T13:00:00,9,1,drive.google.com,General Business,2
+2023-07-17T13:00:00,5,1,joinhandshake.com,Uncategorized,0
+2023-07-17T13:00:00,4,1,google.com,Search,1
+2023-07-17T13:00:00,4,1,data-flair.training,Uncategorized,0
+2023-07-17T13:00:00,3,1,indeed.com,Employment,2
+2023-07-17T13:00:00,2,1,linkedin.com,Professional Networking,2
+2023-07-17T13:00:00,1,1,jobs.apple.com,Employment,2
+2023-07-17T14:00:00,491,1,Google Documents,Writing,2
+2023-07-17T17:00:00,463,1,Google Documents,Writing,2
+2023-07-17T17:00:00,452,1,Mail,Email,1
+2023-07-17T17:00:00,431,1,eofd.fa.us6.oraclecloud.com,Uncategorized,0
+2023-07-17T17:00:00,153,1,Safari,Browsers,0
+2023-07-17T17:00:00,132,1,Github,General Software Development,2
+2023-07-17T17:00:00,94,1,idmsa.apple.com,General Software Development,2
+2023-07-17T17:00:00,79,1,drive.google.com,General Business,2
+2023-07-17T17:00:00,63,1,jobcredits.com,Uncategorized,0
+2023-07-17T17:00:00,33,1,discord,General Entertainment,-2
+2023-07-17T17:00:00,5,1,jobs.apple.com,Employment,2
+2023-07-17T17:00:00,4,1,indeed.com,Employment,2
+2023-07-17T17:00:00,4,1,linkedin.com,Professional Networking,2
+2023-07-17T18:00:00,381,1,Google Documents,Writing,2
+2023-07-17T18:00:00,273,1,drive.google.com,General Business,2
+2023-07-17T18:00:00,120,1,pycharm,Editing & IDEs,2
+2023-07-17T18:00:00,82,1,bcourses.berkeley.edu,General Reference & Learning,2
+2023-07-17T18:00:00,16,1,Github,General Software Development,2
+2023-07-17T18:00:00,5,1,Safari,Browsers,0
+2023-07-17T18:00:00,3,1,Notes,Writing,2
+2023-07-17T19:00:00,475,1,Google Documents,Writing,2
+2023-07-17T19:00:00,366,1,pycharm,Editing & IDEs,2
+2023-07-17T19:00:00,89,1,users,General Software Development,2
+2023-07-17T19:00:00,53,1,Github,General Software Development,2
+2023-07-17T19:00:00,24,1,bcourses.berkeley.edu,General Reference & Learning,2
+2023-07-17T19:00:00,17,1,en.wikipedia.org,General Reference & Learning,2
+2023-07-17T19:00:00,6,1,google.com,Search,1
+2023-07-17T19:00:00,2,1,linkedin.com,Professional Networking,2
+2023-07-17T19:00:00,2,1,Safari,Browsers,0
+2023-07-17T19:00:00,1,1,indeed.com,Employment,2
+2023-07-17T19:00:00,1,1,eofd.fa.us6.oraclecloud.com,Uncategorized,0
+2023-07-17T20:00:00,275,1,Mail,Email,1
+2023-07-17T20:00:00,5,1,Google Documents,Writing,2
+2023-07-18T11:00:00,776,1,Personal (offline),Productive,1
+2023-07-18T11:00:00,56,1,Mail,Email,1
+2023-07-18T11:00:00,3,1,RescueTime,Intelligence,2
+2023-07-18T12:00:00,2142,1,Personal (offline),Productive,1
+2023-07-18T12:00:00,265,1,RescueTime,Intelligence,2
+2023-07-18T12:00:00,20,1,Mail,Email,1
+2023-07-18T13:00:00,941,1,Mail,Email,1
+2023-07-18T13:00:00,296,1,Google Documents,Writing,2
+2023-07-18T14:00:00,11,1,Google Documents,Writing,2
+2023-07-18T14:00:00,3,1,RescueTime,Intelligence,2
+2023-07-18T15:00:00,129,1,Google Documents,Writing,2
+2023-07-18T15:00:00,18,1,qbreader.org,General Reference & Learning,2
+2023-07-18T15:00:00,9,1,linkedin.com,Professional Networking,2
+2023-07-18T15:00:00,8,1,en.wikipedia.org,General Reference & Learning,2
+2023-07-18T15:00:00,3,1,Safari,Browsers,0
+2023-07-18T15:00:00,3,1,RescueTime,Intelligence,2
+2023-07-18T15:00:00,2,1,Github,General Software Development,2
+2023-07-18T16:00:00,3166,1,Sleep (offline),Health & Medicine,2
+2023-07-18T16:00:00,103,1,Google Documents,Writing,2
+2023-07-18T16:00:00,28,1,Mail,Email,1
+2023-07-18T17:00:00,755,1,Google Documents,Writing,2
+2023-07-18T17:00:00,567,1,Sleep (offline),Health & Medicine,2
+2023-07-18T17:00:00,442,1,Github,General Software Development,2
+2023-07-18T17:00:00,362,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-07-18T17:00:00,231,1,Mail,Email,1
+2023-07-18T17:00:00,213,1,drive.google.com,General Business,2
+2023-07-18T17:00:00,133,1,discord,General Entertainment,-2
+2023-07-18T17:00:00,86,1,Safari,Browsers,0
+2023-07-18T17:00:00,71,1,qbreader.org,General Reference & Learning,2
+2023-07-18T17:00:00,65,1,colab.research.google.com,Search,1
+2023-07-18T17:00:00,43,1,pycharm,Editing & IDEs,2
+2023-07-18T17:00:00,41,1,gradescope.com,General Reference & Learning,2
+2023-07-18T17:00:00,36,1,eofd.fa.us6.oraclecloud.com,Uncategorized,0
+2023-07-18T17:00:00,34,1,Google Presentations,Presentation,2
+2023-07-18T17:00:00,27,1,google.com,Search,1
+2023-07-18T17:00:00,24,1,Finder,Computer,1
+2023-07-18T17:00:00,23,1,bcourses.berkeley.edu,General Reference & Learning,2
+2023-07-18T17:00:00,18,1,platform.openai.com,General Reference & Learning,2
+2023-07-18T17:00:00,17,1,lilianweng.github.io,General Software Development,2
+2023-07-18T17:00:00,6,1,scrapy.org,General Software Development,2
+2023-07-18T17:00:00,6,1,app.codecov.io,Quality Assurance,2
+2023-07-18T17:00:00,6,1,linkedin.com,Professional Networking,2
+2023-07-18T17:00:00,5,1,help.openai.com,General Reference & Learning,2
+2023-07-18T17:00:00,4,1,users,General Software Development,2
+2023-07-18T17:00:00,4,1,dataquest.io,Engineering & Technology,2
+2023-07-18T17:00:00,3,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-07-18T17:00:00,3,1,arxiv.org,Search,1
+2023-07-18T17:00:00,3,1,openai.com,General Reference & Learning,2
+2023-07-18T17:00:00,3,1,musings.yasyf.com,Uncategorized,0
+2023-07-18T17:00:00,3,1,medium.com,General News & Opinion,-2
+2023-07-18T17:00:00,2,1,auth.berkeley.edu,General Reference & Learning,2
+2023-07-18T17:00:00,2,1,en.wikipedia.org,General Reference & Learning,2
+2023-07-18T17:00:00,2,1,careers.uw.edu,General Reference & Learning,2
+2023-07-18T17:00:00,1,1,flask.palletsprojects.com,Uncategorized,0
+2023-07-18T17:00:00,1,1,RescueTime,Intelligence,2
+2023-07-18T17:00:00,1,1,shib.berkeley.edu,General Reference & Learning,2
+2023-07-18T17:00:00,1,1,git-scm.com,General Software Development,2
+2023-07-18T17:00:00,1,1,techonthenet.com,General News & Opinion,-2
+2023-07-18T17:00:00,1,1,php.net,Engineering & Technology,2
+2023-07-18T17:00:00,1,1,indeed.com,Employment,2
+2023-07-18T17:00:00,1,1,stable-diffusion-art.com,Uncategorized,0
+2023-07-18T18:00:00,342,1,Mail,Email,1
+2023-07-18T18:00:00,226,1,Google Documents,Writing,2
+2023-07-18T18:00:00,11,1,drive.google.com,General Business,2
+2023-07-18T18:00:00,1,1,Safari,Browsers,0
+2023-07-19T02:00:00,2488,1,Google Documents,Writing,2
+2023-07-19T02:00:00,416,1,discord,General Entertainment,-2
+2023-07-19T02:00:00,179,1,en.wikipedia.org,General Reference & Learning,2
+2023-07-19T02:00:00,88,1,Google Spreadsheets,General Business,2
+2023-07-19T02:00:00,38,1,Safari,Browsers,0
+2023-07-19T02:00:00,38,1,qbreader.org,General Reference & Learning,2
+2023-07-19T02:00:00,19,1,drive.google.com,General Business,2
+2023-07-19T02:00:00,5,1,google.com,Search,1
+2023-07-19T02:00:00,5,1,RescueTime,Intelligence,2
+2023-07-19T02:00:00,1,1,cycladic.gr,Uncategorized,0
+2023-07-19T02:00:00,1,1,yesclassicalmusic.com,Uncategorized,0
+2023-07-19T02:00:00,1,1,Google Forms,General Business,2
+2023-07-19T03:00:00,667,1,Google Documents,Writing,2
+2023-07-19T03:00:00,186,1,Google Spreadsheets,General Business,2
+2023-07-19T03:00:00,70,1,qbreader.org,General Reference & Learning,2
+2023-07-19T03:00:00,32,1,drive.google.com,General Business,2
+2023-07-19T03:00:00,19,1,naqt.com,General Reference & Learning,2
+2023-07-19T03:00:00,16,1,Mail,Email,1
+2023-07-19T03:00:00,4,1,Google Forms,General Business,2
+2023-07-19T03:00:00,4,1,Safari,Browsers,0
+2023-07-19T03:00:00,3,1,blocked.freedom.to,Internet Utilities,1
+2023-07-19T03:00:00,2,1,safari-resource:,Browsers,0
+2023-07-19T03:00:00,2,1,pycharm,Editing & IDEs,2
+2023-07-19T03:00:00,1,1,Finder,Computer,1
+2023-07-19T14:00:00,718,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-07-19T14:00:00,503,1,Mail,Email,1
+2023-07-19T14:00:00,373,1,google.com,Search,1
+2023-07-19T14:00:00,149,1,applicantservices.com,Uncategorized,0
+2023-07-19T14:00:00,149,1,fstoppers.com,General Reference & Learning,2
+2023-07-19T14:00:00,134,1,photoshopessentials.com,Presentation,2
+2023-07-19T14:00:00,122,1,en.wikipedia.org,General Reference & Learning,2
+2023-07-19T14:00:00,122,1,photoshoptrainingchannel.com,Uncategorized,0
+2023-07-19T14:00:00,76,1,hbr.org,Business & Finance,2
+2023-07-19T14:00:00,73,1,Safari,Browsers,0
+2023-07-19T14:00:00,43,1,eitacies.com,Uncategorized,0
+2023-07-19T14:00:00,41,1,pathedits.com,Uncategorized,0
+2023-07-19T14:00:00,31,1,photoshopcafe.com,Presentation,2
+2023-07-19T14:00:00,29,1,Google Documents,Writing,2
+2023-07-19T14:00:00,29,1,Activity Monitor,General Utilities,1
+2023-07-19T14:00:00,19,1,adobe.com,General Software Development,2
+2023-07-19T14:00:00,17,1,safari-resource:,Browsers,0
+2023-07-19T14:00:00,17,1,linkedin.com,Professional Networking,2
+2023-07-19T14:00:00,11,1,drive.google.com,General Business,2
+2023-07-19T14:00:00,7,1,helpx.adobe.com,General Software Development,2
+2023-07-19T14:00:00,4,1,lastpass,General Utilities,1
+2023-07-19T14:00:00,4,1,photographyforrealestate.net,General Business,2
+2023-07-19T14:00:00,3,1,qbreader.org,General Reference & Learning,2
+2023-07-19T14:00:00,3,1,Github,General Software Development,2
+2023-07-19T14:00:00,3,1,eofd.fa.us6.oraclecloud.com,Uncategorized,0
+2023-07-19T14:00:00,3,1,joinhandshake.com,Uncategorized,0
+2023-07-19T14:00:00,2,1,indeed.com,Employment,2
+2023-07-19T14:00:00,1,1,bcourses.berkeley.edu,General Reference & Learning,2
+2023-07-19T14:00:00,1,1,careers.uw.edu,General Reference & Learning,2
+2023-07-19T15:00:00,714,1,google.com,Search,1
+2023-07-19T15:00:00,208,1,adobe photoshop 2023,Graphic Design,2
+2023-07-19T15:00:00,129,1,Finder,Computer,1
+2023-07-19T15:00:00,120,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-07-19T15:00:00,90,1,Mail,Email,1
+2023-07-19T15:00:00,82,1,imaging-resource.com,Electronics,2
+2023-07-19T15:00:00,64,1,images.google.com,Search,1
+2023-07-19T15:00:00,28,1,eitacies.com,Uncategorized,0
+2023-07-19T15:00:00,21,1,expressvpn,Internet Utilities,1
+2023-07-19T15:00:00,17,1,Safari,Browsers,0
+2023-07-19T15:00:00,8,1,dreamstime.com,Presentation,2
+2023-07-19T15:00:00,5,1,helpx.adobe.com,General Software Development,2
+2023-07-19T15:00:00,4,1,pycharm,Editing & IDEs,2
+2023-07-19T15:00:00,3,1,RescueTime,Intelligence,2
+2023-07-19T15:00:00,3,1,linkedin.com,Professional Networking,2
+2023-07-19T15:00:00,1,1,indeed.com,Employment,2
+2023-07-19T16:00:00,3305,1,poe.com,General Software Development,2
+2023-07-19T16:00:00,204,1,Notes,Writing,2
+2023-07-19T16:00:00,39,1,adobe photoshop 2023,Graphic Design,2
+2023-07-19T16:00:00,23,1,Safari,Browsers,0
+2023-07-19T16:00:00,15,1,chat.openai.com,General Reference & Learning,2
+2023-07-19T16:00:00,13,1,Finder,Computer,1
+2023-07-19T16:00:00,1,1,linkednotesuiservice,Uncategorized,0
+2023-07-19T17:00:00,1151,1,poe.com,General Software Development,2
+2023-07-19T17:00:00,23,1,chat.openai.com,General Reference & Learning,2
+2023-07-19T17:00:00,1,1,Notes,Writing,2
+2023-07-19T23:00:00,629,1,Mail,Email,1
+2023-07-19T23:00:00,531,1,lastpass,General Utilities,1
+2023-07-19T23:00:00,336,1,catalog.berkeleypubliclibrary.org,General Reference & Learning,2
+2023-07-19T23:00:00,82,1,Notes,Writing,2
+2023-07-19T23:00:00,74,1,ccclib.bibliocommons.com,General Reference & Learning,2
+2023-07-19T23:00:00,54,1,google.com,Search,1
+2023-07-19T23:00:00,28,1,Safari,Browsers,0
+2023-07-19T23:00:00,25,1,berkeleypubliclibrary.org,General Reference & Learning,2
+2023-07-19T23:00:00,20,1,helpx.adobe.com,General Software Development,2
+2023-07-19T23:00:00,14,1,poe.com,General Software Development,2
+2023-07-19T23:00:00,12,1,ccclib.org,General Reference & Learning,2
+2023-07-19T23:00:00,8,1,adobe photoshop 2023,Graphic Design,2
+2023-07-19T23:00:00,7,1,Adobe Acrobat,General Reference & Learning,2
+2023-07-19T23:00:00,7,1,Finder,Computer,1
+2023-07-20T00:00:00,398,1,Notes,Writing,2
+2023-07-20T00:00:00,198,1,google.com,Search,1
+2023-07-20T00:00:00,194,1,adobe.com,General Software Development,2
+2023-07-20T00:00:00,165,1,photoshoptrainingchannel.com,Uncategorized,0
+2023-07-20T00:00:00,123,1,pathedits.com,Uncategorized,0
+2023-07-20T00:00:00,85,1,poe.com,General Software Development,2
+2023-07-20T00:00:00,62,1,Mail,Email,1
+2023-07-20T00:00:00,45,1,Safari,Browsers,0
+2023-07-20T00:00:00,28,1,chat.openai.com,General Reference & Learning,2
+2023-07-20T00:00:00,22,1,llmtokencounter.com,Uncategorized,0
+2023-07-20T00:00:00,16,1,imaging-resource.com,Electronics,2
+2023-07-20T00:00:00,1,1,linkednotesuiservice,Uncategorized,0
+2023-07-20T10:00:00,52,1,Personal (offline),Productive,1
+2023-07-20T11:00:00,3600,1,Personal (offline),Productive,1
+2023-07-20T12:00:00,2470,1,Personal (offline),Productive,1
+2023-07-20T12:00:00,133,1,Mail,Email,1
+2023-07-20T12:00:00,92,1,Safari,Browsers,0
+2023-07-20T12:00:00,14,1,rescuetime.com,Computer,1
+2023-07-20T12:00:00,4,1,RescueTime,Intelligence,2
+2023-07-20T12:00:00,2,1,New York Times,General News & Opinion,-2
+2023-07-20T13:00:00,87,1,Safari,Browsers,0
+2023-07-20T13:00:00,5,1,Mail,Email,1
+2023-07-20T14:00:00,658,1,google.com,Search,1
+2023-07-20T14:00:00,387,1,Finder,Computer,1
+2023-07-20T14:00:00,276,1,adobe photoshop 2023,Graphic Design,2
+2023-07-20T14:00:00,265,1,Safari,Browsers,0
+2023-07-20T14:00:00,199,1,Lightroom Classic,General Design & Composition,2
+2023-07-20T14:00:00,153,1,helpx.adobe.com,General Software Development,2
+2023-07-20T14:00:00,118,1,macbookproslow.com,Uncategorized,0
+2023-07-20T14:00:00,65,1,Mail,Email,1
+2023-07-20T14:00:00,51,1,expertphotography.com,General Reference & Learning,2
+2023-07-20T14:00:00,25,1,rescuetime.com,Computer,1
+2023-07-20T14:00:00,25,1,eshop.macsales.com,General Shopping,-2
+2023-07-20T14:00:00,23,1,apple.com,Engineering & Technology,2
+2023-07-20T14:00:00,11,1,adobe.com,General Software Development,2
+2023-07-20T14:00:00,10,1,safari-resource:,Browsers,0
+2023-07-20T14:00:00,7,1,imaging-resource.com,Electronics,2
+2023-07-20T14:00:00,5,1,pathedits.com,Uncategorized,0
+2023-07-20T14:00:00,4,1,RescueTime,Intelligence,2
+2023-07-20T14:00:00,3,1,photoshoptrainingchannel.com,Uncategorized,0
+2023-07-20T14:00:00,2,1,login.uconline.edu,Uncategorized,0
+2023-07-20T17:00:00,564,1,Finder,Computer,1
+2023-07-20T17:00:00,445,1,universal control,Computer,1
+2023-07-20T17:00:00,385,1,Preview,General Reference & Learning,2
+2023-07-20T17:00:00,253,1,Lightroom Classic,General Design & Composition,2
+2023-07-20T17:00:00,224,1,Mail,Email,1
+2023-07-20T17:00:00,204,1,app.joinhandshake.com,Uncategorized,0
+2023-07-20T17:00:00,141,1,google.com,Search,1
+2023-07-20T17:00:00,64,1,helpx.adobe.com,General Software Development,2
+2023-07-20T17:00:00,64,1,Safari,Browsers,0
+2023-07-20T17:00:00,62,1,quicktime player,General Entertainment,-2
+2023-07-20T17:00:00,25,1,system settings,Computer,1
+2023-07-20T17:00:00,13,1,gimp,Presentation,0
+2023-07-20T17:00:00,3,1,RescueTime,Intelligence,2
+2023-07-20T18:00:00,1939,1,adobe photoshop 2023,Graphic Design,2
+2023-07-20T18:00:00,292,1,Lightroom Classic,General Design & Composition,2
+2023-07-20T18:00:00,80,1,Safari,Browsers,0
+2023-07-20T18:00:00,78,1,Finder,Computer,1
+2023-07-20T18:00:00,31,1,universal control,Computer,1
+2023-07-20T18:00:00,4,1,system settings,Computer,1
+2023-07-20T19:00:00,114,1,adobe photoshop 2023,Graphic Design,2
+2023-07-20T19:00:00,55,1,Finder,Computer,1
+2023-07-20T19:00:00,20,1,Lightroom Classic,General Design & Composition,2
+2023-07-21T22:00:00,540,1,adobe photoshop 2023,Graphic Design,2
+2023-07-21T22:00:00,396,1,Lightroom Classic,General Design & Composition,2
+2023-07-21T22:00:00,124,1,Finder,Computer,1
+2023-07-21T22:00:00,12,1,system settings,Computer,1
+2023-07-22T04:00:00,3339,1,Sleep (offline),Health & Medicine,2
+2023-07-22T05:00:00,3600,1,Sleep (offline),Health & Medicine,2
+2023-07-22T06:00:00,1419,1,discord,General Entertainment,-2
+2023-07-22T06:00:00,1116,1,Sleep (offline),Health & Medicine,2
+2023-07-22T06:00:00,352,1,Google Documents,Writing,2
+2023-07-22T06:00:00,222,1,buzzin.live,Uncategorized,0
+2023-07-22T06:00:00,195,1,Safari,Browsers,0
+2023-07-22T06:00:00,174,1,users,General Software Development,2
+2023-07-22T06:00:00,35,1,drive.google.com,General Business,2
+2023-07-22T06:00:00,35,1,Finder,Computer,1
+2023-07-22T06:00:00,9,1,safari-resource:,Browsers,0
+2023-07-22T06:00:00,4,1,RescueTime,Intelligence,2
+2023-07-22T07:00:00,1755,1,users,General Software Development,2
+2023-07-22T07:00:00,1132,1,discord,General Entertainment,-2
+2023-07-22T07:00:00,667,1,buzzin.live,Uncategorized,0
+2023-07-22T07:00:00,11,1,Safari,Browsers,0
+2023-07-22T07:00:00,6,1,Google Spreadsheets,General Business,2
+2023-07-22T07:00:00,2,1,Google Documents,Writing,2
+2023-07-22T07:00:00,1,1,Finder,Computer,1
+2023-07-22T08:00:00,2621,1,users,General Software Development,2
+2023-07-22T08:00:00,526,1,buzzin.live,Uncategorized,0
+2023-07-22T08:00:00,434,1,discord,General Entertainment,-2
+2023-07-22T08:00:00,10,1,Safari,Browsers,0
+2023-07-22T08:00:00,3,1,Finder,Computer,1
+2023-07-22T09:00:00,2195,1,users,General Software Development,2
+2023-07-22T09:00:00,716,1,buzzin.live,Uncategorized,0
+2023-07-22T09:00:00,674,1,discord,General Entertainment,-2
+2023-07-22T09:00:00,7,1,Safari,Browsers,0
+2023-07-22T09:00:00,5,1,Google Documents,Writing,2
+2023-07-22T10:00:00,1711,1,users,General Software Development,2
+2023-07-22T10:00:00,393,1,discord,General Entertainment,-2
+2023-07-22T10:00:00,383,1,buzzin.live,Uncategorized,0
+2023-07-22T11:00:00,1719,1,users,General Software Development,2
+2023-07-22T11:00:00,551,1,discord,General Entertainment,-2
+2023-07-22T11:00:00,250,1,buzzin.live,Uncategorized,0
+2023-07-22T11:00:00,5,1,Finder,Computer,1
+2023-07-22T11:00:00,4,1,Safari,Browsers,0
+2023-07-22T11:00:00,3,1,RescueTime,Intelligence,2
+2023-07-22T11:00:00,1,1,Google Documents,Writing,2
+2023-07-22T12:00:00,2268,1,users,General Software Development,2
+2023-07-22T12:00:00,839,1,discord,General Entertainment,-2
+2023-07-22T12:00:00,484,1,buzzin.live,Uncategorized,0
+2023-07-22T12:00:00,3,1,Google Documents,Writing,2
+2023-07-22T12:00:00,2,1,Safari,Browsers,0
+2023-07-22T13:00:00,2703,1,users,General Software Development,2
+2023-07-22T13:00:00,613,1,buzzin.live,Uncategorized,0
+2023-07-22T13:00:00,277,1,discord,General Entertainment,-2
+2023-07-22T13:00:00,3,1,Safari,Browsers,0
+2023-07-22T13:00:00,2,1,Google Documents,Writing,2
+2023-07-22T14:00:00,1813,1,users,General Software Development,2
+2023-07-22T14:00:00,1311,1,discord,General Entertainment,-2
+2023-07-22T14:00:00,465,1,buzzin.live,Uncategorized,0
+2023-07-22T14:00:00,6,1,Safari,Browsers,0
+2023-07-22T14:00:00,3,1,cdn.discordapp.com,Instant Message,0
+2023-07-22T14:00:00,2,1,Google Documents,Writing,2
+2023-07-22T15:00:00,1882,1,users,General Software Development,2
+2023-07-22T15:00:00,1133,1,discord,General Entertainment,-2
+2023-07-22T15:00:00,513,1,buzzin.live,Uncategorized,0
+2023-07-22T22:00:00,874,1,Personal (offline),Productive,1
+2023-07-22T22:00:00,158,1,discord,General Entertainment,-2
+2023-07-22T22:00:00,3,1,RescueTime,Intelligence,2
+2023-07-22T22:00:00,3,1,Finder,Computer,1
+2023-07-22T23:00:00,931,1,Personal (offline),Productive,1
+2023-07-22T23:00:00,859,1,adobe photoshop 2023,Graphic Design,2
+2023-07-22T23:00:00,253,1,Finder,Computer,1
+2023-07-22T23:00:00,91,1,apple.stackexchange.com,Engineering & Technology,2
+2023-07-22T23:00:00,66,1,Lightroom Classic,General Design & Composition,2
+2023-07-22T23:00:00,59,1,Safari,Browsers,0
+2023-07-22T23:00:00,37,1,google.com,Search,1
+2023-07-22T23:00:00,29,1,support.apple.com,Search,1
+2023-07-22T23:00:00,25,1,shirt-ediss.me,Uncategorized,0
+2023-07-22T23:00:00,16,1,intellij idea,Editing & IDEs,2
+2023-07-22T23:00:00,13,1,Preview,General Reference & Learning,2
+2023-07-22T23:00:00,9,1,RescueTime,Intelligence,2
+2023-07-22T23:00:00,7,1,app store,General Shopping,-2
+2023-07-23T00:00:00,1680,1,adobe photoshop 2023,Graphic Design,2
+2023-07-23T00:00:00,87,1,Finder,Computer,1
+2023-07-23T11:00:00,3526,1,Personal (offline),Productive,1
+2023-07-23T12:00:00,3600,1,Personal (offline),Productive,1
+2023-07-23T13:00:00,3600,1,Personal (offline),Productive,1
+2023-07-23T14:00:00,1966,1,Personal (offline),Productive,1
+2023-07-23T14:00:00,206,1,RescueTime,Intelligence,2
+2023-07-23T14:00:00,8,1,google.com,Search,1
+2023-07-23T14:00:00,6,1,helpx.adobe.com,General Software Development,2
+2023-07-23T14:00:00,6,1,photoshopessentials.com,Presentation,2
+2023-07-23T14:00:00,4,1,shirt-ediss.me,Uncategorized,0
+2023-07-23T17:00:00,375,1,pycharm,Editing & IDEs,2
+2023-07-23T17:00:00,357,1,lilianweng.github.io,General Software Development,2
+2023-07-23T17:00:00,322,1,platform.openai.com,General Reference & Learning,2
+2023-07-23T17:00:00,65,1,Finder,Computer,1
+2023-07-23T17:00:00,18,1,jsonlines.org,Uncategorized,0
+2023-07-23T17:00:00,14,1,Mail,Email,1
+2023-07-23T17:00:00,10,1,helpx.adobe.com,General Software Development,2
+2023-07-23T17:00:00,4,1,Safari,Browsers,0
+2023-07-23T17:00:00,4,1,openai.com,General Reference & Learning,2
+2023-07-23T17:00:00,3,1,RescueTime,Intelligence,2
+2023-07-23T17:00:00,1,1,stable-diffusion-art.com,Uncategorized,0
+2023-07-24T17:00:00,2369,1,adobe photoshop 2023,Graphic Design,2
+2023-07-24T17:00:00,394,1,Finder,Computer,1
+2023-07-24T17:00:00,109,1,Mail,Email,1
+2023-07-24T17:00:00,26,1,Lightroom Classic,General Design & Composition,2
+2023-07-24T17:00:00,11,1,platform.openai.com,General Reference & Learning,2
+2023-07-24T17:00:00,5,1,pycharm,Editing & IDEs,2
+2023-07-24T17:00:00,4,1,RescueTime,Intelligence,2
+2023-07-24T18:00:00,42,1,adobe photoshop 2023,Graphic Design,2
+2023-07-24T18:00:00,18,1,Finder,Computer,1
+2023-07-24T18:00:00,6,1,helpx.adobe.com,General Software Development,2
+2023-07-24T22:00:00,511,1,Finder,Computer,1
+2023-07-24T22:00:00,294,1,RescueTime,Intelligence,2
+2023-07-24T22:00:00,11,1,system settings,Computer,1
+2023-07-25T13:00:00,2699,1,Google Documents,Writing,2
+2023-07-25T13:00:00,74,1,drive.google.com,General Business,2
+2023-07-25T13:00:00,65,1,Mail,Email,1
+2023-07-25T13:00:00,25,1,Safari,Browsers,0
+2023-07-25T13:00:00,3,1,RescueTime,Intelligence,2
+2023-07-25T13:00:00,1,1,Finder,Computer,1
+2023-07-25T14:00:00,901,1,Google Documents,Writing,2
+2023-07-25T14:00:00,48,1,drive.google.com,General Business,2
+2023-07-25T14:00:00,4,1,Safari,Browsers,0
+2023-07-25T19:00:00,1013,1,Google Documents,Writing,2
+2023-07-25T19:00:00,9,1,drive.google.com,General Business,2
+2023-07-25T19:00:00,6,1,Mail,Email,1
+2023-07-25T19:00:00,4,1,Safari,Browsers,0
+2023-07-27T12:00:00,338,1,Google Documents,Writing,2
+2023-07-27T12:00:00,15,1,drive.google.com,General Business,2
+2023-07-27T12:00:00,3,1,RescueTime,Intelligence,2
+2023-07-27T12:00:00,2,1,Safari,Browsers,0
+2023-07-27T14:00:00,342,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-07-27T14:00:00,206,1,Finder,Computer,1
+2023-07-27T14:00:00,134,1,texstudio,Writing,2
+2023-07-27T14:00:00,47,1,Safari,Browsers,0
+2023-07-27T14:00:00,36,1,sourceforge.net,General Software Development,2
+2023-07-27T14:00:00,29,1,drive.google.com,General Business,2
+2023-07-27T14:00:00,24,1,Google Documents,Writing,2
+2023-07-27T14:00:00,8,1,indeed.com,Employment,2
+2023-07-27T14:00:00,6,1,google.com,Search,1
+2023-07-27T14:00:00,5,1,RescueTime,Intelligence,2
+2023-07-27T14:00:00,3,1,Mail,Email,1
+2023-07-27T14:00:00,1,1,linkedin.com,Professional Networking,2
+2023-07-27T15:00:00,120,1,drive.google.com,General Business,2
+2023-07-27T15:00:00,37,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-07-27T15:00:00,9,1,doc-14-ak-prod-03-apps-viewer.googleusercontent.com,Uncategorized,0
+2023-07-27T15:00:00,3,1,Safari,Browsers,0
+2023-07-27T15:00:00,2,1,sourceforge.net,General Software Development,2
+2023-07-27T15:00:00,1,1,Google Documents,Writing,2
+2023-07-27T16:00:00,1028,1,studentcareers-jhuapl.icims.com,Uncategorized,0
+2023-07-27T16:00:00,368,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-07-27T16:00:00,90,1,bcsweb.is.berkeley.edu,General Reference & Learning,2
+2023-07-27T16:00:00,19,1,registrar.berkeley.edu,Administration,2
+2023-07-27T16:00:00,15,1,Safari,Browsers,0
+2023-07-27T16:00:00,11,1,calendar,Calendars,2
+2023-07-27T16:00:00,10,1,google.com,Search,1
+2023-07-27T16:00:00,9,1,accounts.google.com,General Communication & Scheduling,2
+2023-07-27T16:00:00,6,1,calcentral.berkeley.edu,General Reference & Learning,2
+2023-07-27T16:00:00,5,1,RescueTime,Intelligence,2
+2023-07-27T16:00:00,4,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-07-27T16:00:00,3,1,Google Documents,Writing,2
+2023-07-27T16:00:00,2,1,auth.berkeley.edu,General Reference & Learning,2
+2023-07-27T16:00:00,2,1,lastpass,General Utilities,1
+2023-07-27T16:00:00,2,1,drive.google.com,General Business,2
+2023-07-27T16:00:00,1,1,sourceforge.net,General Software Development,2
+2023-07-28T11:00:00,68,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-07-28T11:00:00,3,1,RescueTime,Intelligence,2
+2023-07-28T11:00:00,2,1,bcsweb.is.berkeley.edu,General Reference & Learning,2
+2023-07-28T11:00:00,2,1,calcentral.berkeley.edu,General Reference & Learning,2
+2023-07-28T11:00:00,2,1,sourceforge.net,General Software Development,2
+2023-07-28T11:00:00,1,1,studentcareers-jhuapl.icims.com,Uncategorized,0
+2023-07-28T11:00:00,1,1,Google Documents,Writing,2
+2023-07-28T11:00:00,1,1,registrar.berkeley.edu,Administration,2
+2023-07-28T12:00:00,418,1,career8.successfactors.com,Employment,2
+2023-07-28T12:00:00,148,1,Mail,Email,1
+2023-07-28T12:00:00,107,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-07-28T12:00:00,76,1,hbr.org,Business & Finance,2
+2023-07-28T12:00:00,65,1,linkedin.com,Professional Networking,2
+2023-07-28T12:00:00,22,1,s3.amazonaws.com,Internet Utilities,1
+2023-07-28T12:00:00,10,1,tesla.com,Uncategorized,0
+2023-07-28T12:00:00,8,1,lastpass,General Utilities,1
+2023-07-28T12:00:00,8,1,RescueTime,Intelligence,2
+2023-07-28T12:00:00,6,1,Safari,Browsers,0
+2023-07-28T12:00:00,4,1,google.com,Search,1
+2023-07-28T12:00:00,3,1,bcsweb.is.berkeley.edu,General Reference & Learning,2
+2023-07-28T12:00:00,3,1,indeed.com,Employment,2
+2023-07-28T13:00:00,451,1,Google Documents,Writing,2
+2023-07-28T13:00:00,253,1,npr.org,General News & Opinion,-2
+2023-07-28T13:00:00,238,1,hbr.org,Business & Finance,2
+2023-07-28T13:00:00,166,1,linkedin.com,Professional Networking,2
+2023-07-28T13:00:00,162,1,veeco.com,Uncategorized,0
+2023-07-28T13:00:00,144,1,qbreader.org,General Reference & Learning,2
+2023-07-28T13:00:00,120,1,Google Spreadsheets,General Business,2
+2023-07-28T13:00:00,73,1,career8.successfactors.com,Employment,2
+2023-07-28T13:00:00,71,1,obama.org,Uncategorized,0
+2023-07-28T13:00:00,55,1,drive.google.com,General Business,2
+2023-07-28T13:00:00,44,1,google.com,Search,1
+2023-07-28T13:00:00,43,1,en.wikipedia.org,General Reference & Learning,2
+2023-07-28T13:00:00,39,1,Safari,Browsers,0
+2023-07-28T13:00:00,31,1,npg.si.edu,General Reference & Learning,2
+2023-07-28T13:00:00,20,1,rescuetime.com,Computer,1
+2023-07-28T13:00:00,9,1,hope-musical.com,Uncategorized,0
+2023-07-28T13:00:00,6,1,bcsweb.is.berkeley.edu,General Reference & Learning,2
+2023-07-28T13:00:00,4,1,indeed.com,Employment,2
+2023-07-28T13:00:00,3,1,labrujulaverde.com,General News & Opinion,-2
+2023-07-28T13:00:00,2,1,RescueTime,Intelligence,2
+2023-07-28T13:00:00,2,1,youtube.com,Video,-2
+2023-07-28T13:00:00,1,1,stevereich.com,Uncategorized,0
+2023-07-28T13:00:00,1,1,hsquizbowl.org,General Social Networking,-2
+2023-07-28T14:00:00,1328,1,Google Documents,Writing,2
+2023-07-28T14:00:00,708,1,en.wikipedia.org,General Reference & Learning,2
+2023-07-28T14:00:00,622,1,discord,General Entertainment,-2
+2023-07-28T14:00:00,192,1,qbreader.org,General Reference & Learning,2
+2023-07-28T14:00:00,141,1,datebook.sfchronicle.com,General News & Opinion,-2
+2023-07-28T14:00:00,118,1,google.com,Search,1
+2023-07-28T14:00:00,86,1,Safari,Browsers,0
+2023-07-28T14:00:00,79,1,npr.org,General News & Opinion,-2
+2023-07-28T14:00:00,73,1,kumicontemporary.com,Uncategorized,0
+2023-07-28T14:00:00,63,1,Mail,Email,1
+2023-07-28T14:00:00,47,1,theartstory.org,General Reference & Learning,2
+2023-07-28T14:00:00,45,1,npg.si.edu,General Reference & Learning,2
+2023-07-28T14:00:00,22,1,famsf.org,General News & Opinion,-2
+2023-07-28T14:00:00,20,1,Google Spreadsheets,General Business,2
+2023-07-28T14:00:00,13,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-07-28T14:00:00,2,1,auth.berkeley.edu,General Reference & Learning,2
+2023-07-28T14:00:00,2,1,obama.org,Uncategorized,0
+2023-07-28T14:00:00,1,1,drive.google.com,General Business,2
+2023-07-28T14:00:00,1,1,accounts.google.com,General Communication & Scheduling,2
+2023-07-28T14:00:00,1,1,blocked.freedom.to,Internet Utilities,1
+2023-07-28T14:00:00,1,1,rescuetime.com,Computer,1
+2023-07-28T14:00:00,1,1,shib.berkeley.edu,General Reference & Learning,2
+2023-07-28T15:00:00,1588,1,Google Documents,Writing,2
+2023-07-28T15:00:00,1229,1,discord,General Entertainment,-2
+2023-07-28T15:00:00,435,1,en.wikipedia.org,General Reference & Learning,2
+2023-07-28T15:00:00,86,1,qbreader.org,General Reference & Learning,2
+2023-07-28T15:00:00,43,1,moma.org,General Entertainment,-2
+2023-07-28T15:00:00,34,1,Finder,Computer,1
+2023-07-28T15:00:00,21,1,hope-musical.com,Uncategorized,0
+2023-07-28T15:00:00,20,1,google.com,Search,1
+2023-07-28T15:00:00,19,1,theartstory.org,General Reference & Learning,2
+2023-07-28T15:00:00,14,1,Google Spreadsheets,General Business,2
+2023-07-28T15:00:00,13,1,Safari,Browsers,0
+2023-07-28T15:00:00,2,1,kumicontemporary.com,Uncategorized,0
+2023-07-28T15:00:00,2,1,drive.google.com,General Business,2
+2023-07-28T15:00:00,1,1,calendar,Calendars,2
+2023-07-28T15:00:00,1,1,accounts.google.com,General Communication & Scheduling,2
+2023-07-28T16:00:00,540,1,discord,General Entertainment,-2
+2023-07-28T16:00:00,161,1,Google Documents,Writing,2
+2023-07-28T16:00:00,12,1,qbreader.org,General Reference & Learning,2
+2023-07-29T16:00:00,20,1,Finder,Computer,1
+2023-07-29T16:00:00,6,1,auth.berkeley.edu,General Reference & Learning,2
+2023-07-29T16:00:00,3,1,discord,General Entertainment,-2
+2023-08-01T21:00:00,10,1,safari-resource:,Browsers,0
+2023-08-01T21:00:00,6,1,RescueTime,Intelligence,2
+2023-08-01T21:00:00,4,1,Safari,Browsers,0
+2023-08-01T21:00:00,1,1,Finder,Computer,1
+2023-08-02T00:00:00,144,1,accounts.google.com,General Communication & Scheduling,2
+2023-08-02T00:00:00,63,1,app store,General Shopping,-2
+2023-08-02T00:00:00,41,1,myaccount.google.com,Internet Utilities,1
+2023-08-02T00:00:00,37,1,safari-resource:,Browsers,0
+2023-08-02T00:00:00,26,1,Safari,Browsers,0
+2023-08-02T00:00:00,12,1,drive.google.com,General Business,2
+2023-08-02T00:00:00,10,1,Finder,Computer,1
+2023-08-02T00:00:00,6,1,lastpass,General Utilities,1
+2023-08-02T00:00:00,3,1,auth.berkeley.edu,General Reference & Learning,2
+2023-08-07T10:00:00,3390,1,Distracted (offline),General Business,-2
+2023-08-07T11:00:00,3600,1,Distracted (offline),General Business,-2
+2023-08-07T12:00:00,3600,1,Distracted (offline),General Business,-2
+2023-08-07T13:00:00,477,1,Distracted (offline),General Business,-2
+2023-08-07T13:00:00,25,1,Finder,Computer,1
+2023-08-07T13:00:00,4,1,Safari,Browsers,0
+2023-08-07T13:00:00,3,1,RescueTime,Intelligence,2
+2023-08-07T14:00:00,833,1,qbreader.org,General Reference & Learning,2
+2023-08-07T14:00:00,275,1,calendar,Calendars,2
+2023-08-07T14:00:00,217,1,Mail,Email,1
+2023-08-07T14:00:00,187,1,myaccount.economist.com,General News & Opinion,-2
+2023-08-07T14:00:00,170,1,accounts.google.com,General Communication & Scheduling,2
+2023-08-07T14:00:00,110,1,sfpl.org,Search,1
+2023-08-07T14:00:00,91,1,myaccount.google.com,Internet Utilities,1
+2023-08-07T14:00:00,72,1,economist.com,General News & Opinion,-2
+2023-08-07T14:00:00,34,1,login.ezproxy.sfpl.org,Uncategorized,0
+2023-08-07T14:00:00,14,1,Safari,Browsers,0
+2023-08-07T14:00:00,12,1,subscribenow.economist.com,General News & Opinion,-2
+2023-08-07T14:00:00,11,1,infoweb-newsbank-com.ezproxy.sfpl.org,Uncategorized,0
+2023-08-07T14:00:00,7,1,google.com,Search,1
+2023-08-07T14:00:00,3,1,accounts.youtube.com,Video,-2
+2023-08-07T14:00:00,3,1,lastpass,General Utilities,1
+2023-08-07T14:00:00,2,1,RescueTime,Intelligence,2
+2023-08-07T15:00:00,180,1,jstor.org,Engineering & Technology,2
+2023-08-07T15:00:00,42,1,qbreader.org,General Reference & Learning,2
+2023-08-07T15:00:00,11,1,Safari,Browsers,0
+2023-08-07T18:00:00,1,1,jstor.org,Engineering & Technology,2
+2023-08-10T10:00:00,93,1,jstor.org,Engineering & Technology,2
+2023-08-10T10:00:00,5,1,RescueTime,Intelligence,2
+2023-08-10T11:00:00,260,1,jstor.org,Engineering & Technology,2
+2023-08-10T11:00:00,176,1,Mail,Email,1
+2023-08-10T11:00:00,77,1,myaccount.google.com,Internet Utilities,1
+2023-08-10T11:00:00,17,1,marketing.revinate.com,General Business,2
+2023-08-10T11:00:00,14,1,expressvpn,Internet Utilities,1
+2023-08-10T11:00:00,8,1,Safari,Browsers,0
+2023-08-10T11:00:00,1,1,accounts.google.com,General Communication & Scheduling,2
+2023-08-10T18:00:00,606,1,poe.com,General Software Development,2
+2023-08-10T18:00:00,166,1,jstor.org,Engineering & Technology,2
+2023-08-10T18:00:00,64,1,datacamp.com,Engineering & Technology,2
+2023-08-10T18:00:00,20,1,Safari,Browsers,0
+2023-08-10T18:00:00,14,1,medium.com,General News & Opinion,-2
+2023-08-10T18:00:00,14,1,google.com,Search,1
+2023-08-10T18:00:00,8,1,Mail,Email,1
+2023-08-10T19:00:00,1576,1,poe.com,General Software Development,2
+2023-08-10T19:00:00,237,1,datacamp.com,Engineering & Technology,2
+2023-08-10T19:00:00,19,1,Safari,Browsers,0
+2023-08-12T16:00:00,606,1,poe.com,General Software Development,2
+2023-08-12T16:00:00,240,1,Notes,Writing,2
+2023-08-12T16:00:00,147,1,developer.poe.com,General Software Development,2
+2023-08-12T16:00:00,123,1,jstor.org,Engineering & Technology,2
+2023-08-12T16:00:00,121,1,Github,General Software Development,2
+2023-08-12T16:00:00,43,1,modal.com,Uncategorized,0
+2023-08-12T16:00:00,18,1,Safari,Browsers,0
+2023-08-12T16:00:00,14,1,RescueTime,Intelligence,2
+2023-08-12T16:00:00,6,1,system settings,Computer,1
+2023-08-12T16:00:00,5,1,memory diag,General Utilities,1
+2023-08-12T16:00:00,4,1,google.com,Search,1
+2023-08-12T16:00:00,2,1,linkednotesuiservice,Uncategorized,0
+2023-08-12T16:00:00,1,1,datacamp.com,Engineering & Technology,2
+2023-08-12T17:00:00,1493,1,poe.com,General Software Development,2
+2023-08-12T17:00:00,407,1,m.bulbapedia.bulbagarden.net,Games,-2
+2023-08-12T17:00:00,270,1,Safari,Browsers,0
+2023-08-12T17:00:00,110,1,filezilla,General Software Development,2
+2023-08-12T17:00:00,57,1,Notes,Writing,2
+2023-08-12T17:00:00,30,1,expressvpn,Internet Utilities,1
+2023-08-12T17:00:00,6,1,filezilla pro,Uncategorized,0
+2023-08-12T18:00:00,162,1,m.bulbapedia.bulbagarden.net,Games,-2
+2023-08-12T18:00:00,55,1,en.wikipedia.org,General Reference & Learning,2
+2023-08-12T18:00:00,6,1,Safari,Browsers,0
+2023-08-12T18:00:00,5,1,RescueTime,Intelligence,2
+2023-08-12T18:00:00,1,1,pokemondb.net,Games,-2
+2023-08-12T18:00:00,1,1,serebii.net,Games,-2
+2023-08-12T19:00:00,234,1,m.bulbapedia.bulbagarden.net,Games,-2
+2023-08-12T19:00:00,22,1,serebii.net,Games,-2
+2023-08-12T19:00:00,5,1,pokemondb.net,Games,-2
+2023-08-12T19:00:00,3,1,RescueTime,Intelligence,2
+2023-08-12T22:00:00,216,1,m.bulbapedia.bulbagarden.net,Games,-2
+2023-08-12T22:00:00,3,1,RescueTime,Intelligence,2
+2023-08-12T22:00:00,1,1,serebii.net,Games,-2
+2023-08-12T23:00:00,801,1,m.bulbapedia.bulbagarden.net,Games,-2
+2023-08-13T00:00:00,11,1,m.bulbapedia.bulbagarden.net,Games,-2
+2023-08-20T15:00:00,1061,1,coursera.org,General Reference & Learning,2
+2023-08-20T15:00:00,880,1,prob140.org,Uncategorized,0
+2023-08-20T15:00:00,120,1,data102.org,Science & Math,2
+2023-08-20T15:00:00,55,1,ds100.org,Science & Math,2
+2023-08-20T15:00:00,44,1,Safari,Browsers,0
+2023-08-20T15:00:00,27,1,messages,Instant Message,-1
+2023-08-20T15:00:00,10,1,gradescope.com,General Reference & Learning,2
+2023-08-20T15:00:00,6,1,m.bulbapedia.bulbagarden.net,Games,-2
+2023-08-20T15:00:00,4,1,auth.berkeley.edu,General Reference & Learning,2
+2023-08-20T15:00:00,3,1,lastpass,General Utilities,1
+2023-08-20T15:00:00,2,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-08-20T15:00:00,1,1,shib.berkeley.edu,General Reference & Learning,2
+2023-08-20T16:00:00,396,1,prob140.org,Uncategorized,0
+2023-08-20T16:00:00,30,1,data102.org,Science & Math,2
+2023-08-20T16:00:00,19,1,Safari,Browsers,0
+2023-08-20T16:00:00,11,1,goodnotes,General Design & Composition,2
+2023-08-20T16:00:00,4,1,messages,Instant Message,-1
+2023-08-20T16:00:00,2,1,ds100.org,Science & Math,2
+2023-08-20T17:00:00,2,1,data102.org,Science & Math,2
+2023-08-20T17:00:00,1,1,RescueTime,Intelligence,2
+2023-08-20T20:00:00,484,1,buy.acmeticketing.com,Uncategorized,0
+2023-08-20T20:00:00,73,1,tickets.famsf.org,General News & Opinion,-2
+2023-08-20T20:00:00,66,1,modal.com,Uncategorized,0
+2023-08-20T20:00:00,63,1,about.asianart.org,Uncategorized,0
+2023-08-20T20:00:00,17,1,poe.com,General Software Development,2
+2023-08-20T20:00:00,16,1,famsf.org,General News & Opinion,-2
+2023-08-20T20:00:00,16,1,Safari,Browsers,0
+2023-08-20T20:00:00,7,1,Github,General Software Development,2
+2023-08-20T20:00:00,6,1,asianart.org,Uncategorized,0
+2023-08-20T20:00:00,2,1,RescueTime,Intelligence,2
+2023-08-20T20:00:00,1,1,developer.poe.com,General Software Development,2
+2023-08-20T21:00:00,219,1,tickets.famsf.org,General News & Opinion,-2
+2023-08-20T21:00:00,5,1,pokemondb.net,Games,-2
+2023-08-20T21:00:00,4,1,Safari,Browsers,0
+2023-08-20T21:00:00,3,1,modal.com,Uncategorized,0
+2023-08-20T21:00:00,2,1,serebii.net,Games,-2
+2023-08-20T21:00:00,2,1,RescueTime,Intelligence,2
+2023-08-20T21:00:00,1,1,buy.acmeticketing.com,Uncategorized,0
+2023-08-20T22:00:00,625,1,m.bulbapedia.bulbagarden.net,Games,-2
+2023-08-20T22:00:00,112,1,RescueTime,Intelligence,2
+2023-08-20T22:00:00,68,1,serebii.net,Games,-2
+2023-08-20T22:00:00,52,1,pokemondb.net,Games,-2
+2023-08-20T22:00:00,25,1,en.wikipedia.org,General Reference & Learning,2
+2023-08-20T22:00:00,7,1,Safari,Browsers,0
+2023-08-20T22:00:00,5,1,syphist.com,Uncategorized,0
+2023-08-20T22:00:00,4,1,veekun.com,Games,-2
+2023-08-20T22:00:00,1,1,Github,General Software Development,2
+2023-08-20T23:00:00,416,1,m.bulbapedia.bulbagarden.net,Games,-2
+2023-08-20T23:00:00,4,1,RescueTime,Intelligence,2
+2023-08-22T18:00:00,9,1,Safari,Browsers,0
+2023-08-22T18:00:00,9,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-08-22T18:00:00,3,1,google.com,Search,1
+2023-08-22T18:00:00,2,1,RescueTime,Intelligence,2
+2023-08-24T13:00:00,205,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-08-24T13:00:00,4,1,Safari,Browsers,0
+2023-08-24T13:00:00,1,1,google.com,Search,1
+2023-08-24T14:00:00,764,1,en.wikipedia.org,General Reference & Learning,2
+2023-08-24T14:00:00,351,1,murashev.com,Uncategorized,0
+2023-08-24T14:00:00,346,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-08-24T14:00:00,250,1,Google Documents,Writing,2
+2023-08-24T14:00:00,239,1,qbreader.org,General Reference & Learning,2
+2023-08-24T14:00:00,163,1,collegiate.quizbowlpackets.com,General Reference & Learning,2
+2023-08-24T14:00:00,93,1,metopera.org,General Entertainment,-2
+2023-08-24T14:00:00,44,1,Safari,Browsers,0
+2023-08-24T14:00:00,33,1,hsquizbowl.org,General Social Networking,-2
+2023-08-24T14:00:00,9,1,drive.google.com,General Business,2
+2023-08-24T14:00:00,8,1,google.com,Search,1
+2023-08-24T14:00:00,8,1,blocked.freedom.to,Internet Utilities,1
+2023-08-24T14:00:00,4,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-08-24T14:00:00,3,1,accounts.google.com,General Communication & Scheduling,2
+2023-08-24T14:00:00,3,1,auth.berkeley.edu,General Reference & Learning,2
+2023-08-24T14:00:00,1,1,shib.berkeley.edu,General Reference & Learning,2
+2023-08-24T14:00:00,1,1,stackoverflow.com,General Software Development,2
+2023-08-24T14:00:00,1,1,grand-challenge.org,Uncategorized,0
+2023-08-24T15:00:00,382,1,Google Documents,Writing,2
+2023-08-24T15:00:00,153,1,qbreader.org,General Reference & Learning,2
+2023-08-24T15:00:00,152,1,en.wikipedia.org,General Reference & Learning,2
+2023-08-24T15:00:00,107,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-08-24T15:00:00,7,1,google.com,Search,1
+2023-08-24T15:00:00,4,1,Safari,Browsers,0
+2023-08-24T15:00:00,1,1,RescueTime,Intelligence,2
+2023-08-24T18:00:00,3,1,google.com,Search,1
+2023-08-24T18:00:00,2,1,RescueTime,Intelligence,2
+2023-08-24T18:00:00,1,1,Safari,Browsers,0
+2023-08-24T18:00:00,1,1,Google Documents,Writing,2
+2023-08-26T17:00:00,96,1,Mail,Email,1
+2023-08-26T17:00:00,3,1,google.com,Search,1
+2023-08-26T17:00:00,1,1,messages,Instant Message,-1
+2023-08-27T02:00:00,3050,1,Google Documents,Writing,2
+2023-08-27T02:00:00,183,1,drive.google.com,General Business,2
+2023-08-27T02:00:00,53,1,Adobe Acrobat,General Reference & Learning,2
+2023-08-27T02:00:00,14,1,Safari,Browsers,0
+2023-08-27T02:00:00,4,1,google.com,Search,1
+2023-08-27T02:00:00,3,1,RescueTime,Intelligence,2
+2023-08-27T02:00:00,1,1,messages,Instant Message,-1
+2023-08-27T03:00:00,421,1,Google Documents,Writing,2
+2023-08-27T03:00:00,389,1,expressvpn,Internet Utilities,1
+2023-08-27T03:00:00,34,1,drive.google.com,General Business,2
+2023-08-27T03:00:00,27,1,Adobe Acrobat,General Reference & Learning,2
+2023-08-27T03:00:00,15,1,Safari,Browsers,0
+2023-08-27T03:00:00,11,1,Finder,Computer,1
+2023-08-28T01:00:00,520,1,juryservices.cc-courts.org,Search,1
+2023-08-28T01:00:00,18,1,cc-courts.org,Search,1
+2023-08-28T01:00:00,9,1,Safari,Browsers,0
+2023-08-28T01:00:00,2,1,drive.google.com,General Business,2
+2023-08-28T01:00:00,2,1,RescueTime,Intelligence,2
+2023-08-28T01:00:00,1,1,expressvpn,Internet Utilities,1
+2023-08-28T23:00:00,267,1,juryservices.cc-courts.org,Search,1
+2023-09-01T12:00:00,409,1,platform.openai.com,General Reference & Learning,2
+2023-09-01T12:00:00,175,1,midjourney.com,Uncategorized,0
+2023-09-01T12:00:00,167,1,poe.com,General Software Development,2
+2023-09-01T12:00:00,101,1,labs.openai.com,General Reference & Learning,2
+2023-09-01T12:00:00,64,1,dreamstudio.ai,General Design & Composition,2
+2023-09-01T12:00:00,51,1,discord.com,Uncategorized,0
+2023-09-01T12:00:00,29,1,Safari,Browsers,0
+2023-09-01T12:00:00,18,1,auth0.openai.com,General Reference & Learning,2
+2023-09-01T12:00:00,17,1,accounts.google.com,General Communication & Scheduling,2
+2023-09-01T12:00:00,12,1,stabilityai.us.auth0.com,Uncategorized,0
+2023-09-01T12:00:00,6,1,google.com,Search,1
+2023-09-01T12:00:00,3,1,lastpass,General Utilities,1
+2023-09-01T12:00:00,3,1,drive.google.com,General Business,2
+2023-09-01T12:00:00,2,1,juryservices.cc-courts.org,Search,1
+2023-09-01T12:00:00,1,1,RescueTime,Intelligence,2
+2023-09-01T18:00:00,14,1,platform.openai.com,General Reference & Learning,2
+2023-09-01T19:00:00,217,1,platform.openai.com,General Reference & Learning,2
+2023-09-01T19:00:00,90,1,pycharm,Editing & IDEs,2
+2023-09-01T19:00:00,45,1,google.com,Search,1
+2023-09-01T19:00:00,19,1,Safari,Browsers,0
+2023-09-01T19:00:00,18,1,huggingface.co,Uncategorized,0
+2023-09-01T19:00:00,15,1,Github,General Software Development,2
+2023-09-01T19:00:00,5,1,dataquest.io,Engineering & Technology,2
+2023-09-01T19:00:00,4,1,qbreader.org,General Reference & Learning,2
+2023-09-01T19:00:00,1,1,midjourney.com,Uncategorized,0
+2023-09-03T08:00:00,233,1,discord,General Entertainment,-2
+2023-09-03T08:00:00,56,1,Finder,Computer,1
+2023-09-03T08:00:00,16,1,zoomautoupdater,Uncategorized,0
+2023-09-03T08:00:00,6,1,Safari,Browsers,0
+2023-09-03T08:00:00,5,1,newschool.zoom.us,Meetings,2
+2023-09-03T08:00:00,4,1,pycharm,Editing & IDEs,2
+2023-09-03T08:00:00,3,1,RescueTime,Intelligence,2
+2023-09-03T08:00:00,2,1,dataquest.io,Engineering & Technology,2
+2023-09-03T08:00:00,1,1,coreservicesuiagent,General Utilities,1
+2023-09-03T09:00:00,3549,1,Zoom,Meetings,2
+2023-09-03T09:00:00,17,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-09-03T09:00:00,11,1,auth.berkeley.edu,General Reference & Learning,2
+2023-09-03T09:00:00,5,1,berkeley.zoom.us,Meetings,2
+2023-09-03T09:00:00,4,1,discord,General Entertainment,-2
+2023-09-03T09:00:00,2,1,newschool.zoom.us,Meetings,2
+2023-09-03T09:00:00,1,1,zoomautoupdater,Uncategorized,0
+2023-09-03T09:00:00,1,1,Safari,Browsers,0
+2023-09-03T10:00:00,3584,1,Zoom,Meetings,2
+2023-09-03T10:00:00,11,1,Finder,Computer,1
+2023-09-03T11:00:00,3596,1,Zoom,Meetings,2
+2023-09-03T12:00:00,3592,1,Zoom,Meetings,2
+2023-09-03T13:00:00,3514,1,Zoom,Meetings,2
+2023-09-03T14:00:00,4,1,RescueTime,Intelligence,2
+2023-09-05T22:00:00,24,1,Zoom,Meetings,2
+2023-09-06T21:00:00,2745,1,Distracted (offline),General Business,-2
+2023-09-06T22:00:00,3600,1,Distracted (offline),General Business,-2
+2023-09-06T23:00:00,3600,1,Distracted (offline),General Business,-2
+2023-09-07T00:00:00,1915,1,Distracted (offline),General Business,-2
+2023-09-07T00:00:00,730,1,poe.com,General Software Development,2
+2023-09-07T00:00:00,235,1,mysterydungeonwiki.com,Uncategorized,0
+2023-09-07T00:00:00,180,1,bulbapedia.bulbagarden.net,Games,-2
+2023-09-07T00:00:00,21,1,Safari,Browsers,0
+2023-09-07T00:00:00,18,1,developer.poe.com,General Software Development,2
+2023-09-07T00:00:00,6,1,RescueTime,Intelligence,2
+2023-09-07T00:00:00,1,1,modal.com,Uncategorized,0
+2023-09-07T13:00:00,483,1,collegiate.quizbowlpackets.com,General Reference & Learning,2
+2023-09-07T13:00:00,222,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-09-07T13:00:00,192,1,qbreader.org,General Reference & Learning,2
+2023-09-07T13:00:00,183,1,discord,General Entertainment,-2
+2023-09-07T13:00:00,125,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-07T13:00:00,18,1,goodnotes,General Design & Composition,2
+2023-09-07T13:00:00,14,1,Safari,Browsers,0
+2023-09-07T13:00:00,11,1,joinhandshake.com,Uncategorized,0
+2023-09-07T13:00:00,9,1,safari-resource:,Browsers,0
+2023-09-07T13:00:00,8,1,accounts.google.com,General Communication & Scheduling,2
+2023-09-07T13:00:00,3,1,RescueTime,Intelligence,2
+2023-09-07T13:00:00,1,1,w3schools.com,Engineering & Technology,2
+2023-09-07T14:00:00,1004,1,Google Documents,Writing,2
+2023-09-07T14:00:00,732,1,discord,General Entertainment,-2
+2023-09-07T14:00:00,391,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-07T14:00:00,274,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-07T14:00:00,221,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-09-07T14:00:00,215,1,hsquizbowl.org,General Social Networking,-2
+2023-09-07T14:00:00,181,1,qbreader.org,General Reference & Learning,2
+2023-09-07T14:00:00,127,1,Google Forms,General Business,2
+2023-09-07T14:00:00,72,1,goodnotes,General Design & Composition,2
+2023-09-07T14:00:00,71,1,drive.google.com,General Business,2
+2023-09-07T14:00:00,56,1,google.com,Search,1
+2023-09-07T14:00:00,48,1,deadspin.com,Sports,-2
+2023-09-07T14:00:00,43,1,Safari,Browsers,0
+2023-09-07T14:00:00,33,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-09-07T14:00:00,21,1,jobs.bostonchildrens.org,Uncategorized,0
+2023-09-07T14:00:00,20,1,thebulletin.org,General News & Opinion,-2
+2023-09-07T14:00:00,17,1,accounts.google.com,General Communication & Scheduling,2
+2023-09-07T14:00:00,11,1,Finder,Computer,1
+2023-09-07T14:00:00,10,1,web.goodnotes.com,Uncategorized,0
+2023-09-07T14:00:00,6,1,auth.berkeley.edu,General Reference & Learning,2
+2023-09-07T14:00:00,5,1,rescuetime.com,Computer,1
+2023-09-07T14:00:00,4,1,jobs.elastic.co,Engineering & Technology,2
+2023-09-07T14:00:00,4,1,shib.berkeley.edu,General Reference & Learning,2
+2023-09-07T14:00:00,3,1,w3schools.com,Engineering & Technology,2
+2023-09-07T14:00:00,2,1,New York Times,General News & Opinion,-2
+2023-09-07T14:00:00,2,1,accounts.youtube.com,Video,-2
+2023-09-07T14:00:00,2,1,collegiate.quizbowlpackets.com,General Reference & Learning,2
+2023-09-07T15:00:00,1032,1,discord,General Entertainment,-2
+2023-09-07T15:00:00,718,1,hsquizbowl.org,General Social Networking,-2
+2023-09-07T15:00:00,356,1,Google Documents,Writing,2
+2023-09-07T15:00:00,298,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-07T15:00:00,221,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-07T15:00:00,153,1,qbreader.org,General Reference & Learning,2
+2023-09-07T15:00:00,90,1,geeksforgeeks.org,Operations,2
+2023-09-07T15:00:00,54,1,w3schools.com,Engineering & Technology,2
+2023-09-07T15:00:00,32,1,google.com,Search,1
+2023-09-07T15:00:00,11,1,Safari,Browsers,0
+2023-09-07T15:00:00,7,1,Zoom,Meetings,2
+2023-09-07T15:00:00,5,1,app store,General Shopping,-2
+2023-09-07T15:00:00,4,1,zoomautoupdater,Uncategorized,0
+2023-09-07T15:00:00,4,1,coreservicesuiagent,General Utilities,1
+2023-09-07T15:00:00,1,1,medium.com,General News & Opinion,-2
+2023-09-07T17:00:00,853,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-07T17:00:00,339,1,Google Documents,Writing,2
+2023-09-07T17:00:00,225,1,qbreader.org,General Reference & Learning,2
+2023-09-07T17:00:00,218,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-07T17:00:00,71,1,citeseerx.ist.psu.edu,Engineering & Technology,2
+2023-09-07T17:00:00,64,1,Safari,Browsers,0
+2023-09-07T17:00:00,38,1,google.com,Search,1
+2023-09-07T17:00:00,30,1,risingentropy.com,Uncategorized,0
+2023-09-07T17:00:00,29,1,discord,General Entertainment,-2
+2023-09-07T17:00:00,26,1,lesswrong.com,General News & Opinion,-2
+2023-09-07T17:00:00,15,1,stats.org.uk,Science & Technology,-2
+2023-09-07T17:00:00,6,1,geeksforgeeks.org,Operations,2
+2023-09-07T17:00:00,3,1,RescueTime,Intelligence,2
+2023-09-08T15:00:00,141,1,arxiv.org,Search,1
+2023-09-08T15:00:00,109,1,Github,General Software Development,2
+2023-09-08T15:00:00,83,1,dreamstudio.ai,General Design & Composition,2
+2023-09-08T15:00:00,42,1,clipdrop.co,Uncategorized,0
+2023-09-08T15:00:00,40,1,discord,General Entertainment,-2
+2023-09-08T15:00:00,31,1,google.com,Search,1
+2023-09-08T15:00:00,28,1,stablediffusionweb.com,Uncategorized,0
+2023-09-08T15:00:00,22,1,Safari,Browsers,0
+2023-09-08T15:00:00,17,1,images.google.com,Search,1
+2023-09-08T15:00:00,5,1,RescueTime,Intelligence,2
+2023-09-08T15:00:00,4,1,safari-resource:,Browsers,0
+2023-09-08T15:00:00,3,1,en.m.wikipedia.org,General Entertainment,-2
+2023-09-08T15:00:00,2,1,developer.poe.com,General Software Development,2
+2023-09-08T16:00:00,1042,1,dreamstudio.ai,General Design & Composition,2
+2023-09-08T16:00:00,886,1,labs.openai.com,General Reference & Learning,2
+2023-09-08T16:00:00,796,1,poe.com,General Software Development,2
+2023-09-08T16:00:00,493,1,Safari,Browsers,0
+2023-09-08T16:00:00,164,1,google.com,Search,1
+2023-09-08T16:00:00,26,1,developer.poe.com,General Software Development,2
+2023-09-08T16:00:00,23,1,media.istockphoto.com,Presentation,2
+2023-09-08T16:00:00,22,1,images.google.com,Search,1
+2023-09-08T16:00:00,19,1,help.openai.com,General Reference & Learning,2
+2023-09-08T16:00:00,16,1,istockphoto.com,Presentation,2
+2023-09-08T16:00:00,11,1,arxiv.org,Search,1
+2023-09-08T16:00:00,11,1,Github,General Software Development,2
+2023-09-08T16:00:00,2,1,modal.com,Uncategorized,0
+2023-09-08T19:00:00,1553,1,poe.com,General Software Development,2
+2023-09-08T19:00:00,526,1,bulbapedia.bulbagarden.net,Games,-2
+2023-09-08T19:00:00,218,1,Github,General Software Development,2
+2023-09-08T19:00:00,163,1,freedom.to,Internet Utilities,1
+2023-09-08T19:00:00,79,1,randompokemon.com,Uncategorized,0
+2023-09-08T19:00:00,51,1,Safari,Browsers,0
+2023-09-08T19:00:00,49,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-08T19:00:00,36,1,google.com,Search,1
+2023-09-08T19:00:00,30,1,developer.poe.com,General Software Development,2
+2023-09-08T19:00:00,18,1,safari-resource:,Browsers,0
+2023-09-08T19:00:00,12,1,pmd-midnight-universe.fandom.com,General Entertainment,-2
+2023-09-08T19:00:00,3,1,arxiv.org,Search,1
+2023-09-08T19:00:00,3,1,help.openai.com,General Reference & Learning,2
+2023-09-08T19:00:00,3,1,modal.com,Uncategorized,0
+2023-09-08T19:00:00,2,1,RescueTime,Intelligence,2
+2023-09-08T20:00:00,1865,1,poe.com,General Software Development,2
+2023-09-08T20:00:00,210,1,bulbapedia.bulbagarden.net,Games,-2
+2023-09-08T20:00:00,94,1,blog.character.ai,Uncategorized,0
+2023-09-08T20:00:00,71,1,Safari,Browsers,0
+2023-09-08T20:00:00,55,1,support.character.ai,Uncategorized,0
+2023-09-08T20:00:00,40,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-08T20:00:00,38,1,google.com,Search,1
+2023-09-08T20:00:00,27,1,beta.character.ai,Uncategorized,0
+2023-09-08T20:00:00,19,1,randompokemon.com,Uncategorized,0
+2023-09-08T20:00:00,18,1,Notes,Writing,2
+2023-09-09T13:00:00,214,1,modal.com,Uncategorized,0
+2023-09-09T13:00:00,49,1,poe.com,General Software Development,2
+2023-09-09T13:00:00,24,1,developer.poe.com,General Software Development,2
+2023-09-09T13:00:00,17,1,bulbapedia.bulbagarden.net,Games,-2
+2023-09-09T13:00:00,15,1,Github,General Software Development,2
+2023-09-09T13:00:00,10,1,RescueTime,Intelligence,2
+2023-09-09T13:00:00,4,1,support.character.ai,Uncategorized,0
+2023-09-09T13:00:00,4,1,pycharm,Editing & IDEs,2
+2023-09-09T14:00:00,586,1,pycharm,Editing & IDEs,2
+2023-09-09T14:00:00,111,1,developer.poe.com,General Software Development,2
+2023-09-09T14:00:00,90,1,Terminal,Systems Operations,2
+2023-09-09T14:00:00,25,1,modal.com,Uncategorized,0
+2023-09-09T14:00:00,13,1,Github,General Software Development,2
+2023-09-09T14:00:00,1,1,bulbapedia.bulbagarden.net,Games,-2
+2023-09-10T00:00:00,185,1,praesidiumacademy.com,Uncategorized,0
+2023-09-10T00:00:00,108,1,volgistics.com,Uncategorized,0
+2023-09-10T00:00:00,78,1,Mail,Email,1
+2023-09-10T00:00:00,66,1,Safari,Browsers,0
+2023-09-10T00:00:00,4,1,developer.poe.com,General Software Development,2
+2023-09-10T00:00:00,3,1,lastpass,General Utilities,1
+2023-09-10T17:00:00,1617,1,Personal (offline),Productive,1
+2023-09-10T17:00:00,25,1,volgistics.com,Uncategorized,0
+2023-09-10T17:00:00,4,1,lastpass,General Utilities,1
+2023-09-10T17:00:00,3,1,RescueTime,Intelligence,2
+2023-09-10T17:00:00,1,1,Safari,Browsers,0
+2023-09-10T18:00:00,3600,1,Personal (offline),Productive,1
+2023-09-10T19:00:00,3600,1,Personal (offline),Productive,1
+2023-09-10T20:00:00,3600,1,Personal (offline),Productive,1
+2023-09-10T21:00:00,3462,1,Personal (offline),Productive,1
+2023-09-10T21:00:00,89,1,volgistics.com,Uncategorized,0
+2023-09-10T21:00:00,34,1,Mail,Email,1
+2023-09-10T21:00:00,11,1,RescueTime,Intelligence,2
+2023-09-10T21:00:00,3,1,Safari,Browsers,0
+2023-09-10T22:00:00,3600,1,Personal (offline),Productive,1
+2023-09-10T23:00:00,728,1,Personal (offline),Productive,1
+2023-09-10T23:00:00,496,1,nijianmo.github.io,General Software Development,2
+2023-09-10T23:00:00,443,1,jmcauley.ucsd.edu,General Reference & Learning,2
+2023-09-10T23:00:00,330,1,developer.poe.com,General Software Development,2
+2023-09-10T23:00:00,64,1,Github,General Software Development,2
+2023-09-10T23:00:00,52,1,mymedialite.net,Uncategorized,0
+2023-09-10T23:00:00,45,1,Safari,Browsers,0
+2023-09-10T23:00:00,38,1,pycharm,Editing & IDEs,2
+2023-09-10T23:00:00,38,1,poe.com,General Software Development,2
+2023-09-10T23:00:00,23,1,pypi.org,General Reference & Learning,2
+2023-09-10T23:00:00,20,1,Google Forms,General Business,2
+2023-09-10T23:00:00,15,1,google.com,Search,1
+2023-09-10T23:00:00,14,1,forms.gle,Internet Utilities,1
+2023-09-10T23:00:00,13,1,data102.org,Science & Math,2
+2023-09-10T23:00:00,9,1,techonthenet.com,General News & Opinion,-2
+2023-09-10T23:00:00,4,1,RescueTime,Intelligence,2
+2023-09-10T23:00:00,2,1,cseweb.ucsd.edu,Science & Technology,-2
+2023-09-12T10:00:00,106,1,users,General Software Development,2
+2023-09-12T10:00:00,55,1,hp officejet pro 8720,Uncategorized,0
+2023-09-12T10:00:00,36,1,printerproxy,General Business,2
+2023-09-12T10:00:00,35,1,Safari,Browsers,0
+2023-09-12T10:00:00,24,1,Google Documents,Writing,2
+2023-09-12T10:00:00,3,1,Adobe Acrobat,General Reference & Learning,2
+2023-09-12T10:00:00,2,1,nijianmo.github.io,General Software Development,2
+2023-09-12T10:00:00,1,1,safari-resource:,Browsers,0
+2023-09-12T10:00:00,1,1,RescueTime,Intelligence,2
+2023-09-12T11:00:00,4,1,users,General Software Development,2
+2023-09-12T11:00:00,1,1,RescueTime,Intelligence,2
+2023-09-13T15:00:00,512,1,intel.wd1.myworkdayjobs.com,Uncategorized,0
+2023-09-13T15:00:00,392,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-09-13T15:00:00,257,1,apply.coveredca.com,Health & Medicine,2
+2023-09-13T15:00:00,221,1,linkedin.com,Professional Networking,2
+2023-09-13T15:00:00,174,1,indeed.com,Employment,2
+2023-09-13T15:00:00,132,1,coveredca.com,Health & Medicine,2
+2023-09-13T15:00:00,89,1,cshs.taleo.net,Uncategorized,0
+2023-09-13T15:00:00,83,1,users,General Software Development,2
+2023-09-13T15:00:00,65,1,jobs.apple.com,Employment,2
+2023-09-13T15:00:00,52,1,remote-jobs.talentify.io,Uncategorized,0
+2023-09-13T15:00:00,42,1,jobs.intel.com,General Reference & Learning,2
+2023-09-13T15:00:00,38,1,cshs.referrals.selectminds.com,Uncategorized,0
+2023-09-13T15:00:00,35,1,provider-portal.apps.prd.cammis.medi-cal.ca.gov,General Reference & Learning,2
+2023-09-13T15:00:00,34,1,dhcs.ca.gov,Internet Utilities,1
+2023-09-13T15:00:00,27,1,lastpass,General Utilities,1
+2023-09-13T15:00:00,21,1,Safari,Browsers,0
+2023-09-13T15:00:00,15,1,RescueTime,Intelligence,2
+2023-09-13T15:00:00,15,1,system settings,Computer,1
+2023-09-13T15:00:00,15,1,mcweb.apps.prd.cammis.medi-cal.ca.gov,General Reference & Learning,2
+2023-09-13T15:00:00,13,1,expressvpn,Internet Utilities,1
+2023-09-13T15:00:00,12,1,idmsa.apple.com,General Software Development,2
+2023-09-13T15:00:00,9,1,thetower.freshteam.com,Uncategorized,0
+2023-09-13T15:00:00,5,1,career8.successfactors.com,Employment,2
+2023-09-13T15:00:00,4,1,Google Documents,Writing,2
+2023-09-13T15:00:00,2,1,drive.google.com,General Business,2
+2023-09-13T15:00:00,2,1,veeco.com,Uncategorized,0
+2023-09-13T15:00:00,2,1,tesla.com,Uncategorized,0
+2023-09-13T16:00:00,457,1,jobs.gohire.io,Uncategorized,0
+2023-09-13T16:00:00,444,1,cshs.taleo.net,Uncategorized,0
+2023-09-13T16:00:00,373,1,jobs.apple.com,Employment,2
+2023-09-13T16:00:00,240,1,linkedin.com,Professional Networking,2
+2023-09-13T16:00:00,103,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-09-13T16:00:00,76,1,hbr.org,Business & Finance,2
+2023-09-13T16:00:00,45,1,thetower.freshteam.com,Uncategorized,0
+2023-09-13T16:00:00,26,1,Safari,Browsers,0
+2023-09-13T16:00:00,18,1,patternedlearning.com,Uncategorized,0
+2023-09-13T16:00:00,14,1,tesla.com,Uncategorized,0
+2023-09-13T16:00:00,10,1,Google Documents,Writing,2
+2023-09-13T16:00:00,8,1,indeed.com,Employment,2
+2023-09-13T16:00:00,7,1,intel.wd1.myworkdayjobs.com,Uncategorized,0
+2023-09-13T16:00:00,7,1,drive.google.com,General Business,2
+2023-09-13T16:00:00,6,1,bcsweb.is.berkeley.edu,General Reference & Learning,2
+2023-09-13T16:00:00,4,1,jobs.lever.co,Employment,2
+2023-09-13T16:00:00,3,1,auth.berkeley.edu,General Reference & Learning,2
+2023-09-13T16:00:00,3,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-09-13T16:00:00,2,1,apply.coveredca.com,Health & Medicine,2
+2023-09-13T19:00:00,1934,1,Zoom,Meetings,2
+2023-09-13T19:00:00,120,1,Mail,Email,1
+2023-09-13T19:00:00,17,1,expressvpn,Internet Utilities,1
+2023-09-13T19:00:00,8,1,onlinemeditationevents.zoom.us,Meetings,2
+2023-09-13T19:00:00,3,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-09-13T19:00:00,2,1,Safari,Browsers,0
+2023-09-13T19:00:00,1,1,pycharm,Editing & IDEs,2
+2023-09-14T07:00:00,1778,1,Personal (offline),Productive,1
+2023-09-14T08:00:00,3600,1,Personal (offline),Productive,1
+2023-09-14T09:00:00,3568,1,Personal (offline),Productive,1
+2023-09-14T09:00:00,23,1,Mail,Email,1
+2023-09-14T09:00:00,3,1,expressvpn,Internet Utilities,1
+2023-09-14T09:00:00,3,1,RescueTime,Intelligence,2
+2023-09-14T09:00:00,1,1,Zoom,Meetings,2
+2023-09-14T10:00:00,770,1,Google Documents,Writing,2
+2023-09-14T10:00:00,689,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-14T10:00:00,677,1,qbreader.org,General Reference & Learning,2
+2023-09-14T10:00:00,163,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-14T10:00:00,62,1,Safari,Browsers,0
+2023-09-14T10:00:00,53,1,Mail,Email,1
+2023-09-14T10:00:00,30,1,drive.google.com,General Business,2
+2023-09-14T10:00:00,15,1,rescuetime.com,Computer,1
+2023-09-14T10:00:00,5,1,onlinemeditationevents.zoom.us,Meetings,2
+2023-09-14T10:00:00,4,1,safari-resource:,Browsers,0
+2023-09-14T10:00:00,4,1,en.m.wikipedia.org,General Entertainment,-2
+2023-09-14T10:00:00,2,1,w3schools.com,Engineering & Technology,2
+2023-09-14T10:00:00,2,1,Google Spreadsheets,General Business,2
+2023-09-14T11:00:00,1868,1,Google Documents,Writing,2
+2023-09-14T11:00:00,1195,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-14T11:00:00,255,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-14T11:00:00,231,1,Mail,Email,1
+2023-09-14T11:00:00,29,1,qbreader.org,General Reference & Learning,2
+2023-09-14T11:00:00,8,1,Safari,Browsers,0
+2023-09-14T11:00:00,5,1,drive.google.com,General Business,2
+2023-09-14T11:00:00,4,1,w3schools.com,Engineering & Technology,2
+2023-09-14T12:00:00,691,1,Google Documents,Writing,2
+2023-09-14T12:00:00,251,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-14T12:00:00,85,1,qbreader.org,General Reference & Learning,2
+2023-09-14T12:00:00,54,1,Mail,Email,1
+2023-09-14T12:00:00,26,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-14T13:00:00,1470,1,discord,General Entertainment,-2
+2023-09-14T13:00:00,719,1,Google Documents,Writing,2
+2023-09-14T13:00:00,708,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-14T13:00:00,445,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-14T13:00:00,17,1,google.com,Search,1
+2023-09-14T13:00:00,13,1,2009-2017.state.gov,Search,1
+2023-09-14T13:00:00,10,1,catalog.csus.edu,General Reference & Learning,2
+2023-09-14T13:00:00,10,1,Safari,Browsers,0
+2023-09-14T13:00:00,5,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-09-14T13:00:00,2,1,drive.google.com,General Business,2
+2023-09-14T14:00:00,1301,1,qbreader.org,General Reference & Learning,2
+2023-09-14T14:00:00,805,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-14T14:00:00,161,1,Google Documents,Writing,2
+2023-09-14T14:00:00,150,1,discord,General Entertainment,-2
+2023-09-14T14:00:00,51,1,microsoft word,Writing,2
+2023-09-14T14:00:00,30,1,Finder,Computer,1
+2023-09-14T14:00:00,22,1,quizbowlpackets.com,General Reference & Learning,2
+2023-09-14T14:00:00,10,1,drive.google.com,General Business,2
+2023-09-14T14:00:00,8,1,Safari,Browsers,0
+2023-09-14T14:00:00,4,1,2009-2017.state.gov,Search,1
+2023-09-14T14:00:00,4,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-14T14:00:00,3,1,coreservicesuiagent,General Utilities,1
+2023-09-14T14:00:00,2,1,safari-resource:,Browsers,0
+2023-09-14T15:00:00,285,1,discord,General Entertainment,-2
+2023-09-14T15:00:00,243,1,Google Documents,Writing,2
+2023-09-14T15:00:00,115,1,Finder,Computer,1
+2023-09-14T15:00:00,95,1,Mail,Email,1
+2023-09-14T15:00:00,88,1,RescueTime,Intelligence,2
+2023-09-14T15:00:00,69,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-14T15:00:00,31,1,jobs.lever.co,Employment,2
+2023-09-14T15:00:00,7,1,linkedin.com,Professional Networking,2
+2023-09-14T15:00:00,2,1,Safari,Browsers,0
+2023-09-14T15:00:00,2,1,qbreader.org,General Reference & Learning,2
+2023-09-14T15:00:00,1,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-09-14T15:00:00,1,1,drive.google.com,General Business,2
+2023-09-14T16:00:00,1114,1,Zoom,Meetings,2
+2023-09-14T16:00:00,168,1,Mail,Email,1
+2023-09-14T16:00:00,32,1,Finder,Computer,1
+2023-09-14T16:00:00,4,1,Safari,Browsers,0
+2023-09-14T16:00:00,3,1,us06web.zoom.us,Meetings,2
+2023-09-14T17:00:00,523,1,Mail,Email,1
+2023-09-14T17:00:00,245,1,jamesnorwoodpsyd.clientsecure.me,Uncategorized,0
+2023-09-14T17:00:00,232,1,blueshieldca.com,Health & Medicine,2
+2023-09-14T17:00:00,212,1,Finder,Computer,1
+2023-09-14T17:00:00,203,1,discord,General Entertainment,-2
+2023-09-14T17:00:00,43,1,Zoom,Meetings,2
+2023-09-14T17:00:00,29,1,ping-ext.blueshieldca.com,Health & Medicine,2
+2023-09-14T17:00:00,24,1,Safari,Browsers,0
+2023-09-14T17:00:00,17,1,accounts.google.com,General Communication & Scheduling,2
+2023-09-14T17:00:00,12,1,google.com,Search,1
+2023-09-14T17:00:00,5,1,secure.opinionlab.com,General Business,2
+2023-09-14T17:00:00,4,1,simplepracticeclient.page.link,Uncategorized,0
+2023-09-14T17:00:00,4,1,Google Documents,Writing,2
+2023-09-14T17:00:00,3,1,support.simplepracticeclient.com,Uncategorized,0
+2023-09-14T17:00:00,3,1,Blank Web Browser,Browsers,0
+2023-09-14T17:00:00,2,1,lastpass,General Utilities,1
+2023-09-14T17:00:00,1,1,onlinemeditationevents.zoom.us,Meetings,2
+2023-09-14T18:00:00,490,1,blueshieldca.com,Health & Medicine,2
+2023-09-14T18:00:00,314,1,archives.bulbagarden.net,Uncategorized,0
+2023-09-14T18:00:00,201,1,discord,General Entertainment,-2
+2023-09-14T18:00:00,186,1,Safari,Browsers,0
+2023-09-14T18:00:00,154,1,bulbapedia.bulbagarden.net,Games,-2
+2023-09-14T18:00:00,128,1,Mail,Email,1
+2023-09-14T18:00:00,67,1,poe.com,General Software Development,2
+2023-09-14T18:00:00,44,1,jamesnorwoodpsyd.clientsecure.me,Uncategorized,0
+2023-09-14T18:00:00,14,1,users,General Software Development,2
+2023-09-14T18:00:00,9,1,Github,General Software Development,2
+2023-09-14T18:00:00,8,1,ping-ext.blueshieldca.com,Health & Medicine,2
+2023-09-14T18:00:00,4,1,developer.poe.com,General Software Development,2
+2023-09-14T18:00:00,1,1,lastpass,General Utilities,1
+2023-09-14T19:00:00,595,1,qbreader.org,General Reference & Learning,2
+2023-09-14T19:00:00,272,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-14T19:00:00,132,1,tickets.sfmoma.org,General Communication & Scheduling,2
+2023-09-14T19:00:00,92,1,blueshieldca.com,Health & Medicine,2
+2023-09-14T19:00:00,82,1,Safari,Browsers,0
+2023-09-14T19:00:00,22,1,Google Documents,Writing,2
+2023-09-14T19:00:00,8,1,Mail,Email,1
+2023-09-14T19:00:00,7,1,jamesnorwoodpsyd.clientsecure.me,Uncategorized,0
+2023-09-14T19:00:00,3,1,users,General Software Development,2
+2023-09-14T19:00:00,1,1,lastpass,General Utilities,1
+2023-09-14T19:00:00,1,1,login.uconline.edu,Uncategorized,0
+2023-09-14T23:00:00,78,1,tickets.sfmoma.org,General Communication & Scheduling,2
+2023-09-15T20:00:00,390,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-15T20:00:00,388,1,qbreader.org,General Reference & Learning,2
+2023-09-15T20:00:00,226,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-15T20:00:00,186,1,Safari,Browsers,0
+2023-09-15T20:00:00,55,1,Google Documents,Writing,2
+2023-09-15T20:00:00,33,1,artst.org,Uncategorized,0
+2023-09-15T20:00:00,7,1,google.com,Search,1
+2023-09-15T20:00:00,5,1,youtube.com,Video,-2
+2023-09-15T20:00:00,4,1,mosaicrooms.org,Uncategorized,0
+2023-09-15T20:00:00,3,1,deanza.edu,General Reference & Learning,2
+2023-09-15T20:00:00,3,1,RescueTime,Intelligence,2
+2023-09-15T21:00:00,460,1,Google Documents,Writing,2
+2023-09-15T21:00:00,161,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-15T21:00:00,150,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-15T21:00:00,113,1,alfonsomartinjimenez.blogs.uva.es,Uncategorized,0
+2023-09-15T21:00:00,66,1,qbreader.org,General Reference & Learning,2
+2023-09-15T21:00:00,14,1,google.com,Search,1
+2023-09-15T21:00:00,8,1,Safari,Browsers,0
+2023-09-15T21:00:00,1,1,drive.google.com,General Business,2
+2023-09-16T18:00:00,1211,1,poetryfoundation.org,Society,1
+2023-09-16T18:00:00,584,1,qbreader.org,General Reference & Learning,2
+2023-09-16T18:00:00,207,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-16T18:00:00,54,1,RescueTime,Intelligence,2
+2023-09-16T18:00:00,9,1,Safari,Browsers,0
+2023-09-16T18:00:00,8,1,google.com,Search,1
+2023-09-16T18:00:00,5,1,alfonsomartinjimenez.blogs.uva.es,Uncategorized,0
+2023-09-16T18:00:00,4,1,Google Documents,Writing,2
+2023-09-16T19:00:00,449,1,qbreader.org,General Reference & Learning,2
+2023-09-16T20:00:00,1189,1,collegiate.quizbowlpackets.com,General Reference & Learning,2
+2023-09-16T20:00:00,125,1,Google Spreadsheets,General Business,2
+2023-09-16T20:00:00,31,1,shib.berkeley.edu,General Reference & Learning,2
+2023-09-16T20:00:00,25,1,Safari,Browsers,0
+2023-09-16T20:00:00,17,1,auth.berkeley.edu,General Reference & Learning,2
+2023-09-16T20:00:00,12,1,drive.google.com,General Business,2
+2023-09-16T20:00:00,3,1,Google Documents,Writing,2
+2023-09-16T20:00:00,2,1,qbreader.org,General Reference & Learning,2
+2023-09-16T20:00:00,2,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-09-16T20:00:00,2,1,w3schools.com,Engineering & Technology,2
+2023-09-16T22:00:00,503,1,collegiate.quizbowlpackets.com,General Reference & Learning,2
+2023-09-16T22:00:00,167,1,RescueTime,Intelligence,2
+2023-09-16T23:00:00,727,1,Google Spreadsheets,General Business,2
+2023-09-16T23:00:00,690,1,Google Documents,Writing,2
+2023-09-16T23:00:00,423,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-16T23:00:00,307,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-16T23:00:00,292,1,qbreader.org,General Reference & Learning,2
+2023-09-16T23:00:00,196,1,opentable.com,Travel & Outdoors,2
+2023-09-16T23:00:00,132,1,collegiate.quizbowlpackets.com,General Reference & Learning,2
+2023-09-16T23:00:00,102,1,eataly.com,Uncategorized,0
+2023-09-16T23:00:00,94,1,dot.ca.gov,Legal & Gov't,2
+2023-09-16T23:00:00,72,1,google.com,Search,1
+2023-09-16T23:00:00,34,1,eataly-us.cdn.prismic.io,Uncategorized,0
+2023-09-16T23:00:00,18,1,Safari,Browsers,0
+2023-09-16T23:00:00,8,1,drive.google.com,General Business,2
+2023-09-16T23:00:00,8,1,en.wikisource.org,Search,1
+2023-09-16T23:00:00,5,1,ping-ext.blueshieldca.com,Health & Medicine,2
+2023-09-16T23:00:00,2,1,RescueTime,Intelligence,2
+2023-09-16T23:00:00,1,1,france-amerique.com,Uncategorized,0
+2023-09-17T00:00:00,1288,1,hsquizbowl.org,General Social Networking,-2
+2023-09-17T00:00:00,1030,1,quizbowlstats.com,Uncategorized,0
+2023-09-17T00:00:00,60,1,Google Forms,General Business,2
+2023-09-17T00:00:00,38,1,Google Documents,Writing,2
+2023-09-17T00:00:00,11,1,www1.hsquizbowl.com,Uncategorized,0
+2023-09-17T00:00:00,8,1,trash.quizbowlpackets.com,General Reference & Learning,2
+2023-09-17T00:00:00,8,1,quizbowlpackets.com,General Reference & Learning,2
+2023-09-17T00:00:00,7,1,Safari,Browsers,0
+2023-09-17T00:00:00,4,1,collegiate.quizbowlpackets.com,General Reference & Learning,2
+2023-09-17T00:00:00,2,1,forms.gle,Internet Utilities,1
+2023-09-17T00:00:00,1,1,hsquizbowl.com,Uncategorized,0
+2023-09-17T01:00:00,919,1,hsquizbowl.org,General Social Networking,-2
+2023-09-17T01:00:00,770,1,quizbowlstats.com,Uncategorized,0
+2023-09-17T01:00:00,281,1,Google Documents,Writing,2
+2023-09-17T01:00:00,102,1,Google Spreadsheets,General Business,2
+2023-09-17T01:00:00,15,1,quizbowlpackets.com,General Reference & Learning,2
+2023-09-17T01:00:00,4,1,sites.google.com,Internet Utilities,1
+2023-09-17T01:00:00,4,1,christies.com,Uncategorized,0
+2023-09-17T01:00:00,4,1,RescueTime,Intelligence,2
+2023-09-17T01:00:00,3,1,Safari,Browsers,0
+2023-09-17T01:00:00,3,1,collegiate.quizbowlpackets.com,General Reference & Learning,2
+2023-09-17T01:00:00,1,1,france-amerique.com,Uncategorized,0
+2023-09-17T01:00:00,1,1,drive.google.com,General Business,2
+2023-09-17T02:00:00,1,1,drive.google.com,General Business,2
+2023-09-17T10:00:00,2,1,RescueTime,Intelligence,2
+2023-09-17T12:00:00,137,1,RescueTime,Intelligence,2
+2023-09-17T13:00:00,343,1,Finder,Computer,1
+2023-09-17T13:00:00,75,1,adobe photoshop 2023,Graphic Design,2
+2023-09-17T13:00:00,33,1,Mail,Email,1
+2023-09-17T13:00:00,2,1,coreservicesuiagent,General Utilities,1
+2023-09-19T11:00:00,67,1,Zoom,Meetings,2
+2023-09-19T11:00:00,26,1,Mail,Email,1
+2023-09-19T11:00:00,6,1,us06web.zoom.us,Meetings,2
+2023-09-19T11:00:00,5,1,Finder,Computer,1
+2023-09-19T11:00:00,4,1,Safari,Browsers,0
+2023-09-19T11:00:00,3,1,auth.berkeley.edu,General Reference & Learning,2
+2023-09-19T12:00:00,3239,1,Zoom,Meetings,2
+2023-09-19T12:00:00,16,1,auth.berkeley.edu,General Reference & Learning,2
+2023-09-19T21:00:00,1355,1,adobe photoshop 2023,Graphic Design,2
+2023-09-19T21:00:00,480,1,Personal (offline),Productive,1
+2023-09-19T21:00:00,253,1,google.com,Search,1
+2023-09-19T21:00:00,229,1,Finder,Computer,1
+2023-09-19T21:00:00,86,1,images.google.com,Search,1
+2023-09-19T21:00:00,73,1,system settings,Computer,1
+2023-09-19T21:00:00,46,1,cleaner one pro,General Utilities,1
+2023-09-19T21:00:00,35,1,i.pinimg.com,Photos,-2
+2023-09-19T21:00:00,22,1,Safari,Browsers,0
+2023-09-19T21:00:00,7,1,Zoom,Meetings,2
+2023-09-19T21:00:00,2,1,linkedin.com,Professional Networking,2
+2023-09-19T22:00:00,2344,1,Personal (offline),Productive,1
+2023-09-19T22:00:00,1248,1,adobe photoshop 2023,Graphic Design,2
+2023-09-19T22:00:00,5,1,RescueTime,Intelligence,2
+2023-09-19T23:00:00,2753,1,adobe photoshop 2023,Graphic Design,2
+2023-09-20T00:00:00,3169,1,adobe photoshop 2023,Graphic Design,2
+2023-09-20T00:00:00,4,1,Safari,Browsers,0
+2023-09-20T00:00:00,1,1,imageupscaler.com,Uncategorized,0
+2023-09-20T01:00:00,2721,1,adobe photoshop 2023,Graphic Design,2
+2023-09-20T01:00:00,198,1,Finder,Computer,1
+2023-09-20T01:00:00,46,1,helpx.adobe.com,General Software Development,2
+2023-09-20T01:00:00,3,1,pycharm,Editing & IDEs,2
+2023-09-20T01:00:00,2,1,Safari,Browsers,0
+2023-09-20T01:00:00,1,1,imageupscaler.com,Uncategorized,0
+2023-09-20T02:00:00,671,1,adobe photoshop 2023,Graphic Design,2
+2023-09-20T02:00:00,436,1,google.com,Search,1
+2023-09-20T02:00:00,24,1,heightcomparison.com,Uncategorized,0
+2023-09-20T02:00:00,5,1,Safari,Browsers,0
+2023-09-20T02:00:00,2,1,imageupscaler.com,Uncategorized,0
+2023-09-20T02:00:00,1,1,i.pinimg.com,Photos,-2
+2023-09-20T03:00:00,683,1,adobe photoshop 2023,Graphic Design,2
+2023-09-20T03:00:00,332,1,Finder,Computer,1
+2023-09-20T03:00:00,11,1,Safari,Browsers,0
+2023-09-20T03:00:00,5,1,heightcomparison.com,Uncategorized,0
+2023-09-20T03:00:00,5,1,RescueTime,Intelligence,2
+2023-09-21T00:00:00,1103,1,adobe photoshop 2023,Graphic Design,2
+2023-09-21T00:00:00,855,1,Finder,Computer,1
+2023-09-21T00:00:00,244,1,cleaner one pro,General Utilities,1
+2023-09-21T00:00:00,98,1,google.com,Search,1
+2023-09-21T00:00:00,43,1,imageupscaler.com,Uncategorized,0
+2023-09-21T00:00:00,29,1,memory diag,General Utilities,1
+2023-09-21T00:00:00,26,1,Safari,Browsers,0
+2023-09-21T00:00:00,22,1,i.pinimg.com,Photos,-2
+2023-09-21T00:00:00,21,1,acrobat uninstaller,General Utilities,1
+2023-09-21T00:00:00,14,1,Preview,General Reference & Learning,2
+2023-09-21T00:00:00,13,1,RescueTime,Intelligence,2
+2023-09-21T00:00:00,7,1,SecurityAgent,Systems Operations,2
+2023-09-21T00:00:00,6,1,cleaner one,Uncategorized,0
+2023-09-21T00:00:00,6,1,images.google.com,Search,1
+2023-09-21T00:00:00,2,1,coreservicesuiagent,General Utilities,1
+2023-09-21T01:00:00,1596,1,adobe photoshop 2023,Graphic Design,2
+2023-09-21T01:00:00,44,1,Finder,Computer,1
+2023-09-21T01:00:00,5,1,i.pinimg.com,Photos,-2
+2023-09-21T02:00:00,1735,1,adobe photoshop 2023,Graphic Design,2
+2023-09-21T02:00:00,55,1,Finder,Computer,1
+2023-09-21T02:00:00,37,1,google.com,Search,1
+2023-09-21T02:00:00,2,1,i.pinimg.com,Photos,-2
+2023-09-21T03:00:00,1750,1,adobe photoshop 2024,Graphic Design,2
+2023-09-21T03:00:00,826,1,adobe photoshop 2023,Graphic Design,2
+2023-09-21T03:00:00,305,1,creative cloud,General Design & Composition,2
+2023-09-21T03:00:00,79,1,Finder,Computer,1
+2023-09-21T03:00:00,78,1,adobe.com,General Software Development,2
+2023-09-21T03:00:00,70,1,account.adobe.com,General Software Development,2
+2023-09-21T03:00:00,57,1,firefly.adobe.com,General Software Development,2
+2023-09-21T03:00:00,55,1,auth.services.adobe.com,Uncategorized,0
+2023-09-21T03:00:00,46,1,creativecloud.adobe.com,General Software Development,2
+2023-09-21T03:00:00,33,1,coreservicesuiagent,General Utilities,1
+2023-09-21T03:00:00,30,1,commerce.adobe.com,General Software Development,2
+2023-09-21T03:00:00,27,1,new.express.adobe.com,General Design & Composition,2
+2023-09-21T03:00:00,23,1,google.com,Search,1
+2023-09-21T03:00:00,20,1,plan.adobe.com,General Software Development,2
+2023-09-21T03:00:00,7,1,Safari,Browsers,0
+2023-09-21T03:00:00,6,1,cleaner one pro,General Utilities,1
+2023-09-21T03:00:00,4,1,lastpass,General Utilities,1
+2023-09-21T03:00:00,3,1,usernotificationcenter,General Utilities,1
+2023-09-21T04:00:00,1850,1,adobe photoshop 2024,Graphic Design,2
+2023-09-21T04:00:00,455,1,google.com,Search,1
+2023-09-21T04:00:00,64,1,imageupscaler.com,Uncategorized,0
+2023-09-21T04:00:00,23,1,fg-a.com,Uncategorized,0
+2023-09-21T04:00:00,22,1,media.istockphoto.com,Presentation,2
+2023-09-21T04:00:00,20,1,Finder,Computer,1
+2023-09-21T04:00:00,14,1,Safari,Browsers,0
+2023-09-21T04:00:00,7,1,i.pinimg.com,Photos,-2
+2023-09-21T04:00:00,6,1,account.adobe.com,General Software Development,2
+2023-09-21T04:00:00,5,1,t4.ftcdn.net,Uncategorized,0
+2023-09-21T04:00:00,5,1,as2.ftcdn.net,Uncategorized,0
+2023-09-21T04:00:00,1,1,helpx.adobe.com,General Software Development,2
+2023-09-21T05:00:00,124,1,Finder,Computer,1
+2023-09-21T05:00:00,80,1,adobe photoshop 2024,Graphic Design,2
+2023-09-21T09:00:00,392,1,Sleep (offline),Health & Medicine,2
+2023-09-21T10:00:00,3600,1,Sleep (offline),Health & Medicine,2
+2023-09-21T11:00:00,1363,1,Sleep (offline),Health & Medicine,2
+2023-09-21T11:00:00,935,1,google.com,Search,1
+2023-09-21T11:00:00,276,1,adobe photoshop 2024,Graphic Design,2
+2023-09-21T11:00:00,268,1,Finder,Computer,1
+2023-09-21T11:00:00,231,1,system settings,Computer,1
+2023-09-21T11:00:00,145,1,Safari,Browsers,0
+2023-09-21T11:00:00,112,1,support.apple.com,Search,1
+2023-09-21T11:00:00,75,1,macrumors.com,General News & Opinion,1
+2023-09-21T11:00:00,57,1,images.google.com,Search,1
+2023-09-21T11:00:00,54,1,spotify,Music,-1
+2023-09-21T11:00:00,20,1,rescuetime.com,Computer,1
+2023-09-21T11:00:00,15,1,creative cloud,General Design & Composition,2
+2023-09-21T11:00:00,8,1,a-z-animals.com,General Reference & Learning,2
+2023-09-21T11:00:00,6,1,usernotificationcenter,General Utilities,1
+2023-09-21T11:00:00,5,1,RescueTime,Intelligence,2
+2023-09-21T11:00:00,3,1,safari-resource:,Browsers,0
+2023-09-21T12:00:00,1979,1,adobe photoshop 2024,Graphic Design,2
+2023-09-21T12:00:00,4,1,Notes,Writing,2
+2023-09-21T13:00:00,1925,1,adobe photoshop 2024,Graphic Design,2
+2023-09-21T13:00:00,120,1,creative cloud,General Design & Composition,2
+2023-09-21T13:00:00,64,1,google.com,Search,1
+2023-09-21T13:00:00,63,1,lastpass,General Utilities,1
+2023-09-21T13:00:00,17,1,Finder,Computer,1
+2023-09-21T13:00:00,3,1,a-z-animals.com,General Reference & Learning,2
+2023-09-21T14:00:00,1693,1,adobe photoshop 2024,Graphic Design,2
+2023-09-21T14:00:00,398,1,google.com,Search,1
+2023-09-21T14:00:00,142,1,Finder,Computer,1
+2023-09-21T14:00:00,90,1,creative cloud,General Design & Composition,2
+2023-09-21T14:00:00,7,1,mindenpictures.com,Uncategorized,0
+2023-09-21T14:00:00,6,1,Safari,Browsers,0
+2023-09-21T14:00:00,6,1,a-z-animals.com,General Reference & Learning,2
+2023-09-21T14:00:00,5,1,joelsartore.com,Uncategorized,0
+2023-09-21T15:00:00,2580,1,adobe photoshop 2024,Graphic Design,2
+2023-09-21T15:00:00,23,1,creative cloud,General Design & Composition,2
+2023-09-21T15:00:00,10,1,Finder,Computer,1
+2023-09-21T16:00:00,801,1,adobe photoshop 2024,Graphic Design,2
+2023-09-21T16:00:00,454,1,Finder,Computer,1
+2023-09-21T16:00:00,79,1,creative cloud,General Design & Composition,2
+2023-09-21T16:00:00,27,1,Safari,Browsers,0
+2023-09-22T15:00:00,473,1,system settings,Computer,1
+2023-09-22T15:00:00,106,1,discussions.apple.com,Science & Technology,1
+2023-09-22T15:00:00,82,1,Finder,Computer,1
+2023-09-22T15:00:00,62,1,google.com,Search,1
+2023-09-22T15:00:00,53,1,Safari,Browsers,0
+2023-09-22T15:00:00,50,1,RescueTime,Intelligence,2
+2023-09-22T15:00:00,33,1,macrumors.com,General News & Opinion,1
+2023-09-22T15:00:00,23,1,rescuetime.com,Computer,1
+2023-09-22T15:00:00,18,1,osxdaily.com,General News & Opinion,-2
+2023-09-22T15:00:00,11,1,expressvpn,Internet Utilities,1
+2023-09-22T15:00:00,5,1,usernotificationcenter,General Utilities,1
+2023-09-22T15:00:00,5,1,app store,General Shopping,-2
+2023-09-22T15:00:00,3,1,safari-resource:,Browsers,0
+2023-09-22T15:00:00,3,1,memory diag,General Utilities,1
+2023-09-22T15:00:00,3,1,creative cloud,General Design & Composition,2
+2023-09-22T16:00:00,215,1,RescueTime,Intelligence,2
+2023-09-22T16:00:00,131,1,system settings,Computer,1
+2023-09-22T16:00:00,78,1,google.com,Search,1
+2023-09-22T16:00:00,23,1,Safari,Browsers,0
+2023-09-22T16:00:00,12,1,images.fineartamerica.com,General Shopping,-2
+2023-09-22T16:00:00,12,1,Finder,Computer,1
+2023-09-22T16:00:00,6,1,images.google.com,Search,1
+2023-09-22T17:00:00,289,1,Finder,Computer,1
+2023-09-22T17:00:00,94,1,system settings,Computer,1
+2023-09-22T17:00:00,22,1,coreservicesuiagent,General Utilities,1
+2023-09-22T17:00:00,5,1,Safari,Browsers,0
+2023-09-22T17:00:00,5,1,RescueTime,Intelligence,2
+2023-09-22T18:00:00,1687,1,adobe photoshop 2024,Graphic Design,2
+2023-09-22T18:00:00,499,1,system settings,Computer,1
+2023-09-22T18:00:00,271,1,support.apple.com,Search,1
+2023-09-22T18:00:00,270,1,google.com,Search,1
+2023-09-22T18:00:00,120,1,Finder,Computer,1
+2023-09-22T18:00:00,44,1,Safari,Browsers,0
+2023-09-22T18:00:00,42,1,macrumors.com,General News & Opinion,1
+2023-09-22T18:00:00,8,1,animalspot.net,Uncategorized,0
+2023-09-22T18:00:00,5,1,usernotificationcenter,General Utilities,1
+2023-09-22T18:00:00,3,1,stagemanagereducation,Uncategorized,0
+2023-09-22T18:00:00,3,1,images.google.com,Search,1
+2023-09-22T19:00:00,3078,1,Personal (offline),Productive,1
+2023-09-22T19:00:00,190,1,google.com,Search,1
+2023-09-22T19:00:00,5,1,Finder,Computer,1
+2023-09-22T19:00:00,3,1,adobe photoshop 2024,Graphic Design,2
+2023-09-22T19:00:00,1,1,Safari,Browsers,0
+2023-09-22T20:00:00,3600,1,Personal (offline),Productive,1
+2023-09-22T21:00:00,2444,1,Personal (offline),Productive,1
+2023-09-22T21:00:00,273,1,RescueTime,Intelligence,2
+2023-09-22T23:00:00,389,1,quicktime player,General Entertainment,-2
+2023-09-22T23:00:00,163,1,Finder,Computer,1
+2023-09-22T23:00:00,24,1,mobiledeviceupdater,General Utilities,1
+2023-09-23T00:00:00,1503,1,adobe photoshop 2024,Graphic Design,2
+2023-09-23T00:00:00,504,1,universal control,Computer,1
+2023-09-23T00:00:00,481,1,Finder,Computer,1
+2023-09-23T00:00:00,463,1,quicktime player,General Entertainment,-2
+2023-09-23T00:00:00,142,1,google.com,Search,1
+2023-09-23T00:00:00,26,1,Safari,Browsers,0
+2023-09-23T00:00:00,25,1,images.google.com,Search,1
+2023-09-23T00:00:00,24,1,sn3.scholastic.com,Employment,2
+2023-09-23T00:00:00,12,1,warrenphotographic.co.uk,Uncategorized,0
+2023-09-23T00:00:00,8,1,d3bkbkx82g74b8.cloudfront.net,Uncategorized,0
+2023-09-23T00:00:00,3,1,Preview,General Reference & Learning,2
+2023-09-23T00:00:00,2,1,encrypted-tbn0.gstatic.com,General Utilities,1
+2023-09-23T01:00:00,2907,1,adobe photoshop 2024,Graphic Design,2
+2023-09-23T01:00:00,46,1,google.com,Search,1
+2023-09-23T01:00:00,4,1,Notes,Writing,2
+2023-09-23T01:00:00,3,1,universal control,Computer,1
+2023-09-23T01:00:00,1,1,linkednotesuiservice,Uncategorized,0
+2023-09-23T01:00:00,1,1,sn3.scholastic.com,Employment,2
+2023-09-23T02:00:00,1114,1,adobe photoshop 2024,Graphic Design,2
+2023-09-23T02:00:00,328,1,Finder,Computer,1
+2023-09-23T02:00:00,91,1,google.com,Search,1
+2023-09-23T02:00:00,19,1,Safari,Browsers,0
+2023-09-23T02:00:00,2,1,RescueTime,Intelligence,2
+2023-09-23T20:00:00,2242,1,Personal (offline),Productive,1
+2023-09-23T21:00:00,2328,1,Personal (offline),Productive,1
+2023-09-23T21:00:00,164,1,RescueTime,Intelligence,2
+2023-09-23T21:00:00,101,1,adobe photoshop 2024,Graphic Design,2
+2023-09-23T21:00:00,37,1,images.google.com,Search,1
+2023-09-23T21:00:00,27,1,Finder,Computer,1
+2023-09-23T21:00:00,9,1,Safari,Browsers,0
+2023-09-23T22:00:00,585,1,adobe photoshop 2024,Graphic Design,2
+2023-09-23T22:00:00,236,1,Finder,Computer,1
+2023-09-23T22:00:00,164,1,google.com,Search,1
+2023-09-23T22:00:00,64,1,Safari,Browsers,0
+2023-09-23T22:00:00,22,1,imgupscaler.com,Uncategorized,0
+2023-09-23T22:00:00,22,1,upscale.media,Uncategorized,0
+2023-09-23T22:00:00,10,1,images.google.com,Search,1
+2023-09-23T22:00:00,6,1,images.fineartamerica.com,General Shopping,-2
+2023-09-23T23:00:00,2903,1,adobe photoshop 2024,Graphic Design,2
+2023-09-23T23:00:00,48,1,spotify,Music,-1
+2023-09-24T00:00:00,2723,1,adobe photoshop 2024,Graphic Design,2
+2023-09-24T00:00:00,50,1,Finder,Computer,1
+2023-09-24T01:00:00,1216,1,deviantart.com,General Entertainment,-2
+2023-09-24T01:00:00,842,1,adobe photoshop 2024,Graphic Design,2
+2023-09-24T01:00:00,221,1,Finder,Computer,1
+2023-09-24T01:00:00,43,1,imgupscaler.com,Uncategorized,0
+2023-09-24T01:00:00,22,1,google.com,Search,1
+2023-09-24T01:00:00,19,1,creative cloud,General Design & Composition,2
+2023-09-24T01:00:00,18,1,Safari,Browsers,0
+2023-09-24T01:00:00,1,1,images.fineartamerica.com,General Shopping,-2
+2023-09-24T01:00:00,1,1,twitter.com,General Social Networking,-2
+2023-09-24T13:00:00,95,1,deviantart.com,General Entertainment,-2
+2023-09-24T13:00:00,4,1,RescueTime,Intelligence,2
+2023-09-24T16:00:00,66,1,deviantart.com,General Entertainment,-2
+2023-09-24T16:00:00,1,1,RescueTime,Intelligence,2
+2023-09-25T16:00:00,751,1,Google Presentations,Presentation,2
+2023-09-25T16:00:00,122,1,berkeleypubliclibrary.org,General Reference & Learning,2
+2023-09-25T16:00:00,80,1,ds100.org,Science & Math,2
+2023-09-25T16:00:00,76,1,data102.org,Science & Math,2
+2023-09-25T16:00:00,54,1,Safari,Browsers,0
+2023-09-25T16:00:00,46,1,link-gale-com.ezproxy.sfpl.org,Uncategorized,0
+2023-09-25T16:00:00,40,1,Finder,Computer,1
+2023-09-25T16:00:00,34,1,prob140.org,Uncategorized,0
+2023-09-25T16:00:00,29,1,link.gale.com,Uncategorized,0
+2023-09-25T16:00:00,26,1,inst.eecs.berkeley.edu,Administration,2
+2023-09-25T16:00:00,24,1,sfpl.org,Search,1
+2023-09-25T16:00:00,15,1,udemy.com,General Reference & Learning,2
+2023-09-25T16:00:00,14,1,login.ezproxy.sfpl.org,Uncategorized,0
+2023-09-25T16:00:00,12,1,login.gale.com,Uncategorized,0
+2023-09-25T16:00:00,5,1,google.com,Search,1
+2023-09-25T16:00:00,4,1,accounts.youtube.com,Video,-2
+2023-09-25T16:00:00,4,1,accounts.google.com,General Communication & Scheduling,2
+2023-09-25T16:00:00,4,1,deviantart.com,General Entertainment,-2
+2023-09-25T16:00:00,3,1,auth.berkeley.edu,General Reference & Learning,2
+2023-09-25T16:00:00,3,1,RescueTime,Intelligence,2
+2023-09-25T16:00:00,3,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-09-25T16:00:00,2,1,login.ezproxy.berkeleypubliclibrary.org,Uncategorized,0
+2023-09-25T16:00:00,2,1,data100.datahub.berkeley.edu,General Software Development,2
+2023-09-25T16:00:00,1,1,shib.berkeley.edu,General Reference & Learning,2
+2023-09-26T23:00:00,694,1,m.bulbapedia.bulbagarden.net,Games,-2
+2023-09-26T23:00:00,105,1,filezilla,General Software Development,2
+2023-09-26T23:00:00,17,1,Safari,Browsers,0
+2023-09-26T23:00:00,12,1,Finder,Computer,1
+2023-09-26T23:00:00,5,1,data102.org,Science & Math,2
+2023-09-26T23:00:00,2,1,RescueTime,Intelligence,2
+2023-09-27T00:00:00,726,1,m.bulbapedia.bulbagarden.net,Games,-2
+2023-09-27T01:00:00,502,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-27T01:00:00,293,1,qbreader.org,General Reference & Learning,2
+2023-09-27T01:00:00,38,1,Safari,Browsers,0
+2023-09-27T01:00:00,4,1,m.bulbapedia.bulbagarden.net,Games,-2
+2023-09-27T01:00:00,2,1,RescueTime,Intelligence,2
+2023-09-27T02:00:00,744,1,qbreader.org,General Reference & Learning,2
+2023-09-27T02:00:00,9,1,youtube.com,Video,-2
+2023-09-27T12:00:00,719,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-27T12:00:00,2,1,RescueTime,Intelligence,2
+2023-09-27T12:00:00,1,1,youtube.com,Video,-2
+2023-09-27T12:00:00,1,1,Safari,Browsers,0
+2023-09-27T14:00:00,175,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-27T14:00:00,42,1,Safari,Browsers,0
+2023-09-27T14:00:00,24,1,RescueTime,Intelligence,2
+2023-09-27T14:00:00,21,1,data102.org,Science & Math,2
+2023-09-27T16:00:00,1393,1,qbreader.org,General Reference & Learning,2
+2023-09-27T16:00:00,540,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-27T16:00:00,533,1,quizbowlstats.com,Uncategorized,0
+2023-09-27T16:00:00,169,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-27T16:00:00,81,1,france-amerique.com,Uncategorized,0
+2023-09-27T16:00:00,15,1,Safari,Browsers,0
+2023-09-27T16:00:00,7,1,drive.google.com,General Business,2
+2023-09-27T16:00:00,2,1,Google Spreadsheets,General Business,2
+2023-09-27T16:00:00,2,1,RescueTime,Intelligence,2
+2023-09-27T16:00:00,1,1,youtube.com,Video,-2
+2023-09-27T17:00:00,1148,1,qbreader.org,General Reference & Learning,2
+2023-09-27T17:00:00,591,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-27T17:00:00,375,1,Google Documents,Writing,2
+2023-09-27T17:00:00,189,1,soar.suny.edu,General Reference & Learning,2
+2023-09-27T17:00:00,159,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-27T17:00:00,111,1,jstor.org,Engineering & Technology,2
+2023-09-27T17:00:00,69,1,france-amerique.com,Uncategorized,0
+2023-09-27T17:00:00,40,1,Google Spreadsheets,General Business,2
+2023-09-27T17:00:00,39,1,Safari,Browsers,0
+2023-09-27T17:00:00,36,1,google.com,Search,1
+2023-09-27T17:00:00,24,1,hsquizbowl.org,General Social Networking,-2
+2023-09-27T17:00:00,19,1,drive.google.com,General Business,2
+2023-09-27T17:00:00,9,1,literaturetimes.com,Uncategorized,0
+2023-09-27T17:00:00,2,1,youtube.com,Video,-2
+2023-09-27T17:00:00,1,1,quizbowlstats.com,Uncategorized,0
+2023-09-27T18:00:00,2733,1,Google Documents,Writing,2
+2023-09-27T18:00:00,336,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-27T18:00:00,332,1,qbreader.org,General Reference & Learning,2
+2023-09-27T18:00:00,188,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-27T18:00:00,9,1,en.wiktionary.org,Search,1
+2023-09-27T19:00:00,1657,1,discord,General Entertainment,-2
+2023-09-27T19:00:00,1442,1,Google Documents,Writing,2
+2023-09-27T19:00:00,324,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-27T19:00:00,141,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-27T19:00:00,28,1,qbreader.org,General Reference & Learning,2
+2023-09-27T19:00:00,2,1,Google Spreadsheets,General Business,2
+2023-09-27T19:00:00,1,1,drive.google.com,General Business,2
+2023-09-27T19:00:00,1,1,coreservicesuiagent,General Utilities,1
+2023-09-27T20:00:00,1150,1,discord,General Entertainment,-2
+2023-09-27T20:00:00,136,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-27T21:00:00,52,1,qbreader.org,General Reference & Learning,2
+2023-09-27T21:00:00,18,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-27T21:00:00,3,1,RescueTime,Intelligence,2
+2023-09-27T21:00:00,1,1,Safari,Browsers,0
+2023-09-28T12:00:00,389,1,qbreader.org,General Reference & Learning,2
+2023-09-28T12:00:00,147,1,discord,General Entertainment,-2
+2023-09-28T12:00:00,98,1,Google Documents,Writing,2
+2023-09-28T12:00:00,27,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-28T12:00:00,1,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-28T13:00:00,1492,1,discord,General Entertainment,-2
+2023-09-28T13:00:00,1359,1,Zoom,Meetings,2
+2023-09-28T13:00:00,214,1,qbreader.org,General Reference & Learning,2
+2023-09-28T13:00:00,196,1,Mail,Email,1
+2023-09-28T13:00:00,142,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-28T13:00:00,54,1,expressvpn,Internet Utilities,1
+2023-09-28T13:00:00,51,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-28T13:00:00,28,1,Google Documents,Writing,2
+2023-09-28T13:00:00,21,1,installer,General Utilities,1
+2023-09-28T13:00:00,16,1,Safari,Browsers,0
+2023-09-28T13:00:00,7,1,us06web.zoom.us,Meetings,2
+2023-09-28T13:00:00,2,1,SecurityAgent,Systems Operations,2
+2023-09-28T14:00:00,1903,1,Zoom,Meetings,2
+2023-09-28T14:00:00,412,1,discord,General Entertainment,-2
+2023-09-28T14:00:00,61,1,samuel-beckett.net,General Reference & Learning,2
+2023-09-28T14:00:00,23,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-28T14:00:00,10,1,Safari,Browsers,0
+2023-09-28T14:00:00,5,1,google.com,Search,1
+2023-09-28T14:00:00,5,1,qbreader.org,General Reference & Learning,2
+2023-09-28T15:00:00,384,1,discord,General Entertainment,-2
+2023-09-28T15:00:00,92,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-28T15:00:00,36,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-28T15:00:00,27,1,Google Documents,Writing,2
+2023-09-28T15:00:00,10,1,samuel-beckett.net,General Reference & Learning,2
+2023-09-28T15:00:00,1,1,soar.suny.edu,General Reference & Learning,2
+2023-09-28T16:00:00,1262,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-28T16:00:00,171,1,qbreader.org,General Reference & Learning,2
+2023-09-28T16:00:00,87,1,Google Documents,Writing,2
+2023-09-28T16:00:00,27,1,Mail,Email,1
+2023-09-28T16:00:00,23,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-28T16:00:00,1,1,Google Spreadsheets,General Business,2
+2023-09-28T16:00:00,1,1,Safari,Browsers,0
+2023-09-28T17:00:00,661,1,qbreader.org,General Reference & Learning,2
+2023-09-28T17:00:00,423,1,quizbowlpackets.com,General Reference & Learning,2
+2023-09-28T17:00:00,348,1,Google Documents,Writing,2
+2023-09-28T17:00:00,315,1,goodreads.com,General Social Networking,-2
+2023-09-28T17:00:00,175,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-28T17:00:00,79,1,Dictionary,General Reference & Learning,2
+2023-09-28T17:00:00,68,1,bulbapedia.bulbagarden.net,Games,-2
+2023-09-28T17:00:00,58,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-28T17:00:00,11,1,hsquizbowl.org,General Social Networking,-2
+2023-09-28T17:00:00,8,1,Safari,Browsers,0
+2023-09-28T17:00:00,6,1,google.com,Search,1
+2023-09-28T17:00:00,3,1,soar.suny.edu,General Reference & Learning,2
+2023-09-28T17:00:00,2,1,RescueTime,Intelligence,2
+2023-09-28T17:00:00,1,1,youtube.com,Video,-2
+2023-09-28T18:00:00,21,1,deviantart.com,General Entertainment,-2
+2023-09-28T18:00:00,2,1,qbreader.org,General Reference & Learning,2
+2023-09-29T13:00:00,871,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-29T13:00:00,755,1,Google Documents,Writing,2
+2023-09-29T13:00:00,561,1,qbreader.org,General Reference & Learning,2
+2023-09-29T13:00:00,206,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-29T13:00:00,125,1,deviantart.com,General Entertainment,-2
+2023-09-29T13:00:00,103,1,discord,General Entertainment,-2
+2023-09-29T13:00:00,40,1,Safari,Browsers,0
+2023-09-29T13:00:00,26,1,Mail,Email,1
+2023-09-29T13:00:00,10,1,drive.google.com,General Business,2
+2023-09-29T13:00:00,2,1,Google Spreadsheets,General Business,2
+2023-09-29T13:00:00,2,1,RescueTime,Intelligence,2
+2023-09-29T14:00:00,442,1,Google Documents,Writing,2
+2023-09-29T14:00:00,265,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-29T14:00:00,256,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-29T14:00:00,50,1,discord,General Entertainment,-2
+2023-09-29T14:00:00,36,1,qbreader.org,General Reference & Learning,2
+2023-09-29T14:00:00,10,1,theartstory.org,General Reference & Learning,2
+2023-09-30T22:00:00,165,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-30T22:00:00,89,1,qbreader.org,General Reference & Learning,2
+2023-09-30T22:00:00,81,1,gmanetwork.com,General News & Opinion,-2
+2023-09-30T22:00:00,45,1,Google Documents,Writing,2
+2023-09-30T22:00:00,29,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-30T22:00:00,4,1,quizbowlstats.com,Uncategorized,0
+2023-09-30T22:00:00,2,1,RescueTime,Intelligence,2
+2023-09-30T22:00:00,1,1,discord,General Entertainment,-2
+2023-09-30T23:00:00,787,1,en.wikipedia.org,General Reference & Learning,2
+2023-09-30T23:00:00,714,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-09-30T23:00:00,397,1,quizbowlstats.com,Uncategorized,0
+2023-09-30T23:00:00,317,1,qbreader.org,General Reference & Learning,2
+2023-09-30T23:00:00,224,1,Google Documents,Writing,2
+2023-09-30T23:00:00,34,1,en.wiktionary.org,Search,1
+2023-09-30T23:00:00,8,1,Safari,Browsers,0
+2023-09-30T23:00:00,1,1,pointemagazine.com,Uncategorized,0

@@ -1,0 +1,2906 @@
+Date,Time Spent (seconds),Number of People,Activity,Category,Productivity
+2023-01-01T13:00:00,24,1,Firefox,Browsers,0
+2023-01-01T13:00:00,18,1,Mail,Email,1
+2023-01-01T13:00:00,17,1,discord,General Entertainment,-2
+2023-01-01T13:00:00,4,1,RescueTime,Intelligence,2
+2023-01-01T14:00:00,665,1,Google Documents,Writing,2
+2023-01-01T14:00:00,339,1,Google Spreadsheets,General Business,2
+2023-01-01T14:00:00,238,1,sparknotes.com,Search,1
+2023-01-01T14:00:00,116,1,qbreader.org,General Reference & Learning,2
+2023-01-01T14:00:00,93,1,discord,General Entertainment,-2
+2023-01-01T14:00:00,87,1,google.com,Search,1
+2023-01-01T14:00:00,83,1,livescience.com,General News & Opinion,-2
+2023-01-01T14:00:00,62,1,studocu.com,General Reference & Learning,2
+2023-01-01T14:00:00,53,1,Blank Web Browser,Browsers,0
+2023-01-01T14:00:00,52,1,Firefox,Browsers,0
+2023-01-01T14:00:00,25,1,drive.google.com,General Business,2
+2023-01-01T14:00:00,11,1,pdfgoes.com,Uncategorized,0
+2023-01-01T14:00:00,9,1,scribd.com,Search,1
+2023-01-01T14:00:00,8,1,RescueTime,Intelligence,2
+2023-01-01T14:00:00,8,1,about:newtab,Browsers,0
+2023-01-01T14:00:00,6,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-01T14:00:00,3,1,e-pdf.net,Uncategorized,0
+2023-01-01T14:00:00,3,1,academia.edu,Professional Networking,2
+2023-01-01T14:00:00,1,1,guides.lib.berkeley.edu,General Reference & Learning,2
+2023-01-01T14:00:00,1,1,scientificamerican.com,Engineering & Technology,2
+2023-01-01T14:00:00,1,1,allmusic.com,General News & Opinion,-2
+2023-01-01T15:00:00,1221,1,sparknotes.com,Search,1
+2023-01-01T15:00:00,1147,1,Google Documents,Writing,2
+2023-01-01T15:00:00,458,1,discord,General Entertainment,-2
+2023-01-01T15:00:00,300,1,qbreader.org,General Reference & Learning,2
+2023-01-01T15:00:00,223,1,Google Spreadsheets,General Business,2
+2023-01-01T15:00:00,106,1,Activity Monitor,General Utilities,1
+2023-01-01T15:00:00,26,1,Blank Web Browser,Browsers,0
+2023-01-01T15:00:00,25,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-01T15:00:00,20,1,google.com,Search,1
+2023-01-01T15:00:00,16,1,poetryfoundation.org,Society,1
+2023-01-01T15:00:00,10,1,Firefox,Browsers,0
+2023-01-01T15:00:00,7,1,drive.google.com,General Business,2
+2023-01-01T15:00:00,5,1,Mail,Email,1
+2023-01-01T15:00:00,3,1,livescience.com,General News & Opinion,-2
+2023-01-01T15:00:00,2,1,users,General Software Development,2
+2023-01-01T15:00:00,1,1,scribd.com,Search,1
+2023-01-01T16:00:00,890,1,Google Documents,Writing,2
+2023-01-01T16:00:00,350,1,sparknotes.com,Search,1
+2023-01-01T16:00:00,278,1,Google Spreadsheets,General Business,2
+2023-01-01T16:00:00,273,1,discord,General Entertainment,-2
+2023-01-01T16:00:00,273,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-01T16:00:00,47,1,qbreader.org,General Reference & Learning,2
+2023-01-01T16:00:00,10,1,google.com,Search,1
+2023-01-01T16:00:00,7,1,about:newtab,Browsers,0
+2023-01-01T16:00:00,2,1,RescueTime,Intelligence,2
+2023-01-01T17:00:00,1396,1,Google Documents,Writing,2
+2023-01-01T17:00:00,845,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-01T17:00:00,612,1,discord,General Entertainment,-2
+2023-01-01T17:00:00,322,1,qbreader.org,General Reference & Learning,2
+2023-01-01T17:00:00,181,1,Google Spreadsheets,General Business,2
+2023-01-01T17:00:00,51,1,google.com,Search,1
+2023-01-01T17:00:00,38,1,study.com,General Reference & Learning,2
+2023-01-01T17:00:00,31,1,citybeautifulblog.com,Uncategorized,0
+2023-01-01T17:00:00,28,1,census.gov,Legal & Gov't,2
+2023-01-01T17:00:00,28,1,about:newtab,Browsers,0
+2023-01-01T17:00:00,21,1,nces.ed.gov,Search,1
+2023-01-01T17:00:00,11,1,sparknotes.com,Search,1
+2023-01-01T17:00:00,6,1,worldbank.org,Business & Finance,2
+2023-01-01T17:00:00,3,1,Notes,Writing,2
+2023-01-01T17:00:00,3,1,Blank Web Browser,Browsers,0
+2023-01-01T17:00:00,2,1,users,General Software Development,2
+2023-01-01T17:00:00,1,1,Mail,Email,1
+2023-01-01T18:00:00,1034,1,Google Documents,Writing,2
+2023-01-01T18:00:00,1031,1,discord,General Entertainment,-2
+2023-01-01T18:00:00,165,1,Google Spreadsheets,General Business,2
+2023-01-01T18:00:00,74,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-01T18:00:00,10,1,about:newtab,Browsers,0
+2023-01-01T18:00:00,7,1,sparknotes.com,Search,1
+2023-01-01T18:00:00,6,1,google.com,Search,1
+2023-01-01T18:00:00,5,1,qbreader.org,General Reference & Learning,2
+2023-01-01T18:00:00,2,1,study.com,General Reference & Learning,2
+2023-01-01T19:00:00,700,1,Google Documents,Writing,2
+2023-01-01T19:00:00,124,1,discord,General Entertainment,-2
+2023-01-01T19:00:00,87,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-01T19:00:00,47,1,Firefox,Browsers,0
+2023-01-01T19:00:00,33,1,Google Spreadsheets,General Business,2
+2023-01-01T19:00:00,22,1,qbreader.org,General Reference & Learning,2
+2023-01-01T19:00:00,2,1,sparknotes.com,Search,1
+2023-01-01T19:00:00,2,1,google.com,Search,1
+2023-01-01T19:00:00,2,1,RescueTime,Intelligence,2
+2023-01-01T19:00:00,1,1,livescience.com,General News & Opinion,-2
+2023-01-01T20:00:00,155,1,Google Documents,Writing,2
+2023-01-01T20:00:00,1,1,Firefox,Browsers,0
+2023-01-02T14:00:00,1048,1,Google Documents,Writing,2
+2023-01-02T14:00:00,708,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-02T14:00:00,562,1,Google Spreadsheets,General Business,2
+2023-01-02T14:00:00,357,1,discord,General Entertainment,-2
+2023-01-02T14:00:00,330,1,qbreader.org,General Reference & Learning,2
+2023-01-02T14:00:00,153,1,Firefox,Browsers,0
+2023-01-02T14:00:00,104,1,Activity Monitor,General Utilities,1
+2023-01-02T14:00:00,61,1,Blank Web Browser,Browsers,0
+2023-01-02T14:00:00,20,1,google.com,Search,1
+2023-01-02T14:00:00,17,1,memory diag,General Utilities,1
+2023-01-02T14:00:00,10,1,about:newtab,Browsers,0
+2023-01-02T14:00:00,8,1,drive.google.com,General Business,2
+2023-01-02T14:00:00,6,1,RescueTime,Intelligence,2
+2023-01-02T14:00:00,6,1,expressvpn,Internet Utilities,1
+2023-01-02T14:00:00,3,1,Notes,Writing,2
+2023-01-02T14:00:00,2,1,users,General Software Development,2
+2023-01-02T14:00:00,2,1,usernotificationcenter,General Utilities,1
+2023-01-02T15:00:00,725,1,Google Documents,Writing,2
+2023-01-02T15:00:00,611,1,discord,General Entertainment,-2
+2023-01-02T15:00:00,239,1,users,General Software Development,2
+2023-01-02T15:00:00,128,1,qbreader.org,General Reference & Learning,2
+2023-01-02T15:00:00,111,1,Google Spreadsheets,General Business,2
+2023-01-02T15:00:00,29,1,provincetownplayhouse.com,Uncategorized,0
+2023-01-02T15:00:00,27,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-02T15:00:00,20,1,Blank Web Browser,Browsers,0
+2023-01-02T15:00:00,9,1,about:newtab,Browsers,0
+2023-01-02T15:00:00,9,1,google.com,Search,1
+2023-01-02T15:00:00,1,1,drive.google.com,General Business,2
+2023-01-02T16:00:00,1156,1,Google Documents,Writing,2
+2023-01-02T16:00:00,135,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-02T16:00:00,99,1,discord,General Entertainment,-2
+2023-01-02T16:00:00,92,1,encyclopedia.com,Search,1
+2023-01-02T16:00:00,85,1,npr.org,General News & Opinion,-2
+2023-01-02T16:00:00,60,1,qbreader.org,General Reference & Learning,2
+2023-01-02T16:00:00,56,1,Google Spreadsheets,General Business,2
+2023-01-02T16:00:00,36,1,themodernnovel.org,Uncategorized,0
+2023-01-02T16:00:00,28,1,google.com,Search,1
+2023-01-02T16:00:00,11,1,drive.google.com,General Business,2
+2023-01-02T16:00:00,6,1,britannica.com,Search,1
+2023-01-02T16:00:00,4,1,thegreatestbooks.org,General Reference & Learning,2
+2023-01-02T16:00:00,3,1,provincetownplayhouse.com,Uncategorized,0
+2023-01-02T16:00:00,2,1,RescueTime,Intelligence,2
+2023-01-02T16:00:00,2,1,Blank Web Browser,Browsers,0
+2023-01-02T16:00:00,1,1,users,General Software Development,2
+2023-01-02T17:00:00,1395,1,Google Documents,Writing,2
+2023-01-02T17:00:00,1246,1,discord,General Entertainment,-2
+2023-01-02T17:00:00,269,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-02T17:00:00,250,1,qbreader.org,General Reference & Learning,2
+2023-01-02T17:00:00,178,1,Google Spreadsheets,General Business,2
+2023-01-02T17:00:00,171,1,theatlantic.com,General News & Opinion,-2
+2023-01-02T17:00:00,61,1,sparknotes.com,Search,1
+2023-01-02T17:00:00,25,1,google.com,Search,1
+2023-01-02T17:00:00,3,1,users,General Software Development,2
+2023-01-02T17:00:00,1,1,provincetownplayhouse.com,Uncategorized,0
+2023-01-02T18:00:00,1381,1,Google Documents,Writing,2
+2023-01-02T18:00:00,833,1,discord,General Entertainment,-2
+2023-01-02T18:00:00,375,1,archive.org,Search,1
+2023-01-02T18:00:00,263,1,sparknotes.com,Search,1
+2023-01-02T18:00:00,245,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-02T18:00:00,162,1,qbreader.org,General Reference & Learning,2
+2023-01-02T18:00:00,122,1,users,General Software Development,2
+2023-01-02T18:00:00,105,1,Google Spreadsheets,General Business,2
+2023-01-02T18:00:00,58,1,en.wiktionary.org,Search,1
+2023-01-02T18:00:00,16,1,google.com,Search,1
+2023-01-02T18:00:00,16,1,about:newtab,Browsers,0
+2023-01-02T18:00:00,7,1,encyclopedia.com,Search,1
+2023-01-02T18:00:00,4,1,Firefox,Browsers,0
+2023-01-02T18:00:00,4,1,provincetownplayhouse.com,Uncategorized,0
+2023-01-02T18:00:00,3,1,Blank Web Browser,Browsers,0
+2023-01-02T18:00:00,2,1,theatlantic.com,General News & Opinion,-2
+2023-01-02T18:00:00,1,1,npr.org,General News & Opinion,-2
+2023-01-02T18:00:00,1,1,thegreatestbooks.org,General Reference & Learning,2
+2023-01-02T19:00:00,596,1,discord,General Entertainment,-2
+2023-01-02T19:00:00,348,1,Google Documents,Writing,2
+2023-01-02T19:00:00,154,1,qbreader.org,General Reference & Learning,2
+2023-01-02T19:00:00,144,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-02T19:00:00,96,1,Finder,Computer,1
+2023-01-02T19:00:00,18,1,drive.google.com,General Business,2
+2023-01-02T19:00:00,8,1,Google Spreadsheets,General Business,2
+2023-01-02T19:00:00,1,1,users,General Software Development,2
+2023-01-02T19:00:00,1,1,Blank Web Browser,Browsers,0
+2023-01-02T20:00:00,160,1,discord,General Entertainment,-2
+2023-01-02T20:00:00,66,1,Google Documents,Writing,2
+2023-01-02T20:00:00,11,1,Google Spreadsheets,General Business,2
+2023-01-02T20:00:00,7,1,RescueTime,Intelligence,2
+2023-01-02T20:00:00,6,1,qbreader.org,General Reference & Learning,2
+2023-01-02T21:00:00,37,1,discord,General Entertainment,-2
+2023-01-02T21:00:00,21,1,Firefox,Browsers,0
+2023-01-02T21:00:00,2,1,RescueTime,Intelligence,2
+2023-01-02T22:00:00,1146,1,qbreader.org,General Reference & Learning,2
+2023-01-02T22:00:00,624,1,Google Documents,Writing,2
+2023-01-02T22:00:00,433,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-02T22:00:00,371,1,Google Spreadsheets,General Business,2
+2023-01-02T22:00:00,271,1,discord,General Entertainment,-2
+2023-01-02T22:00:00,17,1,poetryfoundation.org,Society,1
+2023-01-02T22:00:00,7,1,google.com,Search,1
+2023-01-02T22:00:00,6,1,about:newtab,Browsers,0
+2023-01-02T22:00:00,6,1,Slack,Communications,1
+2023-01-02T22:00:00,5,1,users,General Software Development,2
+2023-01-02T22:00:00,1,1,Blank Web Browser,Browsers,0
+2023-01-02T23:00:00,987,1,Google Documents,Writing,2
+2023-01-02T23:00:00,720,1,discord,General Entertainment,-2
+2023-01-02T23:00:00,236,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-02T23:00:00,152,1,qbreader.org,General Reference & Learning,2
+2023-01-02T23:00:00,123,1,Google Spreadsheets,General Business,2
+2023-01-02T23:00:00,118,1,books.google.com,Search,1
+2023-01-02T23:00:00,113,1,users,General Software Development,2
+2023-01-02T23:00:00,72,1,google.com,Search,1
+2023-01-02T23:00:00,58,1,worlds-best-detective-crime-and-murder-mystery-books.com,Uncategorized,0
+2023-01-02T23:00:00,52,1,Blank Web Browser,Browsers,0
+2023-01-02T23:00:00,50,1,lithub.com,General Reference & Learning,2
+2023-01-02T23:00:00,48,1,eapoe.org,General Reference & Learning,2
+2023-01-02T23:00:00,36,1,smithsonianmag.com,General News & Opinion,-2
+2023-01-02T23:00:00,30,1,about:newtab,Browsers,0
+2023-01-02T23:00:00,10,1,drive.google.com,General Business,2
+2023-01-02T23:00:00,8,1,Firefox,Browsers,0
+2023-01-02T23:00:00,3,1,sparknotes.com,Search,1
+2023-01-02T23:00:00,3,1,archive.org,Search,1
+2023-01-02T23:00:00,3,1,npr.org,General News & Opinion,-2
+2023-01-02T23:00:00,2,1,RescueTime,Intelligence,2
+2023-01-02T23:00:00,1,1,poetryfoundation.org,Society,1
+2023-01-02T23:00:00,1,1,provincetownplayhouse.com,Uncategorized,0
+2023-01-03T00:00:00,990,1,discord,General Entertainment,-2
+2023-01-03T00:00:00,626,1,Google Documents,Writing,2
+2023-01-03T00:00:00,368,1,Google Spreadsheets,General Business,2
+2023-01-03T00:00:00,358,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-03T00:00:00,239,1,hsquizbowl.org,General Social Networking,-2
+2023-01-03T00:00:00,227,1,Blank Web Browser,Browsers,0
+2023-01-03T00:00:00,177,1,google.com,Search,1
+2023-01-03T00:00:00,162,1,naqt.com,General Reference & Learning,2
+2023-01-03T00:00:00,83,1,grin.com,General Reference & Learning,2
+2023-01-03T00:00:00,68,1,qbreader.org,General Reference & Learning,2
+2023-01-03T00:00:00,35,1,about:newtab,Browsers,0
+2023-01-03T00:00:00,33,1,poetrysociety.org.uk,Uncategorized,0
+2023-01-03T00:00:00,32,1,blogs.bl.uk,Search,1
+2023-01-03T00:00:00,32,1,poetryfoundation.org,Society,1
+2023-01-03T00:00:00,27,1,anglozine.com,Uncategorized,0
+2023-01-03T00:00:00,21,1,lupress.cas.lehigh.edu,General Reference & Learning,2
+2023-01-03T00:00:00,17,1,poetryintranslation.com,General Reference & Learning,2
+2023-01-03T00:00:00,16,1,lovecraft.fandom.com,General Entertainment,-2
+2023-01-03T00:00:00,13,1,users,General Software Development,2
+2023-01-03T00:00:00,12,1,Activity Monitor,General Utilities,1
+2023-01-03T00:00:00,12,1,isfdb.org,General News & Opinion,-2
+2023-01-03T00:00:00,10,1,artgallery.yale.edu,General Reference & Learning,2
+2023-01-03T00:00:00,8,1,Slack,Communications,1
+2023-01-03T00:00:00,8,1,researchspace.auckland.ac.nz,General Reference & Learning,2
+2023-01-03T00:00:00,4,1,gradesaver.com,Search,1
+2023-01-03T00:00:00,4,1,iheart.com,Music,-2
+2023-01-03T00:00:00,3,1,poets.org,Writing,2
+2023-01-03T00:00:00,2,1,lithub.com,General Reference & Learning,2
+2023-01-03T00:00:00,2,1,smithsonianmag.com,General News & Opinion,-2
+2023-01-03T00:00:00,2,1,quora.com,General News & Opinion,-2
+2023-01-03T00:00:00,1,1,sparknotes.com,Search,1
+2023-01-03T00:00:00,1,1,mentalfloss.com,Search,1
+2023-01-03T00:00:00,1,1,books.google.com,Search,1
+2023-01-03T00:00:00,1,1,eapoe.org,General Reference & Learning,2
+2023-01-03T01:00:00,1191,1,Google Documents,Writing,2
+2023-01-03T01:00:00,882,1,Google Spreadsheets,General Business,2
+2023-01-03T01:00:00,383,1,discord,General Entertainment,-2
+2023-01-03T01:00:00,200,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-03T01:00:00,136,1,qbreader.org,General Reference & Learning,2
+2023-01-03T01:00:00,29,1,drive.google.com,General Business,2
+2023-01-03T01:00:00,11,1,google.com,Search,1
+2023-01-03T01:00:00,10,1,about:newtab,Browsers,0
+2023-01-03T01:00:00,4,1,Blank Web Browser,Browsers,0
+2023-01-03T01:00:00,3,1,researchspace.auckland.ac.nz,General Reference & Learning,2
+2023-01-03T01:00:00,1,1,users,General Software Development,2
+2023-01-03T02:00:00,1962,1,Google Documents,Writing,2
+2023-01-03T02:00:00,867,1,Finder,Computer,1
+2023-01-03T02:00:00,359,1,Google Spreadsheets,General Business,2
+2023-01-03T02:00:00,190,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-03T02:00:00,56,1,qbreader.org,General Reference & Learning,2
+2023-01-03T02:00:00,50,1,Firefox,Browsers,0
+2023-01-03T02:00:00,49,1,Mail,Email,1
+2023-01-03T02:00:00,46,1,discord,General Entertainment,-2
+2023-01-03T02:00:00,11,1,Activity Monitor,General Utilities,1
+2023-01-03T02:00:00,4,1,about:newtab,Browsers,0
+2023-01-03T02:00:00,2,1,google.com,Search,1
+2023-01-03T03:00:00,2388,1,Finder,Computer,1
+2023-01-03T03:00:00,73,1,Google Spreadsheets,General Business,2
+2023-01-03T03:00:00,8,1,Firefox,Browsers,0
+2023-01-03T03:00:00,7,1,drive.google.com,General Business,2
+2023-01-03T03:00:00,2,1,Blank Web Browser,Browsers,0
+2023-01-03T13:00:00,415,1,Google Documents,Writing,2
+2023-01-03T13:00:00,400,1,Firefox,Browsers,0
+2023-01-03T13:00:00,150,1,Google Spreadsheets,General Business,2
+2023-01-03T13:00:00,24,1,Mail,Email,1
+2023-01-03T13:00:00,10,1,drive.google.com,General Business,2
+2023-01-03T13:00:00,1,1,Blank Web Browser,Browsers,0
+2023-01-03T13:00:00,1,1,RescueTime,Intelligence,2
+2023-01-03T14:00:00,1094,1,Google Documents,Writing,2
+2023-01-03T14:00:00,516,1,cliffsnotes.com,Search,1
+2023-01-03T14:00:00,477,1,qbreader.org,General Reference & Learning,2
+2023-01-03T14:00:00,469,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-03T14:00:00,325,1,Google Spreadsheets,General Business,2
+2023-01-03T14:00:00,194,1,discord,General Entertainment,-2
+2023-01-03T14:00:00,54,1,supersummary.com,General Reference & Learning,2
+2023-01-03T14:00:00,13,1,google.com,Search,1
+2023-01-03T14:00:00,10,1,about:newtab,Browsers,0
+2023-01-03T14:00:00,8,1,Firefox,Browsers,0
+2023-01-03T14:00:00,5,1,sparknotes.com,Search,1
+2023-01-03T14:00:00,3,1,Blank Web Browser,Browsers,0
+2023-01-03T14:00:00,1,1,drive.google.com,General Business,2
+2023-01-03T15:00:00,1045,1,Google Documents,Writing,2
+2023-01-03T15:00:00,943,1,discord,General Entertainment,-2
+2023-01-03T15:00:00,431,1,Google Spreadsheets,General Business,2
+2023-01-03T15:00:00,175,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-03T15:00:00,53,1,Firefox,Browsers,0
+2023-01-03T15:00:00,39,1,qbreader.org,General Reference & Learning,2
+2023-01-03T15:00:00,26,1,cliffsnotes.com,Search,1
+2023-01-03T15:00:00,23,1,Mail,Email,1
+2023-01-03T15:00:00,2,1,drive.google.com,General Business,2
+2023-01-03T15:00:00,2,1,google.com,Search,1
+2023-01-03T15:00:00,2,1,about:newtab,Browsers,0
+2023-01-03T16:00:00,851,1,discord,General Entertainment,-2
+2023-01-03T16:00:00,647,1,Google Documents,Writing,2
+2023-01-03T16:00:00,524,1,qbreader.org,General Reference & Learning,2
+2023-01-03T16:00:00,176,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-03T16:00:00,128,1,allpoetry.com,Administration,2
+2023-01-03T16:00:00,77,1,Google Spreadsheets,General Business,2
+2023-01-03T16:00:00,15,1,google.com,Search,1
+2023-01-03T16:00:00,6,1,RescueTime,Intelligence,2
+2023-01-03T16:00:00,5,1,Firefox,Browsers,0
+2023-01-03T16:00:00,3,1,about:newtab,Browsers,0
+2023-01-03T16:00:00,3,1,Slack,Communications,1
+2023-01-03T17:00:00,2128,1,Google Documents,Writing,2
+2023-01-03T17:00:00,825,1,Google Spreadsheets,General Business,2
+2023-01-03T17:00:00,455,1,discord,General Entertainment,-2
+2023-01-03T17:00:00,1,1,qbreader.org,General Reference & Learning,2
+2023-01-03T17:00:00,1,1,drive.google.com,General Business,2
+2023-01-03T17:00:00,1,1,allpoetry.com,Administration,2
+2023-01-03T18:00:00,798,1,Google Documents,Writing,2
+2023-01-03T18:00:00,181,1,Google Spreadsheets,General Business,2
+2023-01-03T18:00:00,57,1,discord,General Entertainment,-2
+2023-01-03T18:00:00,2,1,drive.google.com,General Business,2
+2023-01-03T18:00:00,2,1,Blank Web Browser,Browsers,0
+2023-01-03T18:00:00,1,1,allpoetry.com,Administration,2
+2023-01-04T00:00:00,468,1,Google Documents,Writing,2
+2023-01-04T00:00:00,226,1,qbreader.org,General Reference & Learning,2
+2023-01-04T00:00:00,163,1,Google Spreadsheets,General Business,2
+2023-01-04T00:00:00,45,1,Firefox,Browsers,0
+2023-01-04T00:00:00,15,1,discord,General Entertainment,-2
+2023-01-04T00:00:00,2,1,RescueTime,Intelligence,2
+2023-01-04T01:00:00,3062,1,wine32on64-preloader,Uncategorized,0
+2023-01-04T01:00:00,174,1,Finder,Computer,1
+2023-01-04T01:00:00,97,1,Google Documents,Writing,2
+2023-01-04T01:00:00,87,1,qbreader.org,General Reference & Learning,2
+2023-01-04T01:00:00,78,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-04T01:00:00,21,1,google.com,Search,1
+2023-01-04T01:00:00,20,1,Mail,Email,1
+2023-01-04T01:00:00,13,1,discord,General Entertainment,-2
+2023-01-04T01:00:00,2,1,sparknotes.com,Search,1
+2023-01-04T01:00:00,1,1,shakespeare.org.uk,Uncategorized,0
+2023-01-04T01:00:00,1,1,cliffsnotes.com,Search,1
+2023-01-04T02:00:00,3600,1,wine32on64-preloader,Uncategorized,0
+2023-01-04T03:00:00,658,1,wine32on64-preloader,Uncategorized,0
+2023-01-04T03:00:00,81,1,Finder,Computer,1
+2023-01-04T14:00:00,91,1,spotify,Music,-1
+2023-01-04T14:00:00,55,1,Google Documents,Writing,2
+2023-01-04T14:00:00,35,1,RescueTime,Intelligence,2
+2023-01-04T14:00:00,29,1,Google Spreadsheets,General Business,2
+2023-01-04T14:00:00,18,1,drive.google.com,General Business,2
+2023-01-04T14:00:00,6,1,discord,General Entertainment,-2
+2023-01-04T14:00:00,5,1,Firefox,Browsers,0
+2023-01-04T14:00:00,3,1,Blank Web Browser,Browsers,0
+2023-01-04T14:00:00,2,1,Finder,Computer,1
+2023-01-04T17:00:00,488,1,discord,General Entertainment,-2
+2023-01-04T17:00:00,182,1,Google Documents,Writing,2
+2023-01-04T17:00:00,29,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-04T17:00:00,15,1,Firefox,Browsers,0
+2023-01-04T17:00:00,5,1,RescueTime,Intelligence,2
+2023-01-04T17:00:00,2,1,drive.google.com,General Business,2
+2023-01-04T17:00:00,1,1,Blank Web Browser,Browsers,0
+2023-01-04T18:00:00,1707,1,Google Documents,Writing,2
+2023-01-04T18:00:00,554,1,cliffsnotes.com,Search,1
+2023-01-04T18:00:00,534,1,shakespeare.mit.edu,General Reference & Learning,2
+2023-01-04T18:00:00,342,1,qbreader.org,General Reference & Learning,2
+2023-01-04T18:00:00,132,1,discord,General Entertainment,-2
+2023-01-04T18:00:00,127,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-04T18:00:00,83,1,sparknotes.com,Search,1
+2023-01-04T18:00:00,50,1,about:newtab,Browsers,0
+2023-01-04T18:00:00,21,1,shakespeare.org.uk,Uncategorized,0
+2023-01-04T18:00:00,21,1,google.com,Search,1
+2023-01-04T18:00:00,12,1,Google Spreadsheets,General Business,2
+2023-01-04T18:00:00,9,1,Safari,Browsers,0
+2023-01-04T18:00:00,2,1,drive.google.com,General Business,2
+2023-01-04T18:00:00,2,1,Blank Web Browser,Browsers,0
+2023-01-04T19:00:00,898,1,discord,General Entertainment,-2
+2023-01-04T19:00:00,844,1,Google Documents,Writing,2
+2023-01-04T19:00:00,254,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-04T19:00:00,97,1,qbreader.org,General Reference & Learning,2
+2023-01-04T19:00:00,69,1,Google Spreadsheets,General Business,2
+2023-01-04T19:00:00,29,1,classicalanthology.theclassicslibrary.com,Uncategorized,0
+2023-01-04T19:00:00,16,1,google.com,Search,1
+2023-01-04T19:00:00,10,1,shakespeare.mit.edu,General Reference & Learning,2
+2023-01-04T19:00:00,5,1,sparknotes.com,Search,1
+2023-01-04T19:00:00,4,1,cooneyclassics.org,Uncategorized,0
+2023-01-04T19:00:00,3,1,about:newtab,Browsers,0
+2023-01-04T19:00:00,1,1,shakespeare.org.uk,Uncategorized,0
+2023-01-04T21:00:00,697,1,Google Documents,Writing,2
+2023-01-04T21:00:00,535,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-04T21:00:00,194,1,Mail,Email,1
+2023-01-04T21:00:00,169,1,qbreader.org,General Reference & Learning,2
+2023-01-04T21:00:00,141,1,Google Spreadsheets,General Business,2
+2023-01-04T21:00:00,120,1,chalkbeat.org,Uncategorized,0
+2023-01-04T21:00:00,72,1,ft.com,General News & Opinion,-2
+2023-01-04T21:00:00,68,1,google.com,Search,1
+2023-01-04T21:00:00,55,1,about:newtab,Browsers,0
+2023-01-04T21:00:00,43,1,cepr.harvard.edu,General Reference & Learning,2
+2023-01-04T21:00:00,39,1,discord,General Entertainment,-2
+2023-01-04T21:00:00,28,1,Firefox,Browsers,0
+2023-01-04T21:00:00,13,1,cfr.org,General News & Opinion,-2
+2023-01-04T21:00:00,12,1,users,General Software Development,2
+2023-01-04T21:00:00,6,1,drive.google.com,General Business,2
+2023-01-04T21:00:00,4,1,Blank Web Browser,Browsers,0
+2023-01-04T21:00:00,3,1,RescueTime,Intelligence,2
+2023-01-04T21:00:00,2,1,classicalanthology.theclassicslibrary.com,Uncategorized,0
+2023-01-04T21:00:00,1,1,cliffsnotes.com,Search,1
+2023-01-04T22:00:00,1705,1,discord,General Entertainment,-2
+2023-01-04T22:00:00,1231,1,Google Documents,Writing,2
+2023-01-04T22:00:00,246,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-04T22:00:00,97,1,congress.gov,Legal & Gov't,2
+2023-01-04T22:00:00,92,1,Google Spreadsheets,General Business,2
+2023-01-04T22:00:00,89,1,qbreader.org,General Reference & Learning,2
+2023-01-04T22:00:00,49,1,New York Times,General News & Opinion,-2
+2023-01-04T22:00:00,45,1,poetryfoundation.org,Society,1
+2023-01-04T22:00:00,19,1,google.com,Search,1
+2023-01-04T22:00:00,10,1,drive.google.com,General Business,2
+2023-01-04T22:00:00,6,1,about:newtab,Browsers,0
+2023-01-04T22:00:00,4,1,Blank Web Browser,Browsers,0
+2023-01-04T22:00:00,4,1,ft.com,General News & Opinion,-2
+2023-01-04T23:00:00,2409,1,Google Documents,Writing,2
+2023-01-04T23:00:00,470,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-04T23:00:00,267,1,discord,General Entertainment,-2
+2023-01-04T23:00:00,205,1,Google Spreadsheets,General Business,2
+2023-01-04T23:00:00,137,1,wendycarlos.com,Uncategorized,0
+2023-01-04T23:00:00,80,1,qbreader.org,General Reference & Learning,2
+2023-01-04T23:00:00,10,1,about:newtab,Browsers,0
+2023-01-04T23:00:00,9,1,Slack,Communications,1
+2023-01-04T23:00:00,3,1,google.com,Search,1
+2023-01-04T23:00:00,3,1,drive.google.com,General Business,2
+2023-01-04T23:00:00,1,1,Blank Web Browser,Browsers,0
+2023-01-04T23:00:00,1,1,cfr.org,General News & Opinion,-2
+2023-01-04T23:00:00,1,1,poetryfoundation.org,Society,1
+2023-01-04T23:00:00,1,1,New York Times,General News & Opinion,-2
+2023-01-04T23:00:00,1,1,users,General Software Development,2
+2023-01-05T00:00:00,1591,1,Google Documents,Writing,2
+2023-01-05T00:00:00,867,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-05T00:00:00,788,1,discord,General Entertainment,-2
+2023-01-05T00:00:00,164,1,medieval.org,Uncategorized,0
+2023-01-05T00:00:00,138,1,qbreader.org,General Reference & Learning,2
+2023-01-05T00:00:00,18,1,Firefox,Browsers,0
+2023-01-05T00:00:00,15,1,Google Spreadsheets,General Business,2
+2023-01-05T00:00:00,5,1,Slack,Communications,1
+2023-01-05T00:00:00,5,1,drive.google.com,General Business,2
+2023-01-05T00:00:00,3,1,about:newtab,Browsers,0
+2023-01-05T00:00:00,3,1,google.com,Search,1
+2023-01-05T01:00:00,1671,1,Google Documents,Writing,2
+2023-01-05T01:00:00,708,1,discord,General Entertainment,-2
+2023-01-05T01:00:00,590,1,Google Spreadsheets,General Business,2
+2023-01-05T01:00:00,141,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-05T01:00:00,22,1,qbreader.org,General Reference & Learning,2
+2023-01-05T01:00:00,7,1,Mail,Email,1
+2023-01-05T01:00:00,4,1,drive.google.com,General Business,2
+2023-01-05T02:00:00,1526,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-05T02:00:00,857,1,Google Documents,Writing,2
+2023-01-05T02:00:00,646,1,qbreader.org,General Reference & Learning,2
+2023-01-05T02:00:00,58,1,Blank Web Browser,Browsers,0
+2023-01-05T02:00:00,54,1,cso.org,General Entertainment,-2
+2023-01-05T02:00:00,46,1,users,General Software Development,2
+2023-01-05T02:00:00,45,1,wqxr.org,Music,-2
+2023-01-05T02:00:00,20,1,about:newtab,Browsers,0
+2023-01-05T02:00:00,18,1,google.com,Search,1
+2023-01-05T02:00:00,9,1,discord,General Entertainment,-2
+2023-01-05T02:00:00,1,1,medieval.org,Uncategorized,0
+2023-01-05T02:00:00,1,1,ft.com,General News & Opinion,-2
+2023-01-05T02:00:00,1,1,Google Spreadsheets,General Business,2
+2023-01-05T02:00:00,1,1,wendycarlos.com,Uncategorized,0
+2023-01-05T03:00:00,1318,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-05T03:00:00,1269,1,Google Documents,Writing,2
+2023-01-05T03:00:00,427,1,discord,General Entertainment,-2
+2023-01-05T03:00:00,400,1,qbreader.org,General Reference & Learning,2
+2023-01-05T03:00:00,105,1,Firefox,Browsers,0
+2023-01-05T03:00:00,28,1,raag-hindustani.com,Uncategorized,0
+2023-01-05T03:00:00,21,1,google.com,Search,1
+2023-01-05T03:00:00,9,1,wqxr.org,Music,-2
+2023-01-05T03:00:00,8,1,about:newtab,Browsers,0
+2023-01-05T03:00:00,7,1,dbpedia.org,General Reference & Learning,2
+2023-01-05T03:00:00,2,1,users,General Software Development,2
+2023-01-05T03:00:00,1,1,Blank Web Browser,Browsers,0
+2023-01-05T04:00:00,1031,1,Google Documents,Writing,2
+2023-01-05T04:00:00,610,1,discord,General Entertainment,-2
+2023-01-05T04:00:00,470,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-05T04:00:00,186,1,Google Spreadsheets,General Business,2
+2023-01-05T04:00:00,128,1,Mail,Email,1
+2023-01-05T04:00:00,71,1,Firefox,Browsers,0
+2023-01-05T04:00:00,3,1,google.com,Search,1
+2023-01-05T04:00:00,3,1,qbreader.org,General Reference & Learning,2
+2023-01-05T04:00:00,2,1,about:newtab,Browsers,0
+2023-01-05T04:00:00,2,1,users,General Software Development,2
+2023-01-05T04:00:00,2,1,wendycarlos.com,Uncategorized,0
+2023-01-05T04:00:00,1,1,wqxr.org,Music,-2
+2023-01-05T04:00:00,1,1,medieval.org,Uncategorized,0
+2023-01-05T04:00:00,1,1,ft.com,General News & Opinion,-2
+2023-01-05T15:00:00,251,1,discord,General Entertainment,-2
+2023-01-05T15:00:00,132,1,qbreader.org,General Reference & Learning,2
+2023-01-05T15:00:00,124,1,Google Documents,Writing,2
+2023-01-05T15:00:00,89,1,Google Spreadsheets,General Business,2
+2023-01-05T15:00:00,27,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-05T15:00:00,22,1,Firefox,Browsers,0
+2023-01-05T15:00:00,6,1,google.com,Search,1
+2023-01-05T15:00:00,5,1,about:newtab,Browsers,0
+2023-01-05T15:00:00,3,1,RescueTime,Intelligence,2
+2023-01-05T16:00:00,1752,1,Google Documents,Writing,2
+2023-01-05T16:00:00,869,1,discord,General Entertainment,-2
+2023-01-05T16:00:00,388,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-05T16:00:00,383,1,Google Spreadsheets,General Business,2
+2023-01-05T16:00:00,194,1,qbreader.org,General Reference & Learning,2
+2023-01-05T16:00:00,9,1,drive.google.com,General Business,2
+2023-01-05T16:00:00,2,1,Blank Web Browser,Browsers,0
+2023-01-05T17:00:00,1737,1,Google Documents,Writing,2
+2023-01-05T17:00:00,1223,1,discord,General Entertainment,-2
+2023-01-05T17:00:00,120,1,qbreader.org,General Reference & Learning,2
+2023-01-05T17:00:00,60,1,Google Spreadsheets,General Business,2
+2023-01-05T17:00:00,39,1,Mail,Email,1
+2023-01-05T17:00:00,34,1,drive.google.com,General Business,2
+2023-01-05T17:00:00,31,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-05T17:00:00,2,1,Blank Web Browser,Browsers,0
+2023-01-05T20:00:00,547,1,Google Documents,Writing,2
+2023-01-05T20:00:00,234,1,discord,General Entertainment,-2
+2023-01-05T20:00:00,77,1,berkeley.zoom.us,Meetings,2
+2023-01-05T20:00:00,31,1,Zoom,Meetings,2
+2023-01-05T20:00:00,8,1,publishing.cdlib.org,General Reference & Learning,2
+2023-01-05T20:00:00,6,1,Blank Web Browser,Browsers,0
+2023-01-05T20:00:00,5,1,google.com,Search,1
+2023-01-05T20:00:00,3,1,about:newtab,Browsers,0
+2023-01-05T20:00:00,3,1,RescueTime,Intelligence,2
+2023-01-05T20:00:00,2,1,auth.berkeley.edu,General Reference & Learning,2
+2023-01-05T20:00:00,2,1,qbreader.org,General Reference & Learning,2
+2023-01-05T21:00:00,1853,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-05T21:00:00,1044,1,Google Documents,Writing,2
+2023-01-05T21:00:00,187,1,discord,General Entertainment,-2
+2023-01-05T21:00:00,123,1,qbreader.org,General Reference & Learning,2
+2023-01-05T21:00:00,102,1,Google Spreadsheets,General Business,2
+2023-01-05T21:00:00,25,1,vhca.info,Uncategorized,0
+2023-01-05T21:00:00,21,1,instagram.com,General Social Networking,-2
+2023-01-05T21:00:00,18,1,about:newtab,Browsers,0
+2023-01-05T21:00:00,7,1,Blank Web Browser,Browsers,0
+2023-01-05T21:00:00,5,1,google.com,Search,1
+2023-01-05T22:00:00,1101,1,discord,General Entertainment,-2
+2023-01-05T22:00:00,834,1,Google Documents,Writing,2
+2023-01-05T22:00:00,491,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-05T22:00:00,32,1,qbreader.org,General Reference & Learning,2
+2023-01-05T22:00:00,32,1,Google Spreadsheets,General Business,2
+2023-01-05T22:00:00,2,1,users,General Software Development,2
+2023-01-05T23:00:00,1101,1,Google Documents,Writing,2
+2023-01-05T23:00:00,1021,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-05T23:00:00,942,1,discord,General Entertainment,-2
+2023-01-05T23:00:00,331,1,Google Spreadsheets,General Business,2
+2023-01-05T23:00:00,85,1,qbreader.org,General Reference & Learning,2
+2023-01-05T23:00:00,57,1,google.com,Search,1
+2023-01-05T23:00:00,26,1,washingtonpost.com,General News & Opinion,-2
+2023-01-05T23:00:00,15,1,Blank Web Browser,Browsers,0
+2023-01-05T23:00:00,11,1,apnews.com,General News & Opinion,-2
+2023-01-05T23:00:00,9,1,businessinsider.com,General News & Opinion,-2
+2023-01-06T00:00:00,1782,1,Google Documents,Writing,2
+2023-01-06T00:00:00,695,1,discord,General Entertainment,-2
+2023-01-06T00:00:00,609,1,Google Spreadsheets,General Business,2
+2023-01-06T00:00:00,184,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-06T00:00:00,84,1,drive.google.com,General Business,2
+2023-01-06T00:00:00,67,1,spotify,Music,-1
+2023-01-06T00:00:00,44,1,Blank Web Browser,Browsers,0
+2023-01-06T00:00:00,35,1,google.com,Search,1
+2023-01-06T00:00:00,26,1,Activity Monitor,General Utilities,1
+2023-01-06T00:00:00,15,1,Firefox,Browsers,0
+2023-01-06T00:00:00,15,1,Zoom,Meetings,2
+2023-01-06T00:00:00,7,1,Mail,Email,1
+2023-01-06T00:00:00,7,1,drumconnection.com,Uncategorized,0
+2023-01-06T00:00:00,7,1,about:newtab,Browsers,0
+2023-01-06T00:00:00,6,1,Slack,Communications,1
+2023-01-06T00:00:00,4,1,Finder,Computer,1
+2023-01-06T00:00:00,2,1,zoomautoupdater,Uncategorized,0
+2023-01-06T00:00:00,1,1,youtube.com,Video,-2
+2023-01-06T01:00:00,1187,1,Google Documents,Writing,2
+2023-01-06T01:00:00,881,1,minkowski.space,Uncategorized,0
+2023-01-06T01:00:00,559,1,Google Spreadsheets,General Business,2
+2023-01-06T01:00:00,244,1,Firefox,Browsers,0
+2023-01-06T01:00:00,206,1,discord,General Entertainment,-2
+2023-01-06T01:00:00,49,1,drive.google.com,General Business,2
+2023-01-06T01:00:00,18,1,Mail,Email,1
+2023-01-06T01:00:00,16,1,Blank Web Browser,Browsers,0
+2023-01-06T01:00:00,13,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-06T01:00:00,9,1,about:newtab,Browsers,0
+2023-01-06T10:00:00,654,1,Google Documents,Writing,2
+2023-01-06T10:00:00,111,1,Firefox,Browsers,0
+2023-01-06T10:00:00,15,1,discord,General Entertainment,-2
+2023-01-06T10:00:00,6,1,Mail,Email,1
+2023-01-06T10:00:00,4,1,RescueTime,Intelligence,2
+2023-01-06T11:00:00,2927,1,Google Documents,Writing,2
+2023-01-06T11:00:00,425,1,Google Spreadsheets,General Business,2
+2023-01-06T11:00:00,155,1,discord,General Entertainment,-2
+2023-01-06T11:00:00,41,1,minkowski.space,Uncategorized,0
+2023-01-06T11:00:00,32,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-06T11:00:00,9,1,drive.google.com,General Business,2
+2023-01-06T11:00:00,4,1,about:newtab,Browsers,0
+2023-01-06T11:00:00,1,1,Blank Web Browser,Browsers,0
+2023-01-06T12:00:00,557,1,Google Documents,Writing,2
+2023-01-06T12:00:00,543,1,discord,General Entertainment,-2
+2023-01-06T12:00:00,217,1,qbreader.org,General Reference & Learning,2
+2023-01-06T12:00:00,121,1,Google Spreadsheets,General Business,2
+2023-01-06T12:00:00,117,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-06T12:00:00,35,1,cliffsnotes.com,Search,1
+2023-01-06T12:00:00,22,1,google.com,Search,1
+2023-01-06T12:00:00,13,1,sparknotes.com,Search,1
+2023-01-06T12:00:00,9,1,about:newtab,Browsers,0
+2023-01-06T12:00:00,8,1,RescueTime,Intelligence,2
+2023-01-06T12:00:00,8,1,drive.google.com,General Business,2
+2023-01-06T13:00:00,716,1,Google Documents,Writing,2
+2023-01-06T13:00:00,697,1,cliffsnotes.com,Search,1
+2023-01-06T13:00:00,533,1,discord,General Entertainment,-2
+2023-01-06T13:00:00,318,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-06T13:00:00,114,1,gutenberg.org,General Reference & Learning,2
+2023-01-06T13:00:00,108,1,sparknotes.com,Search,1
+2023-01-06T13:00:00,80,1,qbreader.org,General Reference & Learning,2
+2023-01-06T13:00:00,63,1,Google Spreadsheets,General Business,2
+2023-01-06T13:00:00,56,1,google.com,Search,1
+2023-01-06T13:00:00,20,1,goodreads.com,General Social Networking,-2
+2023-01-06T13:00:00,13,1,about:newtab,Browsers,0
+2023-01-06T13:00:00,2,1,Mail,Email,1
+2023-01-06T13:00:00,2,1,RescueTime,Intelligence,2
+2023-01-06T14:00:00,2097,1,discord,General Entertainment,-2
+2023-01-06T14:00:00,911,1,Google Documents,Writing,2
+2023-01-06T14:00:00,457,1,Google Spreadsheets,General Business,2
+2023-01-06T14:00:00,70,1,qbreader.org,General Reference & Learning,2
+2023-01-06T14:00:00,24,1,Firefox,Browsers,0
+2023-01-06T14:00:00,20,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-06T14:00:00,6,1,Blank Web Browser,Browsers,0
+2023-01-06T14:00:00,3,1,Mail,Email,1
+2023-01-06T14:00:00,2,1,sparknotes.com,Search,1
+2023-01-06T14:00:00,2,1,goodreads.com,General Social Networking,-2
+2023-01-06T14:00:00,1,1,cliffsnotes.com,Search,1
+2023-01-06T14:00:00,1,1,gutenberg.org,General Reference & Learning,2
+2023-01-06T14:00:00,1,1,google.com,Search,1
+2023-01-06T15:00:00,256,1,Google Documents,Writing,2
+2023-01-06T15:00:00,106,1,Firefox,Browsers,0
+2023-01-06T15:00:00,55,1,discord,General Entertainment,-2
+2023-01-06T15:00:00,7,1,Slack,Communications,1
+2023-01-06T15:00:00,6,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-06T15:00:00,2,1,Google Spreadsheets,General Business,2
+2023-01-06T15:00:00,1,1,drive.google.com,General Business,2
+2023-01-06T15:00:00,1,1,Blank Web Browser,Browsers,0
+2023-01-06T17:00:00,2498,1,Google Documents,Writing,2
+2023-01-06T17:00:00,310,1,discord,General Entertainment,-2
+2023-01-06T17:00:00,78,1,drive.google.com,General Business,2
+2023-01-06T17:00:00,74,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-06T17:00:00,50,1,Google Spreadsheets,General Business,2
+2023-01-06T17:00:00,24,1,Firefox,Browsers,0
+2023-01-06T17:00:00,14,1,Activity Monitor,General Utilities,1
+2023-01-06T17:00:00,12,1,google.com,Search,1
+2023-01-06T17:00:00,9,1,Blank Web Browser,Browsers,0
+2023-01-06T17:00:00,8,1,RescueTime,Intelligence,2
+2023-01-06T17:00:00,5,1,about:newtab,Browsers,0
+2023-01-06T17:00:00,2,1,qbreader.org,General Reference & Learning,2
+2023-01-06T17:00:00,2,1,about:home,Search,1
+2023-01-06T17:00:00,1,1,goodreads.com,General Social Networking,-2
+2023-01-06T18:00:00,1933,1,Google Documents,Writing,2
+2023-01-06T18:00:00,1268,1,discord,General Entertainment,-2
+2023-01-06T18:00:00,132,1,Google Spreadsheets,General Business,2
+2023-01-06T18:00:00,80,1,drive.google.com,General Business,2
+2023-01-06T18:00:00,67,1,Mail,Email,1
+2023-01-06T18:00:00,57,1,hsquizbowl.org,General Social Networking,-2
+2023-01-06T18:00:00,28,1,Firefox,Browsers,0
+2023-01-06T18:00:00,11,1,Blank Web Browser,Browsers,0
+2023-01-06T18:00:00,4,1,about:newtab,Browsers,0
+2023-01-06T19:00:00,1465,1,Google Documents,Writing,2
+2023-01-06T19:00:00,367,1,qbreader.org,General Reference & Learning,2
+2023-01-06T19:00:00,224,1,google.com,Search,1
+2023-01-06T19:00:00,189,1,discord,General Entertainment,-2
+2023-01-06T19:00:00,184,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-06T19:00:00,181,1,en.wiktionary.org,Search,1
+2023-01-06T19:00:00,14,1,about:newtab,Browsers,0
+2023-01-06T19:00:00,13,1,youtube.com,Video,-2
+2023-01-06T19:00:00,7,1,Slack,Communications,1
+2023-01-06T19:00:00,4,1,Blank Web Browser,Browsers,0
+2023-01-06T19:00:00,3,1,youglish.com,General Reference & Learning,2
+2023-01-06T19:00:00,3,1,drive.google.com,General Business,2
+2023-01-06T19:00:00,2,1,Mail,Email,1
+2023-01-06T20:00:00,1942,1,Google Documents,Writing,2
+2023-01-06T20:00:00,271,1,drive.google.com,General Business,2
+2023-01-06T20:00:00,258,1,Firefox,Browsers,0
+2023-01-06T20:00:00,203,1,en.wiktionary.org,Search,1
+2023-01-06T20:00:00,178,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-06T20:00:00,176,1,qbreader.org,General Reference & Learning,2
+2023-01-06T20:00:00,64,1,system settings,Computer,1
+2023-01-06T20:00:00,32,1,translate.google.com,Search,1
+2023-01-06T20:00:00,26,1,discord,General Entertainment,-2
+2023-01-06T20:00:00,21,1,Google Spreadsheets,General Business,2
+2023-01-06T20:00:00,17,1,google.com,Search,1
+2023-01-06T20:00:00,8,1,dictionary.com,General Business,2
+2023-01-06T20:00:00,3,1,about:newtab,Browsers,0
+2023-01-06T20:00:00,2,1,Blank Web Browser,Browsers,0
+2023-01-06T21:00:00,2424,1,Google Documents,Writing,2
+2023-01-06T21:00:00,505,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-06T21:00:00,195,1,qbreader.org,General Reference & Learning,2
+2023-01-06T21:00:00,152,1,google.com,Search,1
+2023-01-06T21:00:00,147,1,en.wiktionary.org,Search,1
+2023-01-06T21:00:00,95,1,translate.google.com,Search,1
+2023-01-06T21:00:00,43,1,Firefox,Browsers,0
+2023-01-06T21:00:00,6,1,upload.wikimedia.org,Search,1
+2023-01-06T21:00:00,5,1,dictionary.com,General Business,2
+2023-01-06T21:00:00,4,1,Blank Web Browser,Browsers,0
+2023-01-06T21:00:00,3,1,drive.google.com,General Business,2
+2023-01-06T21:00:00,2,1,about:newtab,Browsers,0
+2023-01-06T22:00:00,2864,1,Google Documents,Writing,2
+2023-01-06T22:00:00,312,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-06T22:00:00,159,1,qbreader.org,General Reference & Learning,2
+2023-01-06T22:00:00,110,1,translate.google.com,Search,1
+2023-01-06T22:00:00,83,1,en.wiktionary.org,Search,1
+2023-01-06T22:00:00,25,1,google.com,Search,1
+2023-01-06T22:00:00,20,1,Firefox,Browsers,0
+2023-01-06T22:00:00,12,1,Google Spreadsheets,General Business,2
+2023-01-06T22:00:00,2,1,Blank Web Browser,Browsers,0
+2023-01-06T22:00:00,1,1,drive.google.com,General Business,2
+2023-01-06T23:00:00,1764,1,Google Documents,Writing,2
+2023-01-06T23:00:00,553,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-06T23:00:00,548,1,Google Spreadsheets,General Business,2
+2023-01-06T23:00:00,299,1,Mail,Email,1
+2023-01-06T23:00:00,181,1,bbc.com,General News & Opinion,-2
+2023-01-06T23:00:00,120,1,Firefox,Browsers,0
+2023-01-06T23:00:00,28,1,google.com,Search,1
+2023-01-06T23:00:00,20,1,washingtonpost.com,General News & Opinion,-2
+2023-01-06T23:00:00,15,1,newsweek.com,General News & Opinion,-2
+2023-01-06T23:00:00,13,1,en.wiktionary.org,Search,1
+2023-01-06T23:00:00,12,1,about:newtab,Browsers,0
+2023-01-06T23:00:00,9,1,translate.google.com,Search,1
+2023-01-06T23:00:00,5,1,about:privatebrowsing,General Reference & Learning,2
+2023-01-06T23:00:00,3,1,qbreader.org,General Reference & Learning,2
+2023-01-06T23:00:00,2,1,drive.google.com,General Business,2
+2023-01-06T23:00:00,1,1,Blank Web Browser,Browsers,0
+2023-01-07T00:00:00,1989,1,Google Documents,Writing,2
+2023-01-07T00:00:00,997,1,discord,General Entertainment,-2
+2023-01-07T00:00:00,253,1,Google Spreadsheets,General Business,2
+2023-01-07T00:00:00,158,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-07T00:00:00,72,1,Mail,Email,1
+2023-01-07T00:00:00,37,1,hsquizbowl.org,General Social Networking,-2
+2023-01-07T00:00:00,35,1,drive.google.com,General Business,2
+2023-01-07T00:00:00,20,1,Zoom,Meetings,2
+2023-01-07T00:00:00,13,1,qbreader.org,General Reference & Learning,2
+2023-01-07T00:00:00,10,1,Blank Web Browser,Browsers,0
+2023-01-07T00:00:00,4,1,translate.google.com,Search,1
+2023-01-07T00:00:00,4,1,google.com,Search,1
+2023-01-07T00:00:00,1,1,newsweek.com,General News & Opinion,-2
+2023-01-07T00:00:00,1,1,bbc.com,General News & Opinion,-2
+2023-01-07T01:00:00,3436,1,Google Documents,Writing,2
+2023-01-07T01:00:00,90,1,drive.google.com,General Business,2
+2023-01-07T01:00:00,20,1,discord,General Entertainment,-2
+2023-01-07T01:00:00,18,1,Google Spreadsheets,General Business,2
+2023-01-07T01:00:00,17,1,Blank Web Browser,Browsers,0
+2023-01-07T02:00:00,1945,1,Google Documents,Writing,2
+2023-01-07T02:00:00,511,1,Firefox,Browsers,0
+2023-01-07T02:00:00,198,1,Google Spreadsheets,General Business,2
+2023-01-07T02:00:00,97,1,abcnews.go.com,General News & Opinion,-2
+2023-01-07T02:00:00,81,1,drive.google.com,General Business,2
+2023-01-07T02:00:00,32,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-07T02:00:00,27,1,reuters.com,General News & Opinion,-2
+2023-01-07T02:00:00,21,1,people.com,General Entertainment,-2
+2023-01-07T02:00:00,17,1,about:newtab,Browsers,0
+2023-01-07T02:00:00,14,1,Blank Web Browser,Browsers,0
+2023-01-07T02:00:00,12,1,google.com,Search,1
+2023-01-07T02:00:00,11,1,discord,General Entertainment,-2
+2023-01-07T02:00:00,8,1,New York Times,General News & Opinion,-2
+2023-01-07T03:00:00,318,1,Google Documents,Writing,2
+2023-01-07T03:00:00,38,1,Mail,Email,1
+2023-01-07T03:00:00,1,1,Firefox,Browsers,0
+2023-01-07T06:00:00,23,1,Firefox,Browsers,0
+2023-01-07T06:00:00,2,1,RescueTime,Intelligence,2
+2023-01-07T07:00:00,1966,1,Zoom,Meetings,2
+2023-01-07T07:00:00,1211,1,microsoft word,Writing,2
+2023-01-07T07:00:00,144,1,Google Spreadsheets,General Business,2
+2023-01-07T07:00:00,86,1,discord,General Entertainment,-2
+2023-01-07T07:00:00,60,1,buzzin.live,Uncategorized,0
+2023-01-07T07:00:00,57,1,Finder,Computer,1
+2023-01-07T07:00:00,19,1,Firefox,Browsers,0
+2023-01-07T07:00:00,11,1,Blank Web Browser,Browsers,0
+2023-01-07T07:00:00,9,1,about:newtab,Browsers,0
+2023-01-07T07:00:00,7,1,hmc-edu.zoom.us,Meetings,2
+2023-01-07T07:00:00,5,1,Google Documents,Writing,2
+2023-01-07T07:00:00,3,1,universal control,Computer,1
+2023-01-07T07:00:00,1,1,hsquizbowl.org,General Social Networking,-2
+2023-01-07T07:00:00,1,1,archive utility,General Utilities,1
+2023-01-07T07:00:00,1,1,Activity Monitor,General Utilities,1
+2023-01-07T07:00:00,1,1,continuitycaptureonboardingui,Uncategorized,0
+2023-01-07T08:00:00,1765,1,microsoft word,Writing,2
+2023-01-07T08:00:00,851,1,Zoom,Meetings,2
+2023-01-07T08:00:00,706,1,buzzin.live,Uncategorized,0
+2023-01-07T08:00:00,243,1,discord,General Entertainment,-2
+2023-01-07T08:00:00,18,1,Google Spreadsheets,General Business,2
+2023-01-07T08:00:00,10,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-07T08:00:00,4,1,universal control,Computer,1
+2023-01-07T08:00:00,2,1,Finder,Computer,1
+2023-01-07T08:00:00,1,1,Firefox,Browsers,0
+2023-01-07T09:00:00,3235,1,buzzin.live,Uncategorized,0
+2023-01-07T09:00:00,338,1,Zoom,Meetings,2
+2023-01-07T09:00:00,18,1,microsoft word,Writing,2
+2023-01-07T09:00:00,9,1,Google Spreadsheets,General Business,2
+2023-01-07T10:00:00,1881,1,Zoom,Meetings,2
+2023-01-07T10:00:00,842,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-07T10:00:00,405,1,microsoft word,Writing,2
+2023-01-07T10:00:00,262,1,discord,General Entertainment,-2
+2023-01-07T10:00:00,74,1,Google Spreadsheets,General Business,2
+2023-01-07T10:00:00,26,1,hsquizbowl.org,General Social Networking,-2
+2023-01-07T10:00:00,19,1,buzzin.live,Uncategorized,0
+2023-01-07T10:00:00,6,1,google.com,Search,1
+2023-01-07T10:00:00,5,1,Finder,Computer,1
+2023-01-07T10:00:00,4,1,about:newtab,Browsers,0
+2023-01-07T10:00:00,2,1,Firefox,Browsers,0
+2023-01-07T11:00:00,1933,1,Zoom,Meetings,2
+2023-01-07T11:00:00,793,1,microsoft word,Writing,2
+2023-01-07T11:00:00,367,1,discord,General Entertainment,-2
+2023-01-07T11:00:00,180,1,Firefox,Browsers,0
+2023-01-07T11:00:00,129,1,Google Spreadsheets,General Business,2
+2023-01-07T11:00:00,13,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-07T12:00:00,953,1,microsoft word,Writing,2
+2023-01-07T12:00:00,638,1,Zoom,Meetings,2
+2023-01-07T12:00:00,91,1,Firefox,Browsers,0
+2023-01-07T12:00:00,60,1,Google Spreadsheets,General Business,2
+2023-01-07T12:00:00,53,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-07T12:00:00,45,1,discord,General Entertainment,-2
+2023-01-07T12:00:00,14,1,universal control,Computer,1
+2023-01-07T12:00:00,2,1,RescueTime,Intelligence,2
+2023-01-07T12:00:00,2,1,Finder,Computer,1
+2023-01-07T12:00:00,2,1,buzzin.live,Uncategorized,0
+2023-01-07T12:00:00,1,1,Blank Web Browser,Browsers,0
+2023-01-07T12:00:00,1,1,hmc-edu.zoom.us,Meetings,2
+2023-01-07T13:00:00,2091,1,Zoom,Meetings,2
+2023-01-07T13:00:00,1341,1,microsoft word,Writing,2
+2023-01-07T13:00:00,163,1,Google Spreadsheets,General Business,2
+2023-01-07T13:00:00,5,1,Finder,Computer,1
+2023-01-07T14:00:00,3064,1,Zoom,Meetings,2
+2023-01-07T14:00:00,471,1,microsoft word,Writing,2
+2023-01-07T14:00:00,43,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-07T14:00:00,17,1,Finder,Computer,1
+2023-01-07T14:00:00,5,1,Google Spreadsheets,General Business,2
+2023-01-07T15:00:00,2285,1,Zoom,Meetings,2
+2023-01-07T15:00:00,1021,1,microsoft word,Writing,2
+2023-01-07T15:00:00,145,1,Blank Web Browser,Browsers,0
+2023-01-07T15:00:00,40,1,Google Spreadsheets,General Business,2
+2023-01-07T15:00:00,29,1,quizbowlpackets.com,General Reference & Learning,2
+2023-01-07T15:00:00,18,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-07T15:00:00,17,1,collegiate.quizbowlpackets.com,General Reference & Learning,2
+2023-01-07T15:00:00,12,1,trash.quizbowlpackets.com,General Reference & Learning,2
+2023-01-07T15:00:00,8,1,users,General Software Development,2
+2023-01-07T15:00:00,6,1,hsquizbowl.org,General Social Networking,-2
+2023-01-07T15:00:00,3,1,Finder,Computer,1
+2023-01-07T16:00:00,1744,1,Zoom,Meetings,2
+2023-01-07T16:00:00,199,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-07T16:00:00,103,1,microsoft word,Writing,2
+2023-01-07T16:00:00,5,1,Google Spreadsheets,General Business,2
+2023-01-07T16:00:00,2,1,trash.quizbowlpackets.com,General Reference & Learning,2
+2023-01-07T16:00:00,1,1,hsquizbowl.org,General Social Networking,-2
+2023-01-07T17:00:00,1249,1,Google Documents,Writing,2
+2023-01-07T17:00:00,554,1,discord,General Entertainment,-2
+2023-01-07T17:00:00,440,1,microsoft word,Writing,2
+2023-01-07T17:00:00,406,1,Zoom,Meetings,2
+2023-01-07T17:00:00,404,1,Google Spreadsheets,General Business,2
+2023-01-07T17:00:00,58,1,drive.google.com,General Business,2
+2023-01-07T17:00:00,15,1,Finder,Computer,1
+2023-01-07T17:00:00,12,1,Blank Web Browser,Browsers,0
+2023-01-07T17:00:00,9,1,Firefox,Browsers,0
+2023-01-07T17:00:00,8,1,about:home,Search,1
+2023-01-07T17:00:00,7,1,hmc-edu.zoom.us,Meetings,2
+2023-01-07T17:00:00,2,1,RescueTime,Intelligence,2
+2023-01-08T20:00:00,588,1,gamesdonequick.com,Games,-2
+2023-01-08T20:00:00,261,1,Firefox,Browsers,0
+2023-01-08T20:00:00,10,1,google.com,Search,1
+2023-01-08T20:00:00,7,1,polygon.com,General News & Opinion,-2
+2023-01-08T20:00:00,6,1,about:newtab,Browsers,0
+2023-01-08T20:00:00,2,1,Blank Web Browser,Browsers,0
+2023-01-08T20:00:00,2,1,RescueTime,Intelligence,2
+2023-01-08T21:00:00,8,1,discord,General Entertainment,-2
+2023-01-08T22:00:00,6,1,discord,General Entertainment,-2
+2023-01-08T22:00:00,2,1,RescueTime,Intelligence,2
+2023-01-08T23:00:00,1376,1,Google Documents,Writing,2
+2023-01-08T23:00:00,442,1,discord,General Entertainment,-2
+2023-01-08T23:00:00,329,1,Firefox,Browsers,0
+2023-01-08T23:00:00,246,1,gamesdonequick.com,Games,-2
+2023-01-08T23:00:00,158,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-08T23:00:00,55,1,Google Spreadsheets,General Business,2
+2023-01-08T23:00:00,27,1,google.com,Search,1
+2023-01-08T23:00:00,20,1,drive.google.com,General Business,2
+2023-01-08T23:00:00,6,1,Zoom,Meetings,2
+2023-01-08T23:00:00,4,1,about:newtab,Browsers,0
+2023-01-08T23:00:00,2,1,polygon.com,General News & Opinion,-2
+2023-01-08T23:00:00,2,1,Blank Web Browser,Browsers,0
+2023-01-08T23:00:00,2,1,RescueTime,Intelligence,2
+2023-01-09T00:00:00,669,1,gamesdonequick.com,Games,-2
+2023-01-09T00:00:00,183,1,fangamer.com,General Shopping,-2
+2023-01-09T00:00:00,139,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-09T00:00:00,115,1,Firefox,Browsers,0
+2023-01-09T00:00:00,67,1,theyetee.com,Clothes & Personal,-2
+2023-01-09T00:00:00,3,1,drive.google.com,General Business,2
+2023-01-10T16:00:00,1502,1,Google Spreadsheets,General Business,2
+2023-01-10T16:00:00,455,1,drive.google.com,General Business,2
+2023-01-10T16:00:00,257,1,Firefox,Browsers,0
+2023-01-10T16:00:00,204,1,script.google.com,Editing & IDEs,2
+2023-01-10T16:00:00,197,1,discord,General Entertainment,-2
+2023-01-10T16:00:00,85,1,support.google.com,General News & Opinion,2
+2023-01-10T16:00:00,44,1,gamesdonequick.com,Games,-2
+2023-01-10T16:00:00,36,1,Blank Web Browser,Browsers,0
+2023-01-10T16:00:00,4,1,fangamer.com,General Shopping,-2
+2023-01-10T16:00:00,3,1,RescueTime,Intelligence,2
+2023-01-10T16:00:00,1,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-10T16:00:00,1,1,Google Documents,Writing,2
+2023-01-10T17:00:00,3185,1,Google Spreadsheets,General Business,2
+2023-01-10T17:00:00,268,1,support.google.com,General News & Opinion,2
+2023-01-10T17:00:00,42,1,google.com,Search,1
+2023-01-10T17:00:00,26,1,about:newtab,Browsers,0
+2023-01-10T17:00:00,25,1,stackoverflow.com,General Software Development,2
+2023-01-10T17:00:00,22,1,discord,General Entertainment,-2
+2023-01-10T17:00:00,19,1,spreadsheetclass.com,Uncategorized,0
+2023-01-10T17:00:00,5,1,geeksforgeeks.org,Operations,2
+2023-01-10T17:00:00,2,1,Blank Web Browser,Browsers,0
+2023-01-10T17:00:00,1,1,gamesdonequick.com,Games,-2
+2023-01-10T17:00:00,1,1,script.google.com,Editing & IDEs,2
+2023-01-10T17:00:00,1,1,fangamer.com,General Shopping,-2
+2023-01-10T18:00:00,2783,1,Google Spreadsheets,General Business,2
+2023-01-10T18:00:00,305,1,support.google.com,General News & Opinion,2
+2023-01-10T18:00:00,52,1,statology.org,Uncategorized,0
+2023-01-10T18:00:00,43,1,ablebits.com,Engineering & Technology,2
+2023-01-10T18:00:00,31,1,discord,General Entertainment,-2
+2023-01-10T18:00:00,17,1,about:newtab,Browsers,0
+2023-01-10T18:00:00,14,1,google.com,Search,1
+2023-01-10T18:00:00,2,1,spreadsheetclass.com,Uncategorized,0
+2023-01-10T18:00:00,2,1,stackoverflow.com,General Software Development,2
+2023-01-10T18:00:00,2,1,Blank Web Browser,Browsers,0
+2023-01-10T18:00:00,1,1,script.google.com,Editing & IDEs,2
+2023-01-10T19:00:00,971,1,Google Spreadsheets,General Business,2
+2023-01-10T19:00:00,3,1,discord,General Entertainment,-2
+2023-01-10T21:00:00,32,1,discord,General Entertainment,-2
+2023-01-10T21:00:00,14,1,Google Spreadsheets,General Business,2
+2023-01-10T21:00:00,2,1,RescueTime,Intelligence,2
+2023-01-10T22:00:00,2825,1,Google Spreadsheets,General Business,2
+2023-01-10T22:00:00,704,1,Firefox,Browsers,0
+2023-01-10T22:00:00,32,1,google.com,Search,1
+2023-01-10T22:00:00,32,1,discord,General Entertainment,-2
+2023-01-10T22:00:00,3,1,support.google.com,General News & Opinion,2
+2023-01-10T22:00:00,3,1,ablebits.com,Engineering & Technology,2
+2023-01-10T23:00:00,1587,1,Google Spreadsheets,General Business,2
+2023-01-10T23:00:00,301,1,Firefox,Browsers,0
+2023-01-10T23:00:00,126,1,bmj.com,Search,1
+2023-01-10T23:00:00,80,1,discord,General Entertainment,-2
+2023-01-10T23:00:00,77,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-10T23:00:00,16,1,google.com,Search,1
+2023-01-10T23:00:00,5,1,about:newtab,Browsers,0
+2023-01-10T23:00:00,4,1,accounts.google.com,General Communication & Scheduling,2
+2023-01-10T23:00:00,4,1,support.google.com,General News & Opinion,2
+2023-01-10T23:00:00,3,1,auth.berkeley.edu,General Reference & Learning,2
+2023-01-10T23:00:00,2,1,Blank Web Browser,Browsers,0
+2023-01-10T23:00:00,2,1,ablebits.com,Engineering & Technology,2
+2023-01-10T23:00:00,2,1,script.google.com,Editing & IDEs,2
+2023-01-10T23:00:00,2,1,universal control,Computer,1
+2023-01-10T23:00:00,1,1,stackoverflow.com,General Software Development,2
+2023-01-10T23:00:00,1,1,drive.google.com,General Business,2
+2023-01-10T23:00:00,1,1,spreadsheetclass.com,Uncategorized,0
+2023-01-10T23:00:00,1,1,statology.org,Uncategorized,0
+2023-01-10T23:00:00,1,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-01-11T00:00:00,2393,1,Google Spreadsheets,General Business,2
+2023-01-11T00:00:00,252,1,discord,General Entertainment,-2
+2023-01-11T00:00:00,44,1,statisticshowto.com,General Business,2
+2023-01-11T00:00:00,27,1,support.google.com,General News & Opinion,2
+2023-01-11T00:00:00,20,1,infoinspired.com,Uncategorized,0
+2023-01-11T00:00:00,16,1,about:newtab,Browsers,0
+2023-01-11T00:00:00,16,1,google.com,Search,1
+2023-01-11T00:00:00,4,1,drive.google.com,General Business,2
+2023-01-11T00:00:00,2,1,Blank Web Browser,Browsers,0
+2023-01-11T00:00:00,1,1,universal control,Computer,1
+2023-01-11T01:00:00,1412,1,Google Spreadsheets,General Business,2
+2023-01-11T01:00:00,99,1,discord,General Entertainment,-2
+2023-01-11T01:00:00,42,1,Google Documents,Writing,2
+2023-01-11T01:00:00,12,1,drive.google.com,General Business,2
+2023-01-11T01:00:00,3,1,RescueTime,Intelligence,2
+2023-01-11T01:00:00,2,1,Blank Web Browser,Browsers,0
+2023-01-11T01:00:00,1,1,about:newtab,Browsers,0
+2023-01-11T02:00:00,2628,1,discord,General Entertainment,-2
+2023-01-11T02:00:00,525,1,Google Spreadsheets,General Business,2
+2023-01-11T02:00:00,388,1,Google Documents,Writing,2
+2023-01-11T02:00:00,18,1,microsoft word,Writing,2
+2023-01-11T02:00:00,17,1,drive.google.com,General Business,2
+2023-01-11T02:00:00,12,1,Blank Web Browser,Browsers,0
+2023-01-11T02:00:00,1,1,infoinspired.com,Uncategorized,0
+2023-01-11T02:00:00,1,1,statisticshowto.com,General Business,2
+2023-01-11T02:00:00,1,1,about:newtab,Browsers,0
+2023-01-11T02:00:00,1,1,support.google.com,General News & Opinion,2
+2023-01-11T03:00:00,576,1,discord,General Entertainment,-2
+2023-01-11T03:00:00,237,1,Finder,Computer,1
+2023-01-11T03:00:00,171,1,Google Spreadsheets,General Business,2
+2023-01-11T03:00:00,13,1,gamesdonequick.com,Games,-2
+2023-01-11T03:00:00,9,1,Firefox,Browsers,0
+2023-01-11T18:00:00,1442,1,Google Spreadsheets,General Business,2
+2023-01-11T18:00:00,799,1,Google Documents,Writing,2
+2023-01-11T18:00:00,130,1,RescueTime,Intelligence,2
+2023-01-11T18:00:00,67,1,drive.google.com,General Business,2
+2023-01-11T18:00:00,11,1,Firefox,Browsers,0
+2023-01-11T18:00:00,9,1,Blank Web Browser,Browsers,0
+2023-01-11T19:00:00,1866,1,Google Documents,Writing,2
+2023-01-11T19:00:00,1553,1,Google Spreadsheets,General Business,2
+2023-01-11T19:00:00,102,1,discord,General Entertainment,-2
+2023-01-11T19:00:00,24,1,google.com,Search,1
+2023-01-11T19:00:00,22,1,drive.google.com,General Business,2
+2023-01-11T19:00:00,13,1,about:newtab,Browsers,0
+2023-01-11T19:00:00,11,1,Blank Web Browser,Browsers,0
+2023-01-11T20:00:00,3207,1,Google Spreadsheets,General Business,2
+2023-01-11T20:00:00,267,1,discord,General Entertainment,-2
+2023-01-11T20:00:00,90,1,support.google.com,General News & Opinion,2
+2023-01-11T20:00:00,31,1,Google Documents,Writing,2
+2023-01-11T20:00:00,2,1,drive.google.com,General Business,2
+2023-01-11T20:00:00,2,1,google.com,Search,1
+2023-01-11T20:00:00,1,1,Blank Web Browser,Browsers,0
+2023-01-11T21:00:00,2103,1,Google Documents,Writing,2
+2023-01-11T21:00:00,632,1,Google Spreadsheets,General Business,2
+2023-01-11T21:00:00,357,1,discord,General Entertainment,-2
+2023-01-11T21:00:00,125,1,en.wiktionary.org,Search,1
+2023-01-11T21:00:00,124,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-11T21:00:00,76,1,google.com,Search,1
+2023-01-11T21:00:00,65,1,drive.google.com,General Business,2
+2023-01-11T21:00:00,46,1,translate.google.com,Search,1
+2023-01-11T21:00:00,35,1,Finder,Computer,1
+2023-01-11T21:00:00,13,1,about:newtab,Browsers,0
+2023-01-11T21:00:00,8,1,home.unicode.org,Search,1
+2023-01-11T21:00:00,8,1,Blank Web Browser,Browsers,0
+2023-01-11T22:00:00,2473,1,Google Documents,Writing,2
+2023-01-11T22:00:00,555,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-11T22:00:00,188,1,google.com,Search,1
+2023-01-11T22:00:00,119,1,translate.google.com,Search,1
+2023-01-11T22:00:00,63,1,discord,General Entertainment,-2
+2023-01-11T22:00:00,56,1,qbreader.org,General Reference & Learning,2
+2023-01-11T22:00:00,20,1,forvo.com,General News & Opinion,-2
+2023-01-11T22:00:00,19,1,Blank Web Browser,Browsers,0
+2023-01-11T22:00:00,17,1,en.wiktionary.org,Search,1
+2023-01-11T22:00:00,17,1,youtube.com,Video,-2
+2023-01-11T22:00:00,15,1,dictionary.cambridge.org,General Reference & Learning,2
+2023-01-11T22:00:00,14,1,about:newtab,Browsers,0
+2023-01-11T22:00:00,7,1,drive.google.com,General Business,2
+2023-01-11T22:00:00,6,1,dictionary.com,General Business,2
+2023-01-11T22:00:00,6,1,upload.wikimedia.org,Search,1
+2023-01-11T22:00:00,2,1,support.google.com,General News & Opinion,2
+2023-01-11T22:00:00,2,1,Google Spreadsheets,General Business,2
+2023-01-11T23:00:00,1567,1,Google Documents,Writing,2
+2023-01-11T23:00:00,894,1,discord,General Entertainment,-2
+2023-01-11T23:00:00,795,1,chat.openai.com,General Reference & Learning,2
+2023-01-11T23:00:00,117,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-11T23:00:00,76,1,Google Spreadsheets,General Business,2
+2023-01-11T23:00:00,47,1,translate.google.com,Search,1
+2023-01-11T23:00:00,31,1,google.com,Search,1
+2023-01-11T23:00:00,20,1,beta.openai.com,General Reference & Learning,2
+2023-01-11T23:00:00,18,1,openai.com,General Reference & Learning,2
+2023-01-11T23:00:00,10,1,drive.google.com,General Business,2
+2023-01-11T23:00:00,7,1,qbreader.org,General Reference & Learning,2
+2023-01-11T23:00:00,6,1,Blank Web Browser,Browsers,0
+2023-01-11T23:00:00,4,1,accounts.google.com,General Communication & Scheduling,2
+2023-01-11T23:00:00,2,1,about:newtab,Browsers,0
+2023-01-11T23:00:00,2,1,statology.org,Uncategorized,0
+2023-01-12T00:00:00,2648,1,chat.openai.com,General Reference & Learning,2
+2023-01-12T00:00:00,360,1,Google Documents,Writing,2
+2023-01-12T00:00:00,186,1,discord,General Entertainment,-2
+2023-01-12T00:00:00,22,1,translate.google.com,Search,1
+2023-01-12T00:00:00,10,1,drive.google.com,General Business,2
+2023-01-12T00:00:00,3,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-12T00:00:00,2,1,Blank Web Browser,Browsers,0
+2023-01-12T00:00:00,1,1,Firefox,Browsers,0
+2023-01-13T21:00:00,49,1,Firefox,Browsers,0
+2023-01-13T21:00:00,16,1,Finder,Computer,1
+2023-01-14T03:00:00,2055,1,adobe photoshop 2023,Graphic Design,2
+2023-01-14T03:00:00,45,1,Finder,Computer,1
+2023-01-14T03:00:00,19,1,system settings,Computer,1
+2023-01-14T04:00:00,2245,1,adobe photoshop 2023,Graphic Design,2
+2023-01-14T04:00:00,142,1,Finder,Computer,1
+2023-01-14T04:00:00,14,1,system settings,Computer,1
+2023-01-14T18:00:00,276,1,Google Documents,Writing,2
+2023-01-14T18:00:00,176,1,spotify,Music,-1
+2023-01-14T18:00:00,16,1,drive.google.com,General Business,2
+2023-01-14T18:00:00,12,1,Firefox,Browsers,0
+2023-01-14T18:00:00,7,1,RescueTime,Intelligence,2
+2023-01-14T18:00:00,2,1,Blank Web Browser,Browsers,0
+2023-01-14T19:00:00,1973,1,Google Documents,Writing,2
+2023-01-14T19:00:00,27,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-14T19:00:00,19,1,google.com,Search,1
+2023-01-14T19:00:00,12,1,drive.google.com,General Business,2
+2023-01-14T19:00:00,5,1,about:newtab,Browsers,0
+2023-01-14T19:00:00,3,1,Blank Web Browser,Browsers,0
+2023-01-14T23:00:00,729,1,Finder,Computer,1
+2023-01-14T23:00:00,474,1,gamesdonequick.com,Games,-2
+2023-01-14T23:00:00,237,1,usernotificationcenter,General Utilities,1
+2023-01-14T23:00:00,33,1,installer,General Utilities,1
+2023-01-14T23:00:00,27,1,Firefox,Browsers,0
+2023-01-14T23:00:00,14,1,expressvpn.com,General Utilities,1
+2023-01-14T23:00:00,11,1,expressvpn,Internet Utilities,1
+2023-01-14T23:00:00,2,1,SecurityAgent,Systems Operations,2
+2023-01-15T00:00:00,951,1,hsquizbowl.org,General Social Networking,-2
+2023-01-15T00:00:00,577,1,Finder,Computer,1
+2023-01-15T00:00:00,255,1,discord,General Entertainment,-2
+2023-01-15T00:00:00,234,1,gamesdonequick.com,Games,-2
+2023-01-15T00:00:00,73,1,naqt.com,General Reference & Learning,2
+2023-01-15T00:00:00,40,1,grogerranks.com,Uncategorized,0
+2023-01-15T00:00:00,36,1,projectpossum.org,Uncategorized,0
+2023-01-15T00:00:00,27,1,Firefox,Browsers,0
+2023-01-15T00:00:00,24,1,Blank Web Browser,Browsers,0
+2023-01-15T00:00:00,14,1,RescueTime,Intelligence,2
+2023-01-15T00:00:00,6,1,about:home,Search,1
+2023-01-15T00:00:00,1,1,archive utility,General Utilities,1
+2023-01-15T17:00:00,1090,1,Google Documents,Writing,2
+2023-01-15T17:00:00,128,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-15T17:00:00,96,1,discord,General Entertainment,-2
+2023-01-15T17:00:00,38,1,google.com,Search,1
+2023-01-15T17:00:00,29,1,drive.google.com,General Business,2
+2023-01-15T17:00:00,27,1,qbreader.org,General Reference & Learning,2
+2023-01-15T17:00:00,14,1,about:newtab,Browsers,0
+2023-01-15T17:00:00,9,1,Firefox,Browsers,0
+2023-01-15T17:00:00,4,1,Blank Web Browser,Browsers,0
+2023-01-15T18:00:00,2137,1,Google Documents,Writing,2
+2023-01-15T18:00:00,564,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-15T18:00:00,268,1,qbreader.org,General Reference & Learning,2
+2023-01-15T18:00:00,113,1,Firefox,Browsers,0
+2023-01-15T18:00:00,92,1,Google Spreadsheets,General Business,2
+2023-01-15T18:00:00,44,1,discord,General Entertainment,-2
+2023-01-15T18:00:00,28,1,drive.google.com,General Business,2
+2023-01-15T18:00:00,7,1,Blank Web Browser,Browsers,0
+2023-01-15T18:00:00,4,1,google.com,Search,1
+2023-01-15T18:00:00,3,1,about:newtab,Browsers,0
+2023-01-15T18:00:00,2,1,todoist,Project Management,2
+2023-01-15T20:00:00,104,1,todoist,Project Management,2
+2023-01-15T20:00:00,5,1,Google Documents,Writing,2
+2023-01-15T20:00:00,3,1,discord,General Entertainment,-2
+2023-01-15T20:00:00,3,1,spotify,Music,-1
+2023-01-15T20:00:00,3,1,RescueTime,Intelligence,2
+2023-01-15T21:00:00,711,1,adobe photoshop 2023,Graphic Design,2
+2023-01-15T21:00:00,329,1,universal control,Computer,1
+2023-01-15T21:00:00,298,1,photos,Photos,-2
+2023-01-15T21:00:00,219,1,Finder,Computer,1
+2023-01-15T21:00:00,3,1,todoist,Project Management,2
+2023-01-15T22:00:00,3304,1,adobe photoshop 2023,Graphic Design,2
+2023-01-15T22:00:00,41,1,Finder,Computer,1
+2023-01-15T22:00:00,4,1,coreservicesuiagent,General Utilities,1
+2023-01-15T23:00:00,3252,1,adobe photoshop 2023,Graphic Design,2
+2023-01-16T00:00:00,3275,1,adobe photoshop 2023,Graphic Design,2
+2023-01-16T01:00:00,2049,1,adobe photoshop 2023,Graphic Design,2
+2023-01-16T01:00:00,4,1,Finder,Computer,1
+2023-01-16T02:00:00,2510,1,adobe photoshop 2023,Graphic Design,2
+2023-01-16T02:00:00,201,1,Finder,Computer,1
+2023-01-16T03:00:00,751,1,adobe photoshop 2023,Graphic Design,2
+2023-01-16T03:00:00,22,1,Finder,Computer,1
+2023-01-16T03:00:00,2,1,Firefox,Browsers,0
+2023-01-16T13:00:00,3320,1,Exercise (offline),Very Productive,2
+2023-01-16T14:00:00,2584,1,Google Documents,Writing,2
+2023-01-16T14:00:00,682,1,Exercise (offline),Very Productive,2
+2023-01-16T14:00:00,156,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-16T14:00:00,86,1,about:newtab,Browsers,0
+2023-01-16T14:00:00,29,1,google.com,Search,1
+2023-01-16T14:00:00,19,1,drive.google.com,General Business,2
+2023-01-16T14:00:00,12,1,Firefox,Browsers,0
+2023-01-16T14:00:00,11,1,Blank Web Browser,Browsers,0
+2023-01-16T14:00:00,10,1,rescuetime.com,Computer,1
+2023-01-16T14:00:00,8,1,RescueTime,Intelligence,2
+2023-01-16T14:00:00,1,1,youtube.com,Video,-2
+2023-01-16T15:00:00,1501,1,Google Documents,Writing,2
+2023-01-16T15:00:00,834,1,Firefox,Browsers,0
+2023-01-16T15:00:00,378,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-16T15:00:00,203,1,users,General Software Development,2
+2023-01-16T15:00:00,139,1,Finder,Computer,1
+2023-01-16T15:00:00,120,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-01-16T15:00:00,107,1,qbreader.org,General Reference & Learning,2
+2023-01-16T15:00:00,106,1,jstor.org,Engineering & Technology,2
+2023-01-16T15:00:00,71,1,discord,General Entertainment,-2
+2023-01-16T15:00:00,58,1,google.com,Search,1
+2023-01-16T15:00:00,37,1,Blank Web Browser,Browsers,0
+2023-01-16T15:00:00,28,1,about:newtab,Browsers,0
+2023-01-16T15:00:00,4,1,magnumphotos.com,Uncategorized,0
+2023-01-16T15:00:00,3,1,web.archive.org,Search,1
+2023-01-16T15:00:00,3,1,online.fliphtml5.com,Uncategorized,0
+2023-01-16T16:00:00,3247,1,Google Documents,Writing,2
+2023-01-16T16:00:00,85,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-16T16:00:00,83,1,qbreader.org,General Reference & Learning,2
+2023-01-16T16:00:00,81,1,users,General Software Development,2
+2023-01-16T16:00:00,60,1,discord,General Entertainment,-2
+2023-01-16T16:00:00,28,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-01-16T16:00:00,13,1,jstor.org,Engineering & Technology,2
+2023-01-16T17:00:00,2752,1,Google Documents,Writing,2
+2023-01-16T18:00:00,572,1,Google Documents,Writing,2
+2023-01-16T18:00:00,34,1,users,General Software Development,2
+2023-01-16T18:00:00,1,1,Firefox,Browsers,0
+2023-01-17T23:00:00,535,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-01-17T23:00:00,315,1,Firefox,Browsers,0
+2023-01-17T23:00:00,57,1,Google Documents,Writing,2
+2023-01-17T23:00:00,21,1,RescueTime,Intelligence,2
+2023-01-17T23:00:00,3,1,users,General Software Development,2
+2023-01-17T23:00:00,1,1,discord,General Entertainment,-2
+2023-01-17T23:00:00,1,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-18T00:00:00,1968,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-01-18T00:00:00,1519,1,Google Documents,Writing,2
+2023-01-18T00:00:00,69,1,qbreader.org,General Reference & Learning,2
+2023-01-18T00:00:00,30,1,drive.google.com,General Business,2
+2023-01-18T00:00:00,7,1,Blank Web Browser,Browsers,0
+2023-01-18T00:00:00,2,1,users,General Software Development,2
+2023-01-18T01:00:00,2973,1,Google Documents,Writing,2
+2023-01-18T01:00:00,299,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-18T01:00:00,114,1,qbreader.org,General Reference & Learning,2
+2023-01-18T01:00:00,51,1,eshop.macsales.com,General Shopping,-2
+2023-01-18T01:00:00,26,1,unicode-table.com,Engineering & Technology,2
+2023-01-18T01:00:00,23,1,system settings,Computer,1
+2023-01-18T01:00:00,12,1,google.com,Search,1
+2023-01-18T01:00:00,10,1,about:newtab,Browsers,0
+2023-01-18T01:00:00,9,1,Blank Web Browser,Browsers,0
+2023-01-18T01:00:00,5,1,drive.google.com,General Business,2
+2023-01-18T01:00:00,4,1,Firefox,Browsers,0
+2023-01-18T01:00:00,4,1,web.archive.org,Search,1
+2023-01-18T01:00:00,3,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-01-18T01:00:00,2,1,naturalresources.house.gov,General Reference & Learning,2
+2023-01-18T01:00:00,2,1,users,General Software Development,2
+2023-01-18T02:00:00,741,1,Finder,Computer,1
+2023-01-18T02:00:00,520,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-01-18T02:00:00,252,1,Google Documents,Writing,2
+2023-01-18T02:00:00,129,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-18T02:00:00,84,1,qbreader.org,General Reference & Learning,2
+2023-01-18T02:00:00,42,1,minkowski.space,Uncategorized,0
+2023-01-18T02:00:00,31,1,about:newtab,Browsers,0
+2023-01-18T02:00:00,22,1,discord,General Entertainment,-2
+2023-01-18T02:00:00,3,1,users,General Software Development,2
+2023-01-18T02:00:00,1,1,google.com,Search,1
+2023-01-18T02:00:00,1,1,eshop.macsales.com,General Shopping,-2
+2023-01-18T02:00:00,1,1,jstor.org,Engineering & Technology,2
+2023-01-18T02:00:00,1,1,magnumphotos.com,Uncategorized,0
+2023-01-18T16:00:00,212,1,RescueTime,Intelligence,2
+2023-01-18T16:00:00,1,1,Finder,Computer,1
+2023-01-18T17:00:00,423,1,RescueTime,Intelligence,2
+2023-01-18T17:00:00,274,1,Firefox,Browsers,0
+2023-01-18T17:00:00,14,1,qbreader.org,General Reference & Learning,2
+2023-01-18T17:00:00,3,1,Finder,Computer,1
+2023-01-18T22:00:00,253,1,Finder,Computer,1
+2023-01-18T22:00:00,4,1,drive.google.com,General Business,2
+2023-01-18T22:00:00,3,1,Blank Web Browser,Browsers,0
+2023-01-18T22:00:00,2,1,Firefox,Browsers,0
+2023-01-18T23:00:00,2713,1,Google Documents,Writing,2
+2023-01-18T23:00:00,518,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-18T23:00:00,165,1,Firefox,Browsers,0
+2023-01-18T23:00:00,79,1,qbreader.org,General Reference & Learning,2
+2023-01-18T23:00:00,36,1,google.com,Search,1
+2023-01-18T23:00:00,29,1,drive.google.com,General Business,2
+2023-01-18T23:00:00,28,1,translate.google.com,Search,1
+2023-01-18T23:00:00,10,1,about:newtab,Browsers,0
+2023-01-18T23:00:00,7,1,Blank Web Browser,Browsers,0
+2023-01-18T23:00:00,2,1,memory diag,General Utilities,1
+2023-01-18T23:00:00,2,1,en.wiktionary.org,Search,1
+2023-01-19T00:00:00,2482,1,Google Documents,Writing,2
+2023-01-19T00:00:00,613,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-19T00:00:00,339,1,Firefox,Browsers,0
+2023-01-19T00:00:00,67,1,google.com,Search,1
+2023-01-19T00:00:00,38,1,howtopronounce.com,General Reference & Learning,2
+2023-01-19T00:00:00,17,1,definitions.net,General Reference & Learning,2
+2023-01-19T00:00:00,10,1,ahdictionary.com,General Reference & Learning,2
+2023-01-19T00:00:00,10,1,forvo.com,General News & Opinion,-2
+2023-01-19T00:00:00,9,1,drive.google.com,General Business,2
+2023-01-19T00:00:00,7,1,about:newtab,Browsers,0
+2023-01-19T00:00:00,5,1,Blank Web Browser,Browsers,0
+2023-01-19T01:00:00,1920,1,Google Documents,Writing,2
+2023-01-19T01:00:00,1135,1,Firefox,Browsers,0
+2023-01-19T01:00:00,251,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-19T01:00:00,151,1,en.wiktionary.org,Search,1
+2023-01-19T01:00:00,53,1,google.com,Search,1
+2023-01-19T01:00:00,36,1,qbreader.org,General Reference & Learning,2
+2023-01-19T01:00:00,28,1,howtopronounce.com,General Reference & Learning,2
+2023-01-19T01:00:00,11,1,drive.google.com,General Business,2
+2023-01-19T01:00:00,9,1,translate.google.com,Search,1
+2023-01-19T01:00:00,4,1,Blank Web Browser,Browsers,0
+2023-01-19T02:00:00,3321,1,Google Documents,Writing,2
+2023-01-19T02:00:00,121,1,Firefox,Browsers,0
+2023-01-19T02:00:00,96,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-19T02:00:00,47,1,qbreader.org,General Reference & Learning,2
+2023-01-19T02:00:00,9,1,drive.google.com,General Business,2
+2023-01-19T02:00:00,3,1,Blank Web Browser,Browsers,0
+2023-01-19T02:00:00,1,1,en.wiktionary.org,Search,1
+2023-01-19T03:00:00,2219,1,Google Documents,Writing,2
+2023-01-19T03:00:00,143,1,Google Spreadsheets,General Business,2
+2023-01-19T03:00:00,96,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-19T03:00:00,33,1,drive.google.com,General Business,2
+2023-01-19T03:00:00,8,1,Blank Web Browser,Browsers,0
+2023-01-19T23:00:00,2050,1,Google Documents,Writing,2
+2023-01-19T23:00:00,655,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-19T23:00:00,172,1,google.com,Search,1
+2023-01-19T23:00:00,92,1,translate.google.com,Search,1
+2023-01-19T23:00:00,52,1,Firefox,Browsers,0
+2023-01-19T23:00:00,45,1,forvo.com,General News & Opinion,-2
+2023-01-19T23:00:00,24,1,en.wiktionary.org,Search,1
+2023-01-19T23:00:00,22,1,howtopronounce.com,General Reference & Learning,2
+2023-01-19T23:00:00,17,1,spotify,Music,-1
+2023-01-19T23:00:00,14,1,drive.google.com,General Business,2
+2023-01-19T23:00:00,12,1,music,General Entertainment,-2
+2023-01-19T23:00:00,12,1,masslive.com,General News & Opinion,-2
+2023-01-19T23:00:00,10,1,Blank Web Browser,Browsers,0
+2023-01-19T23:00:00,8,1,about:newtab,Browsers,0
+2023-01-19T23:00:00,1,1,qbreader.org,General Reference & Learning,2
+2023-01-19T23:00:00,1,1,memory diag,General Utilities,1
+2023-01-20T00:00:00,2232,1,Google Documents,Writing,2
+2023-01-20T00:00:00,280,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-20T00:00:00,81,1,forvo.com,General News & Opinion,-2
+2023-01-20T00:00:00,32,1,google.com,Search,1
+2023-01-20T00:00:00,20,1,merriam-webster.com,Intelligence,2
+2023-01-20T00:00:00,17,1,translate.google.com,Search,1
+2023-01-20T00:00:00,12,1,drive.google.com,General Business,2
+2023-01-20T00:00:00,9,1,howjsay.com,General Reference & Learning,2
+2023-01-20T00:00:00,4,1,Blank Web Browser,Browsers,0
+2023-01-20T00:00:00,3,1,Firefox,Browsers,0
+2023-01-20T15:00:00,330,1,Google Documents,Writing,2
+2023-01-20T15:00:00,220,1,youtube.com,Video,-2
+2023-01-20T15:00:00,121,1,Firefox,Browsers,0
+2023-01-20T15:00:00,83,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-20T15:00:00,57,1,forvo.com,General News & Opinion,-2
+2023-01-20T15:00:00,27,1,translate.google.com,Search,1
+2023-01-20T15:00:00,23,1,definitions.net,General Reference & Learning,2
+2023-01-20T15:00:00,9,1,about:newtab,Browsers,0
+2023-01-20T15:00:00,5,1,google.com,Search,1
+2023-01-20T15:00:00,3,1,merriam-webster.com,Intelligence,2
+2023-01-20T15:00:00,2,1,qbreader.org,General Reference & Learning,2
+2023-01-20T15:00:00,1,1,en.wiktionary.org,Search,1
+2023-01-20T15:00:00,1,1,Blank Web Browser,Browsers,0
+2023-01-20T15:00:00,1,1,howjsay.com,General Reference & Learning,2
+2023-01-20T16:00:00,2135,1,Google Documents,Writing,2
+2023-01-20T16:00:00,604,1,youtube.com,Video,-2
+2023-01-20T16:00:00,218,1,google.com,Search,1
+2023-01-20T16:00:00,209,1,forvo.com,General News & Opinion,-2
+2023-01-20T16:00:00,171,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-20T16:00:00,114,1,acerail.com,Uncategorized,0
+2023-01-20T16:00:00,51,1,translate.google.com,Search,1
+2023-01-20T16:00:00,45,1,en.wiktionary.org,Search,1
+2023-01-20T16:00:00,16,1,merriam-webster.com,Intelligence,2
+2023-01-20T16:00:00,14,1,drive.google.com,General Business,2
+2023-01-20T16:00:00,9,1,Blank Web Browser,Browsers,0
+2023-01-20T16:00:00,8,1,about:newtab,Browsers,0
+2023-01-20T16:00:00,4,1,howtopronounce.com,General Reference & Learning,2
+2023-01-20T17:00:00,1535,1,Google Documents,Writing,2
+2023-01-20T17:00:00,133,1,discord,General Entertainment,-2
+2023-01-20T17:00:00,87,1,forvo.com,General News & Opinion,-2
+2023-01-20T17:00:00,74,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-20T17:00:00,31,1,en.wiktionary.org,Search,1
+2023-01-20T17:00:00,8,1,drive.google.com,General Business,2
+2023-01-20T17:00:00,3,1,Blank Web Browser,Browsers,0
+2023-01-20T17:00:00,3,1,google.com,Search,1
+2023-01-20T17:00:00,1,1,translate.google.com,Search,1
+2023-01-20T22:00:00,1408,1,Google Documents,Writing,2
+2023-01-20T22:00:00,363,1,forvo.com,General News & Opinion,-2
+2023-01-20T22:00:00,363,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-20T22:00:00,105,1,google.com,Search,1
+2023-01-20T22:00:00,80,1,en.wiktionary.org,Search,1
+2023-01-20T22:00:00,60,1,Firefox,Browsers,0
+2023-01-20T22:00:00,23,1,theverge.com,Science & Technology,-2
+2023-01-20T22:00:00,22,1,translate.google.com,Search,1
+2023-01-20T22:00:00,21,1,ncbi.nlm.nih.gov,Engineering & Technology,2
+2023-01-20T22:00:00,15,1,apple.stackexchange.com,Engineering & Technology,2
+2023-01-20T22:00:00,13,1,howtopronounce.com,General Reference & Learning,2
+2023-01-20T22:00:00,11,1,eshop.macsales.com,General Shopping,-2
+2023-01-20T22:00:00,6,1,about:newtab,Browsers,0
+2023-01-20T22:00:00,4,1,Blank Web Browser,Browsers,0
+2023-01-20T22:00:00,1,1,qbreader.org,General Reference & Learning,2
+2023-01-20T22:00:00,1,1,drive.google.com,General Business,2
+2023-01-20T23:00:00,3012,1,Google Documents,Writing,2
+2023-01-20T23:00:00,273,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-20T23:00:00,118,1,forvo.com,General News & Opinion,-2
+2023-01-20T23:00:00,72,1,en.wiktionary.org,Search,1
+2023-01-20T23:00:00,51,1,translate.google.com,Search,1
+2023-01-20T23:00:00,32,1,howtopronounce.com,General Reference & Learning,2
+2023-01-20T23:00:00,20,1,google.com,Search,1
+2023-01-20T23:00:00,9,1,drive.google.com,General Business,2
+2023-01-20T23:00:00,5,1,Blank Web Browser,Browsers,0
+2023-01-20T23:00:00,3,1,Firefox,Browsers,0
+2023-01-21T00:00:00,3066,1,Google Documents,Writing,2
+2023-01-21T00:00:00,282,1,discord,General Entertainment,-2
+2023-01-21T00:00:00,131,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-21T00:00:00,38,1,forvo.com,General News & Opinion,-2
+2023-01-21T00:00:00,19,1,en.wiktionary.org,Search,1
+2023-01-21T00:00:00,18,1,drive.google.com,General Business,2
+2023-01-21T00:00:00,15,1,google.com,Search,1
+2023-01-21T00:00:00,14,1,howtopronounce.com,General Reference & Learning,2
+2023-01-21T00:00:00,9,1,translate.google.com,Search,1
+2023-01-21T00:00:00,6,1,Blank Web Browser,Browsers,0
+2023-01-21T01:00:00,718,1,Google Documents,Writing,2
+2023-01-21T01:00:00,446,1,Google Spreadsheets,General Business,2
+2023-01-21T01:00:00,34,1,drive.google.com,General Business,2
+2023-01-21T01:00:00,29,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-21T01:00:00,15,1,discord,General Entertainment,-2
+2023-01-21T01:00:00,7,1,Blank Web Browser,Browsers,0
+2023-01-21T01:00:00,4,1,forvo.com,General News & Opinion,-2
+2023-01-21T01:00:00,3,1,en.wiktionary.org,Search,1
+2023-01-21T01:00:00,1,1,Firefox,Browsers,0
+2023-01-23T20:00:00,1148,1,wine32on64-preloader,Uncategorized,0
+2023-01-23T20:00:00,146,1,Firefox,Browsers,0
+2023-01-23T20:00:00,124,1,Google Documents,Writing,2
+2023-01-23T20:00:00,74,1,poetryfoundation.org,Society,1
+2023-01-23T20:00:00,15,1,google.com,Search,1
+2023-01-23T20:00:00,8,1,youtube.com,Video,-2
+2023-01-23T20:00:00,1,1,Blank Web Browser,Browsers,0
+2023-01-23T21:00:00,3600,1,wine32on64-preloader,Uncategorized,0
+2023-01-23T22:00:00,3600,1,wine32on64-preloader,Uncategorized,0
+2023-01-23T23:00:00,1383,1,wine32on64-preloader,Uncategorized,0
+2023-01-23T23:00:00,694,1,Google Documents,Writing,2
+2023-01-23T23:00:00,116,1,Firefox,Browsers,0
+2023-01-23T23:00:00,19,1,drive.google.com,General Business,2
+2023-01-23T23:00:00,4,1,Blank Web Browser,Browsers,0
+2023-01-24T00:00:00,6,1,RescueTime,Intelligence,2
+2023-01-24T01:00:00,6,1,qbreader.org,General Reference & Learning,2
+2023-01-24T01:00:00,2,1,RescueTime,Intelligence,2
+2023-01-24T01:00:00,1,1,drive.google.com,General Business,2
+2023-01-25T17:00:00,1164,1,Google Documents,Writing,2
+2023-01-25T17:00:00,276,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-25T17:00:00,73,1,Firefox,Browsers,0
+2023-01-25T17:00:00,13,1,drive.google.com,General Business,2
+2023-01-25T17:00:00,3,1,about:newtab,Browsers,0
+2023-01-25T17:00:00,2,1,Blank Web Browser,Browsers,0
+2023-01-25T17:00:00,1,1,memory diag,General Utilities,1
+2023-01-25T18:00:00,2530,1,Google Documents,Writing,2
+2023-01-25T18:00:00,872,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-25T18:00:00,125,1,qbreader.org,General Reference & Learning,2
+2023-01-25T18:00:00,51,1,drive.google.com,General Business,2
+2023-01-25T18:00:00,7,1,Blank Web Browser,Browsers,0
+2023-01-25T18:00:00,4,1,about:newtab,Browsers,0
+2023-01-25T19:00:00,2228,1,Google Documents,Writing,2
+2023-01-25T19:00:00,960,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-25T19:00:00,168,1,drive.google.com,General Business,2
+2023-01-25T19:00:00,43,1,qbreader.org,General Reference & Learning,2
+2023-01-25T19:00:00,41,1,Firefox,Browsers,0
+2023-01-25T19:00:00,9,1,google.com,Search,1
+2023-01-25T19:00:00,4,1,Blank Web Browser,Browsers,0
+2023-01-25T19:00:00,3,1,about:newtab,Browsers,0
+2023-01-25T19:00:00,1,1,memory diag,General Utilities,1
+2023-01-25T22:00:00,221,1,Firefox,Browsers,0
+2023-01-25T22:00:00,178,1,Google Documents,Writing,2
+2023-01-25T22:00:00,31,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-25T22:00:00,3,1,drive.google.com,General Business,2
+2023-01-25T22:00:00,2,1,RescueTime,Intelligence,2
+2023-01-25T22:00:00,1,1,Blank Web Browser,Browsers,0
+2023-01-25T23:00:00,1377,1,Google Documents,Writing,2
+2023-01-25T23:00:00,19,1,en.wikipedia.org,General Reference & Learning,2
+2023-01-25T23:00:00,15,1,drive.google.com,General Business,2
+2023-01-25T23:00:00,7,1,Blank Web Browser,Browsers,0
+2023-02-01T13:00:00,1619,1,Google Documents,Writing,2
+2023-02-01T13:00:00,340,1,Firefox,Browsers,0
+2023-02-01T13:00:00,163,1,hsquizbowl.org,General Social Networking,-2
+2023-02-01T13:00:00,128,1,Google Spreadsheets,General Business,2
+2023-02-01T13:00:00,102,1,drive.google.com,General Business,2
+2023-02-01T13:00:00,35,1,expressvpn,Internet Utilities,1
+2023-02-01T13:00:00,8,1,Blank Web Browser,Browsers,0
+2023-02-01T13:00:00,7,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-01T13:00:00,2,1,qbreader.org,General Reference & Learning,2
+2023-02-01T13:00:00,1,1,google.com,Search,1
+2023-02-01T14:00:00,2471,1,Study (offline),General Reference & Learning,2
+2023-02-01T14:00:00,448,1,Google Documents,Writing,2
+2023-02-01T14:00:00,6,1,drive.google.com,General Business,2
+2023-02-01T14:00:00,1,1,Blank Web Browser,Browsers,0
+2023-02-01T15:00:00,492,1,Google Documents,Writing,2
+2023-02-01T15:00:00,255,1,hsquizbowl.org,General Social Networking,-2
+2023-02-01T15:00:00,33,1,drive.google.com,General Business,2
+2023-02-01T15:00:00,6,1,RescueTime,Intelligence,2
+2023-02-01T15:00:00,5,1,Blank Web Browser,Browsers,0
+2023-02-01T16:00:00,2366,1,Google Documents,Writing,2
+2023-02-01T16:00:00,780,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-01T16:00:00,146,1,qbreader.org,General Reference & Learning,2
+2023-02-01T16:00:00,61,1,realpython.com,Engineering & Technology,2
+2023-02-01T16:00:00,54,1,Google Spreadsheets,General Business,2
+2023-02-01T16:00:00,23,1,google.com,Search,1
+2023-02-01T16:00:00,17,1,drive.google.com,General Business,2
+2023-02-01T16:00:00,13,1,RescueTime,Intelligence,2
+2023-02-01T16:00:00,11,1,about:newtab,Browsers,0
+2023-02-01T16:00:00,9,1,w3schools.com,Engineering & Technology,2
+2023-02-01T16:00:00,3,1,Blank Web Browser,Browsers,0
+2023-02-01T17:00:00,1649,1,Google Documents,Writing,2
+2023-02-01T17:00:00,1118,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-01T17:00:00,238,1,Google Spreadsheets,General Business,2
+2023-02-01T17:00:00,152,1,qbreader.org,General Reference & Learning,2
+2023-02-01T17:00:00,20,1,nobelprize.org,Science & Technology,-2
+2023-02-01T17:00:00,9,1,about:newtab,Browsers,0
+2023-02-01T17:00:00,7,1,google.com,Search,1
+2023-02-01T17:00:00,7,1,drive.google.com,General Business,2
+2023-02-01T17:00:00,3,1,Blank Web Browser,Browsers,0
+2023-02-01T17:00:00,1,1,hsquizbowl.org,General Social Networking,-2
+2023-02-06T21:00:00,688,1,gimp,Presentation,0
+2023-02-06T21:00:00,547,1,Finder,Computer,1
+2023-02-06T21:00:00,239,1,gimp.org,Design & Planning,2
+2023-02-06T21:00:00,101,1,account.adobe.com,General Software Development,2
+2023-02-06T21:00:00,92,1,coreservicesuiagent,General Utilities,1
+2023-02-06T21:00:00,72,1,google.com,Search,1
+2023-02-06T21:00:00,63,1,Google Spreadsheets,General Business,2
+2023-02-06T21:00:00,52,1,Firefox,Browsers,0
+2023-02-06T21:00:00,51,1,sites.google.com,Internet Utilities,1
+2023-02-06T21:00:00,41,1,expressvpn,Internet Utilities,1
+2023-02-06T21:00:00,22,1,todoist,Project Management,2
+2023-02-06T21:00:00,22,1,software.berkeley.edu,General Reference & Learning,2
+2023-02-06T21:00:00,20,1,creativebloq.com,General Reference & Learning,2
+2023-02-06T21:00:00,20,1,about:newtab,Browsers,0
+2023-02-06T21:00:00,15,1,adobe photoshop 2023,Graphic Design,2
+2023-02-06T21:00:00,13,1,auth.services.adobe.com,Uncategorized,0
+2023-02-06T21:00:00,12,1,adobeid-na1.services.adobe.com,General Design & Composition,2
+2023-02-06T21:00:00,7,1,Blank Web Browser,Browsers,0
+2023-02-06T21:00:00,6,1,adobe content synchronizer,Uncategorized,0
+2023-02-06T21:00:00,6,1,adobe.com,General Software Development,2
+2023-02-06T21:00:00,5,1,registrar.berkeley.edu,Administration,2
+2023-02-06T21:00:00,4,1,auth.berkeley.edu,General Reference & Learning,2
+2023-02-06T21:00:00,2,1,applications,General Business,2
+2023-02-06T21:00:00,2,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-02-06T21:00:00,2,1,ims-na1.adobelogin.com,Uncategorized,0
+2023-02-06T21:00:00,1,1,spotify,Music,-1
+2023-02-06T21:00:00,1,1,reddit.com,General News & Opinion,-2
+2023-02-06T22:00:00,293,1,creativecloud.adobe.com,General Software Development,2
+2023-02-06T22:00:00,188,1,adobe photoshop 2023,Graphic Design,2
+2023-02-06T22:00:00,92,1,account.adobe.com,General Software Development,2
+2023-02-06T22:00:00,91,1,Firefox,Browsers,0
+2023-02-06T22:00:00,82,1,adobe.com,General Software Development,2
+2023-02-06T22:00:00,67,1,commerce.adobe.com,General Software Development,2
+2023-02-06T22:00:00,51,1,Finder,Computer,1
+2023-02-06T22:00:00,39,1,adobeid-na1.services.adobe.com,General Design & Composition,2
+2023-02-06T22:00:00,24,1,Activity Monitor,General Utilities,1
+2023-02-06T22:00:00,12,1,auth.services.adobe.com,Uncategorized,0
+2023-02-06T22:00:00,8,1,helpx.adobe.com,General Software Development,2
+2023-02-06T22:00:00,5,1,texstudio,Writing,2
+2023-02-06T22:00:00,5,1,accounts.google.com,General Communication & Scheduling,2
+2023-02-06T22:00:00,5,1,Blank Web Browser,Browsers,0
+2023-02-06T22:00:00,4,1,universal control,Computer,1
+2023-02-06T22:00:00,4,1,system settings,Computer,1
+2023-02-06T22:00:00,4,1,usernotificationcenter,General Utilities,1
+2023-02-06T22:00:00,1,1,ims-na1.adobelogin.com,Uncategorized,0
+2023-02-06T23:00:00,163,1,RescueTime,Intelligence,2
+2023-02-07T00:00:00,3145,1,adobe photoshop 2023,Graphic Design,2
+2023-02-07T00:00:00,263,1,Finder,Computer,1
+2023-02-07T00:00:00,49,1,google.com,Search,1
+2023-02-07T00:00:00,33,1,creativecloud.adobe.com,General Software Development,2
+2023-02-07T00:00:00,32,1,dreamstime.com,Presentation,2
+2023-02-07T00:00:00,26,1,Firefox,Browsers,0
+2023-02-07T00:00:00,16,1,coreservicesuiagent,General Utilities,1
+2023-02-07T00:00:00,5,1,Blank Web Browser,Browsers,0
+2023-02-07T00:00:00,3,1,commerce.adobe.com,General Software Development,2
+2023-02-07T00:00:00,2,1,RescueTime,Intelligence,2
+2023-02-07T01:00:00,1804,1,adobe photoshop 2023,Graphic Design,2
+2023-02-07T01:00:00,62,1,google.com,Search,1
+2023-02-07T01:00:00,13,1,dreamstime.com,Presentation,2
+2023-02-07T02:00:00,2887,1,adobe photoshop 2023,Graphic Design,2
+2023-02-07T02:00:00,14,1,Finder,Computer,1
+2023-02-07T02:00:00,3,1,google.com,Search,1
+2023-02-07T02:00:00,2,1,creativecloud.adobe.com,General Software Development,2
+2023-02-07T15:00:00,381,1,Finder,Computer,1
+2023-02-07T15:00:00,8,1,RescueTime,Intelligence,2
+2023-02-07T16:00:00,407,1,Finder,Computer,1
+2023-02-07T21:00:00,756,1,Social (offline),General Communication & Scheduling,2
+2023-02-07T22:00:00,2909,1,adobe photoshop 2023,Graphic Design,2
+2023-02-07T22:00:00,255,1,Finder,Computer,1
+2023-02-07T22:00:00,237,1,Social (offline),General Communication & Scheduling,2
+2023-02-07T22:00:00,52,1,google.com,Search,1
+2023-02-07T22:00:00,21,1,RescueTime,Intelligence,2
+2023-02-07T22:00:00,14,1,Firefox,Browsers,0
+2023-02-07T22:00:00,13,1,images.google.com,Search,1
+2023-02-07T22:00:00,6,1,naturetime.wordpress.com,General News & Opinion,-2
+2023-02-07T22:00:00,2,1,universal control,Computer,1
+2023-02-07T23:00:00,3490,1,adobe photoshop 2023,Graphic Design,2
+2023-02-08T00:00:00,2888,1,adobe photoshop 2023,Graphic Design,2
+2023-02-08T00:00:00,41,1,Finder,Computer,1
+2023-02-08T01:00:00,2075,1,adobe photoshop 2023,Graphic Design,2
+2023-02-08T01:00:00,74,1,Finder,Computer,1
+2023-02-08T02:00:00,339,1,adobe photoshop 2023,Graphic Design,2
+2023-02-08T02:00:00,7,1,Finder,Computer,1
+2023-02-08T03:00:00,1013,1,adobe photoshop 2023,Graphic Design,2
+2023-02-08T04:00:00,1978,1,adobe photoshop 2023,Graphic Design,2
+2023-02-08T04:00:00,60,1,quora.com,General News & Opinion,-2
+2023-02-08T04:00:00,56,1,Finder,Computer,1
+2023-02-08T04:00:00,51,1,Firefox,Browsers,0
+2023-02-08T04:00:00,19,1,naturetime.wordpress.com,General News & Opinion,-2
+2023-02-08T04:00:00,9,1,Blank Web Browser,Browsers,0
+2023-02-08T20:00:00,2251,1,Distracted (offline),General Business,-2
+2023-02-08T21:00:00,3600,1,Distracted (offline),General Business,-2
+2023-02-08T22:00:00,2522,1,Distracted (offline),General Business,-2
+2023-02-08T22:00:00,593,1,adobe photoshop 2023,Graphic Design,2
+2023-02-08T22:00:00,172,1,RescueTime,Intelligence,2
+2023-02-08T22:00:00,138,1,Finder,Computer,1
+2023-02-08T22:00:00,85,1,google.com,Search,1
+2023-02-08T22:00:00,61,1,Firefox,Browsers,0
+2023-02-08T22:00:00,18,1,alamy.com,Marketing,2
+2023-02-08T22:00:00,2,1,Blank Web Browser,Browsers,0
+2023-02-08T23:00:00,2884,1,adobe photoshop 2023,Graphic Design,2
+2023-02-08T23:00:00,106,1,Finder,Computer,1
+2023-02-08T23:00:00,22,1,alamy.com,Marketing,2
+2023-02-08T23:00:00,8,1,google.com,Search,1
+2023-02-09T00:00:00,84,1,Finder,Computer,1
+2023-02-09T00:00:00,53,1,adobe photoshop 2023,Graphic Design,2
+2023-02-09T16:00:00,971,1,anki,General Reference & Learning,2
+2023-02-09T16:00:00,663,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-09T16:00:00,91,1,spotify,Music,-1
+2023-02-09T16:00:00,82,1,Firefox,Browsers,0
+2023-02-09T16:00:00,57,1,kellydeanhansen.com,Uncategorized,0
+2023-02-09T16:00:00,29,1,Finder,Computer,1
+2023-02-09T16:00:00,5,1,Blank Web Browser,Browsers,0
+2023-02-09T16:00:00,4,1,RescueTime,Intelligence,2
+2023-02-09T17:00:00,2840,1,anki,General Reference & Learning,2
+2023-02-09T17:00:00,292,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-09T17:00:00,134,1,facetime,Voice Chat,2
+2023-02-09T17:00:00,14,1,spotify,Music,-1
+2023-02-09T17:00:00,11,1,Finder,Computer,1
+2023-02-09T17:00:00,4,1,Firefox,Browsers,0
+2023-02-09T17:00:00,1,1,Blank Web Browser,Browsers,0
+2023-02-09T21:00:00,672,1,anki,General Reference & Learning,2
+2023-02-09T21:00:00,120,1,spotify,Music,-1
+2023-02-09T21:00:00,109,1,supersummary.com,General Reference & Learning,2
+2023-02-09T21:00:00,20,1,auth.berkeley.edu,General Reference & Learning,2
+2023-02-09T21:00:00,18,1,Firefox,Browsers,0
+2023-02-09T21:00:00,16,1,about:newtab,Browsers,0
+2023-02-09T21:00:00,5,1,login.libproxy.berkeley.edu,Uncategorized,0
+2023-02-09T21:00:00,4,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-09T21:00:00,3,1,google.com,Search,1
+2023-02-09T21:00:00,3,1,RescueTime,Intelligence,2
+2023-02-09T22:00:00,2969,1,anki,General Reference & Learning,2
+2023-02-09T22:00:00,340,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-09T22:00:00,172,1,supersummary.com,General Reference & Learning,2
+2023-02-09T22:00:00,93,1,spotify,Music,-1
+2023-02-09T22:00:00,24,1,Firefox,Browsers,0
+2023-02-09T22:00:00,1,1,Blank Web Browser,Browsers,0
+2023-02-09T23:00:00,669,1,anki,General Reference & Learning,2
+2023-02-09T23:00:00,179,1,spotify,Music,-1
+2023-02-09T23:00:00,168,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-09T23:00:00,95,1,archive.nytimes.com,General News & Opinion,-2
+2023-02-09T23:00:00,61,1,complete-review.com,General Reference & Learning,2
+2023-02-09T23:00:00,35,1,wp.wwu.edu,General Reference & Learning,2
+2023-02-09T23:00:00,31,1,google.com,Search,1
+2023-02-09T23:00:00,19,1,Firefox,Browsers,0
+2023-02-09T23:00:00,13,1,about:newtab,Browsers,0
+2023-02-09T23:00:00,3,1,RescueTime,Intelligence,2
+2023-02-10T00:00:00,2881,1,anki,General Reference & Learning,2
+2023-02-10T00:00:00,567,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-10T00:00:00,100,1,qbreader.org,General Reference & Learning,2
+2023-02-10T00:00:00,43,1,spotify,Music,-1
+2023-02-10T00:00:00,1,1,login.libproxy.berkeley.edu,Uncategorized,0
+2023-02-10T00:00:00,1,1,archive.nytimes.com,General News & Opinion,-2
+2023-02-10T00:00:00,1,1,google.com,Search,1
+2023-02-10T01:00:00,2446,1,adobe photoshop 2023,Graphic Design,2
+2023-02-10T01:00:00,277,1,anki,General Reference & Learning,2
+2023-02-10T01:00:00,264,1,Finder,Computer,1
+2023-02-10T01:00:00,29,1,spotify,Music,-1
+2023-02-10T01:00:00,3,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-10T02:00:00,1021,1,adobe photoshop 2023,Graphic Design,2
+2023-02-10T02:00:00,37,1,Finder,Computer,1
+2023-02-10T17:00:00,813,1,anki,General Reference & Learning,2
+2023-02-10T17:00:00,157,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-10T17:00:00,12,1,Firefox,Browsers,0
+2023-02-10T17:00:00,6,1,RescueTime,Intelligence,2
+2023-02-10T17:00:00,6,1,Finder,Computer,1
+2023-02-11T00:00:00,1977,1,anki,General Reference & Learning,2
+2023-02-11T00:00:00,184,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-11T00:00:00,62,1,Firefox,Browsers,0
+2023-02-11T01:00:00,3536,1,anki,General Reference & Learning,2
+2023-02-11T01:00:00,38,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-11T01:00:00,14,1,google.com,Search,1
+2023-02-11T01:00:00,2,1,Finder,Computer,1
+2023-02-11T02:00:00,2870,1,anki,General Reference & Learning,2
+2023-02-11T02:00:00,691,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-11T02:00:00,31,1,Firefox,Browsers,0
+2023-02-11T02:00:00,1,1,docs.ankiweb.net,General Reference & Learning,2
+2023-02-11T03:00:00,853,1,anki,General Reference & Learning,2
+2023-02-11T03:00:00,183,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-11T03:00:00,42,1,Firefox,Browsers,0
+2023-02-11T17:00:00,3132,1,anki,General Reference & Learning,2
+2023-02-11T17:00:00,108,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-11T17:00:00,58,1,Firefox,Browsers,0
+2023-02-11T17:00:00,6,1,RescueTime,Intelligence,2
+2023-02-11T18:00:00,530,1,anki,General Reference & Learning,2
+2023-02-11T18:00:00,123,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-11T18:00:00,1,1,Blank Web Browser,Browsers,0
+2023-02-11T22:00:00,970,1,anki,General Reference & Learning,2
+2023-02-11T22:00:00,256,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-11T22:00:00,42,1,Firefox,Browsers,0
+2023-02-11T23:00:00,2485,1,anki,General Reference & Learning,2
+2023-02-11T23:00:00,536,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-11T23:00:00,184,1,Firefox,Browsers,0
+2023-02-11T23:00:00,30,1,discord,General Entertainment,-2
+2023-02-12T00:00:00,2985,1,anki,General Reference & Learning,2
+2023-02-12T00:00:00,422,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-12T00:00:00,106,1,sibelius.info,Uncategorized,0
+2023-02-12T00:00:00,75,1,discord,General Entertainment,-2
+2023-02-12T00:00:00,7,1,Firefox,Browsers,0
+2023-02-12T00:00:00,2,1,Blank Web Browser,Browsers,0
+2023-02-12T01:00:00,2498,1,anki,General Reference & Learning,2
+2023-02-12T01:00:00,837,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-12T01:00:00,255,1,en.wiktionary.org,Search,1
+2023-02-12T01:00:00,4,1,about:newtab,Browsers,0
+2023-02-12T01:00:00,1,1,docs.ankiweb.net,General Reference & Learning,2
+2023-02-12T02:00:00,812,1,anki,General Reference & Learning,2
+2023-02-12T02:00:00,128,1,en.wiktionary.org,Search,1
+2023-02-12T02:00:00,70,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-12T02:00:00,20,1,Blank Web Browser,Browsers,0
+2023-02-12T02:00:00,1,1,docs.ankiweb.net,General Reference & Learning,2
+2023-02-19T21:00:00,1279,1,discord,General Entertainment,-2
+2023-02-19T21:00:00,334,1,hsquizbowl.org,General Social Networking,-2
+2023-02-19T21:00:00,33,1,2022nasat.streamlit.app,General Entertainment,-2
+2023-02-19T21:00:00,26,1,drive.google.com,General Business,2
+2023-02-19T21:00:00,16,1,Firefox,Browsers,0
+2023-02-19T21:00:00,16,1,Finder,Computer,1
+2023-02-19T21:00:00,15,1,erich-friedman.github.io,General Software Development,2
+2023-02-19T21:00:00,13,1,calendar,Calendars,2
+2023-02-19T21:00:00,2,1,acf-quizbowl.com,General Reference & Learning,2
+2023-02-19T21:00:00,1,1,Blank Web Browser,Browsers,0
+2023-02-19T22:00:00,963,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-19T22:00:00,961,1,2022nasat.streamlit.app,General Entertainment,-2
+2023-02-19T22:00:00,731,1,discord,General Entertainment,-2
+2023-02-19T22:00:00,612,1,Firefox,Browsers,0
+2023-02-19T22:00:00,23,1,erich-friedman.github.io,General Software Development,2
+2023-02-19T22:00:00,4,1,Blank Web Browser,Browsers,0
+2023-02-19T23:00:00,877,1,2022nasat.streamlit.app,General Entertainment,-2
+2023-02-19T23:00:00,385,1,Firefox,Browsers,0
+2023-02-19T23:00:00,266,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-19T23:00:00,13,1,discord,General Entertainment,-2
+2023-02-20T12:00:00,411,1,hsquizbowl.org,General Social Networking,-2
+2023-02-20T12:00:00,81,1,Firefox,Browsers,0
+2023-02-20T12:00:00,17,1,Google Documents,Writing,2
+2023-02-20T12:00:00,5,1,Google Spreadsheets,General Business,2
+2023-02-20T12:00:00,2,1,Blank Web Browser,Browsers,0
+2023-02-20T23:00:00,1277,1,2022nasat.streamlit.app,General Entertainment,-2
+2023-02-20T23:00:00,1271,1,hsquizbowl.org,General Social Networking,-2
+2023-02-20T23:00:00,440,1,Firefox,Browsers,0
+2023-02-20T23:00:00,247,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-20T23:00:00,59,1,poemhunter.com,General Utilities,1
+2023-02-20T23:00:00,53,1,Google Documents,Writing,2
+2023-02-20T23:00:00,8,1,Google Spreadsheets,General Business,2
+2023-02-20T23:00:00,3,1,RescueTime,Intelligence,2
+2023-02-20T23:00:00,3,1,Blank Web Browser,Browsers,0
+2023-02-20T23:00:00,2,1,erich-friedman.github.io,General Software Development,2
+2023-02-20T23:00:00,2,1,imgur.com,Photos,-2
+2023-02-20T23:00:00,1,1,cdn.discordapp.com,Instant Message,0
+2023-02-26T22:00:00,524,1,youtube.com,Video,-2
+2023-02-26T22:00:00,208,1,discord,General Entertainment,-2
+2023-02-26T22:00:00,148,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-26T22:00:00,120,1,poemhunter.com,General Utilities,1
+2023-02-26T22:00:00,32,1,google.com,Search,1
+2023-02-26T22:00:00,11,1,pokemon.com,General Communication & Scheduling,2
+2023-02-26T22:00:00,10,1,Firefox,Browsers,0
+2023-02-26T22:00:00,7,1,about:newtab,Browsers,0
+2023-02-27T14:00:00,559,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-27T14:00:00,231,1,Firefox,Browsers,0
+2023-02-27T14:00:00,210,1,2022nasat.streamlit.app,General Entertainment,-2
+2023-02-27T14:00:00,20,1,poemhunter.com,General Utilities,1
+2023-02-27T14:00:00,6,1,google.com,Search,1
+2023-02-27T14:00:00,5,1,erich-friedman.github.io,General Software Development,2
+2023-02-27T14:00:00,5,1,about:newtab,Browsers,0
+2023-02-27T14:00:00,3,1,RescueTime,Intelligence,2
+2023-02-27T14:00:00,2,1,Blank Web Browser,Browsers,0
+2023-02-27T14:00:00,1,1,about:firefoxview,Uncategorized,0
+2023-02-27T15:00:00,162,1,about:newtab,Browsers,0
+2023-02-27T15:00:00,2,1,RescueTime,Intelligence,2
+2023-02-27T16:00:00,31,1,drive.google.com,General Business,2
+2023-02-27T16:00:00,25,1,2022nasat.streamlit.app,General Entertainment,-2
+2023-02-27T16:00:00,17,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-02-27T16:00:00,4,1,shib.berkeley.edu,General Reference & Learning,2
+2023-02-27T16:00:00,4,1,about:newtab,Browsers,0
+2023-02-27T16:00:00,2,1,auth.berkeley.edu,General Reference & Learning,2
+2023-02-27T16:00:00,2,1,RescueTime,Intelligence,2
+2023-02-27T16:00:00,2,1,erich-friedman.github.io,General Software Development,2
+2023-02-27T17:00:00,4,1,Firefox,Browsers,0
+2023-02-27T17:00:00,1,1,RescueTime,Intelligence,2
+2023-02-27T18:00:00,2116,1,Google Spreadsheets,General Business,2
+2023-02-27T18:00:00,1104,1,Google Documents,Writing,2
+2023-02-27T18:00:00,194,1,Firefox,Browsers,0
+2023-02-27T18:00:00,100,1,discord,General Entertainment,-2
+2023-02-27T18:00:00,60,1,drive.google.com,General Business,2
+2023-02-27T18:00:00,9,1,Blank Web Browser,Browsers,0
+2023-02-27T18:00:00,8,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-27T18:00:00,5,1,google.com,Search,1
+2023-02-27T18:00:00,3,1,about:newtab,Browsers,0
+2023-02-27T19:00:00,2075,1,Google Documents,Writing,2
+2023-02-27T19:00:00,832,1,Google Spreadsheets,General Business,2
+2023-02-27T19:00:00,617,1,discord,General Entertainment,-2
+2023-02-27T19:00:00,43,1,drive.google.com,General Business,2
+2023-02-27T19:00:00,14,1,Blank Web Browser,Browsers,0
+2023-02-27T19:00:00,13,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-27T20:00:00,788,1,discord,General Entertainment,-2
+2023-02-27T20:00:00,626,1,Google Documents,Writing,2
+2023-02-27T20:00:00,176,1,Google Spreadsheets,General Business,2
+2023-02-27T20:00:00,3,1,drive.google.com,General Business,2
+2023-02-27T20:00:00,1,1,Blank Web Browser,Browsers,0
+2023-02-28T13:00:00,1724,1,Google Documents,Writing,2
+2023-02-28T13:00:00,708,1,Google Spreadsheets,General Business,2
+2023-02-28T13:00:00,130,1,Firefox,Browsers,0
+2023-02-28T13:00:00,107,1,ccclib.bibliocommons.com,General Reference & Learning,2
+2023-02-28T13:00:00,39,1,ccclib.org,General Reference & Learning,2
+2023-02-28T13:00:00,36,1,drive.google.com,General Business,2
+2023-02-28T13:00:00,33,1,discord,General Entertainment,-2
+2023-02-28T13:00:00,15,1,Blank Web Browser,Browsers,0
+2023-02-28T13:00:00,15,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-28T13:00:00,15,1,a.ccclib.org,General Reference & Learning,2
+2023-02-28T13:00:00,4,1,help.bibliocommons.com,General Reference & Learning,2
+2023-02-28T21:00:00,154,1,Finder,Computer,1
+2023-02-28T21:00:00,44,1,Firefox,Browsers,0
+2023-02-28T21:00:00,18,1,en.wikipedia.org,General Reference & Learning,2
+2023-02-28T21:00:00,16,1,calendar,Calendars,2
+2023-02-28T21:00:00,13,1,Google Documents,Writing,2
+2023-02-28T21:00:00,4,1,2022nasat.streamlit.app,General Entertainment,-2
+2023-02-28T21:00:00,3,1,poemhunter.com,General Utilities,1
+2023-02-28T21:00:00,2,1,discord,General Entertainment,-2
+2023-02-28T21:00:00,2,1,drive.google.com,General Business,2
+2023-02-28T21:00:00,2,1,ccclib.org,General Reference & Learning,2
+2023-02-28T21:00:00,2,1,Google Spreadsheets,General Business,2
+2023-02-28T21:00:00,1,1,erich-friedman.github.io,General Software Development,2
+2023-02-28T22:00:00,1608,1,adobe photoshop 2023,Graphic Design,2
+2023-02-28T22:00:00,110,1,Finder,Computer,1
+2023-02-28T22:00:00,98,1,google.com,Search,1
+2023-02-28T22:00:00,32,1,dreamstime.com,Presentation,2
+2023-02-28T22:00:00,7,1,Blank Web Browser,Browsers,0
+2023-02-28T22:00:00,5,1,images.google.com,Search,1
+2023-02-28T23:00:00,1048,1,adobe photoshop 2023,Graphic Design,2
+2023-02-28T23:00:00,8,1,dreamstime.com,Presentation,2
+2023-02-28T23:00:00,4,1,RescueTime,Intelligence,2
+2023-02-28T23:00:00,1,1,Firefox,Browsers,0
+2023-03-01T23:00:00,62,1,Firefox,Browsers,0
+2023-03-02T00:00:00,882,1,adobe photoshop 2023,Graphic Design,2
+2023-03-02T00:00:00,816,1,Finder,Computer,1
+2023-03-02T00:00:00,520,1,universal control,Computer,1
+2023-03-02T00:00:00,132,1,system settings,Computer,1
+2023-03-02T00:00:00,1,1,Firefox,Browsers,0
+2023-03-02T01:00:00,881,1,adobe photoshop 2023,Graphic Design,2
+2023-03-02T01:00:00,3,1,RescueTime,Intelligence,2
+2023-03-02T02:00:00,3190,1,adobe photoshop 2023,Graphic Design,2
+2023-03-02T03:00:00,1418,1,adobe photoshop 2023,Graphic Design,2
+2023-03-02T03:00:00,531,1,google.com,Search,1
+2023-03-02T03:00:00,85,1,Finder,Computer,1
+2023-03-02T03:00:00,22,1,memory diag,General Utilities,1
+2023-03-02T03:00:00,15,1,wildutah.us,Uncategorized,0
+2023-03-02T03:00:00,11,1,images.google.com,Search,1
+2023-03-02T03:00:00,10,1,live.staticflickr.com,Uncategorized,0
+2023-03-02T03:00:00,9,1,Blank Web Browser,Browsers,0
+2023-03-02T03:00:00,7,1,roadsendnaturalist.files.wordpress.com,Uncategorized,0
+2023-03-02T03:00:00,6,1,Activity Monitor,General Utilities,1
+2023-03-02T03:00:00,3,1,i.guim.co.uk,Uncategorized,0
+2023-03-02T04:00:00,1138,1,adobe photoshop 2023,Graphic Design,2
+2023-03-02T04:00:00,14,1,Finder,Computer,1
+2023-03-02T05:00:00,275,1,adobe photoshop 2023,Graphic Design,2
+2023-03-02T05:00:00,37,1,Finder,Computer,1
+2023-03-02T05:00:00,2,1,RescueTime,Intelligence,2
+2023-03-02T21:00:00,403,1,Finder,Computer,1
+2023-03-02T21:00:00,87,1,Activity Monitor,General Utilities,1
+2023-03-02T21:00:00,11,1,RescueTime,Intelligence,2
+2023-03-02T22:00:00,1637,1,adobe photoshop 2023,Graphic Design,2
+2023-03-02T22:00:00,1581,1,Finder,Computer,1
+2023-03-02T22:00:00,103,1,universal control,Computer,1
+2023-03-02T22:00:00,11,1,gimp,Presentation,0
+2023-03-02T22:00:00,2,1,usernotificationcenter,General Utilities,1
+2023-03-02T23:00:00,2157,1,adobe photoshop 2023,Graphic Design,2
+2023-03-02T23:00:00,95,1,Finder,Computer,1
+2023-03-02T23:00:00,2,1,universal control,Computer,1
+2023-03-03T00:00:00,2558,1,adobe photoshop 2023,Graphic Design,2
+2023-03-03T00:00:00,59,1,Finder,Computer,1
+2023-03-03T01:00:00,3126,1,adobe photoshop 2023,Graphic Design,2
+2023-03-03T01:00:00,123,1,Finder,Computer,1
+2023-03-03T02:00:00,2456,1,adobe photoshop 2023,Graphic Design,2
+2023-03-03T02:00:00,37,1,Finder,Computer,1
+2023-03-03T02:00:00,22,1,google.com,Search,1
+2023-03-03T02:00:00,20,1,shutterstock.com,Presentation,2
+2023-03-03T02:00:00,13,1,Firefox,Browsers,0
+2023-03-03T02:00:00,6,1,images.google.com,Search,1
+2023-03-03T03:00:00,1990,1,adobe photoshop 2023,Graphic Design,2
+2023-03-03T03:00:00,117,1,Finder,Computer,1
+2023-03-03T03:00:00,4,1,shutterstock.com,Presentation,2
+2023-03-03T04:00:00,1113,1,adobe photoshop 2023,Graphic Design,2
+2023-03-03T04:00:00,65,1,Finder,Computer,1
+2023-03-03T04:00:00,1,1,shutterstock.com,Presentation,2
+2023-03-03T16:00:00,181,1,adobe photoshop 2023,Graphic Design,2
+2023-03-03T16:00:00,18,1,RescueTime,Intelligence,2
+2023-03-03T16:00:00,6,1,memory diag,General Utilities,1
+2023-03-03T18:00:00,852,1,adobe photoshop 2023,Graphic Design,2
+2023-03-03T18:00:00,34,1,Finder,Computer,1
+2023-03-03T18:00:00,12,1,RescueTime,Intelligence,2
+2023-03-03T19:00:00,1108,1,adobe photoshop 2023,Graphic Design,2
+2023-03-03T19:00:00,21,1,Finder,Computer,1
+2023-03-04T08:00:00,219,1,Finder,Computer,1
+2023-03-04T08:00:00,85,1,b7c42ad5-d43f-cc47-b6fc-a1bc1aa42ad3,Uncategorized,0
+2023-03-04T08:00:00,76,1,about:home,Search,1
+2023-03-04T08:00:00,53,1,Firefox,Browsers,0
+2023-03-04T08:00:00,6,1,Mail,Email,1
+2023-03-04T09:00:00,2775,1,Adobe Acrobat,General Reference & Learning,2
+2023-03-04T09:00:00,151,1,Mail,Email,1
+2023-03-04T09:00:00,4,1,google.com,Search,1
+2023-03-04T10:00:00,3399,1,Adobe Acrobat,General Reference & Learning,2
+2023-03-04T10:00:00,45,1,google.com,Search,1
+2023-03-04T10:00:00,10,1,Firefox,Browsers,0
+2023-03-04T10:00:00,4,1,Mail,Email,1
+2023-03-04T11:00:00,3125,1,Adobe Acrobat,General Reference & Learning,2
+2023-03-04T11:00:00,116,1,Mail,Email,1
+2023-03-04T12:00:00,2596,1,Adobe Acrobat,General Reference & Learning,2
+2023-03-04T12:00:00,4,1,Mail,Email,1
+2023-03-04T13:00:00,502,1,Adobe Acrobat,General Reference & Learning,2
+2023-03-04T13:00:00,217,1,Firefox,Browsers,0
+2023-03-04T13:00:00,127,1,Mail,Email,1
+2023-03-04T13:00:00,109,1,Google Spreadsheets,General Business,2
+2023-03-04T13:00:00,7,1,Finder,Computer,1
+2023-03-04T14:00:00,2604,1,Adobe Acrobat,General Reference & Learning,2
+2023-03-04T14:00:00,886,1,Google Spreadsheets,General Business,2
+2023-03-04T14:00:00,98,1,Mail,Email,1
+2023-03-04T15:00:00,2507,1,Adobe Acrobat,General Reference & Learning,2
+2023-03-04T15:00:00,934,1,Google Spreadsheets,General Business,2
+2023-03-04T15:00:00,49,1,Mail,Email,1
+2023-03-04T16:00:00,2390,1,Adobe Acrobat,General Reference & Learning,2
+2023-03-04T16:00:00,1020,1,Google Spreadsheets,General Business,2
+2023-03-04T16:00:00,31,1,Mail,Email,1
+2023-03-04T16:00:00,22,1,Firefox,Browsers,0
+2023-03-04T16:00:00,3,1,Terminal,Systems Operations,2
+2023-03-04T17:00:00,181,1,Adobe Acrobat,General Reference & Learning,2
+2023-03-04T17:00:00,72,1,Google Spreadsheets,General Business,2
+2023-03-04T17:00:00,5,1,Finder,Computer,1
+2023-03-04T17:00:00,3,1,Firefox,Browsers,0
+2023-03-05T11:00:00,2607,1,goodnotes,General Design & Composition,2
+2023-03-05T11:00:00,215,1,Firefox,Browsers,0
+2023-03-05T11:00:00,107,1,pokemoncenter.com,General Shopping,-2
+2023-03-05T11:00:00,78,1,google.com,Search,1
+2023-03-05T11:00:00,40,1,galactictoys.com,Uncategorized,0
+2023-03-05T11:00:00,29,1,Mail,Email,1
+2023-03-05T11:00:00,25,1,about:home,Search,1
+2023-03-05T11:00:00,23,1,amazon.com,General Shopping,-2
+2023-03-05T11:00:00,22,1,Finder,Computer,1
+2023-03-05T11:00:00,3,1,storeuid,General Utilities,1
+2023-03-05T12:00:00,2322,1,goodnotes,General Design & Composition,2
+2023-03-05T12:00:00,478,1,pokemoncenter.com,General Shopping,-2
+2023-03-05T12:00:00,207,1,pokevault.com,General Shopping,-2
+2023-03-05T12:00:00,86,1,leagueoflegends.com,Games,-2
+2023-03-05T12:00:00,53,1,google.com,Search,1
+2023-03-05T12:00:00,49,1,amazon.com,General Shopping,-2
+2023-03-05T12:00:00,31,1,about:newtab,Browsers,0
+2023-03-05T12:00:00,28,1,galactictoys.com,Uncategorized,0
+2023-03-05T12:00:00,25,1,yeggi.com,General Design & Composition,2
+2023-03-05T12:00:00,11,1,sketchfab.com,3D Graphic Design,2
+2023-03-05T12:00:00,6,1,Mail,Email,1
+2023-03-05T12:00:00,5,1,Firefox,Browsers,0
+2023-03-05T13:00:00,2156,1,goodnotes,General Design & Composition,2
+2023-03-05T13:00:00,357,1,pokemoncenter.com,General Shopping,-2
+2023-03-05T13:00:00,109,1,leagueoflegends.com,Games,-2
+2023-03-05T13:00:00,72,1,Firefox,Browsers,0
+2023-03-05T13:00:00,29,1,dnd5e.wikidot.com,General News & Opinion,-2
+2023-03-05T13:00:00,1,1,google.com,Search,1
+2023-03-05T14:00:00,2610,1,goodnotes,General Design & Composition,2
+2023-03-05T14:00:00,507,1,dnd5e.wikidot.com,General News & Opinion,-2
+2023-03-05T14:00:00,266,1,pokemoncenter.com,General Shopping,-2
+2023-03-05T14:00:00,53,1,roll20.net,Games,-2
+2023-03-05T14:00:00,19,1,pokevault.com,General Shopping,-2
+2023-03-05T14:00:00,3,1,google.com,Search,1
+2023-03-05T14:00:00,1,1,galactictoys.com,Uncategorized,0
+2023-03-05T14:00:00,1,1,Mail,Email,1
+2023-03-05T15:00:00,2562,1,goodnotes,General Design & Composition,2
+2023-03-05T15:00:00,692,1,dnd5e.wikidot.com,General News & Opinion,-2
+2023-03-05T15:00:00,45,1,dndbeyond.com,Games,-2
+2023-03-05T15:00:00,13,1,about:newtab,Browsers,0
+2023-03-05T15:00:00,3,1,google.com,Search,1
+2023-03-05T15:00:00,2,1,roll20.net,Games,-2
+2023-03-05T15:00:00,2,1,Mail,Email,1
+2023-03-06T00:00:00,128,1,google.com,Search,1
+2023-03-06T00:00:00,76,1,Firefox,Browsers,0
+2023-03-06T00:00:00,41,1,adobe photoshop 2023,Graphic Design,2
+2023-03-06T00:00:00,34,1,Finder,Computer,1
+2023-03-06T00:00:00,25,1,thumbs.dreamstime.com,General News & Opinion,-2
+2023-03-06T00:00:00,13,1,shutterstock.com,Presentation,2
+2023-03-06T00:00:00,8,1,Blank Web Browser,Browsers,0
+2023-03-06T00:00:00,8,1,images.google.com,Search,1
+2023-03-06T00:00:00,2,1,goodnotes,General Design & Composition,2
+2023-03-06T01:00:00,1649,1,adobe photoshop 2023,Graphic Design,2
+2023-03-06T01:00:00,254,1,Finder,Computer,1
+2023-03-06T02:00:00,1360,1,adobe photoshop 2023,Graphic Design,2
+2023-03-06T02:00:00,11,1,Finder,Computer,1
+2023-03-06T03:00:00,2413,1,adobe photoshop 2023,Graphic Design,2
+2023-03-06T03:00:00,43,1,Firefox,Browsers,0
+2023-03-06T03:00:00,22,1,google.com,Search,1
+2023-03-06T04:00:00,577,1,adobe photoshop 2023,Graphic Design,2
+2023-03-06T04:00:00,46,1,google.com,Search,1
+2023-03-06T04:00:00,33,1,Firefox,Browsers,0
+2023-03-06T04:00:00,15,1,Finder,Computer,1
+2023-03-06T20:00:00,1123,1,adobe photoshop 2023,Graphic Design,2
+2023-03-06T20:00:00,434,1,universal control,Computer,1
+2023-03-06T20:00:00,223,1,Finder,Computer,1
+2023-03-06T20:00:00,38,1,google.com,Search,1
+2023-03-06T20:00:00,24,1,RescueTime,Intelligence,2
+2023-03-06T20:00:00,8,1,Firefox,Browsers,0
+2023-03-06T20:00:00,5,1,previews.123rf.com,Presentation,2
+2023-03-06T20:00:00,5,1,images.google.com,Search,1
+2023-03-06T20:00:00,1,1,about:home,Search,1
+2023-03-06T21:00:00,3573,1,adobe photoshop 2023,Graphic Design,2
+2023-03-06T22:00:00,268,1,adobe photoshop 2023,Graphic Design,2
+2023-03-06T22:00:00,1,1,RescueTime,Intelligence,2
+2023-03-06T23:00:00,66,1,adobe photoshop 2023,Graphic Design,2
+2023-03-06T23:00:00,38,1,Finder,Computer,1
+2023-03-06T23:00:00,17,1,unmountassistantagent,General Utilities,1
+2023-03-06T23:00:00,16,1,previews.123rf.com,Presentation,2
+2023-03-06T23:00:00,4,1,universal control,Computer,1
+2023-03-06T23:00:00,3,1,RescueTime,Intelligence,2
+2023-03-07T21:00:00,169,1,pokemoncenter.com,General Shopping,-2
+2023-03-07T21:00:00,131,1,Firefox,Browsers,0
+2023-03-07T21:00:00,10,1,RescueTime,Intelligence,2
+2023-03-07T21:00:00,1,1,Finder,Computer,1
+2023-03-07T22:00:00,109,1,Firefox,Browsers,0
+2023-03-07T22:00:00,22,1,rescuetime.com,Computer,1
+2023-03-07T22:00:00,4,1,about:newtab,Browsers,0
+2023-03-07T22:00:00,3,1,pokemoncenter.com,General Shopping,-2
+2023-03-08T18:00:00,26,1,login.xfinity.com,Video,-2
+2023-03-08T18:00:00,23,1,Firefox,Browsers,0
+2023-03-08T18:00:00,3,1,xfinity.com,General Entertainment,-2
+2023-03-08T20:00:00,744,1,hsquizbowl.org,General Social Networking,-2
+2023-03-08T20:00:00,494,1,Google Forms,General Business,2
+2023-03-08T20:00:00,143,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-08T20:00:00,64,1,qbreader.org,General Reference & Learning,2
+2023-03-08T20:00:00,61,1,about:newtab,Browsers,0
+2023-03-08T20:00:00,54,1,google.com,Search,1
+2023-03-08T20:00:00,38,1,poets.org,Writing,2
+2023-03-08T20:00:00,28,1,freedom.to,Internet Utilities,1
+2023-03-08T20:00:00,8,1,RescueTime,Intelligence,2
+2023-03-08T20:00:00,8,1,freedomplatform,Computer,1
+2023-03-08T20:00:00,4,1,autoupdate,General Utilities,1
+2023-03-08T20:00:00,4,1,forms.gle,Internet Utilities,1
+2023-03-08T20:00:00,3,1,rescuetime.com,Computer,1
+2023-03-10T15:00:00,1511,1,discord,General Entertainment,-2
+2023-03-10T15:00:00,1061,1,buzzin.live,Uncategorized,0
+2023-03-10T15:00:00,623,1,thorsen.pm,Uncategorized,0
+2023-03-10T15:00:00,174,1,Google Spreadsheets,General Business,2
+2023-03-10T15:00:00,38,1,users,General Software Development,2
+2023-03-10T15:00:00,27,1,Blank Web Browser,Browsers,0
+2023-03-10T15:00:00,26,1,hsquizbowl.org,General Social Networking,-2
+2023-03-10T15:00:00,25,1,drive.google.com,General Business,2
+2023-03-10T15:00:00,17,1,Firefox,Browsers,0
+2023-03-10T15:00:00,8,1,qbreader.org,General Reference & Learning,2
+2023-03-10T15:00:00,4,1,about:newtab,Browsers,0
+2023-03-10T15:00:00,2,1,poets.org,Writing,2
+2023-03-10T15:00:00,2,1,RescueTime,Intelligence,2
+2023-03-10T16:00:00,1436,1,buzzin.live,Uncategorized,0
+2023-03-10T16:00:00,1363,1,discord,General Entertainment,-2
+2023-03-10T16:00:00,503,1,thorsen.pm,Uncategorized,0
+2023-03-10T16:00:00,205,1,users,General Software Development,2
+2023-03-10T16:00:00,37,1,Google Spreadsheets,General Business,2
+2023-03-10T16:00:00,31,1,hsquizbowl.org,General Social Networking,-2
+2023-03-10T16:00:00,18,1,Blank Web Browser,Browsers,0
+2023-03-10T16:00:00,1,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-10T17:00:00,1506,1,discord,General Entertainment,-2
+2023-03-10T17:00:00,727,1,users,General Software Development,2
+2023-03-10T17:00:00,623,1,buzzin.live,Uncategorized,0
+2023-03-10T17:00:00,429,1,Google Spreadsheets,General Business,2
+2023-03-10T17:00:00,219,1,hsquizbowl.org,General Social Networking,-2
+2023-03-10T17:00:00,78,1,thorsen.pm,Uncategorized,0
+2023-03-10T17:00:00,11,1,Blank Web Browser,Browsers,0
+2023-03-10T17:00:00,3,1,Firefox,Browsers,0
+2023-03-10T17:00:00,2,1,qbreader.org,General Reference & Learning,2
+2023-03-10T18:00:00,1927,1,discord,General Entertainment,-2
+2023-03-10T18:00:00,788,1,users,General Software Development,2
+2023-03-10T18:00:00,418,1,hsquizbowl.org,General Social Networking,-2
+2023-03-10T18:00:00,252,1,buzzin.live,Uncategorized,0
+2023-03-10T18:00:00,154,1,thorsen.pm,Uncategorized,0
+2023-03-10T18:00:00,42,1,Google Spreadsheets,General Business,2
+2023-03-10T18:00:00,15,1,Blank Web Browser,Browsers,0
+2023-03-10T18:00:00,2,1,poets.org,Writing,2
+2023-03-10T19:00:00,656,1,buzzin.live,Uncategorized,0
+2023-03-10T19:00:00,272,1,discord,General Entertainment,-2
+2023-03-10T19:00:00,108,1,hsquizbowl.org,General Social Networking,-2
+2023-03-10T19:00:00,104,1,thorsen.pm,Uncategorized,0
+2023-03-10T19:00:00,1,1,users,General Software Development,2
+2023-03-10T19:00:00,1,1,Firefox,Browsers,0
+2023-03-10T23:00:00,160,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-10T23:00:00,128,1,rescuetime.com,Computer,1
+2023-03-10T23:00:00,44,1,poets.org,Writing,2
+2023-03-10T23:00:00,12,1,qbreader.org,General Reference & Learning,2
+2023-03-10T23:00:00,4,1,hsquizbowl.org,General Social Networking,-2
+2023-03-10T23:00:00,3,1,thorsen.pm,Uncategorized,0
+2023-03-10T23:00:00,3,1,freedom.to,Internet Utilities,1
+2023-03-10T23:00:00,2,1,RescueTime,Intelligence,2
+2023-03-10T23:00:00,1,1,Google Spreadsheets,General Business,2
+2023-03-10T23:00:00,1,1,about:newtab,Browsers,0
+2023-03-11T23:00:00,828,1,obs studio,Uncategorized,0
+2023-03-11T23:00:00,330,1,system settings,Computer,1
+2023-03-11T23:00:00,214,1,Finder,Computer,1
+2023-03-11T23:00:00,109,1,spotify,Music,-1
+2023-03-11T23:00:00,6,1,quicktime player,General Entertainment,-2
+2023-03-11T23:00:00,4,1,SecurityAgent,Systems Operations,2
+2023-03-11T23:00:00,4,1,Firefox,Browsers,0
+2023-03-11T23:00:00,4,1,problem reporter,General News & Opinion,-2
+2023-03-11T23:00:00,3,1,coreservicesuiagent,General Utilities,1
+2023-03-11T23:00:00,2,1,RescueTime,Intelligence,2
+2023-03-11T23:00:00,1,1,autoupdate,General Utilities,1
+2023-03-12T00:00:00,565,1,obs studio,Uncategorized,0
+2023-03-12T00:00:00,137,1,system settings,Computer,1
+2023-03-12T00:00:00,26,1,quicktime player,General Entertainment,-2
+2023-03-12T00:00:00,13,1,Finder,Computer,1
+2023-03-12T00:00:00,3,1,problem reporter,General News & Opinion,-2
+2023-03-12T01:00:00,251,1,obs studio,Uncategorized,0
+2023-03-12T01:00:00,3,1,RescueTime,Intelligence,2
+2023-03-12T11:00:00,931,1,goodnotes,General Design & Composition,2
+2023-03-12T11:00:00,28,1,Finder,Computer,1
+2023-03-12T11:00:00,2,1,RescueTime,Intelligence,2
+2023-03-12T11:00:00,1,1,obs studio,Uncategorized,0
+2023-03-12T12:00:00,2111,1,goodnotes,General Design & Composition,2
+2023-03-12T12:00:00,72,1,discord,General Entertainment,-2
+2023-03-12T12:00:00,50,1,dnd5e.wikidot.com,General News & Opinion,-2
+2023-03-12T12:00:00,44,1,Firefox,Browsers,0
+2023-03-12T12:00:00,41,1,Finder,Computer,1
+2023-03-12T12:00:00,25,1,about:newtab,Browsers,0
+2023-03-12T12:00:00,19,1,google.com,Search,1
+2023-03-12T12:00:00,12,1,darkreader.org,Uncategorized,0
+2023-03-12T12:00:00,5,1,upload.wikimedia.org,Search,1
+2023-03-12T12:00:00,1,1,dndbeyond.com,Games,-2
+2023-03-12T12:00:00,1,1,Blank Web Browser,Browsers,0
+2023-03-12T13:00:00,243,1,RescueTime,Intelligence,2
+2023-03-12T13:00:00,46,1,discord,General Entertainment,-2
+2023-03-12T13:00:00,1,1,goodnotes,General Design & Composition,2
+2023-03-12T14:00:00,765,1,goodnotes,General Design & Composition,2
+2023-03-12T14:00:00,234,1,dnd5e.wikidot.com,General News & Opinion,-2
+2023-03-12T14:00:00,69,1,geeksforgeeks.org,Operations,2
+2023-03-12T14:00:00,68,1,discord,General Entertainment,-2
+2023-03-12T14:00:00,30,1,bakervilar.com,Uncategorized,0
+2023-03-12T14:00:00,28,1,Firefox,Browsers,0
+2023-03-12T14:00:00,26,1,google.com,Search,1
+2023-03-12T14:00:00,19,1,about:newtab,Browsers,0
+2023-03-12T14:00:00,4,1,storeuiservice,Uncategorized,0
+2023-03-12T14:00:00,1,1,Blank Web Browser,Browsers,0
+2023-03-12T14:00:00,1,1,RescueTime,Intelligence,2
+2023-03-12T15:00:00,2158,1,goodnotes,General Design & Composition,2
+2023-03-12T15:00:00,524,1,dnd5e.wikidot.com,General News & Opinion,-2
+2023-03-12T15:00:00,79,1,discord,General Entertainment,-2
+2023-03-12T16:00:00,713,1,goodnotes,General Design & Composition,2
+2023-03-12T16:00:00,192,1,dnd5e.wikidot.com,General News & Opinion,-2
+2023-03-12T16:00:00,161,1,Firefox,Browsers,0
+2023-03-12T16:00:00,3,1,discord,General Entertainment,-2
+2023-03-14T18:00:00,268,1,rescuetime.com,Computer,1
+2023-03-14T18:00:00,146,1,expressvpn,Internet Utilities,1
+2023-03-14T18:00:00,26,1,creative cloud,General Design & Composition,2
+2023-03-14T18:00:00,8,1,expressvpn.com,General Utilities,1
+2023-03-14T18:00:00,8,1,Firefox,Browsers,0
+2023-03-14T18:00:00,2,1,freedom.to,Internet Utilities,1
+2023-03-14T18:00:00,1,1,about:home,Search,1
+2023-03-14T19:00:00,197,1,creative cloud,General Design & Composition,2
+2023-03-14T19:00:00,9,1,todoist,Project Management,2
+2023-03-14T19:00:00,5,1,rescuetime.com,Computer,1
+2023-03-14T19:00:00,4,1,about:home,Search,1
+2023-03-14T19:00:00,3,1,freedom.to,Internet Utilities,1
+2023-03-15T08:00:00,2019,1,hsquizbowl.org,General Social Networking,-2
+2023-03-15T08:00:00,44,1,Firefox,Browsers,0
+2023-03-15T08:00:00,29,1,Google Spreadsheets,General Business,2
+2023-03-15T08:00:00,19,1,collegequizbowlcalendar.com,Uncategorized,0
+2023-03-15T08:00:00,7,1,creative cloud,General Design & Composition,2
+2023-03-15T08:00:00,5,1,RescueTime,Intelligence,2
+2023-03-15T08:00:00,3,1,todoist,Project Management,2
+2023-03-15T08:00:00,3,1,Google Forms,General Business,2
+2023-03-15T08:00:00,3,1,expressvpn.com,General Utilities,1
+2023-03-15T08:00:00,2,1,Blank Web Browser,Browsers,0
+2023-03-15T08:00:00,2,1,forms.gle,Internet Utilities,1
+2023-03-15T08:00:00,1,1,about:home,Search,1
+2023-03-15T09:00:00,789,1,hsquizbowl.org,General Social Networking,-2
+2023-03-15T09:00:00,181,1,Firefox,Browsers,0
+2023-03-15T09:00:00,2,1,rescuetime.com,Computer,1
+2023-03-16T14:00:00,424,1,hsquizbowl.org,General Social Networking,-2
+2023-03-16T14:00:00,11,1,Firefox,Browsers,0
+2023-03-16T14:00:00,2,1,RescueTime,Intelligence,2
+2023-03-16T14:00:00,1,1,expressvpn.com,General Utilities,1
+2023-03-16T14:00:00,1,1,about:home,Search,1
+2023-03-16T23:00:00,424,1,qbhub.io,Uncategorized,0
+2023-03-16T23:00:00,256,1,creative cloud,General Design & Composition,2
+2023-03-16T23:00:00,230,1,pace-nsc.org,Uncategorized,0
+2023-03-16T23:00:00,168,1,about:newtab,Browsers,0
+2023-03-16T23:00:00,164,1,fubargames.se,Uncategorized,0
+2023-03-16T23:00:00,96,1,johnmuirhealth.com,Uncategorized,0
+2023-03-16T23:00:00,90,1,moma.org,General Entertainment,-2
+2023-03-16T23:00:00,85,1,freedom.to,Internet Utilities,1
+2023-03-16T23:00:00,81,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-16T23:00:00,66,1,Blank Web Browser,Browsers,0
+2023-03-16T23:00:00,66,1,authenticator.pingone.com,Uncategorized,0
+2023-03-16T23:00:00,56,1,expressvpn.com,General Utilities,1
+2023-03-16T23:00:00,53,1,poeltl.dunk.town,Uncategorized,0
+2023-03-16T23:00:00,44,1,Firefox,Browsers,0
+2023-03-16T23:00:00,32,1,system settings,Computer,1
+2023-03-16T23:00:00,28,1,qbreader.org,General Reference & Learning,2
+2023-03-16T23:00:00,24,1,hellowordl.net,Uncategorized,0
+2023-03-16T23:00:00,24,1,installer,General Utilities,1
+2023-03-16T23:00:00,17,1,rescuetime.com,Computer,1
+2023-03-16T23:00:00,10,1,stock.adobe.com,General Design & Composition,2
+2023-03-16T23:00:00,9,1,google.com,Search,1
+2023-03-16T23:00:00,7,1,Github,General Software Development,2
+2023-03-16T23:00:00,7,1,idp.johnmuirhealth.com,Uncategorized,0
+2023-03-16T23:00:00,5,1,expressvpn,Internet Utilities,1
+2023-03-16T23:00:00,4,1,hsquizbowl.org,General Social Networking,-2
+2023-03-16T23:00:00,4,1,about:addons,Browsers,0
+2023-03-16T23:00:00,3,1,Safari,Browsers,0
+2023-03-16T23:00:00,2,1,SecurityAgent,Systems Operations,2
+2023-03-16T23:00:00,1,1,adobeid-na1.services.adobe.com,General Design & Composition,2
+2023-03-17T00:00:00,178,1,Github,General Software Development,2
+2023-03-17T00:00:00,47,1,qbhub.io,Uncategorized,0
+2023-03-17T00:00:00,23,1,qbreader.org,General Reference & Learning,2
+2023-03-19T11:00:00,1602,1,goodnotes,General Design & Composition,2
+2023-03-19T11:00:00,428,1,dnd5e.wikidot.com,General News & Opinion,-2
+2023-03-19T11:00:00,298,1,discord,General Entertainment,-2
+2023-03-19T11:00:00,46,1,Blank Web Browser,Browsers,0
+2023-03-19T11:00:00,30,1,google.com,Search,1
+2023-03-19T11:00:00,28,1,about:newtab,Browsers,0
+2023-03-19T11:00:00,23,1,Firefox,Browsers,0
+2023-03-19T11:00:00,22,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-03-19T11:00:00,5,1,todoist,Project Management,2
+2023-03-19T11:00:00,3,1,Finder,Computer,1
+2023-03-19T12:00:00,3425,1,goodnotes,General Design & Composition,2
+2023-03-19T12:00:00,48,1,discord,General Entertainment,-2
+2023-03-19T12:00:00,39,1,map.leagueoflegends.com,Games,-2
+2023-03-19T12:00:00,28,1,mainstream404.files.wordpress.com,Uncategorized,0
+2023-03-19T12:00:00,21,1,freedom.to,Internet Utilities,1
+2023-03-19T12:00:00,16,1,google.com,Search,1
+2023-03-19T12:00:00,11,1,about:newtab,Browsers,0
+2023-03-19T12:00:00,4,1,5thsrd.org,Games,-2
+2023-03-19T12:00:00,4,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-03-19T12:00:00,1,1,Blank Web Browser,Browsers,0
+2023-03-19T12:00:00,1,1,mainstream404.wordpress.com,General News & Opinion,-2
+2023-03-19T12:00:00,1,1,dnd5e.wikidot.com,General News & Opinion,-2
+2023-03-19T13:00:00,3125,1,goodnotes,General Design & Composition,2
+2023-03-19T13:00:00,309,1,discord,General Entertainment,-2
+2023-03-19T13:00:00,39,1,dnd5e.wikidot.com,General News & Opinion,-2
+2023-03-19T13:00:00,36,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-03-19T13:00:00,28,1,google.com,Search,1
+2023-03-19T13:00:00,24,1,ddragon.leagueoflegends.com,Games,-2
+2023-03-19T13:00:00,13,1,Firefox,Browsers,0
+2023-03-19T13:00:00,11,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-19T13:00:00,6,1,about:newtab,Browsers,0
+2023-03-19T13:00:00,3,1,Activity Monitor,General Utilities,1
+2023-03-19T13:00:00,1,1,Blank Web Browser,Browsers,0
+2023-03-19T14:00:00,2235,1,goodnotes,General Design & Composition,2
+2023-03-19T14:00:00,340,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-03-19T14:00:00,280,1,dnd5e.wikidot.com,General News & Opinion,-2
+2023-03-19T14:00:00,234,1,discord,General Entertainment,-2
+2023-03-19T14:00:00,48,1,pokemoncenter.com,General Shopping,-2
+2023-03-19T14:00:00,27,1,Firefox,Browsers,0
+2023-03-19T14:00:00,20,1,map.leagueoflegends.com,Games,-2
+2023-03-19T14:00:00,6,1,about:newtab,Browsers,0
+2023-03-19T14:00:00,5,1,5thsrd.org,Games,-2
+2023-03-19T14:00:00,2,1,google.com,Search,1
+2023-03-19T15:00:00,2570,1,goodnotes,General Design & Composition,2
+2023-03-19T15:00:00,482,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-03-19T15:00:00,281,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-19T15:00:00,236,1,discord,General Entertainment,-2
+2023-03-19T15:00:00,29,1,pokemoncenter.com,General Shopping,-2
+2023-03-19T16:00:00,910,1,goodnotes,General Design & Composition,2
+2023-03-19T16:00:00,286,1,discord,General Entertainment,-2
+2023-03-19T16:00:00,84,1,messages,Instant Message,-1
+2023-03-19T16:00:00,5,1,about:newtab,Browsers,0
+2023-03-19T16:00:00,3,1,Firefox,Browsers,0
+2023-03-19T23:00:00,594,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-03-19T23:00:00,448,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-19T23:00:00,270,1,qbreader.org,General Reference & Learning,2
+2023-03-19T23:00:00,175,1,Google Documents,Writing,2
+2023-03-19T23:00:00,137,1,Firefox,Browsers,0
+2023-03-19T23:00:00,115,1,google.com,Search,1
+2023-03-19T23:00:00,110,1,forbes.com,General News & Opinion,-2
+2023-03-19T23:00:00,87,1,Google Spreadsheets,General Business,2
+2023-03-19T23:00:00,86,1,mckinsey.com,General Business,2
+2023-03-19T23:00:00,76,1,brookings.edu,Legal & Gov't,2
+2023-03-19T23:00:00,66,1,discord,General Entertainment,-2
+2023-03-19T23:00:00,45,1,cnbc.com,Business,-2
+2023-03-19T23:00:00,32,1,drive.google.com,General Business,2
+2023-03-19T23:00:00,31,1,New York Times,General News & Opinion,-2
+2023-03-19T23:00:00,28,1,whitehouse.gov,Search,1
+2023-03-19T23:00:00,26,1,about:newtab,Browsers,0
+2023-03-19T23:00:00,12,1,oese.ed.gov,Search,1
+2023-03-19T23:00:00,11,1,pokemoncenter.com,General Shopping,-2
+2023-03-19T23:00:00,6,1,RescueTime,Intelligence,2
+2023-03-19T23:00:00,6,1,Blank Web Browser,Browsers,0
+2023-03-19T23:00:00,4,1,dnd5e.wikidot.com,General News & Opinion,-2
+2023-03-19T23:00:00,3,1,accounts.youtube.com,Video,-2
+2023-03-19T23:00:00,3,1,shib.berkeley.edu,General Reference & Learning,2
+2023-03-19T23:00:00,2,1,ddragon.leagueoflegends.com,Games,-2
+2023-03-19T23:00:00,2,1,auth.berkeley.edu,General Reference & Learning,2
+2023-03-19T23:00:00,1,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-03-19T23:00:00,1,1,5thsrd.org,Games,-2
+2023-03-19T23:00:00,1,1,goodnotes,General Design & Composition,2
+2023-03-20T14:00:00,937,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-03-20T14:00:00,161,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-20T14:00:00,68,1,Firefox,Browsers,0
+2023-03-20T14:00:00,30,1,careers.hpe.com,Uncategorized,0
+2023-03-20T14:00:00,29,1,qbreader.org,General Reference & Learning,2
+2023-03-20T14:00:00,17,1,boards.greenhouse.io,Administration,2
+2023-03-20T14:00:00,14,1,about:newtab,Browsers,0
+2023-03-20T14:00:00,5,1,RescueTime,Intelligence,2
+2023-03-20T14:00:00,3,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-03-20T14:00:00,2,1,auth.berkeley.edu,General Reference & Learning,2
+2023-03-20T15:00:00,533,1,qbreader.org,General Reference & Learning,2
+2023-03-20T15:00:00,515,1,discord,General Entertainment,-2
+2023-03-20T15:00:00,286,1,Google Documents,Writing,2
+2023-03-20T15:00:00,102,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-03-20T15:00:00,100,1,Firefox,Browsers,0
+2023-03-20T15:00:00,82,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-03-20T15:00:00,73,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-20T15:00:00,12,1,smh.com.au,General News & Opinion,-2
+2023-03-20T15:00:00,8,1,about:newtab,Browsers,0
+2023-03-20T15:00:00,2,1,boards.greenhouse.io,Administration,2
+2023-03-20T15:00:00,1,1,drive.google.com,General Business,2
+2023-03-20T16:00:00,406,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-20T16:00:00,392,1,Google Documents,Writing,2
+2023-03-20T16:00:00,276,1,web.archive.org,Search,1
+2023-03-20T16:00:00,96,1,qbreader.org,General Reference & Learning,2
+2023-03-20T16:00:00,43,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-03-20T16:00:00,32,1,Blank Web Browser,Browsers,0
+2023-03-20T16:00:00,27,1,discord,General Entertainment,-2
+2023-03-20T16:00:00,16,1,about:newtab,Browsers,0
+2023-03-20T16:00:00,3,1,login.libproxy.berkeley.edu,Uncategorized,0
+2023-03-20T16:00:00,2,1,auth.berkeley.edu,General Reference & Learning,2
+2023-03-20T16:00:00,1,1,boards.greenhouse.io,Administration,2
+2023-03-20T16:00:00,1,1,drive.google.com,General Business,2
+2023-03-20T21:00:00,1760,1,Lightroom Classic,General Design & Composition,2
+2023-03-20T21:00:00,437,1,Finder,Computer,1
+2023-03-20T21:00:00,242,1,adobe photoshop 2023,Graphic Design,2
+2023-03-20T21:00:00,132,1,Activity Monitor,General Utilities,1
+2023-03-20T21:00:00,131,1,Google Documents,Writing,2
+2023-03-20T21:00:00,74,1,discord,General Entertainment,-2
+2023-03-20T21:00:00,33,1,coreservicesuiagent,General Utilities,1
+2023-03-20T21:00:00,20,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-20T21:00:00,11,1,system settings,Computer,1
+2023-03-20T21:00:00,5,1,boards.greenhouse.io,Administration,2
+2023-03-20T21:00:00,2,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-03-20T21:00:00,2,1,web.archive.org,Search,1
+2023-03-20T21:00:00,1,1,qbreader.org,General Reference & Learning,2
+2023-03-20T21:00:00,1,1,expressvpn,Internet Utilities,1
+2023-03-20T22:00:00,977,1,adobe photoshop 2023,Graphic Design,2
+2023-03-20T22:00:00,963,1,Finder,Computer,1
+2023-03-20T22:00:00,414,1,Lightroom Classic,General Design & Composition,2
+2023-03-20T22:00:00,122,1,obs studio,Uncategorized,0
+2023-03-20T22:00:00,36,1,Firefox,Browsers,0
+2023-03-20T22:00:00,34,1,helpx.adobe.com,General Software Development,2
+2023-03-20T22:00:00,34,1,universal control,Computer,1
+2023-03-20T23:00:00,185,1,Lightroom Classic,General Design & Composition,2
+2023-03-20T23:00:00,140,1,Finder,Computer,1
+2023-03-20T23:00:00,20,1,about:home,Search,1
+2023-03-20T23:00:00,10,1,RescueTime,Intelligence,2
+2023-03-21T00:00:00,8,1,RescueTime,Intelligence,2
+2023-03-21T11:00:00,3159,1,Distracted (offline),General Business,-2
+2023-03-21T12:00:00,2405,1,Distracted (offline),General Business,-2
+2023-03-21T12:00:00,321,1,Google Documents,Writing,2
+2023-03-21T12:00:00,198,1,Microsoft OneDrive,General Utilities,1
+2023-03-21T12:00:00,180,1,Github,General Software Development,2
+2023-03-21T12:00:00,131,1,RescueTime,Intelligence,2
+2023-03-21T12:00:00,94,1,microsoft word,Writing,2
+2023-03-21T12:00:00,76,1,office.com,General Business,2
+2023-03-21T12:00:00,42,1,Firefox,Browsers,0
+2023-03-21T12:00:00,42,1,Finder,Computer,1
+2023-03-21T12:00:00,31,1,drive.google.com,General Business,2
+2023-03-21T12:00:00,27,1,login.microsoftonline.com,Email,1
+2023-03-21T12:00:00,14,1,coreservicesuiagent,General Utilities,1
+2023-03-21T12:00:00,11,1,login.live.com,Email,1
+2023-03-21T12:00:00,9,1,about:newtab,Browsers,0
+2023-03-21T12:00:00,5,1,Blank Web Browser,Browsers,0
+2023-03-21T12:00:00,5,1,google.com,Search,1
+2023-03-21T12:00:00,5,1,Mail,Email,1
+2023-03-21T13:00:00,638,1,Google Documents,Writing,2
+2023-03-21T13:00:00,388,1,discord,General Entertainment,-2
+2023-03-21T13:00:00,270,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-21T13:00:00,265,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-03-21T13:00:00,145,1,qbreader.org,General Reference & Learning,2
+2023-03-21T13:00:00,95,1,New York Times,General News & Opinion,-2
+2023-03-21T13:00:00,87,1,moma.org,General Entertainment,-2
+2023-03-21T13:00:00,66,1,tumblr.com,General News & Opinion,-2
+2023-03-21T13:00:00,63,1,jstor.org,Engineering & Technology,2
+2023-03-21T13:00:00,61,1,drive.google.com,General Business,2
+2023-03-21T13:00:00,48,1,about:newtab,Browsers,0
+2023-03-21T13:00:00,45,1,Mail,Email,1
+2023-03-21T13:00:00,35,1,google.com,Search,1
+2023-03-21T13:00:00,28,1,wikiart.org,General Reference & Learning,2
+2023-03-21T13:00:00,25,1,about.jstor.org,General Reference & Learning,2
+2023-03-21T13:00:00,9,1,coachwooden.com,General Reference & Learning,2
+2023-03-21T13:00:00,9,1,youtube.com,Video,-2
+2023-03-21T13:00:00,6,1,messages,Instant Message,-1
+2023-03-21T13:00:00,6,1,artstor.org,Search,1
+2023-03-21T13:00:00,3,1,arthive.com,Uncategorized,0
+2023-03-21T13:00:00,1,1,microsoft word,Writing,2
+2023-03-21T13:00:00,1,1,Github,General Software Development,2
+2023-03-21T13:00:00,1,1,Microsoft OneDrive,General Utilities,1
+2023-03-21T16:00:00,453,1,Firefox,Browsers,0
+2023-03-21T16:00:00,296,1,qbreader.org,General Reference & Learning,2
+2023-03-21T16:00:00,258,1,2022nasat.streamlit.app,General Entertainment,-2
+2023-03-21T16:00:00,208,1,discord,General Entertainment,-2
+2023-03-21T16:00:00,178,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-21T16:00:00,170,1,hsquizbowl.org,General Social Networking,-2
+2023-03-21T16:00:00,138,1,Google Documents,Writing,2
+2023-03-21T16:00:00,101,1,amaliamesabains.com,Uncategorized,0
+2023-03-21T16:00:00,88,1,New York Times,General News & Opinion,-2
+2023-03-21T16:00:00,74,1,moma.org,General Entertainment,-2
+2023-03-21T16:00:00,25,1,wikiart.org,General Reference & Learning,2
+2023-03-21T16:00:00,12,1,youtube.com,Video,-2
+2023-03-21T16:00:00,9,1,arthive.com,Uncategorized,0
+2023-03-21T16:00:00,4,1,tumblr.com,General News & Opinion,-2
+2023-03-21T16:00:00,4,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-03-21T16:00:00,3,1,about:newtab,Browsers,0
+2023-03-21T16:00:00,2,1,drive.google.com,General Business,2
+2023-03-21T16:00:00,1,1,Blank Web Browser,Browsers,0
+2023-03-21T17:00:00,262,1,qbreader.org,General Reference & Learning,2
+2023-03-21T17:00:00,214,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-21T17:00:00,29,1,Google Documents,Writing,2
+2023-03-21T17:00:00,9,1,discord,General Entertainment,-2
+2023-03-21T18:00:00,471,1,Google Documents,Writing,2
+2023-03-21T18:00:00,212,1,qbreader.org,General Reference & Learning,2
+2023-03-21T18:00:00,159,1,New York Times,General News & Opinion,-2
+2023-03-21T18:00:00,61,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-21T18:00:00,60,1,wikiart.org,General Reference & Learning,2
+2023-03-21T18:00:00,47,1,moma.org,General Entertainment,-2
+2023-03-21T18:00:00,8,1,tumblr.com,General News & Opinion,-2
+2023-03-21T18:00:00,8,1,qems2.grapesmoker.net,General Reference & Learning,2
+2023-03-21T18:00:00,5,1,amaliamesabains.com,Uncategorized,0
+2023-03-21T18:00:00,4,1,Blank Web Browser,Browsers,0
+2023-03-21T18:00:00,1,1,artcyclopedia.com,Administration,2
+2023-03-21T18:00:00,1,1,arthive.com,Uncategorized,0
+2023-03-21T19:00:00,501,1,Google Documents,Writing,2
+2023-03-21T19:00:00,358,1,qbreader.org,General Reference & Learning,2
+2023-03-21T19:00:00,241,1,moma.org,General Entertainment,-2
+2023-03-21T19:00:00,127,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-21T19:00:00,67,1,New York Times,General News & Opinion,-2
+2023-03-21T19:00:00,23,1,Firefox,Browsers,0
+2023-03-21T19:00:00,20,1,google.com,Search,1
+2023-03-21T19:00:00,10,1,frenchsculpture.org,Uncategorized,0
+2023-03-21T19:00:00,10,1,about:newtab,Browsers,0
+2023-03-21T19:00:00,1,1,amaliamesabains.com,Uncategorized,0
+2023-03-21T20:00:00,2302,1,Google Documents,Writing,2
+2023-03-21T20:00:00,325,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-21T20:00:00,252,1,qbreader.org,General Reference & Learning,2
+2023-03-21T20:00:00,104,1,wikiart.org,General Reference & Learning,2
+2023-03-21T20:00:00,53,1,New York Times,General News & Opinion,-2
+2023-03-21T20:00:00,47,1,smarthistory.org,General Reference & Learning,2
+2023-03-21T20:00:00,42,1,web.archive.org,Search,1
+2023-03-21T20:00:00,24,1,moma.org,General Entertainment,-2
+2023-03-21T20:00:00,14,1,archive.ph,Uncategorized,0
+2023-03-21T20:00:00,6,1,discord,General Entertainment,-2
+2023-03-21T20:00:00,6,1,amaliamesabains.com,Uncategorized,0
+2023-03-21T20:00:00,5,1,google.com,Search,1
+2023-03-21T20:00:00,4,1,about:newtab,Browsers,0
+2023-03-21T20:00:00,3,1,the-tls.co.uk,Uncategorized,0
+2023-03-21T20:00:00,2,1,arthive.com,Uncategorized,0
+2023-03-21T20:00:00,2,1,drive.google.com,General Business,2
+2023-03-21T20:00:00,2,1,tumblr.com,General News & Opinion,-2
+2023-03-21T23:00:00,823,1,discord,General Entertainment,-2
+2023-03-21T23:00:00,643,1,Google Documents,Writing,2
+2023-03-21T23:00:00,424,1,qbreader.org,General Reference & Learning,2
+2023-03-21T23:00:00,287,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-21T23:00:00,270,1,2022nasat.streamlit.app,General Entertainment,-2
+2023-03-21T23:00:00,125,1,web.archive.org,Search,1
+2023-03-21T23:00:00,73,1,Firefox,Browsers,0
+2023-03-21T23:00:00,64,1,smarthistory.org,General Reference & Learning,2
+2023-03-21T23:00:00,57,1,Mail,Email,1
+2023-03-21T23:00:00,52,1,bristolpost.co.uk,General News & Opinion,-2
+2023-03-21T23:00:00,34,1,poets.org,Writing,2
+2023-03-21T23:00:00,32,1,poetryfoundation.org,Society,1
+2023-03-21T23:00:00,14,1,google.com,Search,1
+2023-03-21T23:00:00,13,1,New York Times,General News & Opinion,-2
+2023-03-21T23:00:00,12,1,RescueTime,Intelligence,2
+2023-03-21T23:00:00,11,1,moma.org,General Entertainment,-2
+2023-03-21T23:00:00,11,1,tumblr.com,General News & Opinion,-2
+2023-03-21T23:00:00,8,1,wikiart.org,General Reference & Learning,2
+2023-03-21T23:00:00,4,1,arthive.com,Uncategorized,0
+2023-03-21T23:00:00,4,1,about:newtab,Browsers,0
+2023-03-21T23:00:00,3,1,hsquizbowl.org,General Social Networking,-2
+2023-03-21T23:00:00,3,1,amaliamesabains.com,Uncategorized,0
+2023-03-21T23:00:00,2,1,dayout.co.nz,Uncategorized,0
+2023-03-22T00:00:00,950,1,Google Spreadsheets,General Business,2
+2023-03-22T00:00:00,525,1,adobe photoshop 2023,Graphic Design,2
+2023-03-22T00:00:00,415,1,Finder,Computer,1
+2023-03-22T00:00:00,293,1,drive.google.com,General Business,2
+2023-03-22T00:00:00,222,1,Google Documents,Writing,2
+2023-03-22T00:00:00,12,1,discord,General Entertainment,-2
+2023-03-22T00:00:00,10,1,qbreader.org,General Reference & Learning,2
+2023-03-22T00:00:00,8,1,Firefox,Browsers,0
+2023-03-22T00:00:00,6,1,Blank Web Browser,Browsers,0
+2023-03-22T00:00:00,4,1,poets.org,Writing,2
+2023-03-22T00:00:00,3,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-22T11:00:00,209,1,ds100.org,Science & Math,2
+2023-03-22T11:00:00,36,1,freedom.to,Internet Utilities,1
+2023-03-22T11:00:00,32,1,Finder,Computer,1
+2023-03-22T11:00:00,20,1,about:home,Search,1
+2023-03-22T11:00:00,11,1,Firefox,Browsers,0
+2023-03-22T11:00:00,4,1,rescuetime.com,Computer,1
+2023-03-22T11:00:00,3,1,RescueTime,Intelligence,2
+2023-03-22T11:00:00,1,1,Blank Web Browser,Browsers,0
+2023-03-22T21:00:00,426,1,Finder,Computer,1
+2023-03-22T21:00:00,116,1,users,General Software Development,2
+2023-03-22T21:00:00,109,1,Firefox,Browsers,0
+2023-03-22T21:00:00,92,1,darkreader.org,Uncategorized,0
+2023-03-22T21:00:00,92,1,rescuetime.com,Computer,1
+2023-03-22T21:00:00,49,1,data102.org,Science & Math,2
+2023-03-22T21:00:00,41,1,google.com,Search,1
+2023-03-22T21:00:00,27,1,Adobe Acrobat,General Reference & Learning,2
+2023-03-22T21:00:00,21,1,freedom.to,Internet Utilities,1
+2023-03-22T21:00:00,6,1,RescueTime,Intelligence,2
+2023-03-22T21:00:00,5,1,about:newtab,Browsers,0
+2023-03-22T21:00:00,4,1,Blank Web Browser,Browsers,0
+2023-03-22T21:00:00,2,1,ds100.org,Science & Math,2
+2023-03-22T21:00:00,1,1,about:home,Search,1
+2023-03-22T22:00:00,567,1,system settings,Computer,1
+2023-03-22T22:00:00,227,1,Finder,Computer,1
+2023-03-22T22:00:00,10,1,adobe photoshop 2023,Graphic Design,2
+2023-03-23T12:00:00,160,1,docs.python.org,General Software Development,2
+2023-03-23T12:00:00,132,1,python.org,General Software Development,2
+2023-03-23T12:00:00,97,1,Firefox,Browsers,0
+2023-03-23T12:00:00,29,1,data102.org,Science & Math,2
+2023-03-23T12:00:00,22,1,google.com,Search,1
+2023-03-23T12:00:00,18,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-23T12:00:00,15,1,pycharm,Editing & IDEs,2
+2023-03-23T12:00:00,10,1,RescueTime,Intelligence,2
+2023-03-23T12:00:00,6,1,about:newtab,Browsers,0
+2023-03-23T12:00:00,6,1,about:home,Search,1
+2023-03-23T12:00:00,2,1,Google Presentations,Presentation,2
+2023-03-23T12:00:00,1,1,Finder,Computer,1
+2023-03-23T13:00:00,91,1,peps.python.org,General Software Development,2
+2023-03-23T13:00:00,78,1,Finder,Computer,1
+2023-03-23T13:00:00,57,1,docs.python.org,General Software Development,2
+2023-03-23T13:00:00,51,1,pycharm,Editing & IDEs,2
+2023-03-23T13:00:00,49,1,python.org,General Software Development,2
+2023-03-23T13:00:00,4,1,Google Presentations,Presentation,2
+2023-03-23T13:00:00,2,1,Firefox,Browsers,0
+2023-03-23T13:00:00,1,1,google.com,Search,1
+2023-03-23T15:00:00,1061,1,users,General Software Development,2
+2023-03-23T15:00:00,314,1,Finder,Computer,1
+2023-03-23T15:00:00,249,1,learningds.org,Uncategorized,0
+2023-03-23T15:00:00,228,1,data102.datahub.berkeley.edu,Science & Math,2
+2023-03-23T15:00:00,222,1,Firefox,Browsers,0
+2023-03-23T15:00:00,215,1,Google Presentations,Presentation,2
+2023-03-23T15:00:00,206,1,data102.org,Science & Math,2
+2023-03-23T15:00:00,149,1,Terminal,Systems Operations,2
+2023-03-23T15:00:00,102,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-23T15:00:00,75,1,installer,General Utilities,1
+2023-03-23T15:00:00,37,1,pandas.pydata.org,Engineering & Technology,2
+2023-03-23T15:00:00,22,1,pycharm,Editing & IDEs,2
+2023-03-23T15:00:00,16,1,python.org,General Software Development,2
+2023-03-23T15:00:00,14,1,Blank Web Browser,Browsers,0
+2023-03-23T15:00:00,6,1,google.com,Search,1
+2023-03-23T15:00:00,4,1,docs.python.org,General Software Development,2
+2023-03-23T15:00:00,3,1,about:newtab,Browsers,0
+2023-03-23T15:00:00,3,1,runner,Games,-2
+2023-03-23T15:00:00,3,1,auth.berkeley.edu,General Reference & Learning,2
+2023-03-23T15:00:00,3,1,SecurityAgent,Systems Operations,2
+2023-03-23T15:00:00,3,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-03-23T15:00:00,3,1,bcourses.berkeley.edu,General Reference & Learning,2
+2023-03-23T16:00:00,544,1,data102.datahub.berkeley.edu,Science & Math,2
+2023-03-23T16:00:00,521,1,Firefox,Browsers,0
+2023-03-23T16:00:00,402,1,qbreader.org,General Reference & Learning,2
+2023-03-23T16:00:00,80,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-23T16:00:00,72,1,seaborn.pydata.org,General Software Development,2
+2023-03-23T16:00:00,14,1,about:newtab,Browsers,0
+2023-03-23T16:00:00,12,1,learningds.org,Uncategorized,0
+2023-03-23T16:00:00,12,1,Blank Web Browser,Browsers,0
+2023-03-23T20:00:00,209,1,qbreader.org,General Reference & Learning,2
+2023-03-23T20:00:00,184,1,data102.org,Science & Math,2
+2023-03-23T20:00:00,109,1,Firefox,Browsers,0
+2023-03-23T20:00:00,7,1,data102.datahub.berkeley.edu,Science & Math,2
+2023-03-23T20:00:00,2,1,users,General Software Development,2
+2023-03-23T20:00:00,1,1,RescueTime,Intelligence,2
+2023-03-23T20:00:00,1,1,seaborn.pydata.org,General Software Development,2
+2023-03-23T21:00:00,10,1,RescueTime,Intelligence,2
+2023-03-23T21:00:00,8,1,users,General Software Development,2
+2023-03-23T21:00:00,1,1,data102.org,Science & Math,2
+2023-03-23T22:00:00,2,1,RescueTime,Intelligence,2
+2023-03-25T13:00:00,247,1,bookshop.org,Uncategorized,0
+2023-03-25T13:00:00,143,1,qbreader.org,General Reference & Learning,2
+2023-03-25T13:00:00,141,1,Firefox,Browsers,0
+2023-03-25T13:00:00,94,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-25T13:00:00,5,1,Blank Web Browser,Browsers,0
+2023-03-25T13:00:00,4,1,amazon.com,General Shopping,-2
+2023-03-25T13:00:00,3,1,docs.python.org,General Software Development,2
+2023-03-25T13:00:00,3,1,RescueTime,Intelligence,2
+2023-03-25T14:00:00,1943,1,youtube.com,Video,-2
+2023-03-25T14:00:00,469,1,bookshop.org,Uncategorized,0
+2023-03-25T14:00:00,189,1,ccclib.org,General Reference & Learning,2
+2023-03-25T14:00:00,159,1,Google Presentations,Presentation,2
+2023-03-25T14:00:00,154,1,c88c.org,Uncategorized,0
+2023-03-25T14:00:00,147,1,www2.eecs.berkeley.edu,General Reference & Learning,2
+2023-03-25T14:00:00,142,1,data102.org,Science & Math,2
+2023-03-25T14:00:00,96,1,qbreader.org,General Reference & Learning,2
+2023-03-25T14:00:00,58,1,ccclib.bibliocommons.com,General Reference & Learning,2
+2023-03-25T14:00:00,51,1,inst.eecs.berkeley.edu,Administration,2
+2023-03-25T14:00:00,30,1,about:newtab,Browsers,0
+2023-03-25T14:00:00,27,1,google.com,Search,1
+2023-03-25T14:00:00,18,1,auth.berkeley.edu,General Reference & Learning,2
+2023-03-25T14:00:00,15,1,guide.berkeley.edu,General Reference & Learning,2
+2023-03-25T14:00:00,14,1,cs.berkeley.edu,General Reference & Learning,2
+2023-03-25T14:00:00,14,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-25T14:00:00,10,1,lib.berkeley.edu,General Reference & Learning,2
+2023-03-25T14:00:00,8,1,Blank Web Browser,Browsers,0
+2023-03-25T14:00:00,8,1,eecs.berkeley.edu,General Reference & Learning,2
+2023-03-25T14:00:00,7,1,Firefox,Browsers,0
+2023-03-25T14:00:00,6,1,users,General Software Development,2
+2023-03-25T14:00:00,6,1,amazon.com,General Shopping,-2
+2023-03-25T14:00:00,6,1,classes.berkeley.edu,General Reference & Learning,2
+2023-03-25T14:00:00,5,1,search.library.berkeley.edu,Uncategorized,0
+2023-03-25T14:00:00,5,1,cs88.org,Uncategorized,0
+2023-03-25T14:00:00,5,1,pythontutor.com,General Software Development,2
+2023-03-25T14:00:00,2,1,learningds.org,Uncategorized,0
+2023-03-25T14:00:00,2,1,data102.datahub.berkeley.edu,Science & Math,2
+2023-03-25T14:00:00,1,1,docs.python.org,General Software Development,2
+2023-03-25T14:00:00,1,1,seaborn.pydata.org,General Software Development,2
+2023-03-25T15:00:00,2345,1,youtube.com,Video,-2
+2023-03-25T15:00:00,255,1,inst.eecs.berkeley.edu,Administration,2
+2023-03-25T15:00:00,121,1,www2.eecs.berkeley.edu,General Reference & Learning,2
+2023-03-25T15:00:00,56,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-25T15:00:00,48,1,people.eecs.berkeley.edu,General Reference & Learning,2
+2023-03-25T15:00:00,10,1,users,General Software Development,2
+2023-03-25T15:00:00,6,1,google.com,Search,1
+2023-03-25T15:00:00,5,1,about:newtab,Browsers,0
+2023-03-25T15:00:00,5,1,ccclib.org,General Reference & Learning,2
+2023-03-25T15:00:00,3,1,guide.berkeley.edu,General Reference & Learning,2
+2023-03-25T15:00:00,3,1,Blank Web Browser,Browsers,0
+2023-03-26T01:00:00,1255,1,Firefox,Browsers,0
+2023-03-26T01:00:00,699,1,users,General Software Development,2
+2023-03-26T01:00:00,539,1,qbreader.org,General Reference & Learning,2
+2023-03-26T01:00:00,139,1,google.com,Search,1
+2023-03-26T01:00:00,131,1,Finder,Computer,1
+2023-03-26T01:00:00,68,1,data102.org,Science & Math,2
+2023-03-26T01:00:00,20,1,mozilla.org,Internet Utilities,1
+2023-03-26T01:00:00,12,1,about:home,Search,1
+2023-03-26T01:00:00,11,1,Blank Web Browser,Browsers,0
+2023-03-26T01:00:00,8,1,www2.eecs.berkeley.edu,General Reference & Learning,2
+2023-03-26T01:00:00,8,1,about:privatebrowsing,General Reference & Learning,2
+2023-03-26T01:00:00,5,1,upload.wikimedia.org,Search,1
+2023-03-26T01:00:00,4,1,images.google.com,Search,1
+2023-03-26T01:00:00,3,1,thumbs.dreamstime.com,General News & Opinion,-2
+2023-03-26T01:00:00,3,1,docs.python.org,General Software Development,2
+2023-03-26T01:00:00,2,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-26T01:00:00,2,1,ccclib.org,General Reference & Learning,2
+2023-03-26T01:00:00,1,1,seaborn.pydata.org,General Software Development,2
+2023-03-26T01:00:00,1,1,Google Presentations,Presentation,2
+2023-03-26T01:00:00,1,1,pandas.pydata.org,Engineering & Technology,2
+2023-03-26T02:00:00,238,1,Finder,Computer,1
+2023-03-26T02:00:00,218,1,google.com,Search,1
+2023-03-26T02:00:00,45,1,upload.wikimedia.org,Search,1
+2023-03-26T02:00:00,4,1,about:home,Search,1
+2023-03-26T02:00:00,3,1,thumbs.dreamstime.com,General News & Opinion,-2
+2023-03-26T02:00:00,2,1,Firefox,Browsers,0
+2023-03-27T22:00:00,477,1,google.com,Search,1
+2023-03-27T22:00:00,235,1,delfinocustoms.com,Uncategorized,0
+2023-03-27T22:00:00,171,1,hshop.erista.me,Uncategorized,0
+2023-03-27T22:00:00,126,1,merki.net,Uncategorized,0
+2023-03-27T22:00:00,85,1,cfwaifu.com,Uncategorized,0
+2023-03-27T22:00:00,63,1,Firefox,Browsers,0
+2023-03-27T22:00:00,22,1,3ds.hacks.guide,Uncategorized,0
+2023-03-27T22:00:00,8,1,about:newtab,Browsers,0
+2023-03-27T22:00:00,7,1,Blank Web Browser,Browsers,0
+2023-03-27T22:00:00,3,1,about:privatebrowsing,General Reference & Learning,2
+2023-03-27T22:00:00,1,1,Finder,Computer,1
+2023-03-28T13:00:00,205,1,Finder,Computer,1
+2023-03-28T13:00:00,121,1,lens.com,General Utilities,1
+2023-03-28T13:00:00,63,1,Firefox,Browsers,0
+2023-03-28T13:00:00,50,1,google.com,Search,1
+2023-03-28T13:00:00,26,1,inst.eecs.berkeley.edu,Administration,2
+2023-03-28T13:00:00,17,1,Blank Web Browser,Browsers,0
+2023-03-28T13:00:00,11,1,pycharm,Editing & IDEs,2
+2023-03-28T13:00:00,4,1,total.myalcon.com,Uncategorized,0
+2023-03-28T13:00:00,3,1,RescueTime,Intelligence,2
+2023-03-28T14:00:00,1222,1,pycharm,Editing & IDEs,2
+2023-03-28T14:00:00,569,1,lens.com,General Utilities,1
+2023-03-28T14:00:00,550,1,inst.eecs.berkeley.edu,Administration,2
+2023-03-28T14:00:00,226,1,contacts.costco.com,General Shopping,-2
+2023-03-28T14:00:00,100,1,google.com,Search,1
+2023-03-28T14:00:00,57,1,Terminal,Systems Operations,2
+2023-03-28T14:00:00,45,1,about:newtab,Browsers,0
+2023-03-28T14:00:00,42,1,Firefox,Browsers,0
+2023-03-28T14:00:00,42,1,Finder,Computer,1
+2023-03-28T14:00:00,36,1,ebvc.com,Uncategorized,0
+2023-03-28T14:00:00,30,1,costco.com,General Shopping,-2
+2023-03-28T14:00:00,30,1,shoppacificpearl.com,Uncategorized,0
+2023-03-28T14:00:00,29,1,docs.python.org,General Software Development,2
+2023-03-28T14:00:00,27,1,total.myalcon.com,Uncategorized,0
+2023-03-28T14:00:00,19,1,w3schools.com,Engineering & Technology,2
+2023-03-28T14:00:00,19,1,geeksforgeeks.org,Operations,2
+2023-03-28T14:00:00,11,1,python.org,General Software Development,2
+2023-03-28T14:00:00,9,1,signin.costco.com,General Shopping,-2
+2023-03-28T14:00:00,6,1,tutorialspoint.com,General Reference & Learning,2
+2023-03-28T14:00:00,5,1,yelp.com,Search,1
+2023-03-28T14:00:00,3,1,Blank Web Browser,Browsers,0
+2023-03-28T14:00:00,3,1,vsp.com,Health & Medicine,2
+2023-03-28T14:00:00,1,1,stackoverflow.com,General Software Development,2
+2023-03-28T15:00:00,567,1,users,General Software Development,2
+2023-03-28T15:00:00,350,1,inst.eecs.berkeley.edu,Administration,2
+2023-03-28T15:00:00,155,1,libgen.rs,Uncategorized,0
+2023-03-28T15:00:00,139,1,pycharm,Editing & IDEs,2
+2023-03-28T15:00:00,110,1,aima.cs.berkeley.edu,General Reference & Learning,2
+2023-03-28T15:00:00,103,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-03-28T15:00:00,57,1,library.lol,Uncategorized,0
+2023-03-28T15:00:00,38,1,Blank Web Browser,Browsers,0
+2023-03-28T15:00:00,20,1,jigsaw.vitalsource.com,General Reference & Learning,2
+2023-03-28T15:00:00,16,1,stackoverflow.com,General Software Development,2
+2023-03-28T15:00:00,13,1,about:newtab,Browsers,0
+2023-03-28T15:00:00,7,1,Adobe Acrobat,General Reference & Learning,2
+2023-03-28T15:00:00,5,1,Finder,Computer,1
+2023-03-28T15:00:00,3,1,tutorialspoint.com,General Reference & Learning,2
+2023-03-28T15:00:00,3,1,docs.python.org,General Software Development,2
+2023-03-28T15:00:00,2,1,geeksforgeeks.org,Operations,2
+2023-03-28T15:00:00,1,1,Firefox,Browsers,0
+2023-03-28T21:00:00,120,1,about:firefoxview,Uncategorized,0
+2023-03-28T21:00:00,32,1,Adobe Acrobat,General Reference & Learning,2
+2023-03-28T21:00:00,32,1,Firefox,Browsers,0
+2023-03-28T21:00:00,14,1,pycharm,Editing & IDEs,2
+2023-03-28T21:00:00,13,1,Blank Web Browser,Browsers,0
+2023-03-28T21:00:00,5,1,Finder,Computer,1
+2023-03-28T22:00:00,1209,1,Firefox,Browsers,0
+2023-03-28T22:00:00,190,1,Blank Web Browser,Browsers,0
+2023-03-28T22:00:00,36,1,users,General Software Development,2
+2023-03-28T22:00:00,4,1,Finder,Computer,1
+2023-03-28T22:00:00,4,1,inst.eecs.berkeley.edu,Administration,2
+2023-03-28T22:00:00,1,1,RescueTime,Intelligence,2
+2023-03-28T22:00:00,1,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-03-28T22:00:00,1,1,aima.cs.berkeley.edu,General Reference & Learning,2
+2023-03-28T23:00:00,527,1,Finder,Computer,1
+2023-03-28T23:00:00,392,1,Firefox,Browsers,0
+2023-03-28T23:00:00,241,1,app store,General Shopping,-2
+2023-03-28T23:00:00,143,1,users,General Software Development,2
+2023-03-28T23:00:00,69,1,cleaner one,Uncategorized,0
+2023-03-28T23:00:00,56,1,inst.eecs.berkeley.edu,Administration,2
+2023-03-28T23:00:00,6,1,Preview,General Reference & Learning,2
+2023-03-28T23:00:00,1,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-03-28T23:00:00,1,1,Adobe Acrobat,General Reference & Learning,2
+2023-03-29T06:00:00,1145,1,Personal (offline),Productive,1
+2023-03-29T07:00:00,3600,1,Personal (offline),Productive,1
+2023-03-29T08:00:00,2458,1,Personal (offline),Productive,1
+2023-03-29T08:00:00,382,1,eyeconic.com,General Shopping,-2
+2023-03-29T08:00:00,162,1,lens.com,General Utilities,1
+2023-03-29T08:00:00,140,1,inst.eecs.berkeley.edu,Administration,2
+2023-03-29T08:00:00,95,1,1800contacts.com,General Utilities,1
+2023-03-29T08:00:00,81,1,Firefox,Browsers,0
+2023-03-29T08:00:00,63,1,vsp.com,Health & Medicine,2
+2023-03-29T08:00:00,44,1,users,General Software Development,2
+2023-03-29T08:00:00,30,1,google.com,Search,1
+2023-03-29T08:00:00,21,1,signin.costco.com,General Shopping,-2
+2023-03-29T08:00:00,12,1,cleaner one,Uncategorized,0
+2023-03-29T08:00:00,12,1,RescueTime,Intelligence,2
+2023-03-29T08:00:00,12,1,Finder,Computer,1
+2023-03-29T08:00:00,9,1,aima.cs.berkeley.edu,General Reference & Learning,2
+2023-03-29T08:00:00,9,1,app store,General Shopping,-2
+2023-03-29T08:00:00,7,1,Activity Monitor,General Utilities,1
+2023-03-29T08:00:00,5,1,system settings,Computer,1
+2023-03-29T08:00:00,3,1,total.myalcon.com,Uncategorized,0
+2023-03-29T08:00:00,2,1,about:newtab,Browsers,0
+2023-03-29T08:00:00,2,1,shoppacificpearl.com,Uncategorized,0
+2023-03-29T08:00:00,2,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-03-29T08:00:00,1,1,ebvc.com,Uncategorized,0
+2023-03-29T08:00:00,1,1,Blank Web Browser,Browsers,0
+2023-03-29T09:00:00,120,1,hshop.erista.me,Uncategorized,0
+2023-03-29T09:00:00,37,1,Activity Monitor,General Utilities,1
+2023-03-29T09:00:00,25,1,system settings,Computer,1
+2023-03-29T09:00:00,16,1,inst.eecs.berkeley.edu,Administration,2
+2023-03-29T09:00:00,2,1,1800contacts.com,General Utilities,1
+2023-03-29T09:00:00,1,1,delfinocustoms.com,Uncategorized,0
+2023-03-29T09:00:00,1,1,aima.cs.berkeley.edu,General Reference & Learning,2
+2023-03-29T09:00:00,1,1,Firefox,Browsers,0
+2023-03-29T21:00:00,961,1,Finder,Computer,1
+2023-03-29T21:00:00,767,1,3ds.hacks.guide,Uncategorized,0
+2023-03-29T21:00:00,154,1,seedminer.hacks.guide,Uncategorized,0
+2023-03-29T21:00:00,77,1,Firefox,Browsers,0
+2023-03-29T21:00:00,42,1,TextEdit,Writing,2
+2023-03-29T21:00:00,25,1,cfwaifu.com,Uncategorized,0
+2023-03-29T21:00:00,14,1,Github,General Software Development,2
+2023-03-29T21:00:00,11,1,3dstools.nhnarwhal.com,Uncategorized,0
+2023-03-29T21:00:00,6,1,about:newtab,Browsers,0
+2023-03-29T21:00:00,6,1,google.com,Search,1
+2023-03-29T21:00:00,5,1,archive utility,General Utilities,1
+2023-03-29T21:00:00,4,1,RescueTime,Intelligence,2
+2023-03-29T21:00:00,1,1,hshop.erista.me,Uncategorized,0
+2023-03-29T21:00:00,1,1,inst.eecs.berkeley.edu,Administration,2
+2023-03-29T22:00:00,183,1,cfwaifu.com,Uncategorized,0
+2023-03-29T22:00:00,155,1,RescueTime,Intelligence,2
+2023-03-29T22:00:00,141,1,Finder,Computer,1
+2023-03-29T22:00:00,86,1,gist.github.com,General Software Development,2
+2023-03-29T22:00:00,46,1,Activity Monitor,General Utilities,1
+2023-03-29T22:00:00,41,1,3ds.hacks.guide,Uncategorized,0
+2023-03-29T22:00:00,39,1,Blank Web Browser,Browsers,0
+2023-03-29T22:00:00,24,1,TextEdit,Writing,2
+2023-03-29T22:00:00,7,1,about:newtab,Browsers,0
+2023-03-29T22:00:00,7,1,google.com,Search,1
+2023-03-29T22:00:00,4,1,Github,General Software Development,2
+2023-03-29T22:00:00,3,1,3ds.eiphax.tech,Uncategorized,0
+2023-03-29T22:00:00,1,1,Firefox,Browsers,0
+2023-03-29T22:00:00,1,1,3dstools.nhnarwhal.com,Uncategorized,0
+2023-03-29T23:00:00,2618,1,Personal (offline),Productive,1
+2023-03-29T23:00:00,352,1,google.com,Search,1
+2023-03-29T23:00:00,226,1,Finder,Computer,1
+2023-03-29T23:00:00,99,1,gbatemp.net,Entertainment,-2
+2023-03-29T23:00:00,78,1,Terminal,Systems Operations,2
+2023-03-29T23:00:00,54,1,RescueTime,Intelligence,2
+2023-03-29T23:00:00,51,1,cfwaifu.com,Uncategorized,0
+2023-03-29T23:00:00,38,1,recoverit.wondershare.com,General Business,2
+2023-03-29T23:00:00,14,1,support.apple.com,Search,1
+2023-03-29T23:00:00,13,1,easeus.com,General Utilities,1
+2023-03-29T23:00:00,12,1,disk utility,General Utilities,1
+2023-03-29T23:00:00,8,1,about:newtab,Browsers,0
+2023-03-29T23:00:00,8,1,gist.github.com,General Software Development,2
+2023-03-29T23:00:00,2,1,usernotificationcenter,General Utilities,1
+2023-03-29T23:00:00,1,1,Firefox,Browsers,0
+2023-03-30T00:00:00,978,1,Finder,Computer,1
+2023-03-30T00:00:00,796,1,Personal (offline),Productive,1
+2023-03-30T00:00:00,19,1,support.apple.com,Search,1
+2023-03-30T00:00:00,7,1,Terminal,Systems Operations,2
+2023-03-30T00:00:00,6,1,RescueTime,Intelligence,2
+2023-03-30T01:00:00,674,1,Finder,Computer,1
+2023-03-30T01:00:00,66,1,RescueTime,Intelligence,2
+2023-03-30T02:00:00,1539,1,Finder,Computer,1
+2023-03-30T02:00:00,66,1,3ds.hacks.guide,Uncategorized,0
+2023-03-30T02:00:00,38,1,RescueTime,Intelligence,2
+2023-03-30T02:00:00,1,1,support.apple.com,Search,1
+2023-03-30T12:00:00,1509,1,Finder,Computer,1
+2023-03-30T12:00:00,171,1,Firefox,Browsers,0
+2023-03-30T12:00:00,165,1,about:newtab,Browsers,0
+2023-03-30T12:00:00,96,1,en-americas-support.nintendo.com,Games,-2
+2023-03-30T12:00:00,87,1,google.com,Search,1
+2023-03-30T12:00:00,74,1,RescueTime,Intelligence,2
+2023-03-30T12:00:00,59,1,reddit.com,General News & Opinion,-2
+2023-03-30T12:00:00,45,1,gbatemp.net,Entertainment,-2
+2023-03-30T12:00:00,27,1,Activity Monitor,General Utilities,1
+2023-03-30T12:00:00,26,1,3ds.hacks.guide,Uncategorized,0
+2023-03-30T12:00:00,6,1,gamefaqs.gamespot.com,General Entertainment,-2
+2023-03-30T12:00:00,3,1,3ds.eiphax.tech,Uncategorized,0
+2023-03-30T12:00:00,2,1,recoverit.wondershare.com,General Business,2
+2023-03-30T12:00:00,1,1,Github,General Software Development,2
+2023-03-30T12:00:00,1,1,Blank Web Browser,Browsers,0
+2023-03-30T12:00:00,1,1,support.apple.com,Search,1
+2023-03-30T13:00:00,478,1,Finder,Computer,1
+2023-03-30T13:00:00,217,1,3ds.hacks.guide,Uncategorized,0
+2023-03-30T13:00:00,107,1,hshop.erista.me,Uncategorized,0
+2023-03-30T13:00:00,94,1,gist.github.com,General Software Development,2
+2023-03-30T13:00:00,83,1,en-americas-support.nintendo.com,Games,-2
+2023-03-30T13:00:00,51,1,google.com,Search,1
+2023-03-30T13:00:00,22,1,about:newtab,Browsers,0
+2023-03-30T13:00:00,19,1,gamefaqs.gamespot.com,General Entertainment,-2
+2023-03-30T13:00:00,14,1,Github,General Software Development,2
+2023-03-30T13:00:00,11,1,netauthagent,Accounting,2
+2023-03-30T13:00:00,9,1,auth.berkeley.edu,General Reference & Learning,2
+2023-03-30T13:00:00,5,1,Firefox,Browsers,0
+2023-03-30T13:00:00,2,1,Blank Web Browser,Browsers,0
+2023-03-30T13:00:00,1,1,calcentral.berkeley.edu,General Reference & Learning,2
+2023-03-30T14:00:00,176,1,Finder,Computer,1
+2023-03-30T14:00:00,73,1,RescueTime,Intelligence,2
+2023-03-30T14:00:00,35,1,gist.github.com,General Software Development,2
+2023-03-30T14:00:00,5,1,netauthagent,Accounting,2
+2023-03-30T14:00:00,3,1,Firefox,Browsers,0
+2023-03-30T17:00:00,999,1,Finder,Computer,1
+2023-03-30T17:00:00,423,1,Github,General Software Development,2
+2023-03-30T17:00:00,268,1,stackoverflow.com,General Software Development,2
+2023-03-30T17:00:00,235,1,gist.github.com,General Software Development,2
+2023-03-30T17:00:00,146,1,about:newtab,Browsers,0
+2023-03-30T17:00:00,144,1,cutentr,Uncategorized,0
+2023-03-30T17:00:00,125,1,obs studio,Uncategorized,0
+2023-03-30T17:00:00,105,1,gitlab.com,General Software Development,2
+2023-03-30T17:00:00,103,1,nitromac,Games,-2
+2023-03-30T17:00:00,92,1,google.com,Search,1
+2023-03-30T17:00:00,86,1,Firefox,Browsers,0
+2023-03-30T17:00:00,64,1,Terminal,Systems Operations,2
+2023-03-30T17:00:00,62,1,Activity Monitor,General Utilities,1
+2023-03-30T17:00:00,62,1,netauthagent,Accounting,2
+2023-03-30T17:00:00,51,1,en-americas-support.nintendo.com,Games,-2
+2023-03-30T17:00:00,39,1,app store,General Shopping,-2
+2023-03-30T17:00:00,28,1,Preview,General Reference & Learning,2
+2023-03-30T17:00:00,21,1,gbatemp.net,Entertainment,-2
+2023-03-30T17:00:00,15,1,folder actions setup,General Utilities,1
+2023-03-30T17:00:00,8,1,aur.archlinux.org,Systems Operations,2
+2023-03-30T17:00:00,5,1,RescueTime,Intelligence,2
+2023-03-30T17:00:00,2,1,usernotificationcenter,General Utilities,1
+2023-03-30T17:00:00,2,1,Blank Web Browser,Browsers,0
+2023-03-30T18:00:00,448,1,obs studio,Uncategorized,0
+2023-03-30T18:00:00,23,1,cutentr,Uncategorized,0
+2023-03-30T18:00:00,6,1,RescueTime,Intelligence,2
+2023-03-30T18:00:00,2,1,Preview,General Reference & Learning,2
+2023-03-30T21:00:00,483,1,Finder,Computer,1
+2023-03-30T21:00:00,23,1,obs studio,Uncategorized,0
+2023-03-30T21:00:00,5,1,Preview,General Reference & Learning,2
+2023-03-30T21:00:00,1,1,cutentr,Uncategorized,0
+2023-03-31T11:00:00,2734,1,Distracted (offline),General Business,-2
+2023-03-31T12:00:00,2323,1,Distracted (offline),General Business,-2
+2023-03-31T12:00:00,315,1,3ds.eiphax.tech,Uncategorized,0
+2023-03-31T12:00:00,260,1,Firefox,Browsers,0
+2023-03-31T12:00:00,87,1,linkedin.com,Professional Networking,2
+2023-03-31T12:00:00,77,1,axities.github.io,General Software Development,2
+2023-03-31T12:00:00,44,1,delfinocustoms.com,Uncategorized,0
+2023-03-31T12:00:00,25,1,gbatemp.net,Entertainment,-2
+2023-03-31T12:00:00,24,1,Github,General Software Development,2
+2023-03-31T12:00:00,19,1,merki.net,Uncategorized,0
+2023-03-31T12:00:00,12,1,Google Documents,Writing,2
+2023-03-31T12:00:00,7,1,about:newtab,Browsers,0
+2023-03-31T12:00:00,6,1,cfwaifu.com,Uncategorized,0
+2023-03-31T12:00:00,5,1,3ds.hacks.guide,Uncategorized,0
+2023-03-31T12:00:00,4,1,google.com,Search,1
+2023-03-31T12:00:00,4,1,Finder,Computer,1
+2023-03-31T12:00:00,3,1,RescueTime,Intelligence,2
+2023-03-31T12:00:00,2,1,recoverit.wondershare.com,General Business,2
+2023-03-31T12:00:00,2,1,en-americas-support.nintendo.com,Games,-2
+2023-03-31T12:00:00,1,1,support.apple.com,Search,1
+2023-03-31T12:00:00,1,1,hshop.erista.me,Uncategorized,0
+2023-03-31T12:00:00,1,1,obs studio,Uncategorized,0
+2023-03-31T13:00:00,901,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-03-31T13:00:00,140,1,merki.net,Uncategorized,0
+2023-03-31T13:00:00,49,1,careers.cognizant.com,Design & Planning,2
+2023-03-31T13:00:00,18,1,Blank Web Browser,Browsers,0
+2023-03-31T13:00:00,17,1,Finder,Computer,1
+2023-03-31T13:00:00,6,1,about:newtab,Browsers,0
+2023-03-31T13:00:00,5,1,google.com,Search,1
+2023-03-31T13:00:00,3,1,careers.hpe.com,Uncategorized,0
+2023-03-31T15:00:00,749,1,berkeley.joinhandshake.com,Professional Networking,2
+2023-03-31T15:00:00,585,1,youtube.com,Video,-2
+2023-03-31T15:00:00,231,1,about:newtab,Browsers,0
+2023-03-31T15:00:00,198,1,Firefox,Browsers,0
+2023-03-31T15:00:00,6,1,careers.cognizant.com,Design & Planning,2
+2023-03-31T15:00:00,6,1,inst.eecs.berkeley.edu,Administration,2
+2023-03-31T15:00:00,5,1,Blank Web Browser,Browsers,0
+2023-03-31T16:00:00,3194,1,youtube.com,Video,-2
+2023-03-31T16:00:00,144,1,people.eecs.berkeley.edu,General Reference & Learning,2
+2023-03-31T16:00:00,103,1,users,General Software Development,2
+2023-03-31T16:00:00,49,1,Blank Web Browser,Browsers,0
+2023-03-31T16:00:00,30,1,inst.eecs.berkeley.edu,Administration,2
+2023-03-31T16:00:00,16,1,guide.berkeley.edu,General Reference & Learning,2
+2023-03-31T16:00:00,14,1,api-6b447a0c.duosecurity.com,Uncategorized,0
+2023-03-31T16:00:00,10,1,about:newtab,Browsers,0
+2023-03-31T16:00:00,3,1,aima.cs.berkeley.edu,General Reference & Learning,2
+2023-03-31T16:00:00,3,1,google.com,Search,1
+2023-03-31T16:00:00,3,1,qbreader.org,General Reference & Learning,2
+2023-03-31T16:00:00,3,1,bcourses.berkeley.edu,General Reference & Learning,2
+2023-03-31T16:00:00,3,1,auth.berkeley.edu,General Reference & Learning,2
+2023-03-31T17:00:00,531,1,youtube.com,Video,-2
+2023-03-31T17:00:00,357,1,Firefox,Browsers,0
+2023-03-31T17:00:00,290,1,en.wikipedia.org,General Reference & Learning,2
+2023-03-31T17:00:00,88,1,qbreader.org,General Reference & Learning,2
+2023-03-31T17:00:00,16,1,google.com,Search,1
+2023-03-31T17:00:00,12,1,javatpoint.com,Engineering & Technology,2
+2023-03-31T17:00:00,11,1,geeksforgeeks.org,Operations,2
+2023-03-31T17:00:00,10,1,people.eecs.berkeley.edu,General Reference & Learning,2
+2023-03-31T17:00:00,8,1,about:newtab,Browsers,0
